@@ -64,6 +64,7 @@ def fetch_shopify_products(store_url: str) -> list:
 
 
 if __name__ == "__main__":
+    import os
     import sys
     with open("config.json") as f:
         config = json.load(f)
@@ -74,6 +75,7 @@ if __name__ == "__main__":
         sys.exit(1)
 
     result = fetch_shopify_products(store_url)
+    os.makedirs("data", exist_ok=True)
     with open("data/my_products.json", "w", encoding="utf-8") as f:
         json.dump(result, f, ensure_ascii=False, indent=2)
 

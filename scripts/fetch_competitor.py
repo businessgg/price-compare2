@@ -1,12 +1,12 @@
 """
-Competitor website se products aur prices nikalta hai.
+Competitor website (Japan Electronics) se products aur prices nikalta hai.
 
-Ye script 2 tareeqon se try karta hai:
-1. JSON-LD structured data (bohat sari ecommerce sites SEO ke liye ye data
-   apne HTML mein chupa ke rakhti hain — is se sabse reliable data milta hai)
-2. Agar JSON-LD na mile, to config.json mein diye gaye CSS selectors use karta hai
-   (ye competitor site dekh kar set karne parte hain, kyunke har website ka
-   HTML structure alag hota hai)
+Chunke competitor bhi Shopify par hai, hum wahi reliable /products.json
+endpoint use karte hain jo fetch_shopify.py mein use hota hai — isse
+data bohat accurate milta hai (koi guesswork wale CSS selectors nahi chahiye).
+
+Agar kabhi competitor Shopify se hat jaye, to ye script neeche diye gaye
+fallback (JSON-LD ya CSS selectors) par khud switch ho jayega.
 """
 import json
 import re
@@ -19,6 +19,51 @@ def clean_url(url: str) -> str:
     if not url.startswith("http"):
         url = "https://" + url
     return url.rstrip("/")
+
+
+def fetch_shopify_style(store_url: str) -> list:
+    """Shopify ke public /products.json endpoint se products nikalna."""
+    base_url = clean_url(store_url)
+    products = []
+    page = 1
+
+    while True:
+        endpoint = f"{base_url}/products.json?limit=250&page={page}"
+        try:
+            resp = requests.get(endpoint, timeout=15, headers={
+                "User-Agent": "Mozilla/5.0 (price-compare-bot)"
+            })
+            resp.raise_for_status()
+            data = resp.json()
+        except Exception as e:
+            print(f"Shopify endpoint fail hua ({e}), fallback try karenge.")
+            return []
+
+        page_products = data.get("products", [])
+        if not page_products:
+            break
+
+        for p in page_products:
+            title = p.get("title", "").strip()
+            variants = p.get("variants", [])
+            if not variants:
+                continue
+            price = variants[0].get("price")
+            handle = p.get("handle", "")
+            product_url = f"{base_url}/products/{handle}"
+
+            products.append({
+                "name": title,
+                "price": float(price) if price else None,
+                "url": product_url,
+                "available": any(v.get("available") for v in variants),
+            })
+
+        page += 1
+        if page > 20:
+            break
+
+    return products
 
 
 def extract_price(text: str):
@@ -34,7 +79,7 @@ def extract_price(text: str):
 
 
 def try_jsonld(soup: BeautifulSoup) -> list:
-    """JSON-LD (schema.org Product) data se products nikalne ki koshish."""
+    """Fallback 1: JSON-LD (schema.org Product) data se products nikalna."""
     products = []
     for script in soup.find_all("script", type="application/ld+json"):
         try:
@@ -65,7 +110,7 @@ def try_jsonld(soup: BeautifulSoup) -> list:
 
 
 def try_selectors(soup: BeautifulSoup, config: dict) -> list:
-    """config.json mein diye gaye CSS selectors se products nikalna."""
+    """Fallback 2: config.json ke CSS selectors se products nikalna."""
     products = []
     product_sel = config.get("product_selector")
     name_sel = config.get("name_selector")
@@ -92,8 +137,16 @@ def try_selectors(soup: BeautifulSoup, config: dict) -> list:
 
 
 def fetch_competitor_products(competitor_config: dict) -> list:
-    url = clean_url(competitor_config["url"])
-    resp = requests.get(url, timeout=20, headers={
+    url = competitor_config["url"]
+
+    # Pehle Shopify ka reliable tareeqa try karein
+    products = fetch_shopify_style(url)
+    if products:
+        return products
+
+    # Agar Shopify na ho, HTML fallback try karein
+    clean = clean_url(url)
+    resp = requests.get(clean, timeout=20, headers={
         "User-Agent": "Mozilla/5.0 (price-compare-bot)"
     })
     resp.raise_for_status()

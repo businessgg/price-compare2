@@ -161,6 +161,7 @@ def fetch_competitor_products(competitor_config: dict) -> list:
 
 if __name__ == "__main__":
     import sys
+    import os
     with open("config.json") as f:
         config = json.load(f)
 
@@ -170,6 +171,7 @@ if __name__ == "__main__":
         sys.exit(1)
 
     result = fetch_competitor_products(comp_config)
+    os.makedirs("data", exist_ok=True)
     with open("data/competitor_products.json", "w", encoding="utf-8") as f:
         json.dump(result, f, ensure_ascii=False, indent=2)
 

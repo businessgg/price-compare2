@@ -1,16 +1,13 @@
 {
   "my_store": {
-    "name": "Meri Company",
+    "name": "Bismillah Electronics",
     "platform": "shopify",
-    "url": "PUT_YOUR_SHOPIFY_STORE_URL_HERE"
+    "url": "https://bismillahelectronics.pk"
   },
   "competitor": {
-    "name": "Competitor",
-    "platform": "generic_html",
-    "url": "PUT_COMPETITOR_WEBSITE_URL_HERE",
-    "product_selector": "",
-    "name_selector": "",
-    "price_selector": ""
+    "name": "Japan Electronics",
+    "platform": "shopify",
+    "url": "https://japanelectronics.com.pk"
   },
   "matching": {
     "similarity_threshold": 70

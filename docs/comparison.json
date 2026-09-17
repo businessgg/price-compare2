@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-17T14:05:32.742689+00:00",
+  "last_updated": "2026-09-17T15:05:36.316129+00:00",
   "my_store_name": "Bismillah Electronics",
   "competitor_name": "Japan Electronics",
   "total_my_products": 1253,
@@ -12104,7 +12104,7 @@
     },
     {
       "product_name": "Dawlance Double Washing Machine DW-10600 W FL",
-      "my_price": 43800.0,
+      "my_price": 53700.0,
       "my_available": true,
       "my_url": "https://bismillahelectronics.pk/products/dawlance-double-washing-machine-dw-10600-w-fl",
       "competitor_name": "Dawlance Washing Machine DW-6100 W",
@@ -12113,7 +12113,7 @@
       "competitor_url": "https://japanelectronics.com.pk/products/dawlance-washing-machine-dw-6100-w",
       "match_confidence": 83.5,
       "status": "matched",
-      "price_diff": 17600.0,
+      "price_diff": 27500.0,
       "cheaper": "competitor"
     },
     {

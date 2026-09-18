@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-18T14:04:45.917277+00:00",
+  "last_updated": "2026-09-18T15:04:46.825753+00:00",
   "my_store_name": "Bismillah Electronics",
   "competitor_name": "Japan Electronics",
   "total_my_products": 1253,
@@ -16010,7 +16010,7 @@
     },
     {
       "product_name": "Dawlance Automatic Washing Machine DWT 255ES",
-      "my_price": 55000.0,
+      "my_price": 65700.0,
       "my_available": true,
       "my_url": "https://bismillahelectronics.pk/products/dawlance-dwt255es-top-loading-washing-machine",
       "competitor_name": "Dawlance Automatic Washing Machine DWT 9060 EZ",
@@ -16019,8 +16019,8 @@
       "competitor_url": "https://japanelectronics.com.pk/products/dawlance-automatic-washing-machine-dwt-9060-ez",
       "match_confidence": 86.7,
       "status": "matched",
-      "price_diff": -1000.0,
-      "cheaper": "us"
+      "price_diff": 9700.0,
+      "cheaper": "competitor"
     },
     {
       "product_name": "Haier Double Washing Machine HTW110-186",

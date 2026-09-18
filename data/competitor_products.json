@@ -63,7 +63,7 @@
     "name": "TCL LED 75\" 75A400 PRO (ART TV)",
     "price": 420000.0,
     "url": "https://japanelectronics.com.pk/products/tcl-led-75-75a400-pro-art-tv",
-    "available": true
+    "available": false
   },
   {
     "name": "TCL LED 65\" 65A400 PRO (ART TV)",
@@ -1173,7 +1173,7 @@
     "name": "Dawlance No Frost Ref DMD-7951 (Inverter INOX)",
     "price": 213000.0,
     "url": "https://japanelectronics.com.pk/products/dawlance-no-frost-ref-dmd-7951-inverter-inox",
-    "available": true
+    "available": false
   },
   {
     "name": "Dawlance REF 9178 LF Icemax Mist Green",
@@ -1575,7 +1575,7 @@
     "name": "WAVES D.FREEZER (WINDF-318 INVERTER SERIES)",
     "price": 128600.0,
     "url": "https://japanelectronics.com.pk/products/waves-d-freezer-windf-318-inverter-series",
-    "available": true
+    "available": false
   },
   {
     "name": "WAVES D.FREEZER (WINDF-315 INVERTER SERIES)",
@@ -3009,13 +3009,13 @@
     "name": "Haier Air Fryer (HAF-50DB Digital)",
     "price": 21500.0,
     "url": "https://japanelectronics.com.pk/products/haier-air-fryer-haf-50db-digital",
-    "available": false
+    "available": true
   },
   {
     "name": "Haier Air Fryer (HAF-50MB)",
     "price": 18500.0,
     "url": "https://japanelectronics.com.pk/products/haier-air-fryer-haf-50mb",
-    "available": false
+    "available": true
   },
   {
     "name": "Haier D.Freezer (HDF-345 IG Star Inverter Grey)",
@@ -4119,7 +4119,7 @@
     "name": "TCL LED 75\" 75C6K (Mini Q LED)",
     "price": 392500.0,
     "url": "https://japanelectronics.com.pk/products/tcl-led-75-75c6k-mini-q-led",
-    "available": false
+    "available": true
   },
   {
     "name": "TCL LED 55\" 55C6K (Mini Q LED)",
@@ -5205,7 +5205,7 @@
     "name": "Samsung Refrigerator Side By Side RS70F64 KITAE",
     "price": 565000.0,
     "url": "https://japanelectronics.com.pk/products/samsung-refrigerator-side-by-side-rs70f64-kitae",
-    "available": true
+    "available": false
   },
   {
     "name": "HAIER SBS REF HRF-578TBG (IOT)",
@@ -5283,7 +5283,7 @@
     "name": "Orient Split AC Inverter 1.5 Ton 18X Pro (Ultra Golden)",
     "price": 124900.0,
     "url": "https://japanelectronics.com.pk/products/orient-split-ac-inverter-1-5-ton-18x-pro-ultra-golden",
-    "available": false
+    "available": true
   },
   {
     "name": "ORIENT 1.5 TON AUX INVERTER AC Model FA 18X SNOW WHITE",
@@ -5739,7 +5739,7 @@
     "name": "Dawlance Deep Freezer CF-91997 Signature Inverter in White",
     "price": 99999.0,
     "url": "https://japanelectronics.com.pk/products/dawlance-deep-freezer-cf-91997-signature-inverter-in-white",
-    "available": true
+    "available": false
   },
   {
     "name": "Bosch Automatic Washing Machine WNA244XSGC",
@@ -5769,7 +5769,7 @@
     "name": "Dawlance Refrigerator 9193 LF Avante + Silky Black (GD INV) IOT WIFI",
     "price": 125000.0,
     "url": "https://japanelectronics.com.pk/products/dawlance-refrigerator-9193-lf-avante-silky-black-gd-inv-iot-wifi",
-    "available": false
+    "available": true
   },
   {
     "name": "Kenwood Split Air Conditioner Inverter 1.5 Ton KEC-1853S",
@@ -10069,7 +10069,7 @@
   },
   {
     "name": "Haier Split AC Inverter 1.5 Ton HSU-19HFCM023DC (White)",
-    "price": 126001.0,
+    "price": 126000.0,
     "url": "https://japanelectronics.com.pk/products/haier-split-ac-inverter-1-5-ton-hsu-19hfcm",
     "available": true
   },
@@ -10633,7 +10633,7 @@
   },
   {
     "name": "Dawlance Air Fryer DWAF-6321 L",
-    "price": 22900.0,
+    "price": 21900.0,
     "url": "https://japanelectronics.com.pk/products/dawlance-air-fryer-dwaf-6321-l",
     "available": true
   },
@@ -11931,7 +11931,7 @@
     "name": "Beetro Gas Geyser 55 Gallon (FG-55 9/10 Gauge) Auto Ignition",
     "price": 86700.0,
     "url": "https://japanelectronics.com.pk/products/beetro-gas-geyser-55-gallon-fg-55-9-10-gauge-auto-ignition",
-    "available": true
+    "available": false
   },
   {
     "name": "Beetro Instant Gas Geyser RD-07 (LPG) 7.0 Ltr",
@@ -12225,7 +12225,7 @@
     "name": "ANEX Hot Plate 2062",
     "price": 13800.0,
     "url": "https://japanelectronics.com.pk/products/anex-hot-plate-2062",
-    "available": true
+    "available": false
   },
   {
     "name": "ANEX Hot Plate 2061",
@@ -12307,7 +12307,7 @@
   },
   {
     "name": "Dawlance Dry Iron DWDI-1020 Black",
-    "price": 8500.0,
+    "price": 8000.0,
     "url": "https://japanelectronics.com.pk/products/dawlance-dry-iron-dwdi-1020-black",
     "available": true
   },
@@ -12787,7 +12787,7 @@
   },
   {
     "name": "Dawlance Dry Iron DWDI-1020 White",
-    "price": 8500.0,
+    "price": 8000.0,
     "url": "https://japanelectronics.com.pk/products/dawlance-dry-iron-dwdi-1020-white",
     "available": true
   },
@@ -12831,7 +12831,7 @@
     "name": "ANEX Blender & Grinder (3 in 1) AG-699",
     "price": 6900.0,
     "url": "https://japanelectronics.com.pk/products/anex-blender-grinder-3-in-1-699",
-    "available": true
+    "available": false
   },
   {
     "name": "ANEX Big Chopper With Blender 3045",

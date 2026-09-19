@@ -1,7 +1,7 @@
 [
   {
     "name": "ANEX HAND BLENDER (AG-143)",
-    "price": 11370.0,
+    "price": 11700.0,
     "url": "https://japanelectronics.com.pk/products/anex-hand-blender-ag-143",
     "available": true
   },
@@ -13,13 +13,13 @@
   },
   {
     "name": "ANEX HAND BLENDER (AG-144)",
-    "price": 8510.0,
+    "price": 8750.0,
     "url": "https://japanelectronics.com.pk/products/anex-hand-blender-ag-144",
     "available": true
   },
   {
     "name": "ANEX HAND BLENDER (AG-145)",
-    "price": 8290.0,
+    "price": 8550.0,
     "url": "https://japanelectronics.com.pk/products/anex-hand-blender-ag-145",
     "available": true
   },
@@ -193,7 +193,7 @@
   },
   {
     "name": "Samsung LED 65\" 65Q8F (Q-LED)",
-    "price": 371000.0,
+    "price": 369999.0,
     "url": "https://japanelectronics.com.pk/products/samsung-led-65-65q8f-q-led",
     "available": true
   },
@@ -477,7 +477,7 @@
     "name": "KENWOOD FAWM (KWM-8005FAF DG)",
     "price": 206200.0,
     "url": "https://japanelectronics.com.pk/products/kenwood-fawm-kwm-8005faf-dg",
-    "available": false
+    "available": true
   },
   {
     "name": "KENWOOD TAWM (KWM-10005FAT DG)",
@@ -1029,7 +1029,7 @@
     "name": "Haier Ref HRF-418 IDGA",
     "price": 109000.0,
     "url": "https://japanelectronics.com.pk/products/haier-ref-hrf-418-idga",
-    "available": false
+    "available": true
   },
   {
     "name": "Haier Ref HRF-246 IPPA",
@@ -2355,7 +2355,7 @@
     "name": "Dawlance Fully Automatic Washing Machine DWT 1470 PL",
     "price": 90000.0,
     "url": "https://japanelectronics.com.pk/products/dawlance-fully-automatic-washing-machine-dwt-1470-pl",
-    "available": false
+    "available": true
   },
   {
     "name": "Orient Split AC Inverter 1.5 Ton Super 20S Mirror Black T3+",
@@ -3003,7 +3003,7 @@
     "name": "Westpoint Handy Garment Steamer WF-1153",
     "price": 9500.0,
     "url": "https://japanelectronics.com.pk/products/westpoint-handy-garment-steamer-wf-1153",
-    "available": false
+    "available": true
   },
   {
     "name": "Haier Air Fryer (HAF-50DB Digital)",
@@ -4567,7 +4567,7 @@
   },
   {
     "name": "WestPoint Hot Plate WF-282",
-    "price": 11900.0,
+    "price": 12200.0,
     "url": "https://japanelectronics.com.pk/products/westpoint-hot-plate-wf-282",
     "available": false
   },
@@ -4603,7 +4603,7 @@
   },
   {
     "name": "Anex Sandwich, Waffle Grill 2139",
-    "price": 10900.0,
+    "price": 12100.0,
     "url": "https://japanelectronics.com.pk/products/anex-sandwich-waffle-grill-2139",
     "available": true
   },
@@ -4825,7 +4825,7 @@
   },
   {
     "name": "Anex Air Fryer With Oven AG-2123",
-    "price": 38180.0,
+    "price": 39300.0,
     "url": "https://japanelectronics.com.pk/products/anex-air-fryer-with-oven-ag-2123",
     "available": true
   },
@@ -5109,7 +5109,7 @@
     "name": "Dawlance LED 65\" Prismax Google TV (Q LED)",
     "price": 149900.0,
     "url": "https://japanelectronics.com.pk/products/dawlance-led-65-prismax-google-tv-q-led",
-    "available": true
+    "available": false
   },
   {
     "name": "Dawlance LED 55\" Prismax Google TV (Q LED)",
@@ -5733,7 +5733,7 @@
     "name": "Dawlance Automatic Washing Machine DWT-14711 FLT",
     "price": 90000.0,
     "url": "https://japanelectronics.com.pk/products/dawlance-automatic-washing-machine-dwt-14711-flt",
-    "available": false
+    "available": true
   },
   {
     "name": "Dawlance Deep Freezer CF-91997 Signature Inverter in White",
@@ -6201,7 +6201,7 @@
     "name": "Haier Ref HRF-458 IPRA",
     "price": 109000.0,
     "url": "https://japanelectronics.com.pk/products/haier-ref-hrf-458-ipra",
-    "available": false
+    "available": true
   },
   {
     "name": "Haier Ref HRF-458 IPGA",
@@ -6273,7 +6273,7 @@
     "name": "DAWLANCE REF 9101 SD (METALLIC GREY)",
     "price": 42000.0,
     "url": "https://japanelectronics.com.pk/products/dawlance-ref-9101-sd-metallic-grey",
-    "available": true
+    "available": false
   },
   {
     "name": "DAWLANCE HAND BLENDER DWHB-475 W",
@@ -6483,7 +6483,7 @@
     "name": "TCL LED 65\" 65C6K (Mini Q LED)",
     "price": 272500.0,
     "url": "https://japanelectronics.com.pk/products/tcl-led-65-65c6k-mini-q-led",
-    "available": false
+    "available": true
   },
   {
     "name": "Nasgas Kitchen Hood KHD-355",
@@ -7099,7 +7099,7 @@
   },
   {
     "name": "ANEX Kettle (AG-4067)",
-    "price": 7950.0,
+    "price": 8200.0,
     "url": "https://japanelectronics.com.pk/products/anex-kettle-ag-4067",
     "available": true
   },
@@ -7147,9 +7147,9 @@
   },
   {
     "name": "ANEX Hand Mixer (AG-822)",
-    "price": 10500.0,
+    "price": 10860.0,
     "url": "https://japanelectronics.com.pk/products/anex-hand-mixer-ag-822",
-    "available": false
+    "available": true
   },
   {
     "name": "ANEX Hand Mixer (AG-821)",
@@ -7525,49 +7525,49 @@
   },
   {
     "name": "Beetro Electric & Gas Geyser 15 Gallon (FEG-15 14/12 Gauge)",
-    "price": 53600.0,
+    "price": 55000.0,
     "url": "https://japanelectronics.com.pk/products/beetro-electric-gas-geyser-15-gallon-feg-15-14-12-gauge",
     "available": true
   },
   {
     "name": "Beetro Electric & Gas Geyser 15 Gallon (FEG-15 9/10 Guage)",
-    "price": 59600.0,
+    "price": 61000.0,
     "url": "https://japanelectronics.com.pk/products/beetro-electric-gas-geyser-15-gallon-feg-15-9-10-guage",
     "available": true
   },
   {
     "name": "Beetro Electric & Gas Geyser 25 Gallon (FEG-25 14/12 Gauges)",
-    "price": 60300.0,
+    "price": 60000.0,
     "url": "https://japanelectronics.com.pk/products/beetro-electric-gas-geyser-25-gallon-feg-25-14-12-gauges",
     "available": true
   },
   {
     "name": "Beetro Electric & Gas Geyser 25 Gallon (FEG-25 16/12 Gauge)",
-    "price": 58600.0,
+    "price": 59000.0,
     "url": "https://japanelectronics.com.pk/products/beetro-electric-gas-geyser-25-gallon-feg-25-16-12-gauge",
     "available": true
   },
   {
     "name": "Beetro Electric & Gas Geyser 35 Gallon (FEG-35 14/12 Gauge)",
-    "price": 71400.0,
+    "price": 71000.0,
     "url": "https://japanelectronics.com.pk/products/beetro-electric-gas-geyser-35-gallon-feg-35-14-12-gauge",
     "available": true
   },
   {
     "name": "Beetro Electric & Gas Geyser 35 Gallon (FEG-35 16/12 Gauge)",
-    "price": 67100.0,
+    "price": 68000.0,
     "url": "https://japanelectronics.com.pk/products/beetro-electric-gas-geyser-35-gallon-feg-35-16-12-gauge",
     "available": false
   },
   {
     "name": "Beetro Electric & Gas Geyser 35 Gallon (FEG-35 9/10 Gauge)",
-    "price": 82900.0,
+    "price": 83000.0,
     "url": "https://japanelectronics.com.pk/products/beetro-electric-gas-geyser-35-gallon-feg-35-9-10-gauge",
     "available": true
   },
   {
     "name": "Beetro Electric & Gas Geyser 55 Gallon (FEG-55 16/12 Gauge)",
-    "price": 81400.0,
+    "price": 80000.0,
     "url": "https://japanelectronics.com.pk/products/beetro-electric-gas-geyser-55-gallon-feg-55-16-12-gauge",
     "available": true
   },
@@ -8383,7 +8383,7 @@
   },
   {
     "name": "ANEX DELUXE STAND MIXER Model AG-820",
-    "price": 28560.0,
+    "price": 29450.0,
     "url": "https://japanelectronics.com.pk/products/anex-deluxe-stand-mixer-model-ag-820",
     "available": true
   },
@@ -8611,7 +8611,7 @@
   },
   {
     "name": "Westpoint Vacuum Cleaner (WF-960)",
-    "price": 25500.0,
+    "price": 27800.0,
     "url": "https://japanelectronics.com.pk/products/westpoint-vacuum-cleaner-wf-960",
     "available": true
   },
@@ -8749,13 +8749,13 @@
   },
   {
     "name": "Westpoint Garment Steamer WF-1253",
-    "price": 9400.0,
+    "price": 8900.0,
     "url": "https://japanelectronics.com.pk/products/westpoint-garment-steamer-wf-1253",
     "available": true
   },
   {
     "name": "Westpoint Garment Steamer (WF-1159)",
-    "price": 39900.0,
+    "price": 33600.0,
     "url": "https://japanelectronics.com.pk/products/westpoint-garment-steamer-wf-1159",
     "available": true
   },
@@ -10629,7 +10629,7 @@
     "name": "Dawlance Air Fryer DWAF-6322 D",
     "price": 28200.0,
     "url": "https://japanelectronics.com.pk/products/dawlance-air-fryer-dwaf-6322-d",
-    "available": true
+    "available": false
   },
   {
     "name": "Dawlance Air Fryer DWAF-6321 L",
@@ -10657,7 +10657,7 @@
   },
   {
     "name": "WestPoint Induction Cooker WF-142",
-    "price": 14500.0,
+    "price": 15500.0,
     "url": "https://japanelectronics.com.pk/products/westpoint-induction-cooker-wf-142",
     "available": true
   },
@@ -11119,13 +11119,13 @@
   },
   {
     "name": "ANEX Sandwich Maker 2045",
-    "price": 7530.0,
+    "price": 7730.0,
     "url": "https://japanelectronics.com.pk/products/anex-sandwich-maker-2045",
     "available": true
   },
   {
     "name": "ANEX Sandwich Maker AG-1035",
-    "price": 6580.0,
+    "price": 6800.0,
     "url": "https://japanelectronics.com.pk/products/anex-sandwich-maker-ag-1035",
     "available": true
   },
@@ -11475,7 +11475,7 @@
     "name": "Dawlance Water Dispenser WD-1051 Silver",
     "price": 42000.0,
     "url": "https://japanelectronics.com.pk/products/dawlance-water-dispenser-wd-1051-silver",
-    "available": true
+    "available": false
   },
   {
     "name": "Dawlance Water Dispenser WD-1051 Cloud White",
@@ -11733,7 +11733,7 @@
     "name": "Beetro Gas Geyser 35 Gallon (FG-35 9/10 Gauge) Auto Ignition",
     "price": 74600.0,
     "url": "https://japanelectronics.com.pk/products/beetro-gas-geyser-35-gallon-fg-35-9-10-gauge-auto-ignition",
-    "available": true
+    "available": false
   },
   {
     "name": "Beetro Gas Geyser 35 Gallon (FG-35 16/12 Gauge) Auto Ignition",
@@ -11755,7 +11755,7 @@
   },
   {
     "name": "Beetro Electric & Gas Geyser 55 Gallon (FEG-55 9/10 Gauge)",
-    "price": 97900.0,
+    "price": 99000.0,
     "url": "https://japanelectronics.com.pk/products/beetro-e-g-geyser-55-gallon-feg-55-9-10-gauge-auto-ignition",
     "available": true
   },
@@ -11791,7 +11791,7 @@
   },
   {
     "name": "Beetro Electric & Gas Geyser 25 Gallon (FEG-25 9/10 Gauge)",
-    "price": 66700.0,
+    "price": 66000.0,
     "url": "https://japanelectronics.com.pk/products/beetro-e-g-geyser-25-gallon-feg-25-9-10-gauge-auto-ignition",
     "available": true
   },
@@ -12217,7 +12217,7 @@
   },
   {
     "name": "WestPoint Hot Plate WF-281",
-    "price": 7500.0,
+    "price": 8500.0,
     "url": "https://japanelectronics.com.pk/products/westpoint-hot-plate-wf-281",
     "available": false
   },
@@ -12733,9 +12733,9 @@
   },
   {
     "name": "ANEX Kettle AG-4048",
-    "price": 8480.0,
+    "price": 9700.0,
     "url": "https://japanelectronics.com.pk/products/non-slip-rubber-fit-kettle-by-anex",
-    "available": false
+    "available": true
   },
   {
     "name": "Nasgas Kitchen Hood KHD-275",

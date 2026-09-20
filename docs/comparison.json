@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-20T13:04:17.365485+00:00",
+  "last_updated": "2026-09-20T14:04:39.399148+00:00",
   "my_store_name": "Bismillah Electronics",
   "competitor_name": "Japan Electronics",
   "total_my_products": 1253,
@@ -9360,7 +9360,7 @@
     },
     {
       "product_name": "Dawlance Air Fryer DWAF-6321",
-      "my_price": 21900.0,
+      "my_price": 30000.0,
       "my_available": true,
       "my_url": "https://bismillahelectronics.pk/products/dawlance-air-fryer-dwaf-6321",
       "competitor_name": "Dawlance Air Fryer DWAF-6321 L",
@@ -9369,8 +9369,8 @@
       "competitor_url": "https://japanelectronics.com.pk/products/dawlance-air-fryer-dwaf-6321-l",
       "match_confidence": 96.6,
       "status": "matched",
-      "price_diff": 0.0,
-      "cheaper": "same"
+      "price_diff": 8100.0,
+      "cheaper": "competitor"
     },
     {
       "product_name": "Anex Air Fryer AG-2019",

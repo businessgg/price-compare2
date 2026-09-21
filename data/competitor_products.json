@@ -555,7 +555,7 @@
     "name": "Haier FAWM (HW 120-BP12357S8)",
     "price": 170000.0,
     "url": "https://japanelectronics.com.pk/products/haier-fawm-hw-120-bp12357s8-1",
-    "available": true
+    "available": false
   },
   {
     "name": "Haier TAWM (HWM-110-B688S8)",
@@ -603,12 +603,6 @@
     "name": "HAIER WM (HWM 120-35FF WHITE)",
     "price": 26000.0,
     "url": "https://japanelectronics.com.pk/products/haier-wm-hwm-120-35ff-white",
-    "available": true
-  },
-  {
-    "name": "HAIER TAWM (HWM 120-826S6)",
-    "price": 77000.0,
-    "url": "https://japanelectronics.com.pk/products/haier-tawm-hwm-120-826s6-1",
     "available": true
   },
   {
@@ -2739,7 +2733,7 @@
     "name": "Homage Ref HR-47782/-L (GD) Tech Inverter BKG (R-550)",
     "price": 142000.0,
     "url": "https://japanelectronics.com.pk/products/homage-ref-hr-47782-l-gd-tech-inverter-bkg-r-550",
-    "available": false
+    "available": true
   },
   {
     "name": "Homage Ref HR-47672/453-L (GD) Tech Inverter BKG (R-450)",
@@ -2973,7 +2967,7 @@
     "name": "Haier D.Freezer (HDF-175 IG Inverter Grey)",
     "price": 57000.0,
     "url": "https://japanelectronics.com.pk/products/haier-d-freezer-hdf-175-ig-inverter-grey",
-    "available": true
+    "available": false
   },
   {
     "name": "LG LED 75\" 75QNED86ASA (4K UHD)",
@@ -3087,7 +3081,7 @@
     "name": "ECOSTAR SPLIT AC INVERTER 1.0 TON ES-12EM02WS",
     "price": 110900.0,
     "url": "https://japanelectronics.com.pk/products/ecostar-split-ac-inverter-1-0-ton-es-12em02ws",
-    "available": false
+    "available": true
   },
   {
     "name": "LG LED 55\" 55QNED82ASA (4K UHD)",
@@ -3183,7 +3177,7 @@
     "name": "HAIER MICROWAVE OVEN (HMW-26MGH)",
     "price": 24000.0,
     "url": "https://japanelectronics.com.pk/products/haier-microwave-oven-hmw-26mgh",
-    "available": true
+    "available": false
   },
   {
     "name": "WESTPOINT BLENDER & GRINDER (WF-372) 2 IN 1",
@@ -3711,7 +3705,7 @@
     "name": "Super Asia E+G Geyser 55 Gallon (GEH-755)",
     "price": 58900.0,
     "url": "https://japanelectronics.com.pk/products/super-asia-e-g-geyser-55-gallon-geh-755",
-    "available": true
+    "available": false
   },
   {
     "name": "Super Asia Electric Geyser EH-630",
@@ -4819,7 +4813,7 @@
   },
   {
     "name": "ANEX Oven Toaster 3070",
-    "price": 33800.0,
+    "price": 34850.0,
     "url": "https://japanelectronics.com.pk/products/anex-oven-toaster-3070",
     "available": true
   },
@@ -4953,7 +4947,7 @@
     "name": "Ecostar Split AC 2.0 Ton Inverter ES-24NV01WT3",
     "price": 199900.0,
     "url": "https://japanelectronics.com.pk/products/ecostar-split-ac-2-0-ton-inverter-es-24nv01wt3",
-    "available": false
+    "available": true
   },
   {
     "name": "Ecostar Split AC 1.5 Ton Inverter ES-18NV01WT3",
@@ -5187,7 +5181,7 @@
     "name": "GREE SPLIT AC INVERTER 2.0 TON GS-24AITH21B",
     "price": 264900.0,
     "url": "https://japanelectronics.com.pk/products/gree-split-ac-inverter-2-0-ton-gs-24aith21b",
-    "available": true
+    "available": false
   },
   {
     "name": "Samsung Refrigerator Side By Side RS70F65QETTR (Metal)",
@@ -5763,7 +5757,7 @@
     "name": "Dawlance Refrigerator 91999 Avante + Silky Black (GD INV) IOT WIFI",
     "price": 135000.0,
     "url": "https://japanelectronics.com.pk/products/dawlance-refrigerator-91999-avante-silky-black-gd-inv-iot-wifi",
-    "available": true
+    "available": false
   },
   {
     "name": "Dawlance Refrigerator 9193 LF Avante + Silky Black (GD INV) IOT WIFI",
@@ -9127,7 +9121,7 @@
   },
   {
     "name": "ANEX Oven Toaster (AG-3070)",
-    "price": 33800.0,
+    "price": 34850.0,
     "url": "https://japanelectronics.com.pk/products/anex-oven-toaster-ag-3070",
     "available": true
   },
@@ -9153,7 +9147,7 @@
     "name": "ANEX 4 Slice Toaster (AG-3005 SS)",
     "price": 10900.0,
     "url": "https://japanelectronics.com.pk/products/anex-4-slice-toaster-ag-3005-ss",
-    "available": true
+    "available": false
   },
   {
     "name": "ANEX 2 Slice Toaster (AG-3008)",
@@ -9963,7 +9957,7 @@
     "name": "Haier Split AC Inverter 1.5 Ton HSU-19HFCS023DC (White)",
     "price": 126000.0,
     "url": "https://japanelectronics.com.pk/products/haier-split-ac-inverter-1-5-ton-hsu-19hfcs",
-    "available": false
+    "available": true
   },
   {
     "name": "Haier Split AC Inverter 1.5 Ton HSU-19HFCP023DC (White)",
@@ -9975,7 +9969,7 @@
     "name": "Haier Split AC Inverter 1.5 Ton HSU-19HFCA",
     "price": 126000.0,
     "url": "https://japanelectronics.com.pk/products/haier-split-ac-inverter-1-5-ton-hsu-19hfca",
-    "available": false
+    "available": true
   },
   {
     "name": "Haier Split AC Inverter 1.5 Ton HSU-19HFAB  White",
@@ -10603,7 +10597,7 @@
   },
   {
     "name": "ANEX Dry Iron (Heavy Weight) 1076B",
-    "price": 7730.0,
+    "price": 7950.0,
     "url": "https://japanelectronics.com.pk/products/anex-dry-iron-heavy-weight-1076b",
     "available": true
   },
@@ -10629,7 +10623,7 @@
     "name": "Dawlance Air Fryer DWAF-6322 D",
     "price": 28200.0,
     "url": "https://japanelectronics.com.pk/products/dawlance-air-fryer-dwaf-6322-d",
-    "available": false
+    "available": true
   },
   {
     "name": "Dawlance Air Fryer DWAF-6321 L",
@@ -11499,7 +11493,7 @@
     "name": "Dawlance Fully Automatic Washing Machine DWT 270 S LVS+",
     "price": 81900.0,
     "url": "https://japanelectronics.com.pk/products/dawlance-fully-automatic-washing-machine-dwt-270-s-lvs",
-    "available": true
+    "available": false
   },
   {
     "name": "Japanese Heater 3.5 KW (Flat Panel)",
@@ -11721,7 +11715,7 @@
     "name": "Beetro Air Curtain 404DS (MS-A44 DS) Sensor",
     "price": 61900.0,
     "url": "https://japanelectronics.com.pk/products/beetro-air-curtain-404ds-ms-a44-ds-sensor",
-    "available": true
+    "available": false
   },
   {
     "name": "Beetro Air Curtain 303DS (MS-A33 DS) Sensor",
@@ -11733,7 +11727,7 @@
     "name": "Beetro Gas Geyser 35 Gallon (FG-35 9/10 Gauge) Auto Ignition",
     "price": 74600.0,
     "url": "https://japanelectronics.com.pk/products/beetro-gas-geyser-35-gallon-fg-35-9-10-gauge-auto-ignition",
-    "available": false
+    "available": true
   },
   {
     "name": "Beetro Gas Geyser 35 Gallon (FG-35 16/12 Gauge) Auto Ignition",
@@ -11751,7 +11745,7 @@
     "name": "Beetro Gas Geyser 25 Gallon (FG-25 9/10 Gauge) Auto Ignition",
     "price": 58900.0,
     "url": "https://japanelectronics.com.pk/products/beetro-gas-geyser-25-gallon-fg-25-9-10-gauge-auto-ignition",
-    "available": true
+    "available": false
   },
   {
     "name": "Beetro Electric & Gas Geyser 55 Gallon (FEG-55 9/10 Gauge)",
@@ -12199,7 +12193,7 @@
   },
   {
     "name": "ANEX Sandwich Maker 1039",
-    "price": 10930.0,
+    "price": 11260.0,
     "url": "https://japanelectronics.com.pk/products/anex-sandwich-maker-1039",
     "available": true
   },
@@ -12469,7 +12463,7 @@
   },
   {
     "name": "Remington Hair Straightener S3500",
-    "price": 8900.0,
+    "price": 9200.0,
     "url": "https://japanelectronics.com.pk/products/remington-hair-straightener-s3500",
     "available": true
   },
@@ -12483,7 +12477,7 @@
     "name": "Nasgas E+G Geyser 35 Gallon (DEG-35) Super Heavy Auto",
     "price": 58700.0,
     "url": "https://japanelectronics.com.pk/products/nasgas-electric-gas-geyser-35-gallon-deg-35-super-heavy-auto",
-    "available": true
+    "available": false
   },
   {
     "name": "Nasgas Kitchen Hoods KHD-300",

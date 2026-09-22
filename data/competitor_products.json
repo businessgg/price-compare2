@@ -619,7 +619,7 @@
   },
   {
     "name": "DAWLANCE TAWM (DWT-9060 EZ) PLATINUM",
-    "price": 56000.0,
+    "price": 53000.0,
     "url": "https://japanelectronics.com.pk/products/dawlance-tawm-dwt-9060-ez-platinum",
     "available": true
   },
@@ -631,7 +631,7 @@
   },
   {
     "name": "DAWLANCE TAWM (DWT-1776 FLT C GLOW)",
-    "price": 125000.0,
+    "price": 129000.0,
     "url": "https://japanelectronics.com.pk/products/dawlance-tawm-dwt-1776-flt-c-glow",
     "available": true
   },
@@ -759,7 +759,7 @@
     "name": "PEL Ref (PRGD-22270 Red Blaze)",
     "price": 113900.0,
     "url": "https://japanelectronics.com.pk/products/pel-ref-prgd-22270-red-blaze",
-    "available": true
+    "available": false
   },
   {
     "name": "PEL Ref (PRINVOGDDT-22270 CGD Silver Strip Black) Digitron Ultra Inverter",
@@ -1213,7 +1213,7 @@
   },
   {
     "name": "Dawlance REF 9160 WB Icemax Mist Green",
-    "price": 82000.0,
+    "price": 78500.0,
     "url": "https://japanelectronics.com.pk/products/dawlance-ref-9160-wb-icemax-mist-green",
     "available": true
   },
@@ -3061,7 +3061,7 @@
   },
   {
     "name": "Dawlance REF 9160 WB Icemax Midnight Blue",
-    "price": 82000.0,
+    "price": 78500.0,
     "url": "https://japanelectronics.com.pk/products/dawlance-ref-9160-wb-icemax-midnight-blue",
     "available": true
   },
@@ -5199,7 +5199,7 @@
     "name": "Samsung Refrigerator Side By Side RS70F64 KITAE",
     "price": 565000.0,
     "url": "https://japanelectronics.com.pk/products/samsung-refrigerator-side-by-side-rs70f64-kitae",
-    "available": false
+    "available": true
   },
   {
     "name": "HAIER SBS REF HRF-578TBG (IOT)",

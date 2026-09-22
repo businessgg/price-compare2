@@ -3295,7 +3295,7 @@
   },
   {
     "name": "Dawlance Automatic Washing Machine DWT-1471 FLP",
-    "price": 78900.0,
+    "price": 81000.0,
     "url": "https://japanelectronics.com.pk/products/dawlance-a-w-m-dwt-1471-flp",
     "available": true
   },
@@ -4077,7 +4077,7 @@
     "name": "Dawlance Side By Side Ref DSS-9055 GD (Inverter)",
     "price": 260000.0,
     "url": "https://japanelectronics.com.pk/products/dawlance-side-by-side-ref-dss-9055-gd-inverter",
-    "available": true
+    "available": false
   },
   {
     "name": "Haier Ref HRF-488IFFB",
@@ -5725,7 +5725,7 @@
   },
   {
     "name": "Dawlance Automatic Washing Machine DWT-14711 FLT",
-    "price": 90000.0,
+    "price": 86000.0,
     "url": "https://japanelectronics.com.pk/products/dawlance-automatic-washing-machine-dwt-14711-flt",
     "available": true
   },
@@ -5779,7 +5779,7 @@
   },
   {
     "name": "Dawlance Automatic Washing Machine DWT-11671 FLT",
-    "price": 80000.0,
+    "price": 75000.0,
     "url": "https://japanelectronics.com.pk/products/dawlance-automatic-washing-machine-dwt-11671-flt",
     "available": true
   },
@@ -5875,7 +5875,7 @@
   },
   {
     "name": "Dawlance Automatic Washing Machine DWT 9060 EZ",
-    "price": 56000.0,
+    "price": 53000.0,
     "url": "https://japanelectronics.com.pk/products/dawlance-automatic-washing-machine-dwt-9060-ez",
     "available": false
   },
@@ -6705,7 +6705,7 @@
     "name": "Super Asia Electric Geyser MEH-50 Mega Series",
     "price": 41900.0,
     "url": "https://japanelectronics.com.pk/products/super-asia-electric-geyser-meh-50-mega-series",
-    "available": true
+    "available": false
   },
   {
     "name": "Super Asia Electric Geyser MEH-30 Mega Series",
@@ -7141,7 +7141,7 @@
   },
   {
     "name": "ANEX Hand Mixer (AG-822)",
-    "price": 10860.0,
+    "price": 10500.0,
     "url": "https://japanelectronics.com.pk/products/anex-hand-mixer-ag-822",
     "available": true
   },
@@ -8259,7 +8259,7 @@
     "name": "Braun Electric Kettle (WK-1500)",
     "price": 18500.0,
     "url": "https://japanelectronics.com.pk/products/braun-electric-kettle-wk-1500",
-    "available": true
+    "available": false
   },
   {
     "name": "Philips Electric Kettle (HD-9314)",
@@ -9013,7 +9013,7 @@
   },
   {
     "name": "Dawlance TAWM (DWT-9060) EZ Silver",
-    "price": 56000.0,
+    "price": 53000.0,
     "url": "https://japanelectronics.com.pk/products/dawlance-tawm-dwt-9060-ez-silver",
     "available": true
   },
@@ -9133,7 +9133,7 @@
   },
   {
     "name": "ANEX 4 Slice Toaster (AG-3009)",
-    "price": 13370.0,
+    "price": 12300.0,
     "url": "https://japanelectronics.com.pk/products/anex-4-slice-toaster-ag-3009",
     "available": true
   },
@@ -10485,7 +10485,7 @@
     "name": "Homage Microwave Oven HDG-342S",
     "price": 30900.0,
     "url": "https://japanelectronics.com.pk/products/homage-microwave-oven-hdg-342s",
-    "available": true
+    "available": false
   },
   {
     "name": "Homage Microwave Oven (HDG-282 28Ltr) Grill",
@@ -11047,13 +11047,13 @@
   },
   {
     "name": "Dawlance Steam Iron DWSI-3122 Pro",
-    "price": 10400.0,
+    "price": 9100.0,
     "url": "https://japanelectronics.com.pk/products/dawlance-steam-iron-dwsi-3122-pro",
     "available": true
   },
   {
     "name": "Dawlance Kettle DWEK-7100",
-    "price": 6300.0,
+    "price": 6200.0,
     "url": "https://japanelectronics.com.pk/products/dawlance-kettle-dwek-7100",
     "available": true
   },
@@ -11545,7 +11545,7 @@
   },
   {
     "name": "Dawlance Automatic Washing Machine DWT-1167 FLP",
-    "price": 67900.0,
+    "price": 69000.0,
     "url": "https://japanelectronics.com.pk/products/dawlance-a-w-m-dwt-1167-flp",
     "available": true
   },
@@ -12285,7 +12285,7 @@
     "name": "Anex Electric Kettle 4057",
     "price": 6500.0,
     "url": "https://japanelectronics.com.pk/products/anex-electric-kettle-4057",
-    "available": true
+    "available": false
   },
   {
     "name": "Anex Deluxe Juicer AG-78",
@@ -12477,7 +12477,7 @@
     "name": "Nasgas E+G Geyser 35 Gallon (DEG-35) Super Heavy Auto",
     "price": 58700.0,
     "url": "https://japanelectronics.com.pk/products/nasgas-electric-gas-geyser-35-gallon-deg-35-super-heavy-auto",
-    "available": false
+    "available": true
   },
   {
     "name": "Nasgas Kitchen Hoods KHD-300",
@@ -12763,7 +12763,7 @@
   },
   {
     "name": "Nasgas Kitchen Hood KHD-280",
-    "price": 27550.0,
+    "price": 27780.0,
     "url": "https://japanelectronics.com.pk/products/nasgas-kitchen-hood-khd-280-digital-89cm",
     "available": true
   },

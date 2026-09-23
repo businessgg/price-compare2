@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-23T09:04:44.943750+00:00",
+  "last_updated": "2026-09-23T10:04:45.734874+00:00",
   "my_store_name": "Bismillah Electronics",
   "competitor_name": "Japan Electronics",
   "total_my_products": 1253,
@@ -8426,13 +8426,13 @@
       "my_available": true,
       "my_url": "https://bismillahelectronics.pk/products/hisense-led-tv-55-inch-55q6n",
       "competitor_name": "Hisense LED 55\" 55Q6N",
-      "competitor_price": 125000.0,
+      "competitor_price": 124900.0,
       "competitor_available": false,
       "competitor_url": "https://japanelectronics.com.pk/products/hisense-led-55-55q6n",
       "match_confidence": 81.6,
       "status": "matched",
-      "price_diff": 0.0,
-      "cheaper": "same"
+      "price_diff": 100.0,
+      "cheaper": "competitor"
     },
     {
       "product_name": "Panasonic LED TV 65 Inch TH65MX740M (4K Google)",

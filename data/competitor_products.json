@@ -759,7 +759,7 @@
     "name": "PEL Ref (PRGD-22270 Red Blaze)",
     "price": 113900.0,
     "url": "https://japanelectronics.com.pk/products/pel-ref-prgd-22270-red-blaze",
-    "available": false
+    "available": true
   },
   {
     "name": "PEL Ref (PRINVOGDDT-22270 CGD Silver Strip Black) Digitron Ultra Inverter",
@@ -1173,7 +1173,7 @@
     "name": "Dawlance REF 9178 LF Icemax Mist Green",
     "price": 95000.0,
     "url": "https://japanelectronics.com.pk/products/dawlance-ref-9178-lf-icemax-mist-green",
-    "available": true
+    "available": false
   },
   {
     "name": "Dawlance REF 9173 WB Icemax Mist Green",
@@ -2445,7 +2445,7 @@
     "name": "Beetro Kitchen Robot (BKR-1201)",
     "price": 39500.0,
     "url": "https://japanelectronics.com.pk/products/beetro-kitchen-robot-bkr-1201",
-    "available": true
+    "available": false
   },
   {
     "name": "Beetro Kitchen Chef (BJ-301)",
@@ -7263,7 +7263,7 @@
     "name": "Dawlance Refrigerator 9160 LF Chrome Pro Hairline Silver",
     "price": 80500.0,
     "url": "https://japanelectronics.com.pk/products/dawlance-refrigerator-9160-lf-chrome-pro-hairline-silver",
-    "available": true
+    "available": false
   },
   {
     "name": "Dawlance Refrigerator 9169 WB Avante Pearl Burgundy (GD)",
@@ -7767,7 +7767,7 @@
     "name": "TCL LED 75\" 75C7K",
     "price": 599900.0,
     "url": "https://japanelectronics.com.pk/products/tcl-led-75-75c7k",
-    "available": true
+    "available": false
   },
   {
     "name": "TCL LED 75\" 75A300 Pro (Art TV)",
@@ -8223,7 +8223,7 @@
     "name": "Kenwood Garment Steamer GSP-65 (IN) Black",
     "price": 18900.0,
     "url": "https://japanelectronics.com.pk/products/kenwood-garment-steamer-gsp-65-in-black",
-    "available": false
+    "available": true
   },
   {
     "name": "Kenwood Ceramic Plate (IFC-01.000BK)",
@@ -8605,7 +8605,7 @@
   },
   {
     "name": "Westpoint Vacuum Cleaner (WF-960)",
-    "price": 27800.0,
+    "price": 25500.0,
     "url": "https://japanelectronics.com.pk/products/westpoint-vacuum-cleaner-wf-960",
     "available": true
   },
@@ -8671,7 +8671,7 @@
   },
   {
     "name": "Westpoint Juicer Blender WF-2409",
-    "price": 16500.0,
+    "price": 14500.0,
     "url": "https://japanelectronics.com.pk/products/westpoint-juicer-blender-wf-2409",
     "available": true
   },

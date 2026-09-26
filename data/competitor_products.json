@@ -2283,7 +2283,7 @@
     "name": "Super Asia Electric & Gas Geyser 30 Gallon GEH-730 AI",
     "price": 52000.0,
     "url": "https://japanelectronics.com.pk/products/super-asia-electric-gas-geyser-30-gallon-geh-730-auto-ignition",
-    "available": true
+    "available": false
   },
   {
     "name": "Super Asia Electric Geyser 100 Ltr MEH-100 Mega Series",
@@ -3735,7 +3735,7 @@
     "name": "Canon Instant Gas Geyser 16D+ Dual",
     "price": 21000.0,
     "url": "https://japanelectronics.com.pk/products/canon-instant-gas-geyser-16d-dual-lpg",
-    "available": true
+    "available": false
   },
   {
     "name": "Super Asia Electric Geyser 15 Ltr SEH-15 Saver Series",
@@ -4077,7 +4077,7 @@
     "name": "Dawlance Side By Side Ref DSS-9055 GD (Inverter)",
     "price": 260000.0,
     "url": "https://japanelectronics.com.pk/products/dawlance-side-by-side-ref-dss-9055-gd-inverter",
-    "available": false
+    "available": true
   },
   {
     "name": "Haier Ref HRF-488IFFB",
@@ -6129,7 +6129,7 @@
     "name": "Panasonic Steam Iron NI-M300T Violet",
     "price": 8700.0,
     "url": "https://japanelectronics.com.pk/products/panasonic-steam-iron-ni-m300t-violet",
-    "available": true
+    "available": false
   },
   {
     "name": "Midea Dish Washer (WQP15-W7633D)",
@@ -9861,7 +9861,7 @@
     "name": "Haier Split AC Inverter 2.0 Ton HSU-24HFAB (T3) Grey",
     "price": 209000.0,
     "url": "https://japanelectronics.com.pk/products/haier-split-ac-inverter-2-0-ton-hsu-24hfab-t3-grey",
-    "available": true
+    "available": false
   },
   {
     "name": "Haier Split AC Inverter 1.5 Ton Solar Hybrid-III White",
@@ -12345,7 +12345,7 @@
     "name": "LG Automatic Washing Machine F4V5RGP2T",
     "price": 250000.0,
     "url": "https://japanelectronics.com.pk/products/lg-a-w-m-f4v5rgp2t",
-    "available": true
+    "available": false
   },
   {
     "name": "LG Automatic Washing Machine F0L9DGP2S",
@@ -12405,7 +12405,7 @@
     "name": "Royal Washing Machine RW-1016FT",
     "price": 29800.0,
     "url": "https://japanelectronics.com.pk/products/royal-washing-machine-rw-1016ft",
-    "available": true
+    "available": false
   },
   {
     "name": "Royal Washing Machine RW-1014",
@@ -12445,7 +12445,7 @@
   },
   {
     "name": "Panasonic Dry Iron NI-22AWT",
-    "price": 9500.0,
+    "price": 11500.0,
     "url": "https://japanelectronics.com.pk/products/panasonic-dry-iron-ni-22awt",
     "available": true
   },

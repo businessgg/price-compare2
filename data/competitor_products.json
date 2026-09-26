@@ -381,7 +381,7 @@
     "name": "Haier Water Dispenser (HDR-TC2C1GR)",
     "price": 45000.0,
     "url": "https://japanelectronics.com.pk/products/haier-water-dispenser-hdr-tc2c1gr",
-    "available": true
+    "available": false
   },
   {
     "name": "Haier Water Dispenser (HDR-TC2C1GB)",
@@ -2997,7 +2997,7 @@
     "name": "Westpoint Handy Garment Steamer WF-1153",
     "price": 9500.0,
     "url": "https://japanelectronics.com.pk/products/westpoint-handy-garment-steamer-wf-1153",
-    "available": false
+    "available": true
   },
   {
     "name": "Haier Air Fryer (HAF-50DB Digital)",
@@ -5355,7 +5355,7 @@
     "name": "Gree AC Floor Standing Inverter 3.0 Ton GF-36TFIH AA+",
     "price": 459000.0,
     "url": "https://japanelectronics.com.pk/products/gree-ac-floor-standing-inverter-3-0-ton-gf-36tfih-aa",
-    "available": true
+    "available": false
   },
   {
     "name": "Gree AC Split Inverter 1.5 Ton GS-18FITH6C AAA",
@@ -5661,7 +5661,7 @@
     "name": "Dawlance Side By Side Refrigerator DW 9055 INOX",
     "price": 245000.0,
     "url": "https://japanelectronics.com.pk/products/dawlance-side-by-side-refrigerator-dw-9055-inox",
-    "available": true
+    "available": false
   },
   {
     "name": "LG Top Mount Refrigerator GN-H702HMHZ",
@@ -6333,7 +6333,7 @@
     "name": "Vatti Built In Oven (VA-03)",
     "price": 199000.0,
     "url": "https://japanelectronics.com.pk/products/vatti-built-in-oven-va-03",
-    "available": false
+    "available": true
   },
   {
     "name": "Dawlance Built in Oven DBE 208110 S A Series",
@@ -7989,7 +7989,7 @@
     "name": "Ecostar LED 50\" CX-50Q964",
     "price": 99900.0,
     "url": "https://japanelectronics.com.pk/products/ecostar-led-50-cx-50q964",
-    "available": true
+    "available": false
   },
   {
     "name": "ECOSTAR LED 43\" CX-43Q874",
@@ -8121,7 +8121,7 @@
     "name": "Braun Blender JB-1023",
     "price": 18500.0,
     "url": "https://japanelectronics.com.pk/products/braun-blender-jb-1023",
-    "available": false
+    "available": true
   },
   {
     "name": "LG LED 55\" 55UA8450PSA",

@@ -2283,7 +2283,7 @@
     "name": "Super Asia Electric & Gas Geyser 30 Gallon GEH-730 AI",
     "price": 52000.0,
     "url": "https://japanelectronics.com.pk/products/super-asia-electric-gas-geyser-30-gallon-geh-730-auto-ignition",
-    "available": false
+    "available": true
   },
   {
     "name": "Super Asia Electric Geyser 100 Ltr MEH-100 Mega Series",
@@ -3679,25 +3679,25 @@
   },
   {
     "name": "Canon Fast Electric Geyser FEWH-50 LCM",
-    "price": 41400.0,
+    "price": 42400.0,
     "url": "https://japanelectronics.com.pk/products/canon-fast-electric-geyser-fewh-50-lcm",
     "available": false
   },
   {
     "name": "Canon Fast Electric Geyser FEWH-40 LY",
-    "price": 36400.0,
+    "price": 40400.0,
     "url": "https://japanelectronics.com.pk/products/canon-fast-electric-geyser-fewh-40-ly",
     "available": false
   },
   {
     "name": "Canon Fast Electric Geyser FEWH-30 LCM",
-    "price": 34400.0,
+    "price": 35400.0,
     "url": "https://japanelectronics.com.pk/products/canon-fast-electric-geyser-fewh-30-lcm",
     "available": true
   },
   {
     "name": "Canon Fast Electric Geyser FEWH-15 LCM",
-    "price": 26999.0,
+    "price": 28900.0,
     "url": "https://japanelectronics.com.pk/products/canon-fast-electric-geyser-fewh-15-lcm",
     "available": false
   },
@@ -3721,19 +3721,19 @@
   },
   {
     "name": "Canon Fast Electric Geyser FEWH-10 LCM",
-    "price": 26400.0,
+    "price": 26900.0,
     "url": "https://japanelectronics.com.pk/products/canon-fast-electric-geyser-fewh-10-lcm",
     "available": false
   },
   {
     "name": "Canon Fast Electric Geyser FEWH-80 LY",
-    "price": 47400.0,
+    "price": 48400.0,
     "url": "https://japanelectronics.com.pk/products/canon-fast-electric-geyser-fewh-80-ly",
     "available": true
   },
   {
     "name": "Canon Instant Gas Geyser 16D+ Dual",
-    "price": 21000.0,
+    "price": 22900.0,
     "url": "https://japanelectronics.com.pk/products/canon-instant-gas-geyser-16d-dual-lpg",
     "available": false
   },
@@ -4489,7 +4489,7 @@
   },
   {
     "name": "Super Asia Room Air Cooler ECM-5500 Plus",
-    "price": 33400.0,
+    "price": 30900.0,
     "url": "https://japanelectronics.com.pk/products/super-asia-room-air-cooler-ecm-5500-plus",
     "available": true
   },
@@ -4615,7 +4615,7 @@
   },
   {
     "name": "Dawlance Juicer DWHJ-4002 Red & Black",
-    "price": 11100.0,
+    "price": 10500.0,
     "url": "https://japanelectronics.com.pk/products/dawlance-juicer-dwhj-4002-red-black",
     "available": true
   },
@@ -6811,19 +6811,19 @@
   },
   {
     "name": "Canon Instant Gas Geyser 24D - Dual",
-    "price": 35900.0,
+    "price": 39900.0,
     "url": "https://japanelectronics.com.pk/products/canon-instant-gas-geyser-24d-dual",
     "available": true
   },
   {
     "name": "Canon Instant Gas Geyser 20D+ Dual",
-    "price": 32900.0,
+    "price": 36900.0,
     "url": "https://japanelectronics.com.pk/products/canon-instant-gas-geyser-20d-dual",
     "available": true
   },
   {
     "name": "Canon Instant Gas Geyser 18D+ Dual",
-    "price": 28900.0,
+    "price": 32900.0,
     "url": "https://japanelectronics.com.pk/products/canon-instant-gas-geyser-18d-dual",
     "available": true
   },
@@ -7551,7 +7551,7 @@
     "name": "Beetro Electric & Gas Geyser 35 Gallon (FEG-35 16/12 Gauge)",
     "price": 68000.0,
     "url": "https://japanelectronics.com.pk/products/beetro-electric-gas-geyser-35-gallon-feg-35-16-12-gauge",
-    "available": false
+    "available": true
   },
   {
     "name": "Beetro Electric & Gas Geyser 35 Gallon (FEG-35 9/10 Gauge)",
@@ -7629,7 +7629,7 @@
     "name": "Haier Two Door Refrigerator HRF-346 IPGA Green",
     "price": 91000.0,
     "url": "https://japanelectronics.com.pk/products/haier-two-door-refrigerator-hrf-346-ipga-green",
-    "available": false
+    "available": true
   },
   {
     "name": "Haier smart Inverter Refrigerator HRF-346 IPRA Red",
@@ -7719,7 +7719,7 @@
     "name": "Electrolux Water Dispenser (ELWD-3T-GD Linear Impression)",
     "price": 39900.0,
     "url": "https://japanelectronics.com.pk/products/electrolux-water-dispenser-elwd-3t-gd-linear-impression",
-    "available": true
+    "available": false
   },
   {
     "name": "Super Asia TAWM (SA-812 I White) Auto Inverter Metal",
@@ -7999,7 +7999,7 @@
   },
   {
     "name": "Dawlance LED 75\" Delta Series SE",
-    "price": 339800.0,
+    "price": 310900.0,
     "url": "https://japanelectronics.com.pk/products/dawlance-led-75-delta-series-se",
     "available": false
   },
@@ -8023,7 +8023,7 @@
   },
   {
     "name": "Dawlance LED 55\" Apollo",
-    "price": 151000.0,
+    "price": 139900.0,
     "url": "https://japanelectronics.com.pk/products/dawlance-led-55-apollo",
     "available": true
   },
@@ -8121,7 +8121,7 @@
     "name": "Braun Blender JB-1023",
     "price": 18500.0,
     "url": "https://japanelectronics.com.pk/products/braun-blender-jb-1023",
-    "available": true
+    "available": false
   },
   {
     "name": "LG LED 55\" 55UA8450PSA",
@@ -8325,7 +8325,7 @@
     "name": "Haier Ref HRF-186 EBS (Silver)",
     "price": 53000.0,
     "url": "https://japanelectronics.com.pk/products/haier-ref-hrf-186-ebs-silver",
-    "available": true
+    "available": false
   },
   {
     "name": "Black & Decker Food Processor FX-822",
@@ -8413,13 +8413,13 @@
   },
   {
     "name": "Canon Electric Geyser EWT-40",
-    "price": 25900.0,
+    "price": 26400.0,
     "url": "https://japanelectronics.com.pk/products/canon-electric-geyser-ewt-40-40-ltr",
     "available": true
   },
   {
     "name": "Canon Electric Geyser EWT-50",
-    "price": 26900.0,
+    "price": 27400.0,
     "url": "https://japanelectronics.com.pk/products/canon-electric-geyser-ewt-50-50-ltr",
     "available": true
   },
@@ -8427,7 +8427,7 @@
     "name": "Dawlance No Frost Ref DMD-9060 GD",
     "price": 335000.0,
     "url": "https://japanelectronics.com.pk/products/dawlance-no-frost-ref-dmd-9060-gd",
-    "available": false
+    "available": true
   },
   {
     "name": "Nasgas Electric Geyser NEG-30",
@@ -8539,7 +8539,7 @@
   },
   {
     "name": "Canon Fast Electric Geyser FEWH-25 LCF",
-    "price": 31000.0,
+    "price": 32400.0,
     "url": "https://japanelectronics.com.pk/products/canon-fast-electric-geyser-fewh-25-lcf",
     "available": true
   },
@@ -10303,7 +10303,7 @@
   },
   {
     "name": "Skyworth LED 55\" 55Q7700G-QLED",
-    "price": 199990.0,
+    "price": 179900.0,
     "url": "https://japanelectronics.com.pk/products/skyworth-led-55-55q7700g-qled",
     "available": false
   },
@@ -10507,7 +10507,7 @@
   },
   {
     "name": "Canon Fast Electric Geyser FEWH-50 LY",
-    "price": 43900.0,
+    "price": 42400.0,
     "url": "https://japanelectronics.com.pk/products/canon-fast-electric-geyser-fewh-50-ly",
     "available": true
   },
@@ -11049,7 +11049,7 @@
     "name": "Dawlance Steam Iron DWSI-3122 Pro",
     "price": 9100.0,
     "url": "https://japanelectronics.com.pk/products/dawlance-steam-iron-dwsi-3122-pro",
-    "available": true
+    "available": false
   },
   {
     "name": "Dawlance Kettle DWEK-7100",
@@ -11235,7 +11235,7 @@
     "name": "Dawlance Fully Automatic Washing Machine DWT 270 C LVS+",
     "price": 81900.0,
     "url": "https://japanelectronics.com.pk/products/dawlance-fully-automatic-washing-machine-dwt-270-c-lvs",
-    "available": true
+    "available": false
   },
   {
     "name": "Super Asia Washing Machine Big Wash SA-290",
@@ -11733,7 +11733,7 @@
     "name": "Beetro Gas Geyser 35 Gallon (FG-35 16/12 Gauge) Auto Ignition",
     "price": 61400.0,
     "url": "https://japanelectronics.com.pk/products/beetro-gas-geyser-35-gallon-fg-35-16-12-gauge-auto-ignition",
-    "available": false
+    "available": true
   },
   {
     "name": "Beetro Gas Geyser 35 Gallon (FG-35 14/12 Gauge) Auto Ignition",
@@ -12429,7 +12429,7 @@
     "name": "Dawlance Washing Machine DW-6550 W",
     "price": 34899.0,
     "url": "https://japanelectronics.com.pk/products/dawlance-washing-machine-dw-6550-w-1",
-    "available": false
+    "available": true
   },
   {
     "name": "Dawlance LED TV 50 Inch G3A Pro",
@@ -12439,7 +12439,7 @@
   },
   {
     "name": "Canon Semi Instant Electric Geyser Imported EWH-10 LCF",
-    "price": 24000.0,
+    "price": 24500.0,
     "url": "https://japanelectronics.com.pk/products/canon-semi-instant-electric-geyser-ewh-10-lcf",
     "available": false
   },
@@ -12477,7 +12477,7 @@
     "name": "Nasgas E+G Geyser 35 Gallon (DEG-35) Super Heavy Auto",
     "price": 58700.0,
     "url": "https://japanelectronics.com.pk/products/nasgas-electric-gas-geyser-35-gallon-deg-35-super-heavy-auto",
-    "available": true
+    "available": false
   },
   {
     "name": "Nasgas Kitchen Hoods KHD-300",
@@ -12601,7 +12601,7 @@
   },
   {
     "name": "Canon Electric Geyser EWT-30",
-    "price": 24900.0,
+    "price": 25400.0,
     "url": "https://japanelectronics.com.pk/products/canon-electric-geyser-ewt-30-30-ltr",
     "available": true
   },

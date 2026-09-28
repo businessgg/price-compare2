@@ -183,7 +183,7 @@
     "name": "SAMSUNG SOUND BAR B650D",
     "price": 69999.0,
     "url": "https://japanelectronics.com.pk/products/samsung-sound-bar-b650d",
-    "available": true
+    "available": false
   },
   {
     "name": "Samsung Sound Bar Q-600F",
@@ -307,7 +307,7 @@
   },
   {
     "name": "Kenwood Split AC Inverter 1.5 Ton KGU-18C02S T3 (GLORY ULTRA)",
-    "price": 144999.0,
+    "price": 139900.0,
     "url": "https://japanelectronics.com.pk/products/kenwood-split-ac-inverter-1-5-ton-kgu-18c02s-t3-glory-ultra",
     "available": false
   },
@@ -555,7 +555,7 @@
     "name": "Haier FAWM (HW 120-BP12357S8)",
     "price": 170000.0,
     "url": "https://japanelectronics.com.pk/products/haier-fawm-hw-120-bp12357s8-1",
-    "available": false
+    "available": true
   },
   {
     "name": "Haier TAWM (HWM-110-B688S8)",
@@ -1029,7 +1029,7 @@
     "name": "Haier Ref HRF-246 IPPA",
     "price": 74000.0,
     "url": "https://japanelectronics.com.pk/products/haier-ref-hrf-246-ippa",
-    "available": false
+    "available": true
   },
   {
     "name": "HAIER SBS REF HRF-578TGG",
@@ -1327,7 +1327,7 @@
   },
   {
     "name": "VATTI KITCHEN HOOD V-962",
-    "price": 159000.0,
+    "price": 142900.0,
     "url": "https://japanelectronics.com.pk/products/vatti-kitchen-hood-v-962",
     "available": true
   },
@@ -1677,7 +1677,7 @@
     "name": "PHILIPS HAIR CURLER (BHB-869/00)",
     "price": 17900.0,
     "url": "https://japanelectronics.com.pk/products/philips-hair-curler-bhb-869-00",
-    "available": true
+    "available": false
   },
   {
     "name": "PHILIPS HAIR STRAIGHTENER (HP-8316/00)",
@@ -2997,7 +2997,7 @@
     "name": "Westpoint Handy Garment Steamer WF-1153",
     "price": 9500.0,
     "url": "https://japanelectronics.com.pk/products/westpoint-handy-garment-steamer-wf-1153",
-    "available": true
+    "available": false
   },
   {
     "name": "Haier Air Fryer (HAF-50DB Digital)",
@@ -3153,7 +3153,7 @@
     "name": "TCL SPLIT AC INVERTER 1.5 TON TAC-18T5-VOX-13",
     "price": 194000.0,
     "url": "https://japanelectronics.com.pk/products/tcl-split-ac-inverter-1-5-ton-tac-18t5-vox-13",
-    "available": true
+    "available": false
   },
   {
     "name": "HISENSE SPLIT AC 1.5 TON INVERTER 18TF60HC)",
@@ -3219,7 +3219,7 @@
     "name": "PHILIPS MULTI PURPOSE GROOMING SET (MG-7940/15) 15 IN 1",
     "price": 27500.0,
     "url": "https://japanelectronics.com.pk/products/philips-multi-purpose-grooming-set-mg-7940-15-15-in-1",
-    "available": true
+    "available": false
   },
   {
     "name": "PANASONIC NOSE & EAR TRIMMER (ER-GN30-K)",
@@ -3493,13 +3493,13 @@
   },
   {
     "name": "Kenwood Split AC Inverter 1.5 Ton KGP-18C03S T3 (Glory Plus)",
-    "price": 144999.0,
+    "price": 139900.0,
     "url": "https://japanelectronics.com.pk/products/kenwood-split-ac-inverter-1-5-ton-kgp-18c03s-t3-glory-plus",
     "available": true
   },
   {
     "name": "Kenwood Split AC Inverter 1.5 Ton KGP-18C01S T3 (Glory Pro)",
-    "price": 144999.0,
+    "price": 139900.0,
     "url": "https://japanelectronics.com.pk/products/kenwood-split-ac-inverter-1-5-ton-kgp-18c01s-t3-glory-pro",
     "available": true
   },
@@ -3513,7 +3513,7 @@
     "name": "Super Asia Room Air Cooler ECM-4600 Plus (Inverter)",
     "price": 35700.0,
     "url": "https://japanelectronics.com.pk/products/super-asia-room-air-cooler-ecm-4600-plus-inverter",
-    "available": true
+    "available": false
   },
   {
     "name": "Boss Room Cooler ECM-IB-11500 Pro",
@@ -5923,7 +5923,7 @@
   },
   {
     "name": "Kenwood Hand Mixer HMP-20WH",
-    "price": 9500.0,
+    "price": 12500.0,
     "url": "https://japanelectronics.com.pk/products/kenwood-hand-mixer-hmp-20wh",
     "available": true
   },
@@ -6277,7 +6277,7 @@
   },
   {
     "name": "Westpoint Dough Maker (WF-3616)",
-    "price": 15900.0,
+    "price": 14900.0,
     "url": "https://japanelectronics.com.pk/products/westpoint-dough-maker-wf-3616",
     "available": true
   },
@@ -6745,37 +6745,37 @@
   },
   {
     "name": "Midea Electric Geyser (D50-20EFG)",
-    "price": 42900.0,
+    "price": 45900.0,
     "url": "https://japanelectronics.com.pk/products/midea-electric-geyser-d50-20efg",
     "available": false
   },
   {
     "name": "Canon Fast Electric Geyser FEWH-25CZ",
-    "price": 32400.0,
+    "price": 41000.0,
     "url": "https://japanelectronics.com.pk/products/canon-fast-electric-geyser-fewh-25cz",
     "available": true
   },
   {
     "name": "Canon Fast Electric Geyser FEWH-20 FE Gold",
-    "price": 33500.0,
+    "price": 42000.0,
     "url": "https://japanelectronics.com.pk/products/canon-fast-electric-geyser-fewh-20-fe-gold",
     "available": true
   },
   {
     "name": "Canon Fast Electric Geyser FEWH-20 FA Black",
-    "price": 33500.0,
+    "price": 42000.0,
     "url": "https://japanelectronics.com.pk/products/canon-fast-electric-geyser-fewh-20-fa-black",
     "available": true
   },
   {
     "name": "Canon Fast Electric Geyser (FEWH-25CZD) Digital",
-    "price": 36400.0,
+    "price": 46000.0,
     "url": "https://japanelectronics.com.pk/products/canon-fast-electric-geyser-fewh-25czd-digital",
     "available": false
   },
   {
     "name": "Canon Fast Electric Geyser (FEWH-100-LY)",
-    "price": 53400.0,
+    "price": 54400.0,
     "url": "https://japanelectronics.com.pk/products/canon-fast-electric-geyser-fewh-100-ly",
     "available": true
   },
@@ -6829,7 +6829,7 @@
   },
   {
     "name": "Canon Instant Gas Geyser 17D-Dual",
-    "price": 23400.0,
+    "price": 24900.0,
     "url": "https://japanelectronics.com.pk/products/canon-instant-gas-geyser-17d-dual",
     "available": false
   },
@@ -7161,7 +7161,7 @@
     "name": "ANEX Hand Blender (AG-146)",
     "price": 9460.0,
     "url": "https://japanelectronics.com.pk/products/anex-hand-blender-ag-146",
-    "available": false
+    "available": true
   },
   {
     "name": "Sony LED 50\" KD-50X75K (4K UHD)",
@@ -7275,7 +7275,7 @@
     "name": "Dawlance Refrigerator 9169 WB Avante Pearl Red (GD)",
     "price": 84500.0,
     "url": "https://japanelectronics.com.pk/products/dawlance-refrigerator-9169-wb-avante-pearl-red-gd",
-    "available": true
+    "available": false
   },
   {
     "name": "Dawlance Refrigerator 9169 WB Chrome Pearl Copper",

@@ -183,7 +183,7 @@
     "name": "SAMSUNG SOUND BAR B650D",
     "price": 69999.0,
     "url": "https://japanelectronics.com.pk/products/samsung-sound-bar-b650d",
-    "available": false
+    "available": true
   },
   {
     "name": "Samsung Sound Bar Q-600F",
@@ -279,7 +279,7 @@
     "name": "ECOSTAR LED 43\" CX-43Q964 (4K Q-LED)",
     "price": 75900.0,
     "url": "https://japanelectronics.com.pk/products/ecostar-led-43-cx-43q964-4k-q-led",
-    "available": false
+    "available": true
   },
   {
     "name": "Orient Split AC Inverter 1.5 Ton Divine 20S Pristine White T3+ (Ultron Series)",
@@ -1779,7 +1779,7 @@
     "name": "ANEX HAIR CURLER AG-308",
     "price": 4300.0,
     "url": "https://japanelectronics.com.pk/products/anex-hair-curler-ag-308",
-    "available": true
+    "available": false
   },
   {
     "name": "ANEX HAIR DRYER (AG-7030)",
@@ -2445,7 +2445,7 @@
     "name": "Beetro Kitchen Robot (BKR-1201)",
     "price": 39500.0,
     "url": "https://japanelectronics.com.pk/products/beetro-kitchen-robot-bkr-1201",
-    "available": false
+    "available": true
   },
   {
     "name": "Beetro Kitchen Chef (BJ-301)",
@@ -5661,7 +5661,7 @@
     "name": "Dawlance Side By Side Refrigerator DW 9055 INOX",
     "price": 245000.0,
     "url": "https://japanelectronics.com.pk/products/dawlance-side-by-side-refrigerator-dw-9055-inox",
-    "available": false
+    "available": true
   },
   {
     "name": "LG Top Mount Refrigerator GN-H702HMHZ",
@@ -5757,7 +5757,7 @@
     "name": "Dawlance Refrigerator 91999 Avante + Silky Black (GD INV) IOT WIFI",
     "price": 135000.0,
     "url": "https://japanelectronics.com.pk/products/dawlance-refrigerator-91999-avante-silky-black-gd-inv-iot-wifi",
-    "available": false
+    "available": true
   },
   {
     "name": "Dawlance Refrigerator 9193 LF Avante + Silky Black (GD INV) IOT WIFI",
@@ -7159,7 +7159,7 @@
   },
   {
     "name": "ANEX Hand Blender (AG-146)",
-    "price": 9460.0,
+    "price": 9750.0,
     "url": "https://japanelectronics.com.pk/products/anex-hand-blender-ag-146",
     "available": true
   },
@@ -8085,7 +8085,7 @@
     "name": "JBL Sound Bar 2.1 Deep Bass",
     "price": 112000.0,
     "url": "https://japanelectronics.com.pk/products/jbl-sound-bar-2-1-deep-bass",
-    "available": true
+    "available": false
   },
   {
     "name": "JBL Sound Bar 1000",

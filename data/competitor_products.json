@@ -3789,7 +3789,7 @@
     "name": "Haier Microwave Oven (HMW-20DGS)",
     "price": 22000.0,
     "url": "https://japanelectronics.com.pk/products/haier-microwave-oven-hmw-20dgs",
-    "available": true
+    "available": false
   },
   {
     "name": "Haier Microwave Oven HMW-20MWS",
@@ -4845,7 +4845,7 @@
     "name": "Dawlance Kettle DWEK-7200",
     "price": 6800.0,
     "url": "https://japanelectronics.com.pk/products/dawlance-kettle-dwek-7200",
-    "available": false
+    "available": true
   },
   {
     "name": "Beetro Cooking Range 34\" (WB-11000) 5 BRN GLS Top S.Door",
@@ -6663,7 +6663,7 @@
     "name": "Dawlance W.M (DW-10600 W FL)",
     "price": 46499.0,
     "url": "https://japanelectronics.com.pk/products/dawlance-w-m-dw-10600-w-fl",
-    "available": false
+    "available": true
   },
   {
     "name": "Super Asia E+G Geyser 20 Gallon (GEH-720) AI",
@@ -8521,7 +8521,7 @@
   },
   {
     "name": "Canon Built in Oven (BOV-80E-23 65Ltr)",
-    "price": 104000.0,
+    "price": 110200.0,
     "url": "https://japanelectronics.com.pk/products/canon-built-in-oven-bov-80e-23-65ltr",
     "available": true
   },
@@ -12123,7 +12123,7 @@
     "name": "Nasgas Gas Geyser DG-55 Super Dlx Auto",
     "price": 55675.0,
     "url": "https://japanelectronics.com.pk/products/nasgas-gas-geyser-dg-55-super-dlx-auto",
-    "available": false
+    "available": true
   },
   {
     "name": "Canon Water Dispenser CA-103",
@@ -12477,7 +12477,7 @@
     "name": "Nasgas E+G Geyser 35 Gallon (DEG-35) Super Heavy Auto",
     "price": 58700.0,
     "url": "https://japanelectronics.com.pk/products/nasgas-electric-gas-geyser-35-gallon-deg-35-super-heavy-auto",
-    "available": false
+    "available": true
   },
   {
     "name": "Nasgas Kitchen Hoods KHD-300",

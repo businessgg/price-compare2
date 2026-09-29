@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-29T14:07:42.918200+00:00",
+  "last_updated": "2026-09-29T15:08:41.876529+00:00",
   "my_store_name": "Bismillah Electronics",
   "competitor_name": "Japan Electronics",
   "total_my_products": 1253,
@@ -1286,12 +1286,12 @@
       "my_available": true,
       "my_url": "https://bismillahelectronics.pk/products/samsug-led-tv-65-inch-cy-65du8000",
       "competitor_name": "Samsung LED 65\" CY-65DU8000",
-      "competitor_price": 264999.0,
+      "competitor_price": 280000.0,
       "competitor_available": true,
       "competitor_url": "https://japanelectronics.com.pk/products/samsung-led-65-cy-65du8000usmz",
       "match_confidence": 85.2,
       "status": "matched",
-      "price_diff": -99.0,
+      "price_diff": -15100.0,
       "cheaper": "us"
     },
     {

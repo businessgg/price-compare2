@@ -1,9 +1,9 @@
 {
-  "last_updated": "2026-09-30T07:07:35.647237+00:00",
+  "last_updated": "2026-09-30T08:07:30.799370+00:00",
   "my_store_name": "Bismillah Electronics",
   "competitor_name": "Japan Electronics",
   "total_my_products": 1253,
-  "total_competitor_products": 2144,
+  "total_competitor_products": 2145,
   "matched_count": 967,
   "results": [
     {
@@ -17547,6 +17547,20 @@
       "status": "matched",
       "price_diff": 76100.0,
       "cheaper": "competitor"
+    },
+    {
+      "product_name": "Beetro Fast Electric Geyser FFE-30 (30 Ltr) Solar Compatible",
+      "my_price": null,
+      "my_available": null,
+      "my_url": null,
+      "competitor_name": "Beetro Fast Electric Geyser FFE-30 (30 Ltr) Solar Compatible",
+      "competitor_price": 30900.0,
+      "competitor_available": false,
+      "competitor_url": "https://japanelectronics.com.pk/products/beetro-fast-electric-geyser-ffe-30-30-ltr-solar-compatible",
+      "match_confidence": 0,
+      "status": "only_competitor",
+      "price_diff": null,
+      "cheaper": null
     },
     {
       "product_name": "ANEX HAND BLENDER (AG-143)",

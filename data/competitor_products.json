@@ -4863,7 +4863,7 @@
     "name": "NASGAS COOKING RANGE EXC-534 CRYSTAL GLASS 5 BURNERS",
     "price": 58110.0,
     "url": "https://japanelectronics.com.pk/products/nasgas-cooking-range-exc-534-crystal-glass-5-burners",
-    "available": false
+    "available": true
   },
   {
     "name": "Canon Built in Microwave Oven BMO-26 T",
@@ -11197,7 +11197,7 @@
   },
   {
     "name": "Kenwood Refrigerator Krf-24457 GD Mrg NEW PERSONA PLUS (320-L)",
-    "price": 97000.0,
+    "price": 95000.0,
     "url": "https://japanelectronics.com.pk/products/kenwood-refrigerator-krf-24457-gd-mrg-new-persona-plus-320-l",
     "available": true
   },
@@ -11623,9 +11623,9 @@
   },
   {
     "name": "Kenwood Refrigerator KRF-23357 GD New Mrg Persona Plus (280-L)",
-    "price": 84000.0,
+    "price": 82000.0,
     "url": "https://japanelectronics.com.pk/products/kenwood-refrigerator-krf-23357-gd-new-mrg-persona-plus-280-l",
-    "available": true
+    "available": false
   },
   {
     "name": "Haier Refrigerator HRF-438 EPRW Red E-Star Series",

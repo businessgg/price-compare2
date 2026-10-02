@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-02T14:07:11.479829+00:00",
+  "last_updated": "2026-10-02T15:07:23.611763+00:00",
   "my_store_name": "Bismillah Electronics",
   "competitor_name": "Japan Electronics",
   "total_my_products": 1253,
@@ -11054,7 +11054,7 @@
     },
     {
       "product_name": "TCL LED TV 40 Inch 40S51K (Q LED)",
-      "my_price": 64550.0,
+      "my_price": 68500.0,
       "my_available": true,
       "my_url": "https://bismillahelectronics.pk/products/tcl-led-tv-40-inch-40s51k-q-led",
       "competitor_name": "TCL LED 40\" 40S51K (Q LED)",
@@ -11063,7 +11063,7 @@
       "competitor_url": "https://japanelectronics.com.pk/products/tcl-led-40-40s51k-q-led",
       "match_confidence": 84.7,
       "status": "matched",
-      "price_diff": -4450.0,
+      "price_diff": -500.0,
       "cheaper": "us"
     },
     {

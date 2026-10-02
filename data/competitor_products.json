@@ -3735,7 +3735,7 @@
     "name": "Canon Fast Electric Geyser FEWH-80 LY",
     "price": 48400.0,
     "url": "https://japanelectronics.com.pk/products/canon-fast-electric-geyser-fewh-80-ly",
-    "available": true
+    "available": false
   },
   {
     "name": "Canon Instant Gas Geyser 16D+ Dual",
@@ -5037,7 +5037,7 @@
     "name": "Hisense Split AC Inverter 1.5 Ton 18TV60HC T3",
     "price": 145000.0,
     "url": "https://japanelectronics.com.pk/products/hisense-split-ac-inverter-1-5-ton-18tv60hc-60",
-    "available": false
+    "available": true
   },
   {
     "name": "TCL LED 85\" 85P79L (Q LED)",
@@ -6427,7 +6427,7 @@
   },
   {
     "name": "JBL Cinema Sound Bar SB-170",
-    "price": 71900.0,
+    "price": 59900.0,
     "url": "https://japanelectronics.com.pk/products/jbl-cinema-sound-bar-sb-170",
     "available": false
   },
@@ -8427,7 +8427,7 @@
     "name": "Canon Electric Geyser EWT-50",
     "price": 27400.0,
     "url": "https://japanelectronics.com.pk/products/canon-electric-geyser-ewt-50-50-ltr",
-    "available": true
+    "available": false
   },
   {
     "name": "Dawlance No Frost Ref DMD-9060 GD",
@@ -10387,7 +10387,7 @@
   },
   {
     "name": "Haier LED 50\" 50S80EUX (Q LED)",
-    "price": 107000.0,
+    "price": 108000.0,
     "url": "https://japanelectronics.com.pk/products/haier-led-50-50s80eux-q-led",
     "available": true
   },
@@ -10459,7 +10459,7 @@
   },
   {
     "name": "Haier LED 55\" H55S80EUX",
-    "price": 126000.0,
+    "price": 127000.0,
     "url": "https://japanelectronics.com.pk/products/haier-led-55-h55s80eux",
     "available": true
   },
@@ -11101,7 +11101,7 @@
   },
   {
     "name": "WestPoint Insect Killer WF-7110",
-    "price": 14500.0,
+    "price": 10900.0,
     "url": "https://japanelectronics.com.pk/products/westpoint-insect-killer-wf-7110",
     "available": true
   },
@@ -11227,7 +11227,7 @@
   },
   {
     "name": "Super Asia Instant Gas Geyser GH-106DI LPG",
-    "price": 20900.0,
+    "price": 17999.0,
     "url": "https://japanelectronics.com.pk/products/super-asia-instant-gas-geyser-gh-106di-lpg",
     "available": false
   },
@@ -12699,7 +12699,7 @@
     "name": "Dawlance Washing Machine DW-10500",
     "price": 47000.0,
     "url": "https://japanelectronics.com.pk/products/dawlance-washing-machine-dw-10500",
-    "available": true
+    "available": false
   },
   {
     "name": "Super Asia Washing Machine Easy Wash SA-245",

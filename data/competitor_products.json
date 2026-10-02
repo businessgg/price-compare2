@@ -163,7 +163,7 @@
   },
   {
     "name": "TCL LED 43\" 43P7L (Q LED)",
-    "price": 109000.0,
+    "price": 112000.0,
     "url": "https://japanelectronics.com.pk/products/tcl-led-43-43p7l-q-led",
     "available": true
   },
@@ -247,7 +247,7 @@
   },
   {
     "name": "HAIER LED 55\" 55S81GUX (Q LED)",
-    "price": 126000.0,
+    "price": 127000.0,
     "url": "https://japanelectronics.com.pk/products/haier-led-55-55s81gux-q-led",
     "available": true
   },
@@ -265,13 +265,13 @@
   },
   {
     "name": "Haier LED 55\" 55S80GUX (QLED)",
-    "price": 126000.0,
+    "price": 127000.0,
     "url": "https://japanelectronics.com.pk/products/haier-led-55-55s80gux-qled",
     "available": true
   },
   {
     "name": "Haier LED 50\" 50S81GFX (QLED)",
-    "price": 87000.0,
+    "price": 89000.0,
     "url": "https://japanelectronics.com.pk/products/haier-led-50-50s81gfx-qled",
     "available": true
   },
@@ -415,7 +415,7 @@
   },
   {
     "name": "TCL TAWM (TAC-P212TLG)",
-    "price": 132900.0,
+    "price": 132950.0,
     "url": "https://japanelectronics.com.pk/products/tcl-tawm-tac-p212tlg",
     "available": true
   },
@@ -475,7 +475,7 @@
   },
   {
     "name": "KENWOOD W.M (KWM-21159 ROSE PINK OPAL)",
-    "price": 37000.0,
+    "price": 36000.0,
     "url": "https://japanelectronics.com.pk/products/kenwood-w-m-kwm-21159-rose-pink-opal",
     "available": true
   },
@@ -505,7 +505,7 @@
   },
   {
     "name": "Haier TAWM (HWM 100-1269S6 Grey)",
-    "price": 54000.0,
+    "price": 52000.0,
     "url": "https://japanelectronics.com.pk/products/haier-tawm-hwm-100-1269s6-grey",
     "available": true
   },
@@ -667,7 +667,7 @@
   },
   {
     "name": "PEL REF (PRLR-1100 SD LIFE)",
-    "price": 45499.0,
+    "price": 41000.0,
     "url": "https://japanelectronics.com.pk/products/pel-ref-prlr-1100-sd-life",
     "available": true
   },
@@ -1039,7 +1039,7 @@
   },
   {
     "name": "HAIER SBS REF HRF-578TGG",
-    "price": 214000.0,
+    "price": 213000.0,
     "url": "https://japanelectronics.com.pk/products/haier-sbs-ref-hrf-578tgg",
     "available": true
   },
@@ -1683,7 +1683,7 @@
     "name": "PHILIPS HAIR CURLER (BHB-869/00)",
     "price": 17900.0,
     "url": "https://japanelectronics.com.pk/products/philips-hair-curler-bhb-869-00",
-    "available": false
+    "available": true
   },
   {
     "name": "PHILIPS HAIR STRAIGHTENER (HP-8316/00)",
@@ -1795,7 +1795,7 @@
   },
   {
     "name": "TCL LED 75\" 75T6D (Q LED)",
-    "price": 282500.0,
+    "price": 284500.0,
     "url": "https://japanelectronics.com.pk/products/tcl-led-75-75t6d-q-led",
     "available": true
   },
@@ -1879,7 +1879,7 @@
   },
   {
     "name": "Haier LED 65\" 65S80GUX (Q LED)",
-    "price": 195000.0,
+    "price": 190000.0,
     "url": "https://japanelectronics.com.pk/products/haier-led-65-65s80gux-q-led",
     "available": true
   },
@@ -1891,13 +1891,13 @@
   },
   {
     "name": "Haier LED 50\" 50S80GFX (Q LED)",
-    "price": 87000.0,
+    "price": 89000.0,
     "url": "https://japanelectronics.com.pk/products/haier-led-50-50s80gfx-q-led",
     "available": true
   },
   {
     "name": "Haier LED 50\" 50S80GUX (Q LED)",
-    "price": 107000.0,
+    "price": 108000.0,
     "url": "https://japanelectronics.com.pk/products/haier-led-50-50s80gux-q-led",
     "available": false
   },
@@ -2659,25 +2659,25 @@
   },
   {
     "name": "TCL LED 65\" 65T6D (Q LED)",
-    "price": 196000.0,
+    "price": 198000.0,
     "url": "https://japanelectronics.com.pk/products/tcl-led-65-65t6d-q-led",
     "available": true
   },
   {
     "name": "TCL LED 55\" 55T6D (Q LED)",
-    "price": 134000.0,
+    "price": 135500.0,
     "url": "https://japanelectronics.com.pk/products/tcl-led-55-55t6d-q-led",
     "available": true
   },
   {
     "name": "TCL LED 50\" 50T6D (Q LED)",
-    "price": 115000.0,
+    "price": 117000.0,
     "url": "https://japanelectronics.com.pk/products/tcl-led-50-50t6d-q-led",
     "available": true
   },
   {
     "name": "TCL LED 43\" 43T6D (Q LED)",
-    "price": 96500.0,
+    "price": 99500.0,
     "url": "https://japanelectronics.com.pk/products/tcl-led-43-43t6d-q-led",
     "available": true
   },
@@ -2911,7 +2911,7 @@
   },
   {
     "name": "TCl Floor Standing AC Inverter 2.0 Ton TAC-24T5-CFRESH",
-    "price": 309900.0,
+    "price": 322000.0,
     "url": "https://japanelectronics.com.pk/products/tcl-floor-standing-ac-inverter-2-0-ton-tac-24t5-cfresh",
     "available": true
   },
@@ -2971,7 +2971,7 @@
   },
   {
     "name": "Haier D.Freezer (HDF-175 IG Inverter Grey)",
-    "price": 57000.0,
+    "price": 59000.0,
     "url": "https://japanelectronics.com.pk/products/haier-d-freezer-hdf-175-ig-inverter-grey",
     "available": false
   },
@@ -3295,7 +3295,7 @@
   },
   {
     "name": "TCL LED 55\" 55P6L (4K UHD)",
-    "price": 122500.0,
+    "price": 124500.0,
     "url": "https://japanelectronics.com.pk/products/tcl-led-55-55p6l-4k-uhd",
     "available": true
   },
@@ -4255,7 +4255,7 @@
   },
   {
     "name": "Haier D.Freezer (HDF-175 Inverter)",
-    "price": 57000.0,
+    "price": 59000.0,
     "url": "https://japanelectronics.com.pk/products/haier-d-freezer-hdf-175-inverter",
     "available": false
   },
@@ -5041,37 +5041,37 @@
   },
   {
     "name": "TCL LED 85\" 85P79L (Q LED)",
-    "price": 528000.0,
+    "price": 531000.0,
     "url": "https://japanelectronics.com.pk/products/tcl-led-85-85p79l-q-led",
     "available": true
   },
   {
     "name": "TCL LED 75\" 75P79L (Q LED)",
-    "price": 331500.0,
+    "price": 334500.0,
     "url": "https://japanelectronics.com.pk/products/tcl-led-75-75p79l-q-led",
     "available": true
   },
   {
     "name": "TCL LED 65\" 65P79L (Q LED)",
-    "price": 228000.0,
+    "price": 231000.0,
     "url": "https://japanelectronics.com.pk/products/tcl-led-65-65p79l-q-led",
     "available": true
   },
   {
     "name": "TCL LED 55\" 55P79L (Q LED)",
-    "price": 157000.0,
+    "price": 160000.0,
     "url": "https://japanelectronics.com.pk/products/tcl-led-55-55p79l-q-led",
     "available": true
   },
   {
     "name": "TCL LED 50\" 50P79L (Q LED)",
-    "price": 133000.0,
+    "price": 136000.0,
     "url": "https://japanelectronics.com.pk/products/tcl-led-50-50p79l-q-led",
     "available": true
   },
   {
     "name": "TCL LED 43\" 43P79L",
-    "price": 109000.0,
+    "price": 112000.0,
     "url": "https://japanelectronics.com.pk/products/tcl-led-43-43p79l",
     "available": true
   },
@@ -5209,7 +5209,7 @@
   },
   {
     "name": "HAIER SBS REF HRF-578TBG (IOT)",
-    "price": 214000.0,
+    "price": 213000.0,
     "url": "https://japanelectronics.com.pk/products/haier-sbs-ref-hrf-578tbg-iot",
     "available": true
   },
@@ -5821,7 +5821,7 @@
   },
   {
     "name": "TCL FAWM (C512WDG)",
-    "price": 246900.0,
+    "price": 246950.0,
     "url": "https://japanelectronics.com.pk/products/tcl-fawm-c512wdg",
     "available": true
   },
@@ -6235,7 +6235,7 @@
   },
   {
     "name": "TCL FAWM (C2110FLG)",
-    "price": 170900.0,
+    "price": 170950.0,
     "url": "https://japanelectronics.com.pk/products/tcl-fawm-c2110flg",
     "available": true
   },
@@ -7669,7 +7669,7 @@
   },
   {
     "name": "Haier LED 43\" 43S81EUX (Q LED)",
-    "price": 90000.0,
+    "price": 91000.0,
     "url": "https://japanelectronics.com.pk/products/haier-led-43-43s81eux-q-led",
     "available": true
   },
@@ -7717,7 +7717,7 @@
   },
   {
     "name": "TCL Split AC Inverter 1.5 Ton TAC-18Freshin 3.0 (T5)",
-    "price": 219900.0,
+    "price": 225000.0,
     "url": "https://japanelectronics.com.pk/products/tcl-split-ac-inverter-1-5-ton-tac-18freshin-3-0-t5",
     "available": true
   },
@@ -7969,7 +7969,7 @@
   },
   {
     "name": "Haier LED 85\" 85M80FUX",
-    "price": 480000.0,
+    "price": 475000.0,
     "url": "https://japanelectronics.com.pk/products/haier-led-85-85m80fux",
     "available": true
   },
@@ -8227,7 +8227,7 @@
   },
   {
     "name": "Kenwood Garment Steamer GSP-65 (IN) Black",
-    "price": 18900.0,
+    "price": 17900.0,
     "url": "https://japanelectronics.com.pk/products/kenwood-garment-steamer-gsp-65-in-black",
     "available": true
   },
@@ -8983,7 +8983,7 @@
   },
   {
     "name": "Haier LED 75\" 75M80FUX (MINI Q LED)",
-    "price": 305000.0,
+    "price": 320000.0,
     "url": "https://japanelectronics.com.pk/products/haier-led-75-75m80fux-mini-q-led",
     "available": false
   },
@@ -9721,13 +9721,13 @@
   },
   {
     "name": "Haier LED 65\" 65S81EUX (Q LED)",
-    "price": 195000.0,
+    "price": 190000.0,
     "url": "https://japanelectronics.com.pk/products/haier-led-65-65s81eux-q-led",
     "available": true
   },
   {
     "name": "Haier LED 65\" 65S80EUX (Q LED)",
-    "price": 195000.0,
+    "price": 190000.0,
     "url": "https://japanelectronics.com.pk/products/haier-led-65-65s80eux-q-led",
     "available": false
   },
@@ -9751,7 +9751,7 @@
   },
   {
     "name": "Haier LED 43\" 43S80EUX (Q LED)",
-    "price": 90000.0,
+    "price": 91000.0,
     "url": "https://japanelectronics.com.pk/products/haier-led-43-43s80eux-q-led",
     "available": true
   },
@@ -9763,13 +9763,13 @@
   },
   {
     "name": "Haier LED 55\" 55S81EUX (Q LED)",
-    "price": 126000.0,
+    "price": 127000.0,
     "url": "https://japanelectronics.com.pk/products/haier-led-55-55s81eux-q-led",
     "available": true
   },
   {
     "name": "Haier LED 50\" 50S81EUX (Q LED)",
-    "price": 107000.0,
+    "price": 108000.0,
     "url": "https://japanelectronics.com.pk/products/haier-led-50-50s81eux-q-led",
     "available": true
   },
@@ -9901,7 +9901,7 @@
   },
   {
     "name": "TCL Split AC Inverter 1.0 Ton TAC-12Freshin 3.0",
-    "price": 169900.0,
+    "price": 175000.0,
     "url": "https://japanelectronics.com.pk/products/tcl-split-ac-inverter-1-0-ton-tac-12freshin-3-0",
     "available": false
   },

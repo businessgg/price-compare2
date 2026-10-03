@@ -1,11 +1,39 @@
 {
-  "last_updated": "2026-10-03T10:04:17.466649+00:00",
+  "last_updated": "2026-10-03T11:59:22.470104+00:00",
   "my_store_name": "Bismillah Electronics",
   "competitor_name": "Japan Electronics",
-  "total_my_products": 1253,
+  "total_my_products": 1255,
   "total_competitor_products": 2145,
-  "matched_count": 967,
+  "matched_count": 969,
   "results": [
+    {
+      "product_name": "American General AC 1.5 Ton Inverter 18K Heaven ES R410",
+      "my_price": 161000.0,
+      "my_available": true,
+      "my_url": "https://bismillahelectronics.pk/products/american-general-ac-1-5-ton-inverter-18k-heaven-es-r410",
+      "competitor_name": "American General Split AC Inverter 1.0 Ton Heaven 12K T3 (80%)",
+      "competitor_price": 129900.0,
+      "competitor_available": false,
+      "competitor_url": "https://japanelectronics.com.pk/products/american-general-split-ac-inverter-1-0-ton-heaven-12k-t3-80",
+      "match_confidence": 78.6,
+      "status": "matched",
+      "price_diff": 31100.0,
+      "cheaper": "competitor"
+    },
+    {
+      "product_name": "American General AC 1.0 Ton Inverter 12K Cool Wave R32",
+      "my_price": 117000.0,
+      "my_available": true,
+      "my_url": "https://bismillahelectronics.pk/products/american-general-ac-1-0-ton-inverter-12k-cool-wave-r32",
+      "competitor_name": "American General Split AC Inverter 1.0 Ton Royal 12K T3 (80%)",
+      "competitor_price": 129900.0,
+      "competitor_available": false,
+      "competitor_url": "https://japanelectronics.com.pk/products/american-general-split-ac-inverter-1-0-ton-royal-12k-t3-80",
+      "match_confidence": 74.8,
+      "status": "matched",
+      "price_diff": -12900.0,
+      "cheaper": "us"
+    },
     {
       "product_name": "Dawlance Front Load Washing Machine DWF-7120 W",
       "my_price": 107900.0,
@@ -12174,7 +12202,7 @@
     },
     {
       "product_name": "Anex Electric Oven AG-3073",
-      "my_price": 27600.0,
+      "my_price": 30600.0,
       "my_available": true,
       "my_url": "https://bismillahelectronics.pk/products/anex-electric-oven-toaster-3073",
       "competitor_name": "Anex Electric Kettle 4057",
@@ -12183,7 +12211,7 @@
       "competitor_url": "https://japanelectronics.com.pk/products/anex-electric-kettle-4057",
       "match_confidence": 70.6,
       "status": "matched",
-      "price_diff": 21100.0,
+      "price_diff": 24100.0,
       "cheaper": "competitor"
     },
     {
@@ -35505,20 +35533,6 @@
       "competitor_price": 113800.0,
       "competitor_available": false,
       "competitor_url": "https://japanelectronics.com.pk/products/ecostar-split-ac-inverter-1-0-ton-es-12du01bc",
-      "match_confidence": 0,
-      "status": "only_competitor",
-      "price_diff": null,
-      "cheaper": null
-    },
-    {
-      "product_name": "American General Split AC Inverter 1.0 Ton Heaven 12K T3 (80%)",
-      "my_price": null,
-      "my_available": null,
-      "my_url": null,
-      "competitor_name": "American General Split AC Inverter 1.0 Ton Heaven 12K T3 (80%)",
-      "competitor_price": 129900.0,
-      "competitor_available": false,
-      "competitor_url": "https://japanelectronics.com.pk/products/american-general-split-ac-inverter-1-0-ton-heaven-12k-t3-80",
       "match_confidence": 0,
       "status": "only_competitor",
       "price_diff": null,

@@ -1,9 +1,9 @@
 {
-  "last_updated": "2026-10-05T09:08:05.389130+00:00",
+  "last_updated": "2026-10-05T10:08:42.972298+00:00",
   "my_store_name": "Bismillah Electronics",
   "competitor_name": "Japan Electronics",
   "total_my_products": 1262,
-  "total_competitor_products": 2145,
+  "total_competitor_products": 2147,
   "matched_count": 974,
   "results": [
     {
@@ -17673,6 +17673,34 @@
       "status": "matched",
       "price_diff": 76100.0,
       "cheaper": "competitor"
+    },
+    {
+      "product_name": "Beetro Fast Electric Geyser (WFE-80 Ltr) Solar Compatible",
+      "my_price": null,
+      "my_available": null,
+      "my_url": null,
+      "competitor_name": "Beetro Fast Electric Geyser (WFE-80 Ltr) Solar Compatible",
+      "competitor_price": 34900.0,
+      "competitor_available": false,
+      "competitor_url": "https://japanelectronics.com.pk/products/beetro-fast-electric-geyser-wfe-80-ltr-solar-compatible",
+      "match_confidence": 0,
+      "status": "only_competitor",
+      "price_diff": null,
+      "cheaper": null
+    },
+    {
+      "product_name": "Beetro Fast Electric Geyser (WFE-100 Ltr) Solar Compatible",
+      "my_price": null,
+      "my_available": null,
+      "my_url": null,
+      "competitor_name": "Beetro Fast Electric Geyser (WFE-100 Ltr) Solar Compatible",
+      "competitor_price": 37900.0,
+      "competitor_available": false,
+      "competitor_url": "https://japanelectronics.com.pk/products/beetro-fast-electric-geyser-wfe-100-ltr-solar-compatible",
+      "match_confidence": 0,
+      "status": "only_competitor",
+      "price_diff": null,
+      "cheaper": null
     },
     {
       "product_name": "Beetro Fast Electric Geyser FFE-30 (30 Ltr) Solar Compatible",

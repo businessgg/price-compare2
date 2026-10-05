@@ -1,11 +1,25 @@
 {
-  "last_updated": "2026-10-05T11:07:04.745485+00:00",
+  "last_updated": "2026-10-05T12:07:44.271427+00:00",
   "my_store_name": "Bismillah Electronics",
   "competitor_name": "Japan Electronics",
-  "total_my_products": 1262,
+  "total_my_products": 1263,
   "total_competitor_products": 2147,
-  "matched_count": 974,
+  "matched_count": 975,
   "results": [
+    {
+      "product_name": "Ecostar AC 1.0 Ton Inverter 12EM02WS",
+      "my_price": 110900.0,
+      "my_available": true,
+      "my_url": "https://bismillahelectronics.pk/products/ecostar-ac-1-0-ton-inverter-12em02ws",
+      "competitor_name": "Ecostar AC 1.0 Ton Split Inverter ES-12EM01WS SA+",
+      "competitor_price": 110900.0,
+      "competitor_available": false,
+      "competitor_url": "https://japanelectronics.com.pk/products/ecostar-ac-1-0-ton-split-inverter-es-12em01ws-sa",
+      "match_confidence": 75.3,
+      "status": "matched",
+      "price_diff": 0.0,
+      "cheaper": "same"
+    },
     {
       "product_name": "Ecostar AC 2.0 Ton Inverter Floor Standing EF-24GL02S",
       "my_price": 269000.0,
@@ -17256,7 +17270,7 @@
     },
     {
       "product_name": "Dawlance Microwave DW 220 Solo Series",
-      "my_price": 14600.0,
+      "my_price": 18250.0,
       "my_available": true,
       "my_url": "https://bismillahelectronics.pk/products/dawlance-microwave-dw-220-solo-series",
       "competitor_name": "Dawlance Microwave Oven DW-220 S Solo",
@@ -17265,8 +17279,8 @@
       "competitor_url": "https://japanelectronics.com.pk/products/dawlance-microwave-oven-dw-220-s-solo",
       "match_confidence": 78.4,
       "status": "matched",
-      "price_diff": -1500.0,
-      "cheaper": "us"
+      "price_diff": 2150.0,
+      "cheaper": "competitor"
     },
     {
       "product_name": "Dawlance Built-In Microwave Oven DBMO 25 BG",

@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-05T07:11:42.385643+00:00",
+  "last_updated": "2026-10-05T08:07:54.710816+00:00",
   "my_store_name": "Bismillah Electronics",
   "competitor_name": "Japan Electronics",
   "total_my_products": 1261,
@@ -4208,7 +4208,7 @@
     },
     {
       "product_name": "Anex Dough Maker AG-2127",
-      "my_price": 16800.0,
+      "my_price": 19500.0,
       "my_available": true,
       "my_url": "https://bismillahelectronics.pk/products/anex-dough-maker-ag-2127",
       "competitor_name": "ANEX Dough Maker (AG-2127)",
@@ -4217,8 +4217,8 @@
       "competitor_url": "https://japanelectronics.com.pk/products/anex-dough-maker-ag-2127",
       "match_confidence": 84.0,
       "status": "matched",
-      "price_diff": -140.0,
-      "cheaper": "us"
+      "price_diff": 2560.0,
+      "cheaper": "competitor"
     },
     {
       "product_name": "Anex Sandwich Maker AG-2047",

@@ -1,11 +1,25 @@
 {
-  "last_updated": "2026-10-05T12:07:44.271427+00:00",
+  "last_updated": "2026-10-05T13:10:32.018970+00:00",
   "my_store_name": "Bismillah Electronics",
   "competitor_name": "Japan Electronics",
-  "total_my_products": 1263,
+  "total_my_products": 1264,
   "total_competitor_products": 2147,
   "matched_count": 975,
   "results": [
+    {
+      "product_name": "Electrolux AC 1.0 Ton Inverter Elsac-12K Active Air White",
+      "my_price": 134900.0,
+      "my_available": true,
+      "my_url": "https://bismillahelectronics.pk/products/electrolux-ac-1-0-ton-inverter-elsac-12k-active-air-white",
+      "competitor_name": null,
+      "competitor_price": null,
+      "competitor_available": null,
+      "competitor_url": null,
+      "match_confidence": 0,
+      "status": "only_us",
+      "price_diff": null,
+      "cheaper": null
+    },
     {
       "product_name": "Ecostar AC 1.0 Ton Inverter 12EM02WS",
       "my_price": 110900.0,

@@ -1,15 +1,15 @@
 [
   {
     "name": "Beetro Fast Electric Geyser (WFE-80 Ltr) Solar Compatible",
-    "price": 34900.0,
+    "price": 50000.0,
     "url": "https://japanelectronics.com.pk/products/beetro-fast-electric-geyser-wfe-80-ltr-solar-compatible",
-    "available": false
+    "available": true
   },
   {
     "name": "Beetro Fast Electric Geyser (WFE-100 Ltr) Solar Compatible",
-    "price": 37900.0,
+    "price": 54000.0,
     "url": "https://japanelectronics.com.pk/products/beetro-fast-electric-geyser-wfe-100-ltr-solar-compatible",
-    "available": false
+    "available": true
   },
   {
     "name": "Beetro Fast Electric Geyser FFE-30 (30 Ltr) Solar Compatible",
@@ -307,7 +307,7 @@
   },
   {
     "name": "Orient Split AC Inverter 1.5 Ton 22S Pure White T3+ (Gigatron Zline)",
-    "price": 214999.0,
+    "price": 209900.0,
     "url": "https://japanelectronics.com.pk/products/orient-split-ac-inverter-1-5-ton-22s-pure-white-t3-gigatron-zline",
     "available": true
   },
@@ -411,7 +411,7 @@
     "name": "DAWLANCE WATER DISPENSER (WD-1051CN GREY)",
     "price": 36900.0,
     "url": "https://japanelectronics.com.pk/products/dawlance-water-dispenser-wd-1051cn-grey",
-    "available": true
+    "available": false
   },
   {
     "name": "DAWLANCE WATER DISPENSER (WD-1051 HC WHITE)",
@@ -693,7 +693,7 @@
     "name": "PEL REF (PRINVO-2350 SILVER MOONLIGHT) VCM INVERTER",
     "price": 84900.0,
     "url": "https://japanelectronics.com.pk/products/pel-ref-prinvo-2350-silver-moonlight-vcm-inverter",
-    "available": true
+    "available": false
   },
   {
     "name": "PEL REF (PRGD-2350 RED BLAZE)",
@@ -1633,7 +1633,7 @@
   },
   {
     "name": "REMINGTON HAIR CURLER CI5318",
-    "price": 14500.0,
+    "price": 13900.0,
     "url": "https://japanelectronics.com.pk/products/remington-hair-curler-ci5318",
     "available": true
   },
@@ -2535,7 +2535,7 @@
     "name": "Dawlance REF 9140 WB E-Chrome Metallic Grey",
     "price": 54000.0,
     "url": "https://japanelectronics.com.pk/products/dawlance-ref-9140-wb-e-chrome-metallic-grey",
-    "available": false
+    "available": true
   },
   {
     "name": "Beetro Room Air Cooler (UT-100C White/Black)",
@@ -2985,7 +2985,7 @@
     "name": "Haier D.Freezer (HDF-175 IG Inverter Grey)",
     "price": 59000.0,
     "url": "https://japanelectronics.com.pk/products/haier-d-freezer-hdf-175-ig-inverter-grey",
-    "available": false
+    "available": true
   },
   {
     "name": "LG LED 75\" 75QNED86ASA (4K UHD)",
@@ -3021,7 +3021,7 @@
     "name": "Haier Air Fryer (HAF-50DB Digital)",
     "price": 21500.0,
     "url": "https://japanelectronics.com.pk/products/haier-air-fryer-haf-50db-digital",
-    "available": true
+    "available": false
   },
   {
     "name": "Haier Air Fryer (HAF-50MB)",
@@ -3261,7 +3261,7 @@
     "name": "Orient Split AC Inverter 1.0 Ton 12X Infinity",
     "price": 139900.0,
     "url": "https://japanelectronics.com.pk/products/orient-split-ac-inverter-1-0-ton-12x-infinity",
-    "available": false
+    "available": true
   },
   {
     "name": "TCL LED 98\" 98P8L (MINI Q LED)",
@@ -3367,7 +3367,7 @@
   },
   {
     "name": "GFC Ceiling Fan 56\" (Karachi Model)",
-    "price": 9195.0,
+    "price": 10300.0,
     "url": "https://japanelectronics.com.pk/products/gfc-ceiling-fan-56-karachi-model",
     "available": true
   },
@@ -3723,7 +3723,7 @@
     "name": "Super Asia E+G Geyser 55 Gallon (GEH-755)",
     "price": 58900.0,
     "url": "https://japanelectronics.com.pk/products/super-asia-e-g-geyser-55-gallon-geh-755",
-    "available": false
+    "available": true
   },
   {
     "name": "Super Asia Electric Geyser EH-630",
@@ -3927,7 +3927,7 @@
     "name": "Dawlance Refrigerator 9160 LF Chrome Hairline Black",
     "price": 71000.0,
     "url": "https://japanelectronics.com.pk/products/dawlance-ref-9160-lf-chrome-hairline-black",
-    "available": false
+    "available": true
   },
   {
     "name": "Dawlance Refrigerator 91999 Avante + Cloud White (GD INV)",
@@ -4639,7 +4639,7 @@
   },
   {
     "name": "Dawlance Juicer DWHJ-4002 B",
-    "price": 11100.0,
+    "price": 10500.0,
     "url": "https://japanelectronics.com.pk/products/dawlance-juicer-dwhj-4002-b",
     "available": true
   },
@@ -5199,7 +5199,7 @@
     "name": "GREE SPLIT AC INVERTER 2.0 TON GS-24AITH21B",
     "price": 264900.0,
     "url": "https://japanelectronics.com.pk/products/gree-split-ac-inverter-2-0-ton-gs-24aith21b",
-    "available": false
+    "available": true
   },
   {
     "name": "Samsung Refrigerator Side By Side RS70F65QETTR (Metal)",
@@ -5505,7 +5505,7 @@
     "name": "Haier D.Freezer (HDF-285 IG Inverter Grey)",
     "price": 83000.0,
     "url": "https://japanelectronics.com.pk/products/haier-deep-freezer-hdf-285ig-inverter",
-    "available": false
+    "available": true
   },
   {
     "name": "Dawlance D.Freezer (DF-400 Commercial White)",
@@ -5595,7 +5595,7 @@
     "name": "TCL AC 2.0 Ton Split Inverter TAC-24T5-SMT-S",
     "price": 213000.0,
     "url": "https://japanelectronics.com.pk/products/tcl-ac-2-0-ton-split-inverter-tac-24t5-smt-s",
-    "available": true
+    "available": false
   },
   {
     "name": "Nasgas Room Air Cooler NAC-9400 (Copper)",
@@ -5679,7 +5679,7 @@
     "name": "Dawlance Side By Side Refrigerator DW 9055 INOX",
     "price": 245000.0,
     "url": "https://japanelectronics.com.pk/products/dawlance-side-by-side-refrigerator-dw-9055-inox",
-    "available": true
+    "available": false
   },
   {
     "name": "LG Top Mount Refrigerator GN-H702HMHZ",
@@ -6285,7 +6285,7 @@
     "name": "DAWLANCE REF 9101 SD (METALLIC GREY)",
     "price": 42000.0,
     "url": "https://japanelectronics.com.pk/products/dawlance-ref-9101-sd-metallic-grey",
-    "available": false
+    "available": true
   },
   {
     "name": "DAWLANCE HAND BLENDER DWHB-475 W",
@@ -6861,7 +6861,7 @@
     "name": "Dawlance Refrigerator 9140 WB E-Chrome Hairline Golden",
     "price": 54000.0,
     "url": "https://japanelectronics.com.pk/products/dawlance-ref-9140-wb-e-chrome-hairline-golden",
-    "available": false
+    "available": true
   },
   {
     "name": "Dawlance Refrigerator 9140 WB Chrome Pearl Copper",
@@ -8337,7 +8337,7 @@
     "name": "Black & Decker Food Processor FX-825",
     "price": 29000.0,
     "url": "https://japanelectronics.com.pk/products/black-decker-food-processor-fx-825",
-    "available": true
+    "available": false
   },
   {
     "name": "Haier Ref HRF-186 EBS (Silver)",
@@ -8395,7 +8395,7 @@
   },
   {
     "name": "ANEX DELUXE STAND MIXER Model AG-820",
-    "price": 29450.0,
+    "price": 28900.0,
     "url": "https://japanelectronics.com.pk/products/anex-deluxe-stand-mixer-model-ag-820",
     "available": true
   },
@@ -8521,7 +8521,7 @@
   },
   {
     "name": "Vatti Built In Oven (O-7519)",
-    "price": 167000.0,
+    "price": 128900.0,
     "url": "https://japanelectronics.com.pk/products/vatti-built-in-oven-o-7519",
     "available": true
   },
@@ -8595,7 +8595,7 @@
     "name": "ANEX Food Processor (AG-1141)",
     "price": 18730.0,
     "url": "https://japanelectronics.com.pk/products/anex-food-processor-ag-1141",
-    "available": false
+    "available": true
   },
   {
     "name": "ANEX Dry Iron (AG-2179)",
@@ -8785,7 +8785,7 @@
   },
   {
     "name": "Westpoint Food Processor WF-1844",
-    "price": 17500.0,
+    "price": 19900.0,
     "url": "https://japanelectronics.com.pk/products/westpoint-food-processor-wf-1844",
     "available": false
   },
@@ -8823,7 +8823,7 @@
     "name": "Westpoint Electric Kettle WF-6172",
     "price": 7900.0,
     "url": "https://japanelectronics.com.pk/products/westpoint-electric-kettle-wf-6172",
-    "available": true
+    "available": false
   },
   {
     "name": "Westpoint Electric Kettle WF-6171",
@@ -8865,7 +8865,7 @@
     "name": "Westpoint Blender & Grinder WF-367",
     "price": 16500.0,
     "url": "https://japanelectronics.com.pk/products/westpoint-blender-grinder-wf-367",
-    "available": true
+    "available": false
   },
   {
     "name": "Westpoint Blender & Grinder WF-364",
@@ -9057,7 +9057,7 @@
     "name": "Super Asia TAWM (SA-809G Graphite) Metal",
     "price": 60000.0,
     "url": "https://japanelectronics.com.pk/products/super-asia-tawm-sa-809g-graphite-metal",
-    "available": true
+    "available": false
   },
   {
     "name": "Super Asia TAWM (SA-809G Black) Metal",
@@ -10497,7 +10497,7 @@
     "name": "Homage Microwave Oven HDSO-2018W",
     "price": 17900.0,
     "url": "https://japanelectronics.com.pk/products/homage-microwave-oven-hdso-2018w",
-    "available": true
+    "available": false
   },
   {
     "name": "Homage Microwave Oven HDG-342S",
@@ -10641,7 +10641,7 @@
     "name": "Dawlance Air Fryer DWAF-6322 D",
     "price": 28200.0,
     "url": "https://japanelectronics.com.pk/products/dawlance-air-fryer-dwaf-6322-d",
-    "available": true
+    "available": false
   },
   {
     "name": "Dawlance Air Fryer DWAF-6321 L",
@@ -11619,7 +11619,7 @@
     "name": "Dawlance Refrigerator 9191 WB Avante + Platinium Silver (GD INV)",
     "price": 110000.0,
     "url": "https://japanelectronics.com.pk/products/dawlance-ref-9191-wb-avante-platinium-silver-gd-inv",
-    "available": true
+    "available": false
   },
   {
     "name": "Dawlance Refrigerator 9178 LF Avante + Midnight Green (GD INV)",
@@ -12379,7 +12379,7 @@
   },
   {
     "name": "Anex Oven Toaster 3073",
-    "price": 30510.0,
+    "price": 31400.0,
     "url": "https://japanelectronics.com.pk/products/anex-oven-toaster-3073",
     "available": true
   },
@@ -12481,7 +12481,7 @@
   },
   {
     "name": "Remington Hair Straightener S3500",
-    "price": 9200.0,
+    "price": 8400.0,
     "url": "https://japanelectronics.com.pk/products/remington-hair-straightener-s3500",
     "available": true
   },
@@ -12693,7 +12693,7 @@
     "name": "Dawlance Microwave Oven DW-295",
     "price": 18300.0,
     "url": "https://japanelectronics.com.pk/products/dawlance-microwave-oven-dw-295",
-    "available": true
+    "available": false
   },
   {
     "name": "Dawlance Microwave Oven DW-MD-10",

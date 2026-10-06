@@ -1,5 +1,29 @@
 [
   {
+    "name": "Tcl Ac 1.5 Ton Inverter 18SVN-AI-21",
+    "price": 153000.0,
+    "url": "https://bismillahelectronics.pk/products/tcl-ac-1-5-ton-inverter-18svn-ai-21",
+    "available": true
+  },
+  {
+    "name": "Tcl Ac 1.0 Ton Inverter 12T3-PRO-11",
+    "price": 125000.0,
+    "url": "https://bismillahelectronics.pk/products/tcl-ac-1-0-ton-inverter-12t3-pro-11",
+    "available": true
+  },
+  {
+    "name": "Tcl Ac 1.0 Ton Inverter 12SVN-AI-11",
+    "price": 112000.0,
+    "url": "https://bismillahelectronics.pk/products/tcl-ac-1-0-ton-inverter-12svn-ai-11",
+    "available": true
+  },
+  {
+    "name": "Super General Ac 1.0 Ton Inverter SGS-121I-PK",
+    "price": 140000.0,
+    "url": "https://bismillahelectronics.pk/products/super-general-ac-1-0-ton-inverter-sgs-121i-pk",
+    "available": true
+  },
+  {
     "name": "Skywood Ac Portable SKP-1221",
     "price": 123000.0,
     "url": "https://bismillahelectronics.pk/products/skywood-ac-portable-skp-1221",
@@ -267,12 +291,6 @@
     "name": "Dawlance AC 1.5 Ton Inverter Aeromax 30",
     "price": 118000.0,
     "url": "https://bismillahelectronics.pk/products/dawlance-ac-1-5-ton-inverter-aeromax-30",
-    "available": true
-  },
-  {
-    "name": "Candy AC 0.8 Ton Inverter CSU-10HF/013DC",
-    "price": 85000.0,
-    "url": "https://bismillahelectronics.pk/products/candy-ac-0-8-ton-inverter-csu-10hf-013dc",
     "available": true
   },
   {
@@ -1239,12 +1257,6 @@
     "name": "Haier AC 1.0 Ton Inverter Hsu-14hft (Dg) Grey",
     "price": 137000.0,
     "url": "https://bismillahelectronics.pk/products/haier-ac-1-0-ton-inverter-hsu-14hft-dg-grey",
-    "available": true
-  },
-  {
-    "name": "Candy AC 1.5 Ton Inverter CSU-18HF/013USDC",
-    "price": 132500.0,
-    "url": "https://bismillahelectronics.pk/products/candy-ac-1-5-ton-inverter-csu-18hf-013usdc",
     "available": true
   },
   {
@@ -3993,18 +4005,6 @@
     "name": "American General AC 1.5 Ton Pearl eSmart 18K",
     "price": 161000.0,
     "url": "https://bismillahelectronics.pk/products/american-general-ac-1-5-ton-pearl-esmart-18k",
-    "available": true
-  },
-  {
-    "name": "Candy AC Inverter 1.0 Ton CSU-13HF",
-    "price": 105000.0,
-    "url": "https://bismillahelectronics.pk/products/candy-ac-inverter-1-0-ton-csu-13hf",
-    "available": true
-  },
-  {
-    "name": "Candy AC Inverter 1.5 Ton CSU-19HF",
-    "price": 129000.0,
-    "url": "https://bismillahelectronics.pk/products/candy-ac-inverter-1-5-ton-csu-19hf",
     "available": true
   },
   {

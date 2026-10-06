@@ -411,7 +411,7 @@
     "name": "DAWLANCE WATER DISPENSER (WD-1051CN GREY)",
     "price": 36900.0,
     "url": "https://japanelectronics.com.pk/products/dawlance-water-dispenser-wd-1051cn-grey",
-    "available": false
+    "available": true
   },
   {
     "name": "DAWLANCE WATER DISPENSER (WD-1051 HC WHITE)",
@@ -681,7 +681,7 @@
     "name": "PEL REF (PRLR-1100 SD LIFE)",
     "price": 41000.0,
     "url": "https://japanelectronics.com.pk/products/pel-ref-prlr-1100-sd-life",
-    "available": true
+    "available": false
   },
   {
     "name": "PEL REF (PRINVOGD-2350 MAROON BLAZE) FLAT GLASS INVERTER",
@@ -759,7 +759,7 @@
     "name": "PEL Ref (PRINVOFGD-6470 Hazel Red Blaze) Flat Glass Inverteron",
     "price": 107900.0,
     "url": "https://japanelectronics.com.pk/products/pel-ref-prinvofgd-6470-hazel-red-blaze-flat-glass-inverteron",
-    "available": true
+    "available": false
   },
   {
     "name": "PEL Ref (PRGD-6470 Purple Blaze)",
@@ -1011,7 +1011,7 @@
     "name": "KENWOOD REF KRF-26757/453-L (GD) SMART INVERTER BKG",
     "price": 125000.0,
     "url": "https://japanelectronics.com.pk/products/kenwood-ref-krf-26757-453-l-gd-smart-inverter-bkg",
-    "available": true
+    "available": false
   },
   {
     "name": "KENWOOD REF KRF-25657/453-L (GD) SMART INVERTER BKG",
@@ -2895,7 +2895,7 @@
     "name": "Philips Food Processor HR-7301",
     "price": 27900.0,
     "url": "https://japanelectronics.com.pk/products/philips-food-processor-hr-7301",
-    "available": true
+    "available": false
   },
   {
     "name": "Dawlance Split AC Inverter 1.5 Ton Sprinter X 30 (T3)",
@@ -2947,7 +2947,7 @@
   },
   {
     "name": "Haier LED 32\" H32K85GX (Google TV)",
-    "price": 47900.0,
+    "price": 49900.0,
     "url": "https://japanelectronics.com.pk/products/haier-led-32-h32k85gx-google-tv",
     "available": true
   },
@@ -3789,7 +3789,7 @@
     "name": "Haier Microwave Oven (HMW-20MXP3)",
     "price": 14000.0,
     "url": "https://japanelectronics.com.pk/products/haier-microwave-oven-hmw-20mxp3",
-    "available": true
+    "available": false
   },
   {
     "name": "Haier Microwave Oven (HMW-20MPS)",
@@ -5373,7 +5373,7 @@
     "name": "Gree AC Floor Standing Inverter 3.0 Ton GF-36TFIH AA+",
     "price": 459000.0,
     "url": "https://japanelectronics.com.pk/products/gree-ac-floor-standing-inverter-3-0-ton-gf-36tfih-aa",
-    "available": false
+    "available": true
   },
   {
     "name": "Gree AC Split Inverter 1.5 Ton GS-18FITH6C AAA",
@@ -7759,7 +7759,7 @@
   },
   {
     "name": "Haier LED 40\" 40K85FFX",
-    "price": 64900.0,
+    "price": 66900.0,
     "url": "https://japanelectronics.com.pk/products/haier-led-40-40k85ffx",
     "available": true
   },
@@ -7999,7 +7999,7 @@
   },
   {
     "name": "Haier LED 50\" 50K85FUX",
-    "price": 100000.0,
+    "price": 111900.0,
     "url": "https://japanelectronics.com.pk/products/haier-led-50-50k85fux",
     "available": false
   },
@@ -9757,7 +9757,7 @@
   },
   {
     "name": "Haier LED 32\" H32K85FX (Google TV)",
-    "price": 48900.0,
+    "price": 49900.0,
     "url": "https://japanelectronics.com.pk/products/haier-led-32-h32k85fx-google-tv",
     "available": false
   },
@@ -11073,7 +11073,7 @@
     "name": "Dawlance Kettle DWEK-7100",
     "price": 6200.0,
     "url": "https://japanelectronics.com.pk/products/dawlance-kettle-dwek-7100",
-    "available": true
+    "available": false
   },
   {
     "name": "Panasonic Hand Mixer MK-GH3 WTZ",
@@ -11487,7 +11487,7 @@
     "name": "Dawlance Water Dispenser WD-1051 Silver",
     "price": 42000.0,
     "url": "https://japanelectronics.com.pk/products/dawlance-water-dispenser-wd-1051-silver",
-    "available": false
+    "available": true
   },
   {
     "name": "Dawlance Water Dispenser WD-1051 Cloud White",
@@ -11637,7 +11637,7 @@
     "name": "Kenwood Refrigerator KRF-23357 GD New Mrg Persona Plus (280-L)",
     "price": 82000.0,
     "url": "https://japanelectronics.com.pk/products/kenwood-refrigerator-krf-23357-gd-new-mrg-persona-plus-280-l",
-    "available": false
+    "available": true
   },
   {
     "name": "Haier Refrigerator HRF-438 EPRW Red E-Star Series",
@@ -12333,7 +12333,7 @@
     "name": "Gaba National Washing Machine GNW-93020 Glass",
     "price": 14500.0,
     "url": "https://japanelectronics.com.pk/products/gabba-national-washing-machine-gnw-93020-glass",
-    "available": true
+    "available": false
   },
   {
     "name": "Gaba National Washing Machine 92020",
@@ -12753,7 +12753,7 @@
     "name": "Nasgas Kitchen Hood KHD-275",
     "price": 27300.0,
     "url": "https://japanelectronics.com.pk/products/nasgas-kitchen-hood-khd-275-digital-75cm",
-    "available": false
+    "available": true
   },
   {
     "name": "Dawlance Microwave Oven DW-142 HZP",

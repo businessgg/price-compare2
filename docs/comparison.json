@@ -1,11 +1,39 @@
 {
-  "last_updated": "2026-10-06T07:07:55.120711+00:00",
+  "last_updated": "2026-10-06T08:07:29.755580+00:00",
   "my_store_name": "Bismillah Electronics",
   "competitor_name": "Japan Electronics",
-  "total_my_products": 1268,
+  "total_my_products": 1270,
   "total_competitor_products": 2147,
-  "matched_count": 979,
+  "matched_count": 981,
   "results": [
+    {
+      "product_name": "Gree Ac 1.5 Ton Inverter 18PITH16W-T3",
+      "my_price": 176900.0,
+      "my_available": true,
+      "my_url": "https://bismillahelectronics.pk/products/gree-ac-1-5-ton-inverter-18pith16w-t3",
+      "competitor_name": "Gree Split AC Inverter 1.5 Ton 18PITH18W",
+      "competitor_price": 176900.0,
+      "competitor_available": true,
+      "competitor_url": "https://japanelectronics.com.pk/products/gree-split-ac-inverter-1-5-ton-18pith18w",
+      "match_confidence": 83.1,
+      "status": "matched",
+      "price_diff": 0.0,
+      "cheaper": "same"
+    },
+    {
+      "product_name": "Gree Ac 1.5 Ton Inverter 18PITH16G-T3",
+      "my_price": 179900.0,
+      "my_available": true,
+      "my_url": "https://bismillahelectronics.pk/products/gree-ac-1-5-ton-inverter-18pith16g-t3",
+      "competitor_name": "Gree Split AC Inverter 1.5 Ton 18PITH15G",
+      "competitor_price": 179900.0,
+      "competitor_available": true,
+      "competitor_url": "https://japanelectronics.com.pk/products/gree-split-ac-inverter-1-5-ton-18pith15g",
+      "match_confidence": 83.1,
+      "status": "matched",
+      "price_diff": 0.0,
+      "cheaper": "same"
+    },
     {
       "product_name": "Gree Ac 1.5 Ton Inverter 18PITH15G-T3",
       "my_price": 179900.0,

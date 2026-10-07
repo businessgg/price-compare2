@@ -363,7 +363,7 @@
     "name": "Ariston Electric Geyser 50Ltr",
     "price": 64000.0,
     "url": "https://japanelectronics.com.pk/products/ariston-electric-geyser-50ltr",
-    "available": true
+    "available": false
   },
   {
     "name": "Electrolux Water Dispenser (ELWD-BP3T-IM Ice Maker Black)",
@@ -2397,7 +2397,7 @@
     "name": "WESTPOINT HAND BLENDER (WF-9934)",
     "price": 7200.0,
     "url": "https://japanelectronics.com.pk/products/westpoint-hand-blender-wf-9934",
-    "available": true
+    "available": false
   },
   {
     "name": "WESTPOINT CERAMIC COOKER WF-291 (SINGLE)",
@@ -2895,7 +2895,7 @@
     "name": "Philips Food Processor HR-7301",
     "price": 27900.0,
     "url": "https://japanelectronics.com.pk/products/philips-food-processor-hr-7301",
-    "available": false
+    "available": true
   },
   {
     "name": "Dawlance Split AC Inverter 1.5 Ton Sprinter X 30 (T3)",
@@ -2985,7 +2985,7 @@
     "name": "Haier D.Freezer (HDF-175 IG Inverter Grey)",
     "price": 59000.0,
     "url": "https://japanelectronics.com.pk/products/haier-d-freezer-hdf-175-ig-inverter-grey",
-    "available": true
+    "available": false
   },
   {
     "name": "LG LED 75\" 75QNED86ASA (4K UHD)",
@@ -3181,13 +3181,13 @@
   },
   {
     "name": "PEL V.FREEZER (PVF-6D BRUSHED METALLIC GREY)",
-    "price": 89900.0,
+    "price": 81900.0,
     "url": "https://japanelectronics.com.pk/products/pel-v-freezer-pvf-6d-brushed-metallic-grey",
     "available": true
   },
   {
     "name": "PEL V.FREEZER (PVF-7D BRUSHED METALLIC GREY)",
-    "price": 92900.0,
+    "price": 83900.0,
     "url": "https://japanelectronics.com.pk/products/pel-v-freezer-pvf-7d-brushed-metallic-grey",
     "available": true
   },
@@ -3423,7 +3423,7 @@
     "name": "Dawlance REF 9178 Graze + Gem Black",
     "price": 103000.0,
     "url": "https://japanelectronics.com.pk/products/dawlance-ref-9178-graze-gem-black",
-    "available": false
+    "available": true
   },
   {
     "name": "Dawlance REF 9178 Acce Pro Meadow Green",
@@ -3447,7 +3447,7 @@
     "name": "Dawlance REF 9173 Graze + Gem Black (GD INV)",
     "price": 105000.0,
     "url": "https://japanelectronics.com.pk/products/dawlance-ref-9173-graze-gem-black-gd-inv",
-    "available": false
+    "available": true
   },
   {
     "name": "Dawlance REF 9173 Acce Pro Meadow Green (GD)",
@@ -3993,7 +3993,7 @@
     "name": "Dawlance REF 9191 Graze + Gem Black (GD INV)",
     "price": 108000.0,
     "url": "https://japanelectronics.com.pk/products/dawlance-ref-9191-graze-gem-black-gd-inv",
-    "available": false
+    "available": true
   },
   {
     "name": "Dawlance REF 9191 WB Avante + Midnight Green (GD INV)",
@@ -4005,7 +4005,7 @@
     "name": "Dawlance REF 9193 Graze + Gem Black (GD INV)",
     "price": 112000.0,
     "url": "https://japanelectronics.com.pk/products/dawlance-ref-9193-graze-gem-black-gd-inv",
-    "available": false
+    "available": true
   },
   {
     "name": "Haier Ref HRF-538 IARA+ (Red)",
@@ -4347,7 +4347,7 @@
     "name": "Dawlance Vertical Freezer 1035WB GD Avante + Cloud White",
     "price": 101999.0,
     "url": "https://japanelectronics.com.pk/products/dawlance-vertical-freezer-1035wb-gd-avante-cloud-white",
-    "available": false
+    "available": true
   },
   {
     "name": "Dawlance Deep Freezer DF-400P Stucco PCM",
@@ -4999,7 +4999,7 @@
   },
   {
     "name": "PEL Split AC Inverter 1.5 Ton 18K Super Jumbo T3",
-    "price": 169900.0,
+    "price": 164900.0,
     "url": "https://japanelectronics.com.pk/products/pel-split-ac-inverter-1-5-ton-18k-super-jumbo-t3",
     "available": true
   },
@@ -7573,7 +7573,7 @@
   },
   {
     "name": "Beetro Electric & Gas Geyser 35 Gallon (FEG-35 9/10 Gauge)",
-    "price": 58000.0,
+    "price": 83000.0,
     "url": "https://japanelectronics.com.pk/products/beetro-electric-gas-geyser-35-gallon-feg-35-9-10-gauge",
     "available": true
   },
@@ -9429,7 +9429,7 @@
     "name": "Dawlance W.M (DW-6580 C FL)",
     "price": 37899.0,
     "url": "https://japanelectronics.com.pk/products/dawlance-w-m-dw-6580-c-fl",
-    "available": false
+    "available": true
   },
   {
     "name": "Dawlance W.M (DW-6580 W FL)",
@@ -10635,7 +10635,7 @@
     "name": "Haier Washing Machine HWM 130-1217",
     "price": 27000.0,
     "url": "https://japanelectronics.com.pk/products/haier-washing-machine-hwm-130-1217",
-    "available": true
+    "available": false
   },
   {
     "name": "Dawlance Air Fryer DWAF-6322 D",
@@ -11175,7 +11175,7 @@
     "name": "Dawlance Hot Plate DWHP-3021 B",
     "price": 10600.0,
     "url": "https://japanelectronics.com.pk/products/dawlance-hot-plate-dwhp-3021-b",
-    "available": false
+    "available": true
   },
   {
     "name": "Dawlance Hot Plate DWHP-3021 W",
@@ -11361,7 +11361,7 @@
     "name": "Dawlance Dish Washer DDW-868 CTB",
     "price": 78400.0,
     "url": "https://japanelectronics.com.pk/products/dawlance-dish-washer-ddw-868-ctb",
-    "available": false
+    "available": true
   },
   {
     "name": "Bosch Dish Washer SMS4HMi26M",
@@ -11947,19 +11947,19 @@
   },
   {
     "name": "Beetro Instant Gas Geyser RD-07 (LPG) 7.0 Ltr",
-    "price": 28400.0,
+    "price": 34000.0,
     "url": "https://japanelectronics.com.pk/products/beetro-instant-gas-geyser-rd-07-lpg-7-0-ltr",
     "available": false
   },
   {
     "name": "Beetro Instant Gas Geyser RD-09 (LPG) 9.0 Ltr",
-    "price": 39300.0,
+    "price": 44000.0,
     "url": "https://japanelectronics.com.pk/products/beetro-instant-gas-geyser-rd-09-lpg-9-0-ltr",
     "available": true
   },
   {
     "name": "Beetro Instant Gas Geyser RD-09 (NG) 9.0 Ltr",
-    "price": 39300.0,
+    "price": 44000.0,
     "url": "https://japanelectronics.com.pk/products/beetro-instant-gas-geyser-rd-09-ng-9-0-ltr",
     "available": false
   },

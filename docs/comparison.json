@@ -1,11 +1,25 @@
 {
-  "last_updated": "2026-10-07T12:08:48.193800+00:00",
+  "last_updated": "2026-10-07T13:10:57.144392+00:00",
   "my_store_name": "Bismillah Electronics",
   "competitor_name": "Japan Electronics",
-  "total_my_products": 1301,
+  "total_my_products": 1302,
   "total_competitor_products": 2147,
   "matched_count": 995,
   "results": [
+    {
+      "product_name": "Haier Auto Wash Front Load 90-BP12357S8",
+      "my_price": 145000.0,
+      "my_available": true,
+      "my_url": "https://bismillahelectronics.pk/products/haier-auto-wash-front-load-90-bp12357s8",
+      "competitor_name": null,
+      "competitor_price": null,
+      "competitor_available": null,
+      "competitor_url": null,
+      "match_confidence": 0,
+      "status": "only_us",
+      "price_diff": null,
+      "cheaper": null
+    },
     {
       "product_name": "Tcl Ac 1.5 Ton Inverter 18SVN-AI-21",
       "my_price": 153000.0,
@@ -2206,7 +2220,7 @@
     },
     {
       "product_name": "Dawlance Refrigerator 9178 LF Avante + Midnight Green (GD INV)",
-      "my_price": 107000.0,
+      "my_price": 108000.0,
       "my_available": true,
       "my_url": "https://bismillahelectronics.pk/products/dawlance-refrigerator-9178-lf-avante-midnight-green-gd-inv",
       "competitor_name": "Dawlance Refrigerator 9178 LF Avante + Midnight Green (GD INV)",
@@ -2215,7 +2229,7 @@
       "competitor_url": "https://japanelectronics.com.pk/products/dawlance-ref-9178-lf-avante-midnight-green-gd-inv",
       "match_confidence": 100.0,
       "status": "matched",
-      "price_diff": 3000.0,
+      "price_diff": 4000.0,
       "cheaper": "competitor"
     },
     {
@@ -5608,7 +5622,7 @@
     },
     {
       "product_name": "Haier Refrigerator HRF-418 IARA",
-      "my_price": 114000.0,
+      "my_price": 109000.0,
       "my_available": true,
       "my_url": "https://bismillahelectronics.pk/products/haier-refrigerator-hrf-418-iara",
       "competitor_name": "Haier Refrigerator HRF-438 IDBA",
@@ -5617,12 +5631,12 @@
       "competitor_url": "https://japanelectronics.com.pk/products/haier-refrigerator-hrf-438-idba",
       "match_confidence": 90.3,
       "status": "matched",
-      "price_diff": -1800.0,
+      "price_diff": -6800.0,
       "cheaper": "us"
     },
     {
       "product_name": "Haier Refrigerator HRF-418 IAPA",
-      "my_price": 114000.0,
+      "my_price": 109000.0,
       "my_available": true,
       "my_url": "https://bismillahelectronics.pk/products/haier-refrigerator-hrf-418-iapa",
       "competitor_name": "Haier Refrigerator HRF-438 IDBA",
@@ -5631,7 +5645,7 @@
       "competitor_url": "https://japanelectronics.com.pk/products/haier-refrigerator-hrf-438-idba",
       "match_confidence": 90.3,
       "status": "matched",
-      "price_diff": -1800.0,
+      "price_diff": -6800.0,
       "cheaper": "us"
     },
     {
@@ -5650,7 +5664,7 @@
     },
     {
       "product_name": "Haier Refrigerator HRF-216EPB",
-      "my_price": 65000.0,
+      "my_price": 63000.0,
       "my_available": true,
       "my_url": "https://bismillahelectronics.pk/products/haier-refrigerator-hrf-216epb",
       "competitor_name": "Haier Refrigerator HRF-316 IFGA",
@@ -5659,7 +5673,7 @@
       "competitor_url": "https://japanelectronics.com.pk/products/haier-refrigerator-hrf-316-ifga",
       "match_confidence": 83.3,
       "status": "matched",
-      "price_diff": -31000.0,
+      "price_diff": -33000.0,
       "cheaper": "us"
     },
     {
@@ -10158,7 +10172,7 @@
     },
     {
       "product_name": "Haier Refrigerator HRF-246 IPRA (Red)",
-      "my_price": 77000.0,
+      "my_price": 73000.0,
       "my_available": true,
       "my_url": "https://bismillahelectronics.pk/products/haier-refrigerator-hrf-246-ipra-red",
       "competitor_name": "Haier Refrigerator HRF-316 IAPA+ (Purple)",
@@ -10167,12 +10181,12 @@
       "competitor_url": "https://japanelectronics.com.pk/products/haier-refrigerator-hrf-316-iapa-purple",
       "match_confidence": 82.1,
       "status": "matched",
-      "price_diff": -16000.0,
+      "price_diff": -20000.0,
       "cheaper": "us"
     },
     {
       "product_name": "Haier Refrigerator HRF-276 IPGA (Green)",
-      "my_price": 82000.0,
+      "my_price": 78000.0,
       "my_available": true,
       "my_url": "https://bismillahelectronics.pk/products/haier-refrigerator-hrf-276-ipga-green",
       "competitor_name": "Haier Refrigerator HRF-368 IFGA (Green)",
@@ -10181,7 +10195,7 @@
       "competitor_url": "https://japanelectronics.com.pk/products/haier-refrigerator-hrf-368-ifga-green",
       "match_confidence": 92.3,
       "status": "matched",
-      "price_diff": -24000.0,
+      "price_diff": -28000.0,
       "cheaper": "us"
     },
     {
@@ -10228,7 +10242,7 @@
     },
     {
       "product_name": "Haier Refrigerator HRF-538 IAPA+ (Purple)",
-      "my_price": 127000.0,
+      "my_price": 124000.0,
       "my_available": true,
       "my_url": "https://bismillahelectronics.pk/products/haier-refrigerator-hrf-538-iapa-purple",
       "competitor_name": "Haier Refrigerator HRF-316 IAPA+ (Purple)",
@@ -10237,7 +10251,7 @@
       "competitor_url": "https://japanelectronics.com.pk/products/haier-refrigerator-hrf-316-iapa-purple",
       "match_confidence": 95.1,
       "status": "matched",
-      "price_diff": 34000.0,
+      "price_diff": 31000.0,
       "cheaper": "competitor"
     },
     {
@@ -10382,7 +10396,7 @@
     },
     {
       "product_name": "Haier Refrigerator HRF-622 IBS (Side By Side)",
-      "my_price": 255000.0,
+      "my_price": 240000.0,
       "my_available": true,
       "my_url": "https://bismillahelectronics.pk/products/haier-refrigerator-hrf-622-ibs-side-by-side",
       "competitor_name": "Haier Side By Side Refrigerator HRF-622ICG",
@@ -10391,12 +10405,12 @@
       "competitor_url": "https://japanelectronics.com.pk/products/haier-side-by-side-refrigerator-hrf-622icg",
       "match_confidence": 78.2,
       "status": "matched",
-      "price_diff": 5000.0,
-      "cheaper": "competitor"
+      "price_diff": -10000.0,
+      "cheaper": "us"
     },
     {
       "product_name": "Haier Refrigerator HRF-578 TBG (Side By Side)",
-      "my_price": 214000.0,
+      "my_price": 210000.0,
       "my_available": true,
       "my_url": "https://bismillahelectronics.pk/products/haier-refrigerator-hrf-578-tbg-side-by-side",
       "competitor_name": "Haier Side By Side Refrigerator HRF-578TBG",
@@ -10405,12 +10419,12 @@
       "competitor_url": "https://japanelectronics.com.pk/products/haier-side-by-side-refrigerator-hrf-578tbg",
       "match_confidence": 80.5,
       "status": "matched",
-      "price_diff": 4000.0,
-      "cheaper": "competitor"
+      "price_diff": 0.0,
+      "cheaper": "same"
     },
     {
       "product_name": "Haier Refrigerator HRF-316 EPR (Red GD)",
-      "my_price": 96000.0,
+      "my_price": 83000.0,
       "my_available": true,
       "my_url": "https://bismillahelectronics.pk/products/haier-refrigerator-hrf-316-epr-red-gd",
       "competitor_name": "Haier Refrigerator HRF-316 EPR (Red Glass Door)",
@@ -10419,12 +10433,12 @@
       "competitor_url": "https://japanelectronics.com.pk/products/haier-refrigerator-hrf-316-epr-red-glass-door",
       "match_confidence": 86.0,
       "status": "matched",
-      "price_diff": 13000.0,
-      "cheaper": "competitor"
+      "price_diff": 0.0,
+      "cheaper": "same"
     },
     {
       "product_name": "Haier Refrigerator HRF-346 IPGA (Green)",
-      "my_price": 101000.0,
+      "my_price": 91000.0,
       "my_available": true,
       "my_url": "https://bismillahelectronics.pk/products/haier-refrigerator-hrf-346-ipga-green",
       "competitor_name": "Haier Refrigerator HRF-368 IFGA (Green)",
@@ -10433,7 +10447,7 @@
       "competitor_url": "https://japanelectronics.com.pk/products/haier-refrigerator-hrf-368-ifga-green",
       "match_confidence": 94.9,
       "status": "matched",
-      "price_diff": -5000.0,
+      "price_diff": -15000.0,
       "cheaper": "us"
     },
     {
@@ -10466,7 +10480,7 @@
     },
     {
       "product_name": "Haier Refrigerator HRF-316 IPRA (Red)",
-      "my_price": 96000.0,
+      "my_price": 87000.0,
       "my_available": true,
       "my_url": "https://bismillahelectronics.pk/products/haier-refrigerator-hrf-316-ipra-red",
       "competitor_name": "Haier Refrigerator HRF-316 IAPA+ (Purple)",
@@ -10475,12 +10489,12 @@
       "competitor_url": "https://japanelectronics.com.pk/products/haier-refrigerator-hrf-316-iapa-purple",
       "match_confidence": 87.2,
       "status": "matched",
-      "price_diff": 3000.0,
-      "cheaper": "competitor"
+      "price_diff": -6000.0,
+      "cheaper": "us"
     },
     {
       "product_name": "Haier Refrigerator HRF-346 IPRA Smart Inverter (Red)",
-      "my_price": 101000.0,
+      "my_price": 91000.0,
       "my_available": true,
       "my_url": "https://bismillahelectronics.pk/products/haier-refrigerator-hrf-346-ipra-smart-inverter-red",
       "competitor_name": "Haier Refrigerator HRF-346 IARA+ Smart Inverter (Red)",
@@ -10489,8 +10503,8 @@
       "competitor_url": "https://japanelectronics.com.pk/products/haier-refrigerator-hrf-346-iara-smart-inverter-red",
       "match_confidence": 97.1,
       "status": "matched",
-      "price_diff": 4000.0,
-      "cheaper": "competitor"
+      "price_diff": -6000.0,
+      "cheaper": "us"
     },
     {
       "product_name": "Haier Refrigerator HRF-346 IFGA Digital Inverter (Green)",
@@ -10508,7 +10522,7 @@
     },
     {
       "product_name": "Haier Refrigerator HRF-346 EPR (Red GD)",
-      "my_price": 88000.0,
+      "my_price": 87000.0,
       "my_available": true,
       "my_url": "https://bismillahelectronics.pk/products/haier-refrigerator-hrf-346-epr-red-gd",
       "competitor_name": "Haier Refrigerator HRF-346 EPR (Red Glass Door)",
@@ -10517,12 +10531,12 @@
       "competitor_url": "https://japanelectronics.com.pk/products/haier-refrigerator-hrf-346-epr-red-glass-door",
       "match_confidence": 86.0,
       "status": "matched",
-      "price_diff": 1000.0,
-      "cheaper": "competitor"
+      "price_diff": 0.0,
+      "cheaper": "same"
     },
     {
       "product_name": "Haier Refrigerator HRF-346 EPB (Black GD)",
-      "my_price": 88000.0,
+      "my_price": 87000.0,
       "my_available": true,
       "my_url": "https://bismillahelectronics.pk/products/haier-refrigerator-hrf-346-epb-black-gd",
       "competitor_name": "Haier Refrigerator HRF-276 EPB Black",
@@ -10531,12 +10545,12 @@
       "competitor_url": "https://japanelectronics.com.pk/products/haier-refrigerator-hrf-276-epb-black",
       "match_confidence": 88.3,
       "status": "matched",
-      "price_diff": 14000.0,
+      "price_diff": 13000.0,
       "cheaper": "competitor"
     },
     {
       "product_name": "Haier Refrigerator HRF-316 IAPA+ (Purple)",
-      "my_price": 96000.0,
+      "my_price": 93000.0,
       "my_available": true,
       "my_url": "https://bismillahelectronics.pk/products/haier-refrigerator-hrf-316-iapa-purple",
       "competitor_name": "Haier Refrigerator HRF-316 IAPA+ (Purple)",
@@ -10545,8 +10559,8 @@
       "competitor_url": "https://japanelectronics.com.pk/products/haier-refrigerator-hrf-316-iapa-purple",
       "match_confidence": 100.0,
       "status": "matched",
-      "price_diff": 3000.0,
-      "cheaper": "competitor"
+      "price_diff": 0.0,
+      "cheaper": "same"
     },
     {
       "product_name": "Haier Refrigerator HRF-186 EBS (Silver)",
@@ -10578,7 +10592,7 @@
     },
     {
       "product_name": "Haier Refrigerator E-Star HRF-276 EPR (Red)",
-      "my_price": 75000.0,
+      "my_price": 74000.0,
       "my_available": true,
       "my_url": "https://bismillahelectronics.pk/products/haier-refrigerator-e-star-hrf-276-epr-red",
       "competitor_name": "Haier E-Star Refrigerator HRF-216 EPB-01 Black",
@@ -10587,12 +10601,12 @@
       "competitor_url": "https://japanelectronics.com.pk/products/haier-refrigerator-hrf-216-epb-01-black",
       "match_confidence": 80.9,
       "status": "matched",
-      "price_diff": 12000.0,
+      "price_diff": 11000.0,
       "cheaper": "competitor"
     },
     {
       "product_name": "Haier Refrigerator E-Star HRF-276 EPB (Black)",
-      "my_price": 75000.0,
+      "my_price": 74000.0,
       "my_available": true,
       "my_url": "https://bismillahelectronics.pk/products/haier-refrigerator-e-star-hrf-276-epb-black",
       "competitor_name": "Haier E-Star Refrigerator HRF-216 EPB-01 Black",
@@ -10601,12 +10615,12 @@
       "competitor_url": "https://japanelectronics.com.pk/products/haier-refrigerator-hrf-216-epb-01-black",
       "match_confidence": 92.3,
       "status": "matched",
-      "price_diff": 12000.0,
+      "price_diff": 11000.0,
       "cheaper": "competitor"
     },
     {
       "product_name": "Haier Refrigerator E-Star HRF-246 EPB (Black)",
-      "my_price": 70000.0,
+      "my_price": 69000.0,
       "my_available": true,
       "my_url": "https://bismillahelectronics.pk/products/haier-refrigerator-e-star-hrf-246-epb-black",
       "competitor_name": "Haier E-Star Refrigerator HRF-216 EPB-01 Black",
@@ -10615,7 +10629,7 @@
       "competitor_url": "https://japanelectronics.com.pk/products/haier-refrigerator-hrf-216-epb-01-black",
       "match_confidence": 92.3,
       "status": "matched",
-      "price_diff": 7000.0,
+      "price_diff": 6000.0,
       "cheaper": "competitor"
     },
     {
@@ -10634,7 +10648,7 @@
     },
     {
       "product_name": "Haier Refrigerator E-Star HRF-246 EPR (Red)",
-      "my_price": 70000.0,
+      "my_price": 69000.0,
       "my_available": true,
       "my_url": "https://bismillahelectronics.pk/products/haier-refrigerator-e-star-hrf-246-epr-red",
       "competitor_name": "Haier E-Star Refrigerator HRF-216 EPB-01 Black",
@@ -10643,7 +10657,7 @@
       "competitor_url": "https://japanelectronics.com.pk/products/haier-refrigerator-hrf-216-epb-01-black",
       "match_confidence": 80.9,
       "status": "matched",
-      "price_diff": 7000.0,
+      "price_diff": 6000.0,
       "cheaper": "competitor"
     },
     {
@@ -10970,7 +10984,7 @@
     },
     {
       "product_name": "Dawlance Refrigerator 9173 WB Chrome Hairline Black",
-      "my_price": 85000.0,
+      "my_price": 88100.0,
       "my_available": true,
       "my_url": "https://bismillahelectronics.pk/products/dawlance-refrigerator-9173-wb-chrome-hairline-black",
       "competitor_name": "Dawlance Refrigerator 9191 WB Chrome Hairline Black",
@@ -10979,12 +10993,12 @@
       "competitor_url": "https://japanelectronics.com.pk/products/dawlance-refrigerator-9191-wb-chrome-hairline-black",
       "match_confidence": 96.1,
       "status": "matched",
-      "price_diff": -6000.0,
+      "price_diff": -2900.0,
       "cheaper": "us"
     },
     {
       "product_name": "Dawlance Refrigerator 9173 WB Chrome Pearl Copper",
-      "my_price": 85000.0,
+      "my_price": 88100.0,
       "my_available": true,
       "my_url": "https://bismillahelectronics.pk/products/dawlance-refrigerator-9173-wb-chrome-pearl-copper",
       "competitor_name": "Dawlance Refrigerator 9173 WB Chrome Pearl Copper",
@@ -10993,12 +11007,12 @@
       "competitor_url": "https://japanelectronics.com.pk/products/dawlance-ref-9173-wb-chrome-pearl-copper",
       "match_confidence": 100.0,
       "status": "matched",
-      "price_diff": 3500.0,
+      "price_diff": 6600.0,
       "cheaper": "competitor"
     },
     {
       "product_name": "Dawlance Refrigerator 9173 WB Avante Diamond Red (GD)",
-      "my_price": 93000.0,
+      "my_price": 95400.0,
       "my_available": true,
       "my_url": "https://bismillahelectronics.pk/products/dawlance-refrigerator-9173-wb-avante-diamond-red-gd",
       "competitor_name": "Dawlance Refrigerator 9173 WB Avante Diamond Red (GD)",
@@ -11007,12 +11021,12 @@
       "competitor_url": "https://japanelectronics.com.pk/products/dawlance-refrigerator-9173-wb-avante-diamond-red-gd",
       "match_confidence": 100.0,
       "status": "matched",
-      "price_diff": 3500.0,
+      "price_diff": 5900.0,
       "cheaper": "competitor"
     },
     {
       "product_name": "Dawlance Refrigerator 9169 WB Chrome Pearl Copper",
-      "my_price": 76500.0,
+      "my_price": 86100.0,
       "my_available": true,
       "my_url": "https://bismillahelectronics.pk/products/dawlance-refrigerator-9169-wb-chrome-pearl-copper",
       "competitor_name": "Dawlance Refrigerator 9169 WB Chrome Pearl Copper",
@@ -11021,12 +11035,12 @@
       "competitor_url": "https://japanelectronics.com.pk/products/dawlance-refrigerator-9169-wb-chrome-pearl-copper",
       "match_confidence": 100.0,
       "status": "matched",
-      "price_diff": 0.0,
-      "cheaper": "same"
+      "price_diff": 9600.0,
+      "cheaper": "competitor"
     },
     {
       "product_name": "Dawlance Refrigerator 9169 WB Avante Pearl Red (GD)",
-      "my_price": 82000.0,
+      "my_price": 89700.0,
       "my_available": true,
       "my_url": "https://bismillahelectronics.pk/products/dawlance-refrigerator-9169-wb-avante-pearl-red-gd",
       "competitor_name": "Dawlance Refrigerator 9169 WB Avante Pearl Red (GD)",
@@ -11035,8 +11049,8 @@
       "competitor_url": "https://japanelectronics.com.pk/products/dawlance-refrigerator-9169-wb-avante-pearl-red-gd",
       "match_confidence": 100.0,
       "status": "matched",
-      "price_diff": -2500.0,
-      "cheaper": "us"
+      "price_diff": 5200.0,
+      "cheaper": "competitor"
     },
     {
       "product_name": "Dawlance Refrigerator 9169 WB Avante Pearl Burgundy (GD)",
@@ -11054,7 +11068,7 @@
     },
     {
       "product_name": "Dawlance Refrigerator 9160 LF Avante + Sapphire Purple",
-      "my_price": 82500.0,
+      "my_price": 86700.0,
       "my_available": true,
       "my_url": "https://bismillahelectronics.pk/products/dawlance-refrigerator-9160-lf-avante-sapphire-purple",
       "competitor_name": "Dawlance Refrigerator 9160 LF Avante + Sapphire Purple",
@@ -11063,7 +11077,7 @@
       "competitor_url": "https://japanelectronics.com.pk/products/dawlance-refrigerator-9160-lf-avante-sapphire-purple",
       "match_confidence": 100.0,
       "status": "matched",
-      "price_diff": 1000.0,
+      "price_diff": 5200.0,
       "cheaper": "competitor"
     },
     {
@@ -11110,7 +11124,7 @@
     },
     {
       "product_name": "Dawlance Refrigerator 9140 WB Avante Pearl Copper",
-      "my_price": 63000.0,
+      "my_price": 66000.0,
       "my_available": true,
       "my_url": "https://bismillahelectronics.pk/products/dawlance-refrigerator-9140-wb-avante-pearl-copper",
       "competitor_name": "Dawlance Refrigerator 9140 WB Chrome Pearl Copper",
@@ -11119,12 +11133,12 @@
       "competitor_url": "https://japanelectronics.com.pk/products/dawlance-ref-9140-wb-chrome-pearl-copper",
       "match_confidence": 89.8,
       "status": "matched",
-      "price_diff": 3000.0,
+      "price_diff": 6000.0,
       "cheaper": "competitor"
     },
     {
       "product_name": "Dawlance Refrigerator 9140 WB Avante Hairline Black",
-      "my_price": 63000.0,
+      "my_price": 66000.0,
       "my_available": true,
       "my_url": "https://bismillahelectronics.pk/products/dawlance-refrigerator-9140-wb-avante-hairline-black",
       "competitor_name": "Dawlance Refrigerator 9140 WB Chrome Hairline Black",
@@ -11133,7 +11147,7 @@
       "competitor_url": "https://japanelectronics.com.pk/products/dawlance-ref-9140-wb-chrome-hairline-black",
       "match_confidence": 86.3,
       "status": "matched",
-      "price_diff": 3000.0,
+      "price_diff": 6000.0,
       "cheaper": "competitor"
     },
     {
@@ -11180,7 +11194,7 @@
     },
     {
       "product_name": "Dawlance No Frost Refrigerator DMD-9060 GD",
-      "my_price": 340000.0,
+      "my_price": 320000.0,
       "my_available": true,
       "my_url": "https://bismillahelectronics.pk/products/dawlance-no-frost-refrigerator-dmd-9060-gd",
       "competitor_name": "Dawlance No Frost Ref DMD-9060 GD",
@@ -11189,8 +11203,8 @@
       "competitor_url": "https://japanelectronics.com.pk/products/dawlance-no-frost-ref-dmd-9060-gd",
       "match_confidence": 88.0,
       "status": "matched",
-      "price_diff": 5000.0,
-      "cheaper": "competitor"
+      "price_diff": -15000.0,
+      "cheaper": "us"
     },
     {
       "product_name": "Dawlance Refrigerator 9173 WB E-Chrome Hairline Golden",
@@ -15996,7 +16010,7 @@
     },
     {
       "product_name": "Haier Automatic Washing Machine HWM 120-826E",
-      "my_price": 76900.0,
+      "my_price": 73000.0,
       "my_available": true,
       "my_url": "https://bismillahelectronics.pk/products/haier-120-826e-auto-wash-hwm-120-826e",
       "competitor_name": "Haier Fully Automatic Washing Machine HWM 120-1789",
@@ -16005,7 +16019,7 @@
       "competitor_url": "https://japanelectronics.com.pk/products/haier-fully-automatic-washing-machine-hwm-120-1789",
       "match_confidence": 87.2,
       "status": "matched",
-      "price_diff": 7000.0,
+      "price_diff": 3100.0,
       "cheaper": "competitor"
     },
     {
@@ -16836,7 +16850,7 @@
     },
     {
       "product_name": "Dawlance Refrigerator 9140 WB Avante Pearl Burgundy (GD)",
-      "my_price": 63000.0,
+      "my_price": 71200.0,
       "my_available": true,
       "my_url": "https://bismillahelectronics.pk/products/dawlance-refrigerator-9140-wb-chrome",
       "competitor_name": "Dawlance Refrigerator 9140 WB Avante Pearl Burgundy (GD)",
@@ -16845,8 +16859,8 @@
       "competitor_url": "https://japanelectronics.com.pk/products/dawlance-ref-9140-wb-avante-pearl-burgundy-gd",
       "match_confidence": 100.0,
       "status": "matched",
-      "price_diff": -3500.0,
-      "cheaper": "us"
+      "price_diff": 4700.0,
+      "cheaper": "competitor"
     },
     {
       "product_name": "Dawlance LED TV 43 Inch 43G3AP (4K UHD)",
@@ -32590,7 +32604,7 @@
       "my_available": null,
       "my_url": null,
       "competitor_name": "Beetro Electric & Gas Geyser 35 Gallon (FEG-35 9/10 Gauge)",
-      "competitor_price": 83000.0,
+      "competitor_price": 58000.0,
       "competitor_available": true,
       "competitor_url": "https://japanelectronics.com.pk/products/beetro-electric-gas-geyser-35-gallon-feg-35-9-10-gauge",
       "match_confidence": 0,

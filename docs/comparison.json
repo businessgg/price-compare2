@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-07T10:07:44.122551+00:00",
+  "last_updated": "2026-10-07T11:07:16.420685+00:00",
   "my_store_name": "Bismillah Electronics",
   "competitor_name": "Japan Electronics",
   "total_my_products": 1301,
@@ -11068,7 +11068,7 @@
     },
     {
       "product_name": "Dawlance Refrigerator 9140 Chrome Pro Hairline Silver",
-      "my_price": 68000.0,
+      "my_price": 77500.0,
       "my_available": true,
       "my_url": "https://bismillahelectronics.pk/products/dawlance-refrigerator-9140-chrome-pro-hairline-silver",
       "competitor_name": "Dawlance Refrigerator 9160 LF Chrome Pro Hairline Silver",
@@ -11077,7 +11077,7 @@
       "competitor_url": "https://japanelectronics.com.pk/products/dawlance-refrigerator-9160-lf-chrome-pro-hairline-silver",
       "match_confidence": 95.4,
       "status": "matched",
-      "price_diff": -12500.0,
+      "price_diff": -3000.0,
       "cheaper": "us"
     },
     {
@@ -16234,7 +16234,7 @@
     },
     {
       "product_name": "NasGas Cooking Range SG-327",
-      "my_price": 32600.0,
+      "my_price": 36500.0,
       "my_available": true,
       "my_url": "https://bismillahelectronics.pk/products/nasgas-cooking-range-sg-327",
       "competitor_name": null,

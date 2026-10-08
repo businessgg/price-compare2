@@ -4275,7 +4275,7 @@
     "name": "Dawlance Deep Freezer HDF-500DD STUCCO PCM",
     "price": 91100.0,
     "url": "https://japanelectronics.com.pk/products/dawlance-deep-freezer-hdf-500dd-stucco-pcm",
-    "available": false
+    "available": true
   },
   {
     "name": "Dawlance Deep Freezer DF-400 (Inverter)",
@@ -7248,12 +7248,6 @@
     "available": false
   },
   {
-    "name": "DeLonghi DEDICA Pump Espresso (EC-685 Silver)",
-    "price": 42900.0,
-    "url": "https://japanelectronics.com.pk/products/delonghi-dedica-pump-espresso-ec-685-silver",
-    "available": false
-  },
-  {
     "name": "Super Asia Spinner SD-525",
     "price": 19000.0,
     "url": "https://japanelectronics.com.pk/products/super-asia-spinner-sd-525",
@@ -7765,7 +7759,7 @@
   },
   {
     "name": "SAMSUNG LED 65\" CY-65U8000FUSMM (4K + SMART)",
-    "price": 236999.0,
+    "price": 222000.0,
     "url": "https://japanelectronics.com.pk/products/samsung-led-65-65u8000f",
     "available": true
   },
@@ -10533,7 +10527,7 @@
     "name": "Super Asia Electric Geyser REH-10",
     "price": 27000.0,
     "url": "https://japanelectronics.com.pk/products/super-asia-electric-geyser-reh-10",
-    "available": true
+    "available": false
   },
   {
     "name": "Panasonic Split AC Inverter 1.5 Ton UE18XKF-9",
@@ -11355,7 +11349,7 @@
     "name": "Super Asia Washing Machine SA-210 Quick Wash",
     "price": 13999.0,
     "url": "https://japanelectronics.com.pk/products/super-asia-washing-machine-sa-210-quick-wash",
-    "available": true
+    "available": false
   },
   {
     "name": "Dawlance Dish Washer DDW-868 CTB",
@@ -11751,7 +11745,7 @@
     "name": "Beetro Gas Geyser 35 Gallon (FG-35 16/12 Gauge) Auto Ignition",
     "price": 61400.0,
     "url": "https://japanelectronics.com.pk/products/beetro-gas-geyser-35-gallon-fg-35-16-12-gauge-auto-ignition",
-    "available": true
+    "available": false
   },
   {
     "name": "Beetro Gas Geyser 35 Gallon (FG-35 14/12 Gauge) Auto Ignition",
@@ -12097,7 +12091,7 @@
   },
   {
     "name": "Kenwood Floor Standing AC 2.0 Ton KEI-2444 FHI",
-    "price": 330000.0,
+    "price": 250000.0,
     "url": "https://japanelectronics.com.pk/products/kenwood-floor-standing-ac-2-0-ton-kei-2444-fhi",
     "available": false
   },

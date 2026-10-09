@@ -1,5 +1,11 @@
 [
   {
+    "name": "Dawlance Washing Machine 14150 OPAQUE LID",
+    "price": 32800.0,
+    "url": "https://bismillahelectronics.pk/products/dawlance-washing-machine-14150-opaque-lid",
+    "available": true
+  },
+  {
     "name": "Dawlance Washing Machine 14145 C",
     "price": 33400.0,
     "url": "https://bismillahelectronics.pk/products/dawlance-washing-machine-14145-c",
@@ -480,12 +486,6 @@
     "available": true
   },
   {
-    "name": "Haier Automatic Washing Machine HWM 150-1708",
-    "price": 90092.0,
-    "url": "https://bismillahelectronics.pk/products/haier-automatic-washing-machine-hwm-150-1708",
-    "available": true
-  },
-  {
     "name": "Dawlance Microwave Oven DW-MD10",
     "price": 17950.0,
     "url": "https://bismillahelectronics.pk/products/dawlance-microwave-oven-dw-md10",
@@ -783,12 +783,6 @@
     "name": "Royal Spinner Dryer RD-110",
     "price": 24900.0,
     "url": "https://bismillahelectronics.pk/products/royal-spinner-dryer-rd-110",
-    "available": true
-  },
-  {
-    "name": "Haier Automatic Washing Machine HWM90-1789-01",
-    "price": 56900.0,
-    "url": "https://bismillahelectronics.pk/products/haier-automatic-washing-machine-hwm90-1789-01",
     "available": true
   },
   {
@@ -5395,7 +5389,7 @@
   },
   {
     "name": "Haier Double Washing Machine HWM-100CS",
-    "price": 32300.0,
+    "price": 32000.0,
     "url": "https://bismillahelectronics.pk/products/haier-double-washing-machine-hwm-100cs",
     "available": true
   },
@@ -6871,7 +6865,7 @@
   },
   {
     "name": "Haier Front Load Washing Machine 80-BP12929S3",
-    "price": 150000.0,
+    "price": 145000.0,
     "url": "https://bismillahelectronics.pk/products/haier-front-load-washing-machine-80-bp12929s3",
     "available": true
   },
@@ -6895,7 +6889,7 @@
   },
   {
     "name": "Haier Front Load Washing Machine 100-BP1492S3",
-    "price": 180000.0,
+    "price": 165000.0,
     "url": "https://bismillahelectronics.pk/products/haier-front-load-washing-machine-100-bp1492s3",
     "available": true
   },
@@ -7831,7 +7825,7 @@
   },
   {
     "name": "Haier Automatic Washing Machine HWM 95-1678",
-    "price": 97900.0,
+    "price": 97000.0,
     "url": "https://bismillahelectronics.pk/products/haier-automatic-washing-machine-hwm-95-1678",
     "available": true
   },

@@ -1,11 +1,25 @@
 {
-  "last_updated": "2026-10-09T09:08:08.557414+00:00",
+  "last_updated": "2026-10-09T10:07:35.757248+00:00",
   "my_store_name": "Bismillah Electronics",
   "competitor_name": "Japan Electronics",
-  "total_my_products": 1307,
+  "total_my_products": 1306,
   "total_competitor_products": 2146,
-  "matched_count": 997,
+  "matched_count": 996,
   "results": [
+    {
+      "product_name": "Dawlance Washing Machine 14150 OPAQUE LID",
+      "my_price": 32800.0,
+      "my_available": true,
+      "my_url": "https://bismillahelectronics.pk/products/dawlance-washing-machine-14150-opaque-lid",
+      "competitor_name": "Dawlance Washing Machine DW-10500",
+      "competitor_price": 47000.0,
+      "competitor_available": false,
+      "competitor_url": "https://japanelectronics.com.pk/products/dawlance-washing-machine-dw-10500",
+      "match_confidence": 75.7,
+      "status": "matched",
+      "price_diff": -14200.0,
+      "cheaper": "us"
+    },
     {
       "product_name": "Dawlance Washing Machine 14145 C",
       "my_price": 33400.0,
@@ -1127,20 +1141,6 @@
       "cheaper": "same"
     },
     {
-      "product_name": "Haier Automatic Washing Machine HWM 150-1708",
-      "my_price": 90092.0,
-      "my_available": true,
-      "my_url": "https://bismillahelectronics.pk/products/haier-automatic-washing-machine-hwm-150-1708",
-      "competitor_name": "Haier Fully Automatic Washing Machine HWM 120-1789",
-      "competitor_price": 69900.0,
-      "competitor_available": false,
-      "competitor_url": "https://japanelectronics.com.pk/products/haier-fully-automatic-washing-machine-hwm-120-1789",
-      "match_confidence": 89.4,
-      "status": "matched",
-      "price_diff": 20192.0,
-      "cheaper": "competitor"
-    },
-    {
       "product_name": "Dawlance Microwave Oven DW-MD10",
       "my_price": 17950.0,
       "my_available": true,
@@ -1839,20 +1839,6 @@
       "status": "only_us",
       "price_diff": null,
       "cheaper": null
-    },
-    {
-      "product_name": "Haier Automatic Washing Machine HWM90-1789-01",
-      "my_price": 56900.0,
-      "my_available": true,
-      "my_url": "https://bismillahelectronics.pk/products/haier-automatic-washing-machine-hwm90-1789-01",
-      "competitor_name": "Haier Fully Automatic Washing Machine HWM90-1789-01",
-      "competitor_price": 56900.0,
-      "competitor_available": false,
-      "competitor_url": "https://japanelectronics.com.pk/products/haier-fully-automatic-washing-machine-hwm90-1789-01",
-      "match_confidence": 93.8,
-      "status": "matched",
-      "price_diff": 0.0,
-      "cheaper": "same"
     },
     {
       "product_name": "Haier Automatic Washing Machine HWM95-1678ES8",
@@ -12594,7 +12580,7 @@
     },
     {
       "product_name": "Haier Double Washing Machine HWM-100CS",
-      "my_price": 32300.0,
+      "my_price": 32000.0,
       "my_available": true,
       "my_url": "https://bismillahelectronics.pk/products/haier-double-washing-machine-hwm-100cs",
       "competitor_name": "Haier Washing Machine HWM-100BS",
@@ -12603,7 +12589,7 @@
       "competitor_url": "https://japanelectronics.com.pk/products/haier-washing-machine-hwm-100bs",
       "match_confidence": 87.0,
       "status": "matched",
-      "price_diff": -600.0,
+      "price_diff": -900.0,
       "cheaper": "us"
     },
     {
@@ -16038,7 +16024,7 @@
     },
     {
       "product_name": "Haier Front Load Washing Machine 80-BP12929S3",
-      "my_price": 150000.0,
+      "my_price": 145000.0,
       "my_available": true,
       "my_url": "https://bismillahelectronics.pk/products/haier-front-load-washing-machine-80-bp12929s3",
       "competitor_name": null,
@@ -16094,7 +16080,7 @@
     },
     {
       "product_name": "Haier Front Load Washing Machine 100-BP1492S3",
-      "my_price": 180000.0,
+      "my_price": 165000.0,
       "my_available": true,
       "my_url": "https://bismillahelectronics.pk/products/haier-front-load-washing-machine-100-bp1492s3",
       "competitor_name": "Haier Washing Machine HWM-100BS",
@@ -16103,7 +16089,7 @@
       "competitor_url": "https://japanelectronics.com.pk/products/haier-washing-machine-hwm-100bs",
       "match_confidence": 71.1,
       "status": "matched",
-      "price_diff": 147100.0,
+      "price_diff": 132100.0,
       "cheaper": "competitor"
     },
     {
@@ -18278,7 +18264,7 @@
     },
     {
       "product_name": "Haier Automatic Washing Machine HWM 95-1678",
-      "my_price": 97900.0,
+      "my_price": 97000.0,
       "my_available": true,
       "my_url": "https://bismillahelectronics.pk/products/haier-automatic-washing-machine-hwm-95-1678",
       "competitor_name": "Haier Fully Automatic Washing Machine HWM 120-1789",
@@ -18287,7 +18273,7 @@
       "competitor_url": "https://japanelectronics.com.pk/products/haier-fully-automatic-washing-machine-hwm-120-1789",
       "match_confidence": 86.0,
       "status": "matched",
-      "price_diff": 28000.0,
+      "price_diff": 27100.0,
       "cheaper": "competitor"
     },
     {
@@ -40517,6 +40503,20 @@
       "competitor_price": 37300.0,
       "competitor_available": true,
       "competitor_url": "https://japanelectronics.com.pk/products/super-asia-washing-machine-easy-wash-sa-245",
+      "match_confidence": 0,
+      "status": "only_competitor",
+      "price_diff": null,
+      "cheaper": null
+    },
+    {
+      "product_name": "Haier Fully Automatic Washing Machine HWM90-1789-01",
+      "my_price": null,
+      "my_available": null,
+      "my_url": null,
+      "competitor_name": "Haier Fully Automatic Washing Machine HWM90-1789-01",
+      "competitor_price": 56900.0,
+      "competitor_available": false,
+      "competitor_url": "https://japanelectronics.com.pk/products/haier-fully-automatic-washing-machine-hwm90-1789-01",
       "match_confidence": 0,
       "status": "only_competitor",
       "price_diff": null,

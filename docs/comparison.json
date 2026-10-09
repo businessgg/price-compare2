@@ -1,11 +1,95 @@
 {
-  "last_updated": "2026-10-09T11:06:49.436075+00:00",
+  "last_updated": "2026-10-09T12:08:01.073236+00:00",
   "my_store_name": "Bismillah Electronics",
   "competitor_name": "Japan Electronics",
-  "total_my_products": 1309,
+  "total_my_products": 1315,
   "total_competitor_products": 2146,
-  "matched_count": 995,
+  "matched_count": 1001,
   "results": [
+    {
+      "product_name": "Haier Auto Wash HWM-150-688S8",
+      "my_price": 94000.0,
+      "my_available": true,
+      "my_url": "https://bismillahelectronics.pk/products/haier-auto-wash-hwm-150-688s8",
+      "competitor_name": "Haier TAWM (HWM 150-688S8)",
+      "competitor_price": 94000.0,
+      "competitor_available": true,
+      "competitor_url": "https://japanelectronics.com.pk/products/haier-tawm-hwm-150-688s8",
+      "match_confidence": 72.7,
+      "status": "matched",
+      "price_diff": 0.0,
+      "cheaper": "same"
+    },
+    {
+      "product_name": "Haier Auto Wash HWM-130-688S8",
+      "my_price": 85000.0,
+      "my_available": true,
+      "my_url": "https://bismillahelectronics.pk/products/haier-auto-wash-hwm-130-688s8",
+      "competitor_name": "Haier TAWM (HWM 130-688S8)",
+      "competitor_price": 85000.0,
+      "competitor_available": true,
+      "competitor_url": "https://japanelectronics.com.pk/products/haier-tawm-hwm-130-688s8",
+      "match_confidence": 72.7,
+      "status": "matched",
+      "price_diff": 0.0,
+      "cheaper": "same"
+    },
+    {
+      "product_name": "Haier Auto Wash HWM-110-B688S8",
+      "my_price": 78000.0,
+      "my_available": true,
+      "my_url": "https://bismillahelectronics.pk/products/haier-auto-wash-hwm-110-b688s8",
+      "competitor_name": "Haier TAWM (HWM-110-B688S8)",
+      "competitor_price": 78000.0,
+      "competitor_available": true,
+      "competitor_url": "https://japanelectronics.com.pk/products/haier-tawm-hwm-110-b688s8",
+      "match_confidence": 77.2,
+      "status": "matched",
+      "price_diff": 0.0,
+      "cheaper": "same"
+    },
+    {
+      "product_name": "Haier Auto Wash HWM-110-688S8",
+      "my_price": 70000.0,
+      "my_available": true,
+      "my_url": "https://bismillahelectronics.pk/products/haier-auto-wash-hwm-110-688s8",
+      "competitor_name": "Haier TAWM (HWM-110-B688S8)",
+      "competitor_price": 78000.0,
+      "competitor_available": true,
+      "competitor_url": "https://japanelectronics.com.pk/products/haier-tawm-hwm-110-b688s8",
+      "match_confidence": 75.0,
+      "status": "matched",
+      "price_diff": -8000.0,
+      "cheaper": "us"
+    },
+    {
+      "product_name": "Haier Auto Wash HWM-100-316HS8",
+      "my_price": 69000.0,
+      "my_available": true,
+      "my_url": "https://bismillahelectronics.pk/products/haier-auto-wash-hwm-100-316hs8",
+      "competitor_name": "Haier TAWM (HWM 100-316HS8)",
+      "competitor_price": 69000.0,
+      "competitor_available": true,
+      "competitor_url": "https://japanelectronics.com.pk/products/haier-tawm-hwm-100-316hs8",
+      "match_confidence": 73.7,
+      "status": "matched",
+      "price_diff": 0.0,
+      "cheaper": "same"
+    },
+    {
+      "product_name": "Haier Auto Wash HWM-100-1269S6",
+      "my_price": 52000.0,
+      "my_available": true,
+      "my_url": "https://bismillahelectronics.pk/products/haier-auto-wash-hwm-100-1269s6",
+      "competitor_name": "Haier W.M (HWM-100-196S)",
+      "competitor_price": 34000.0,
+      "competitor_available": true,
+      "competitor_url": "https://japanelectronics.com.pk/products/haier-w-m-hwm-100-196s",
+      "match_confidence": 70.4,
+      "status": "matched",
+      "price_diff": 18000.0,
+      "cheaper": "competitor"
+    },
     {
       "product_name": "Haier Auto Wash Front Load HW-120-BP12357S8",
       "my_price": 170000.0,
@@ -8814,7 +8898,7 @@
     },
     {
       "product_name": "Haier Microwave Oven HMW-26MBH Solo Series",
-      "my_price": 24500.0,
+      "my_price": 24000.0,
       "my_available": true,
       "my_url": "https://bismillahelectronics.pk/products/haier-microwave-oven-hmw-26mbh-solo-series",
       "competitor_name": "Haier Microwave Oven HMW-20MBS",
@@ -8823,7 +8907,7 @@
       "competitor_url": "https://japanelectronics.com.pk/products/haier-microwave-oven-hmw-20mbs",
       "match_confidence": 77.8,
       "status": "matched",
-      "price_diff": 9800.0,
+      "price_diff": 9300.0,
       "cheaper": "competitor"
     },
     {
@@ -13014,7 +13098,7 @@
     },
     {
       "product_name": "Haier Microwave Oven HMW-32300S",
-      "my_price": 37000.0,
+      "my_price": 35500.0,
       "my_available": true,
       "my_url": "https://bismillahelectronics.pk/products/haier-microwave-oven-hmw-32300s",
       "competitor_name": "Haier Microwave Oven (HMW-32300S)",
@@ -13023,12 +13107,12 @@
       "competitor_url": "https://japanelectronics.com.pk/products/haier-microwave-oven-hmw-32300s",
       "match_confidence": 96.9,
       "status": "matched",
-      "price_diff": 1500.0,
-      "cheaper": "competitor"
+      "price_diff": 0.0,
+      "cheaper": "same"
     },
     {
       "product_name": "Haier Microwave Oven HMW-32300B",
-      "my_price": 37000.0,
+      "my_price": 35500.0,
       "my_available": true,
       "my_url": "https://bismillahelectronics.pk/products/haier-microwave-oven-hmw-32300b",
       "competitor_name": "Haier Microwave Oven (HMW-32300B)",
@@ -13037,12 +13121,12 @@
       "competitor_url": "https://japanelectronics.com.pk/products/haier-microwave-oven-hmw-32300b",
       "match_confidence": 96.9,
       "status": "matched",
-      "price_diff": 1500.0,
-      "cheaper": "competitor"
+      "price_diff": 0.0,
+      "cheaper": "same"
     },
     {
       "product_name": "Haier Microwave Oven HMW-25MXP9",
-      "my_price": 23000.0,
+      "my_price": 22500.0,
       "my_available": true,
       "my_url": "https://bismillahelectronics.pk/products/haier-microwave-oven-hmw-25mxp9",
       "competitor_name": "Haier Microwave Oven (HMW-25MXP9)",
@@ -13051,12 +13135,12 @@
       "competitor_url": "https://japanelectronics.com.pk/products/haier-microwave-oven-hmw-25mxp9",
       "match_confidence": 96.9,
       "status": "matched",
-      "price_diff": 500.0,
-      "cheaper": "competitor"
+      "price_diff": 0.0,
+      "cheaper": "same"
     },
     {
       "product_name": "Haier Microwave Oven HMW-20MPB",
-      "my_price": 14600.0,
+      "my_price": 14000.0,
       "my_available": true,
       "my_url": "https://bismillahelectronics.pk/products/haier-microwave-oven-hmw-20mpb",
       "competitor_name": "Haier Microwave Oven (HMW-20MPB)",
@@ -13065,8 +13149,8 @@
       "competitor_url": "https://japanelectronics.com.pk/products/haier-microwave-oven-hmw-20mpb",
       "match_confidence": 96.8,
       "status": "matched",
-      "price_diff": 600.0,
-      "cheaper": "competitor"
+      "price_diff": 0.0,
+      "cheaper": "same"
     },
     {
       "product_name": "Dawlance Microwave Oven DW-MD7",
@@ -14176,7 +14260,7 @@
     },
     {
       "product_name": "Haier Microwave Oven HMW-30AFS",
-      "my_price": 53500.0,
+      "my_price": 51500.0,
       "my_available": true,
       "my_url": "https://bismillahelectronics.pk/products/haier-microwave-oven-hmw-30afs",
       "competitor_name": "Haier Microwave Oven HMW-30AFS",
@@ -14185,12 +14269,12 @@
       "competitor_url": "https://japanelectronics.com.pk/products/haier-microwave-oven-hmw-30afs",
       "match_confidence": 100.0,
       "status": "matched",
-      "price_diff": 2000.0,
-      "cheaper": "competitor"
+      "price_diff": 0.0,
+      "cheaper": "same"
     },
     {
       "product_name": "Haier Microwave Oven HMW-30AFR",
-      "my_price": 53500.0,
+      "my_price": 51500.0,
       "my_available": true,
       "my_url": "https://bismillahelectronics.pk/products/haier-microwave-oven-hmw-30afr",
       "competitor_name": "Haier Microwave Oven HMW-30AFS",
@@ -14199,8 +14283,8 @@
       "competitor_url": "https://japanelectronics.com.pk/products/haier-microwave-oven-hmw-30afs",
       "match_confidence": 96.7,
       "status": "matched",
-      "price_diff": 2000.0,
-      "cheaper": "competitor"
+      "price_diff": 0.0,
+      "cheaper": "same"
     },
     {
       "product_name": "Haier Built-In Microwave Oven HMN-25NG24",
@@ -14274,7 +14358,7 @@
     },
     {
       "product_name": "Haier Microwave Oven HMW-28100",
-      "my_price": 33500.0,
+      "my_price": 33000.0,
       "my_available": true,
       "my_url": "https://bismillahelectronics.pk/products/haier-microwave-oven-hmw-28100",
       "competitor_name": "Haier Microwave Oven HMW-28100",
@@ -14283,12 +14367,12 @@
       "competitor_url": "https://japanelectronics.com.pk/products/haier-microwave-oven-hmw-28100",
       "match_confidence": 100.0,
       "status": "matched",
-      "price_diff": 500.0,
-      "cheaper": "competitor"
+      "price_diff": 0.0,
+      "cheaper": "same"
     },
     {
       "product_name": "Haier Microwave Oven HMW-23200",
-      "my_price": 30000.0,
+      "my_price": 29000.0,
       "my_available": true,
       "my_url": "https://bismillahelectronics.pk/products/haier-microwave-oven-hmw-23200",
       "competitor_name": "Haier Microwave Oven HMW-23200",
@@ -14297,8 +14381,8 @@
       "competitor_url": "https://japanelectronics.com.pk/products/haier-microwave-oven-hmw-23200-grill",
       "match_confidence": 100.0,
       "status": "matched",
-      "price_diff": 1000.0,
-      "cheaper": "competitor"
+      "price_diff": 0.0,
+      "cheaper": "same"
     },
     {
       "product_name": "Haier Microwave Oven HMN-45200 ESD (Grill Series)",
@@ -14400,7 +14484,7 @@
     },
     {
       "product_name": "Haier Microwave Oven HMW-20DSS",
-      "my_price": 18500.0,
+      "my_price": 18000.0,
       "my_available": true,
       "my_url": "https://bismillahelectronics.pk/products/haier-microwave-oven-hmw-20dss",
       "competitor_name": "Haier Microwave Oven (HMW-20DSS)",
@@ -14409,8 +14493,8 @@
       "competitor_url": "https://japanelectronics.com.pk/products/haier-microwave-oven-hmw-20dss",
       "match_confidence": 96.8,
       "status": "matched",
-      "price_diff": 500.0,
-      "cheaper": "competitor"
+      "price_diff": 0.0,
+      "cheaper": "same"
     },
     {
       "product_name": "Dawlance Microwave Oven DW-210 S Pro",
@@ -14442,7 +14526,7 @@
     },
     {
       "product_name": "Haier Microwave Oven HGL-25MXP8 Solo Series",
-      "my_price": 23000.0,
+      "my_price": 22500.0,
       "my_available": true,
       "my_url": "https://bismillahelectronics.pk/products/haier-microwave-hgl-25mxp8-solo-series",
       "competitor_name": "Haier Microwave Oven (HMW-25MXP9)",
@@ -14451,8 +14535,8 @@
       "competitor_url": "https://japanelectronics.com.pk/products/haier-microwave-oven-hmw-25mxp9",
       "match_confidence": 73.7,
       "status": "matched",
-      "price_diff": 500.0,
-      "cheaper": "competitor"
+      "price_diff": 0.0,
+      "cheaper": "same"
     },
     {
       "product_name": "BinBazz Room Air Cooler 9000 Tower",
@@ -15828,7 +15912,7 @@
     },
     {
       "product_name": "Haier Microwave Oven HGL-30100",
-      "my_price": 45500.0,
+      "my_price": 44500.0,
       "my_available": true,
       "my_url": "https://bismillahelectronics.pk/products/haier-microwave-oven-hgl-30100",
       "competitor_name": "Haier Microwave Oven HGL-30100",
@@ -15837,12 +15921,12 @@
       "competitor_url": "https://japanelectronics.com.pk/products/haier-microwave-oven-hgl-30100",
       "match_confidence": 100.0,
       "status": "matched",
-      "price_diff": 1000.0,
-      "cheaper": "competitor"
+      "price_diff": 0.0,
+      "cheaper": "same"
     },
     {
       "product_name": "Haier Microwave Oven HMW-20DGS (Grill Series)",
-      "my_price": 22500.0,
+      "my_price": 22000.0,
       "my_available": true,
       "my_url": "https://bismillahelectronics.pk/products/haier-microwave-oven-hmw-20dgs-grill-series",
       "competitor_name": "Haier Microwave Oven (HMW-20DGS)",
@@ -15851,8 +15935,8 @@
       "competitor_url": "https://japanelectronics.com.pk/products/haier-microwave-oven-hmw-20dgs",
       "match_confidence": 80.5,
       "status": "matched",
-      "price_diff": 500.0,
-      "cheaper": "competitor"
+      "price_diff": 0.0,
+      "cheaper": "same"
     },
     {
       "product_name": "Dawlance Microwave Oven DW-133",
@@ -19453,34 +19537,6 @@
       "cheaper": null
     },
     {
-      "product_name": "Haier TAWM (HWM 100-316HS8)",
-      "my_price": null,
-      "my_available": null,
-      "my_url": null,
-      "competitor_name": "Haier TAWM (HWM 100-316HS8)",
-      "competitor_price": 69000.0,
-      "competitor_available": true,
-      "competitor_url": "https://japanelectronics.com.pk/products/haier-tawm-hwm-100-316hs8",
-      "match_confidence": 0,
-      "status": "only_competitor",
-      "price_diff": null,
-      "cheaper": null
-    },
-    {
-      "product_name": "Haier W.M (HWM-100-196S)",
-      "my_price": null,
-      "my_available": null,
-      "my_url": null,
-      "competitor_name": "Haier W.M (HWM-100-196S)",
-      "competitor_price": 34000.0,
-      "competitor_available": true,
-      "competitor_url": "https://japanelectronics.com.pk/products/haier-w-m-hwm-100-196s",
-      "match_confidence": 0,
-      "status": "only_competitor",
-      "price_diff": null,
-      "cheaper": null
-    },
-    {
       "product_name": "Haier TAWM (HWM 100-1269S6 Grey)",
       "my_price": null,
       "my_available": null,
@@ -19621,20 +19677,6 @@
       "cheaper": null
     },
     {
-      "product_name": "Haier TAWM (HWM-110-B688S8)",
-      "my_price": null,
-      "my_available": null,
-      "my_url": null,
-      "competitor_name": "Haier TAWM (HWM-110-B688S8)",
-      "competitor_price": 78000.0,
-      "competitor_available": true,
-      "competitor_url": "https://japanelectronics.com.pk/products/haier-tawm-hwm-110-b688s8",
-      "match_confidence": 0,
-      "status": "only_competitor",
-      "price_diff": null,
-      "cheaper": null
-    },
-    {
       "product_name": "Haier FAWM (HW 90-BP12357S8)",
       "my_price": null,
       "my_available": null,
@@ -19685,34 +19727,6 @@
       "competitor_price": 1000000.0,
       "competitor_available": false,
       "competitor_url": "https://japanelectronics.com.pk/products/haier-fawm-hwd-240-bd12lgnu1",
-      "match_confidence": 0,
-      "status": "only_competitor",
-      "price_diff": null,
-      "cheaper": null
-    },
-    {
-      "product_name": "Haier TAWM (HWM 150-688S8)",
-      "my_price": null,
-      "my_available": null,
-      "my_url": null,
-      "competitor_name": "Haier TAWM (HWM 150-688S8)",
-      "competitor_price": 94000.0,
-      "competitor_available": true,
-      "competitor_url": "https://japanelectronics.com.pk/products/haier-tawm-hwm-150-688s8",
-      "match_confidence": 0,
-      "status": "only_competitor",
-      "price_diff": null,
-      "cheaper": null
-    },
-    {
-      "product_name": "Haier TAWM (HWM 130-688S8)",
-      "my_price": null,
-      "my_available": null,
-      "my_url": null,
-      "competitor_name": "Haier TAWM (HWM 130-688S8)",
-      "competitor_price": 85000.0,
-      "competitor_available": true,
-      "competitor_url": "https://japanelectronics.com.pk/products/haier-tawm-hwm-130-688s8",
       "match_confidence": 0,
       "status": "only_competitor",
       "price_diff": null,

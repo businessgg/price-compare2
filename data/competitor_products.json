@@ -897,7 +897,7 @@
     "name": "PEL REF (PRLP-2550 LIFE METALLIC GOLDEN BROWN)",
     "price": 80900.0,
     "url": "https://japanelectronics.com.pk/products/pel-ref-prlp-2550-life-metallic-golden-brown",
-    "available": true
+    "available": false
   },
   {
     "name": "PEL REF (PRGD-2000 PURPLE BLAZE)",
@@ -991,19 +991,19 @@
   },
   {
     "name": "KENWOOD REF KRF-INVERTECH 23357/280-L (GD) MIRROR",
-    "price": 90000.0,
+    "price": 93000.0,
     "url": "https://japanelectronics.com.pk/products/kenwood-ref-krf-invertech-23357-280-l-gd-mirror",
     "available": true
   },
   {
     "name": "KENWOOD REF KRF-24557/368-L (GD) SMART INVERTER MRG",
-    "price": 105000.0,
+    "price": 110000.0,
     "url": "https://japanelectronics.com.pk/products/kenwood-ref-krf-24557-368-l-gd-smart-inverter-mrg",
     "available": true
   },
   {
     "name": "KENWOOD REF KRF-24557/368-L (GD) SMART INVERTER BKG",
-    "price": 105000.0,
+    "price": 110000.0,
     "url": "https://japanelectronics.com.pk/products/kenwood-ref-krf-24557-368-l-gd-smart-inverter-bkg",
     "available": true
   },
@@ -1015,7 +1015,7 @@
   },
   {
     "name": "KENWOOD REF KRF-25657/453-L (GD) SMART INVERTER BKG",
-    "price": 118000.0,
+    "price": 120000.0,
     "url": "https://japanelectronics.com.pk/products/kenwood-ref-krf-25657-453-l-gd-smart-inverter-bkg",
     "available": true
   },
@@ -1027,7 +1027,7 @@
   },
   {
     "name": "Kenwood Ref KRF-25657/453-L (GD) Smart Inverter MRG",
-    "price": 118000.0,
+    "price": 120000.0,
     "url": "https://japanelectronics.com.pk/products/kenwood-ref-krf-25657-453-l-gd-smart-inverter-mrg",
     "available": false
   },
@@ -1963,13 +1963,13 @@
   },
   {
     "name": "Kenwood Split AC Inverter 1.0 Ton KLU-12B03S T3 (Luxury Ultra)",
-    "price": 125000.0,
+    "price": 130000.0,
     "url": "https://japanelectronics.com.pk/products/kenwood-split-ac-inverter-1-0-ton-klu-12b03s-t3-luxury-ultra",
     "available": true
   },
   {
     "name": "Kenwood Split AC Inverter 1.0 Ton KLP-12B02S T3 (Luxury Pro)",
-    "price": 125000.0,
+    "price": 130000.0,
     "url": "https://japanelectronics.com.pk/products/kenwood-split-ac-inverter-1-0-ton-klp-12b02s-t3-luxury-pro",
     "available": false
   },
@@ -2475,7 +2475,7 @@
     "name": "Beetro Blender & Grinder (BB-18)",
     "price": 26500.0,
     "url": "https://japanelectronics.com.pk/products/beetro-blender-grinder-bb-18",
-    "available": true
+    "available": false
   },
   {
     "name": "Beetro Blender & Grinder (BB-17)",
@@ -2961,7 +2961,7 @@
     "name": "Westpoint Steam Iron WF-2063",
     "price": 9800.0,
     "url": "https://japanelectronics.com.pk/products/westpoint-steam-iron-wf-2063",
-    "available": false
+    "available": true
   },
   {
     "name": "Dawlance REF 9193 Digital Pro Magnetic Red",
@@ -3195,7 +3195,7 @@
     "name": "HAIER MICROWAVE OVEN (HMW-26MGH)",
     "price": 24000.0,
     "url": "https://japanelectronics.com.pk/products/haier-microwave-oven-hmw-26mgh",
-    "available": false
+    "available": true
   },
   {
     "name": "WESTPOINT BLENDER & GRINDER (WF-372) 2 IN 1",
@@ -3499,13 +3499,13 @@
   },
   {
     "name": "Kenwood Split AC Inverter 1.5 Ton KLU-18B03S T3 (Luxury Ultra)",
-    "price": 160000.0,
+    "price": 167000.0,
     "url": "https://japanelectronics.com.pk/products/kenwood-split-ac-inverter-1-5-ton-klu-18b03s-t3-luxury-ultra",
     "available": false
   },
   {
     "name": "Kenwood Split AC Inverter 1.5 Ton KLP-18B02S T3 (Luxury Pro)",
-    "price": 160000.0,
+    "price": 167000.0,
     "url": "https://japanelectronics.com.pk/products/kenwood-split-ac-inverter-1-5-ton-klp-18b02s-t3-luxury-pro",
     "available": true
   },
@@ -4791,7 +4791,7 @@
     "name": "ANEX Garment Steamer (AG-1018)",
     "price": 10000.0,
     "url": "https://japanelectronics.com.pk/products/anex-garment-steamer-ag-1018",
-    "available": false
+    "available": true
   },
   {
     "name": "Westpoint Garment Steamer WF-1353",
@@ -5761,7 +5761,7 @@
   },
   {
     "name": "Kenwood Refrigerator Krf-22257/220-L (GD) New MRG Persona Plus",
-    "price": 73000.0,
+    "price": 71000.0,
     "url": "https://japanelectronics.com.pk/products/kenwood-refrigerator-krf-22257-220-l-gd-new-mrg-persona-plus",
     "available": false
   },
@@ -5923,13 +5923,13 @@
   },
   {
     "name": "Kenwood Refrigerator Krf-26657/480-L New Gng Persona Plus",
-    "price": 113000.0,
+    "price": 111000.0,
     "url": "https://japanelectronics.com.pk/products/kenwood-refrigerator-krf-26657-480-l-new-gng-persona-plus",
     "available": false
   },
   {
     "name": "Kenwood Refrigerator Krf-25557/400-L New Persona Plus",
-    "price": 105000.0,
+    "price": 103000.0,
     "url": "https://japanelectronics.com.pk/products/kenwood-refrigerator-krf-25557-400-l-new-persona-plus",
     "available": true
   },
@@ -6199,7 +6199,7 @@
   },
   {
     "name": "Beetro Infrared Sun Heater ISH-1220 Plus (Solar Compatible)",
-    "price": 18400.0,
+    "price": 20000.0,
     "url": "https://japanelectronics.com.pk/products/beetro-infrared-sun-heater-ish-1220-plus-solar-compatible",
     "available": true
   },
@@ -6507,7 +6507,7 @@
     "name": "Dawlance TAWM (DWT-11467 ES)",
     "price": 63900.0,
     "url": "https://japanelectronics.com.pk/products/dawlance-tawm-dwt-11467-es",
-    "available": true
+    "available": false
   },
   {
     "name": "LG FAWM (FOL2CRV2T2)",
@@ -7333,55 +7333,55 @@
   },
   {
     "name": "Kenwood Refrigerator Krf-23357/280-L New BKG Persona Plus",
-    "price": 82000.0,
+    "price": 80000.0,
     "url": "https://japanelectronics.com.pk/products/kenwood-refrigerator-krf-23357-280-l-new-bkg-persona-plus",
     "available": true
   },
   {
     "name": "Kenwood Refrigerator Krf-24457/320-L BKG New Persona Plus",
-    "price": 95000.0,
+    "price": 93000.0,
     "url": "https://japanelectronics.com.pk/products/kenwood-refrigerator-krf-24457-320-l-bkg-new-persona-plus",
     "available": true
   },
   {
     "name": "Kenwood Refrigerator Krf-25557/400-L MRG New Persona Plus",
-    "price": 105000.0,
+    "price": 103000.0,
     "url": "https://japanelectronics.com.pk/products/kenwood-refrigerator-krf-25557-400-l-mrg-new-persona-plus",
     "available": true
   },
   {
     "name": "Kenwood Refrigerator Krf-26657/480-L New Bkg Persona Plus",
-    "price": 113000.0,
+    "price": 111000.0,
     "url": "https://japanelectronics.com.pk/products/kenwood-refrigerator-krf-26657-480-l-new-bkg-persona-plus",
     "available": true
   },
   {
     "name": "Kenwood Refrigerator Krf-Invertech-24457/320-L (GD) MRG",
-    "price": 102000.0,
+    "price": 103000.0,
     "url": "https://japanelectronics.com.pk/products/kenwood-refrigerator-krf-invertech-24457-320-l-gd-mrg",
     "available": true
   },
   {
     "name": "Kenwood Refrigerator Krf-Invertech-25557/400-L (GD) Mirror",
-    "price": 115000.0,
+    "price": 116000.0,
     "url": "https://japanelectronics.com.pk/products/kenwood-refrigerator-krf-invertech-25557-400-l-gd-mirror",
     "available": true
   },
   {
     "name": "Kenwood Refrigerator Krf-Invertech-25557/400-L (GD) MRG",
-    "price": 115000.0,
+    "price": 116000.0,
     "url": "https://japanelectronics.com.pk/products/kenwood-refrigerator-krf-invertech-25557-400-l-gd-mrg",
     "available": true
   },
   {
     "name": "Kenwood Refrigerator Krf-Invertech-26657/480-L (GD) Mirror",
-    "price": 123000.0,
+    "price": 125000.0,
     "url": "https://japanelectronics.com.pk/products/kenwood-refrigerator-krf-invertech-26657-480-l-gd-mirror",
     "available": true
   },
   {
     "name": "Kenwood Refrigerator Krf-Invertech-26657/480-L (GD) MRG",
-    "price": 123000.0,
+    "price": 125000.0,
     "url": "https://japanelectronics.com.pk/products/kenwood-refrigerator-krf-invertech-26657-480-l-gd-mrg",
     "available": true
   },
@@ -8859,7 +8859,7 @@
     "name": "Westpoint Blender & Grinder WF-367",
     "price": 16500.0,
     "url": "https://japanelectronics.com.pk/products/westpoint-blender-grinder-wf-367",
-    "available": false
+    "available": true
   },
   {
     "name": "Westpoint Blender & Grinder WF-364",
@@ -9571,7 +9571,7 @@
   },
   {
     "name": "Kenwood Ref Krf-Invertech 23357/280-L (GD) MRG",
-    "price": 90000.0,
+    "price": 93000.0,
     "url": "https://japanelectronics.com.pk/products/kenwood-ref-krf-invertech-23357-280-l-gd-mrg",
     "available": true
   },
@@ -10581,7 +10581,7 @@
     "name": "Haier Ref HRF-346 IFRA (Red)",
     "price": 101000.0,
     "url": "https://japanelectronics.com.pk/products/haier-ref-hrf-346-ifra-red",
-    "available": true
+    "available": false
   },
   {
     "name": "Haier Ref HRF-316 IPRA (Red)",

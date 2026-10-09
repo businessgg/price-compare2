@@ -1,5 +1,35 @@
 [
   {
+    "name": "Haier Auto Wash Front Load HW-120-BP12357S8",
+    "price": 170000.0,
+    "url": "https://bismillahelectronics.pk/products/haier-auto-wash-front-load-hw-120-bp12357s8",
+    "available": true
+  },
+  {
+    "name": "Haier Auto Wash Front Load 90-BP12357S8",
+    "price": 145000.0,
+    "url": "https://bismillahelectronics.pk/products/haier-auto-wash-front-load-90-bp12357s8-1",
+    "available": true
+  },
+  {
+    "name": "Haier Auto Wash 100-BP12357S8 MALAYSIA",
+    "price": 155000.0,
+    "url": "https://bismillahelectronics.pk/products/haier-auto-wash-100-bp12357s8-malaysia",
+    "available": true
+  },
+  {
+    "name": "Gaba National Baby Wash SIMPLE 94023",
+    "price": 15800.0,
+    "url": "https://bismillahelectronics.pk/products/gaba-national-baby-wash-simple-94023",
+    "available": true
+  },
+  {
+    "name": "Gaba National Baby Wash GLASS 93020",
+    "price": 16800.0,
+    "url": "https://bismillahelectronics.pk/products/gaba-national-baby-wash-glass-93020",
+    "available": true
+  },
+  {
     "name": "Dawlance Washing Machine 14150 OPAQUE LID",
     "price": 32800.0,
     "url": "https://bismillahelectronics.pk/products/dawlance-washing-machine-14150-opaque-lid",
@@ -471,12 +501,6 @@
     "name": "Haier LED TV 40 Inch 40K66FG",
     "price": 64400.0,
     "url": "https://bismillahelectronics.pk/products/haier-led-tv-40-inch-40k66fg",
-    "available": true
-  },
-  {
-    "name": "Haier Double Washing Machine HWM 100BS",
-    "price": 32500.0,
-    "url": "https://bismillahelectronics.pk/products/haier-double-washing-machine-hwm-100bs",
     "available": true
   },
   {
@@ -5376,7 +5400,7 @@
     "available": true
   },
   {
-    "name": "Haier Automatic Washing Machine HWM 120-1789",
+    "name": "washing machine(haier)",
     "price": 91100.0,
     "url": "https://bismillahelectronics.pk/products/haier-automatic-washing-machine-hwm-120-1789",
     "available": true
@@ -7827,12 +7851,6 @@
     "name": "Haier Automatic Washing Machine HWM 95-1678",
     "price": 97000.0,
     "url": "https://bismillahelectronics.pk/products/haier-automatic-washing-machine-hwm-95-1678",
-    "available": true
-  },
-  {
-    "name": "Haier Automatic Washing Machine HWM 120-1978",
-    "price": 146000.0,
-    "url": "https://bismillahelectronics.pk/products/haier-automatic-washing-machine-hwm-120-1978",
     "available": true
   }
 ]

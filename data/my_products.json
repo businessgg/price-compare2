@@ -1,5 +1,47 @@
 [
   {
+    "name": "Haier Washing Machine HWM-80 CS",
+    "price": 27500.0,
+    "url": "https://bismillahelectronics.pk/products/haier-washing-machine-hwm-80-cs",
+    "available": true
+  },
+  {
+    "name": "Haier Washing Machine HWM 130-1217E",
+    "price": 26500.0,
+    "url": "https://bismillahelectronics.pk/products/haier-washing-machine-hwm-130-1217e",
+    "available": true
+  },
+  {
+    "name": "Haier Washing Machine HTM-130-196 WB",
+    "price": 42000.0,
+    "url": "https://bismillahelectronics.pk/products/haier-washing-machine-htm-130-196-wb",
+    "available": true
+  },
+  {
+    "name": "Haier Washing Machine HTM 100-196S",
+    "price": 34000.0,
+    "url": "https://bismillahelectronics.pk/products/haier-washing-machine-htm-100-196s",
+    "available": true
+  },
+  {
+    "name": "Haier Washing Machine HTM 100-196E",
+    "price": 33000.0,
+    "url": "https://bismillahelectronics.pk/products/haier-washing-machine-htm-100-196e",
+    "available": true
+  },
+  {
+    "name": "Haier Washing Machiing HWM 80-1217E",
+    "price": 20000.0,
+    "url": "https://bismillahelectronics.pk/products/haier-washing-machiing-hwm-80-1217e",
+    "available": true
+  },
+  {
+    "name": "Haier Dryer HWS 80-60",
+    "price": 20000.0,
+    "url": "https://bismillahelectronics.pk/products/haier-dryer-hws-80-60",
+    "available": true
+  },
+  {
     "name": "Haier Auto Wash HWM-150-688S8",
     "price": 94000.0,
     "url": "https://bismillahelectronics.pk/products/haier-auto-wash-hwm-150-688s8",
@@ -733,26 +775,14 @@
   },
   {
     "name": "Haier AC Inverter 1.5 Ton HSU-18HJUV (Golden)",
-    "price": 199900.0,
+    "price": 215000.0,
     "url": "https://bismillahelectronics.pk/products/haier-ac-inverter-1-5-ton-hsu-20hjuv-golden",
-    "available": true
-  },
-  {
-    "name": "Haier AC Iverter 1.5 Ton HSU-19HFMCE",
-    "price": 148000.0,
-    "url": "https://bismillahelectronics.pk/products/haier-ac-iverter-1-5-ton-hsu-19hfmce",
     "available": true
   },
   {
     "name": "Haier AC Inverter 1.5 Ton HSU-19HFPAA (Black)",
     "price": 137000.0,
     "url": "https://bismillahelectronics.pk/products/haier-ac-1-5-ton-hsu-19hfpaa-inverter-black",
-    "available": true
-  },
-  {
-    "name": "Haier AC Inverter 1.5 Ton HSU-19RFP (White)",
-    "price": 123000.0,
-    "url": "https://bismillahelectronics.pk/products/haier-ac-1-5-ton-hsu-19rfp-inverter-white",
     "available": true
   },
   {
@@ -5838,12 +5868,6 @@
     "available": true
   },
   {
-    "name": "Haier AC Inverter 1.5 Ton HSU-19HFMCC",
-    "price": 148000.0,
-    "url": "https://bismillahelectronics.pk/products/haier-ac-inverter-1-5-ton-hsu-19hfmcc",
-    "available": true
-  },
-  {
     "name": "Haier AC Inverter 1.5 Ton HSU-19HFCA",
     "price": 126000.0,
     "url": "https://bismillahelectronics.pk/products/haier-ac-inverter-1-5-ton-hsu-19hfca",
@@ -5883,12 +5907,6 @@
     "name": "Haier AC Inverter 1.5 Ton HSU-18HFPAA (Black)",
     "price": 134000.0,
     "url": "https://bismillahelectronics.pk/products/haier-ac-1-5-ton-hsu-18hfpaa-inverter-black",
-    "available": true
-  },
-  {
-    "name": "Haier AC Inverter 1.5 Ton HSU-18HFMCE (White)",
-    "price": 148000.0,
-    "url": "https://bismillahelectronics.pk/products/haier-ac-1-5-ton-hsu-18hfmce-inverter-white",
     "available": true
   },
   {
@@ -6505,7 +6523,7 @@
   },
   {
     "name": "Haier AC Inverter 1.5 Ton Solar Hybrid-III (White)",
-    "price": 182000.0,
+    "price": 180000.0,
     "url": "https://bismillahelectronics.pk/products/haier-ac-1-5-ton-inverter-solar-hybrid-ii-heat-cool",
     "available": true
   },

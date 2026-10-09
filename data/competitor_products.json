@@ -291,7 +291,7 @@
     "name": "ECOSTAR LED 58\" CX-58Q968 (Q-LED)",
     "price": 120000.0,
     "url": "https://japanelectronics.com.pk/products/ecostar-led-58-cx-58q968-q-led",
-    "available": true
+    "available": false
   },
   {
     "name": "ECOSTAR LED 43\" CX-43Q964 (4K Q-LED)",
@@ -465,7 +465,7 @@
     "name": "LG FAWM (FOZ6DRPK4)",
     "price": 354999.0,
     "url": "https://japanelectronics.com.pk/products/lg-fawm-foz6drpk4",
-    "available": false
+    "available": true
   },
   {
     "name": "LG FAWM (FOZ8DYPK4)",
@@ -493,7 +493,7 @@
   },
   {
     "name": "KENWOOD FAWM (KWM-8005FAF DG)",
-    "price": 206200.0,
+    "price": 187100.0,
     "url": "https://japanelectronics.com.pk/products/kenwood-fawm-kwm-8005faf-dg",
     "available": true
   },
@@ -1033,7 +1033,7 @@
   },
   {
     "name": "Homage Ref HRF-47662/480-L (GD) MRG New Crystal Series",
-    "price": 126200.0,
+    "price": 117400.0,
     "url": "https://japanelectronics.com.pk/products/homage-ref-hrf-47662-480-l-gd-mrg-new-crystal-series",
     "available": true
   },
@@ -1255,7 +1255,7 @@
   },
   {
     "name": "HOMAGE MICROWAVE OVEN (HDG-2313B)",
-    "price": 24250.0,
+    "price": 25400.0,
     "url": "https://japanelectronics.com.pk/products/homage-microwave-oven-hdg-2313b",
     "available": true
   },
@@ -2725,67 +2725,67 @@
   },
   {
     "name": "Homage Ref HRI-47662/480 Crystal Inverter Mirror",
-    "price": 131300.0,
+    "price": 122100.0,
     "url": "https://japanelectronics.com.pk/products/homage-ref-hri-47662-480-crystal-inverter-mirror",
     "available": true
   },
   {
     "name": "Homage Ref HRI-47552/400 Crystal Inverter Mirror",
-    "price": 122500.0,
+    "price": 113900.0,
     "url": "https://japanelectronics.com.pk/products/homage-ref-hri-47552-400-crystal-inverter-mirror",
     "available": true
   },
   {
     "name": "Homage Ref HRI-47332/280 Crystal Inverter Mirror",
-    "price": 100500.0,
+    "price": 93500.0,
     "url": "https://japanelectronics.com.pk/products/homage-ref-hri-47332-280-crystal-inverter-mirror-1-yrw",
     "available": true
   },
   {
     "name": "Homage Ref HR-47782/-L (GD) Tech Inverter MRG (R-550)",
-    "price": 142000.0,
+    "price": 132100.0,
     "url": "https://japanelectronics.com.pk/products/homage-ref-hr-47782-l-gd-tech-inverter-mrg-r-550",
     "available": true
   },
   {
     "name": "Homage Ref HR-47782/-L (GD) Tech Inverter BKG (R-550)",
-    "price": 142000.0,
+    "price": 132100.0,
     "url": "https://japanelectronics.com.pk/products/homage-ref-hr-47782-l-gd-tech-inverter-bkg-r-550",
     "available": true
   },
   {
     "name": "Homage Ref HR-47672/453-L (GD) Tech Inverter BKG (R-450)",
-    "price": 134400.0,
+    "price": 125000.0,
     "url": "https://japanelectronics.com.pk/products/homage-ref-hr-47672-453-l-gd-tech-inverter-bkg-r-450",
     "available": true
   },
   {
     "name": "Homage Ref HR-47672/453-L (GD) Tech Inverter MRG (R-450)",
-    "price": 134400.0,
+    "price": 125000.0,
     "url": "https://japanelectronics.com.pk/products/homage-ref-hr-47672-453-l-gd-tech-inverter-mrg-r-450",
     "available": true
   },
   {
     "name": "Homage Ref HR-47562/453-L (GD) Tech Inverter MRG (R-410)",
-    "price": 127700.0,
+    "price": 118800.0,
     "url": "https://japanelectronics.com.pk/products/homage-ref-hr-47562-453-l-gd-tech-inverter-mrg-r-410",
     "available": true
   },
   {
     "name": "Homage Ref HR-47562/453-L (GD) Tech Inverter BKG (R-410)",
-    "price": 127700.0,
+    "price": 118800.0,
     "url": "https://japanelectronics.com.pk/products/homage-ref-hr-47562-453-l-gd-tech-inverter-bkg-r-410",
     "available": true
   },
   {
     "name": "Homage Ref HR-47452/368-L (GD) Tech Inverter MRG (R-310)",
-    "price": 117200.0,
+    "price": 109000.0,
     "url": "https://japanelectronics.com.pk/products/homage-ref-hr-47452-368-l-gd-tech-inverter-mrg-r-310",
     "available": true
   },
   {
     "name": "Homage Ref HR-47452/368-L (GD) Tech Inverter BKG (R-310)",
-    "price": 117200.0,
+    "price": 109000.0,
     "url": "https://japanelectronics.com.pk/products/homage-ref-hr-47452-368-l-gd-tech-inverter-bkg-r-310",
     "available": true
   },
@@ -4789,7 +4789,7 @@
   },
   {
     "name": "ANEX Garment Steamer (AG-1018)",
-    "price": 10000.0,
+    "price": 11220.0,
     "url": "https://japanelectronics.com.pk/products/anex-garment-steamer-ag-1018",
     "available": true
   },
@@ -5043,7 +5043,7 @@
     "name": "JBL Sound Bar BAR-1000MK2",
     "price": 325000.0,
     "url": "https://japanelectronics.com.pk/products/jbl-sound-bar-bar-1000mk2",
-    "available": true
+    "available": false
   },
   {
     "name": "Hisense Split AC Inverter 1.5 Ton 18TV60HC T3",
@@ -6625,13 +6625,13 @@
   },
   {
     "name": "Homage W.M (HWM-4991 White)",
-    "price": 22300.0,
+    "price": 21200.0,
     "url": "https://japanelectronics.com.pk/products/homage-w-m-hwm-4991-white",
     "available": true
   },
   {
     "name": "Homage W.M (HWM-49112 Glass Blue Bubbles)",
-    "price": 37500.0,
+    "price": 36100.0,
     "url": "https://japanelectronics.com.pk/products/homage-w-m-hwm-49112-glass-blue-bubbles",
     "available": true
   },
@@ -6681,7 +6681,7 @@
     "name": "Dawlance W.M (DW-10600 W FL)",
     "price": 46499.0,
     "url": "https://japanelectronics.com.pk/products/dawlance-w-m-dw-10600-w-fl",
-    "available": true
+    "available": false
   },
   {
     "name": "Super Asia E+G Geyser 20 Gallon (GEH-720) AI",
@@ -7045,7 +7045,7 @@
   },
   {
     "name": "ANEX Sandwich Maker (AG-2047)",
-    "price": 11700.0,
+    "price": 12040.0,
     "url": "https://japanelectronics.com.pk/products/anex-sandwich-maker-ag-2047",
     "available": true
   },
@@ -7231,7 +7231,7 @@
   },
   {
     "name": "Homage Microwave Oven HDG-451S",
-    "price": 42400.0,
+    "price": 38100.0,
     "url": "https://japanelectronics.com.pk/products/homage-microwave-oven-hdg-451s",
     "available": true
   },
@@ -7669,7 +7669,7 @@
   },
   {
     "name": "Homage Washing Machine HW-49102 Glass Gray Diamond",
-    "price": 33400.0,
+    "price": 32200.0,
     "url": "https://japanelectronics.com.pk/products/homage-washing-machine-hw-49102-glass-gray-diamond",
     "available": true
   },
@@ -8167,13 +8167,13 @@
   },
   {
     "name": "Homage Air Purifier HAP-403DWB",
-    "price": 49800.0,
+    "price": 35800.0,
     "url": "https://japanelectronics.com.pk/products/homage-air-purifier-hap-403dwb",
     "available": true
   },
   {
     "name": "Air Purifier HAP-251DWB",
-    "price": 32100.0,
+    "price": 27100.0,
     "url": "https://japanelectronics.com.pk/products/air-purifier-hap-251dwb",
     "available": true
   },
@@ -8317,7 +8317,7 @@
   },
   {
     "name": "Homage Microwave Oven (HDSO-2312B 23Ltr)",
-    "price": 22900.0,
+    "price": 23500.0,
     "url": "https://japanelectronics.com.pk/products/homage-microwave-oven-hdso-2312b-23ltr",
     "available": false
   },
@@ -9073,13 +9073,13 @@
   },
   {
     "name": "Homage Sandwich Maker (HSM-704C0)",
-    "price": 13600.0,
+    "price": 9500.0,
     "url": "https://japanelectronics.com.pk/products/homage-sandwich-maker-hsm-704c0",
     "available": true
   },
   {
     "name": "Homage Sandwich Maker (HSM-702C0)",
-    "price": 1099.0,
+    "price": 5700.0,
     "url": "https://japanelectronics.com.pk/products/homage-sandwich-maker-hsm-702c0",
     "available": false
   },
@@ -9139,7 +9139,7 @@
   },
   {
     "name": "Homage 2 SliceToaster (HTT-902B0)",
-    "price": 8900.0,
+    "price": 8000.0,
     "url": "https://japanelectronics.com.pk/products/homage-2-slicetoaster-htt-902b0",
     "available": false
   },
@@ -9325,7 +9325,7 @@
   },
   {
     "name": "Homage Air Fryer (HAF-5LDB0",
-    "price": 41200.0,
+    "price": 26200.0,
     "url": "https://japanelectronics.com.pk/products/homage-air-fryer-haf-5ldb0",
     "available": false
   },
@@ -9943,7 +9943,7 @@
   },
   {
     "name": "Homage Split AC Inverter 1.0 Ton HCS-1221S",
-    "price": 110000.0,
+    "price": 99700.0,
     "url": "https://japanelectronics.com.pk/products/homage-split-ac-inverter-1-0-ton-hcs-1221s",
     "available": false
   },
@@ -10069,7 +10069,7 @@
   },
   {
     "name": "Homage Split AC Inverter 1.5 Ton HES-1822S",
-    "price": 169900.0,
+    "price": 141000.0,
     "url": "https://japanelectronics.com.pk/products/homage-split-ac-inverter-1-5-ton-hes-1822s",
     "available": true
   },
@@ -10183,7 +10183,7 @@
   },
   {
     "name": "Homage Split AC 1.5 Ton HCS-1821S Classic (Heat & Cool)",
-    "price": 128900.0,
+    "price": 124800.0,
     "url": "https://japanelectronics.com.pk/products/homage-split-ac-1-5-ton-hcs-1821s-classic-heat-cool",
     "available": true
   },
@@ -10285,7 +10285,7 @@
   },
   {
     "name": "Homage Refrigerator HRI-47442/320 Crystal Inverter Mirror",
-    "price": 110400.0,
+    "price": 102700.0,
     "url": "https://japanelectronics.com.pk/products/homage-refrigerator-hri-47442-320-crystal-inverter-mirror",
     "available": true
   },
@@ -10489,19 +10489,19 @@
   },
   {
     "name": "Homage Microwave Oven HDSO-2018W",
-    "price": 17900.0,
+    "price": 18200.0,
     "url": "https://japanelectronics.com.pk/products/homage-microwave-oven-hdso-2018w",
     "available": false
   },
   {
     "name": "Homage Microwave Oven HDG-342S",
-    "price": 30900.0,
+    "price": 30600.0,
     "url": "https://japanelectronics.com.pk/products/homage-microwave-oven-hdg-342s",
     "available": false
   },
   {
     "name": "Homage Microwave Oven (HDG-282 28Ltr) Grill",
-    "price": 25900.0,
+    "price": 28000.0,
     "url": "https://japanelectronics.com.pk/products/homage-microwave-oven-hdg-282",
     "available": true
   },
@@ -10581,7 +10581,7 @@
     "name": "Haier Ref HRF-346 IFRA (Red)",
     "price": 101000.0,
     "url": "https://japanelectronics.com.pk/products/haier-ref-hrf-346-ifra-red",
-    "available": false
+    "available": true
   },
   {
     "name": "Haier Ref HRF-316 IPRA (Red)",
@@ -11169,7 +11169,7 @@
     "name": "Dawlance Hot Plate DWHP-3021 B",
     "price": 10600.0,
     "url": "https://japanelectronics.com.pk/products/dawlance-hot-plate-dwhp-3021-b",
-    "available": true
+    "available": false
   },
   {
     "name": "Dawlance Hot Plate DWHP-3021 W",

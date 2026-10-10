@@ -1,5 +1,35 @@
 [
   {
+    "name": "Eco Star Hair Dryer ECOSTAR",
+    "price": 4000.0,
+    "url": "https://bismillahelectronics.pk/products/eco-star-hair-dryer-ecostar",
+    "available": true
+  },
+  {
+    "name": "Dawlance Vacum Cleaner DWVC-70322 WI",
+    "price": 35000.0,
+    "url": "https://bismillahelectronics.pk/products/dawlance-vacum-cleaner-dwvc-70322-wi",
+    "available": true
+  },
+  {
+    "name": "Dawlance Steam Iron DWSI-2322 CX",
+    "price": 8000.0,
+    "url": "https://bismillahelectronics.pk/products/dawlance-steam-iron-dwsi-2322-cx",
+    "available": true
+  },
+  {
+    "name": "Dawlance Hair Dryer DWHD 7081",
+    "price": 14000.0,
+    "url": "https://bismillahelectronics.pk/products/dawlance-hair-dryer-dwhd-7081",
+    "available": true
+  },
+  {
+    "name": "LG Vacume Cleaner ZL16-4832 2800W",
+    "price": 24500.0,
+    "url": "https://bismillahelectronics.pk/products/lg-vacume-cleaner-zl16-4832-2800w",
+    "available": true
+  },
+  {
     "name": "Kenwood Chopper KW-3070",
     "price": 7000.0,
     "url": "https://bismillahelectronics.pk/products/kenwood-chopper-kw-3070",
@@ -2323,13 +2353,13 @@
   },
   {
     "name": "Anex Steam Iron AG-1028",
-    "price": 13200.0,
+    "price": 8200.0,
     "url": "https://bismillahelectronics.pk/products/anex-steam-iron-ag-1028",
     "available": true
   },
   {
     "name": "Anex Steam Iron AG-1027",
-    "price": 13200.0,
+    "price": 8200.0,
     "url": "https://bismillahelectronics.pk/products/anex-steam-iron-ag-1027",
     "available": true
   },
@@ -2341,31 +2371,31 @@
   },
   {
     "name": "Anex Stand Mixer AG-819",
-    "price": 26500.0,
+    "price": 27500.0,
     "url": "https://bismillahelectronics.pk/products/anex-stand-mixer-ag-819",
     "available": true
   },
   {
     "name": "Anex Dough Maker AG-2127",
-    "price": 19500.0,
+    "price": 14500.0,
     "url": "https://bismillahelectronics.pk/products/anex-dough-maker-ag-2127",
     "available": true
   },
   {
     "name": "Anex Sandwich Maker AG-2047",
-    "price": 10300.0,
+    "price": 11100.0,
     "url": "https://bismillahelectronics.pk/products/anex-sandwich-maker-ag-2047",
     "available": true
   },
   {
     "name": "Anex Sandwich Maker AG-2046",
-    "price": 6500.0,
+    "price": 7000.0,
     "url": "https://bismillahelectronics.pk/products/anex-sandwich-maker-ag-2046",
     "available": true
   },
   {
     "name": "Anex Sandwich Maker AG-2045",
-    "price": 6500.0,
+    "price": 7000.0,
     "url": "https://bismillahelectronics.pk/products/anex-sandwich-maker-ag-2045",
     "available": true
   },
@@ -2377,13 +2407,13 @@
   },
   {
     "name": "Anex Sandwich Maker AG-1039",
-    "price": 12000.0,
+    "price": 11000.0,
     "url": "https://bismillahelectronics.pk/products/anex-sandwich-maker-ag-1039",
     "available": true
   },
   {
     "name": "Anex Sandwich Maker AG-1037",
-    "price": 6000.0,
+    "price": 6200.0,
     "url": "https://bismillahelectronics.pk/products/anex-sandwich-maker-ag-1037",
     "available": true
   },
@@ -2401,7 +2431,7 @@
   },
   {
     "name": "Anex Rice Cooker AG-2021",
-    "price": 8400.0,
+    "price": 9000.0,
     "url": "https://bismillahelectronics.pk/products/anex-rice-cooker-ag-2021",
     "available": true
   },
@@ -2413,7 +2443,7 @@
   },
   {
     "name": "Anex Meat Mincer AG-2048",
-    "price": 21000.0,
+    "price": 20800.0,
     "url": "https://bismillahelectronics.pk/products/anex-meat-mincer-ag-2048",
     "available": true
   },
@@ -2431,7 +2461,7 @@
   },
   {
     "name": "Anex Juicer Blender Grinder AG-188",
-    "price": 19900.0,
+    "price": 17800.0,
     "url": "https://bismillahelectronics.pk/products/anex-juicer-blender-grinder-ag-188",
     "available": true
   },
@@ -2455,19 +2485,19 @@
   },
   {
     "name": "Anex Hand Blender AG-130",
-    "price": 11900.0,
+    "price": 12100.0,
     "url": "https://bismillahelectronics.pk/products/anex-hand-blender-ag-130",
     "available": true
   },
   {
     "name": "Anex Hand Blender AG-128",
-    "price": 7455.0,
+    "price": 8000.0,
     "url": "https://bismillahelectronics.pk/products/anex-hand-blender-ag-128",
     "available": true
   },
   {
     "name": "Anex Hand Blender AG-121",
-    "price": 4705.0,
+    "price": 4704.0,
     "url": "https://bismillahelectronics.pk/products/anex-hand-blender-ag-121",
     "available": true
   },
@@ -2497,13 +2527,13 @@
   },
   {
     "name": "Anex Garment Steamer AG-1121",
-    "price": 21200.0,
+    "price": 21800.0,
     "url": "https://bismillahelectronics.pk/products/anex-garment-steamer-ag-1121",
     "available": true
   },
   {
     "name": "Anex Garment Steamer AG-1120",
-    "price": 24900.0,
+    "price": 22200.0,
     "url": "https://bismillahelectronics.pk/products/anex-garment-steamer-ag-1120",
     "available": true
   },
@@ -2515,31 +2545,31 @@
   },
   {
     "name": "Anex Juicer Blender Grinder AG-180GL",
-    "price": 15700.0,
+    "price": 15300.0,
     "url": "https://bismillahelectronics.pk/products/anex-juicer-blender-grinder-ag-180gl",
     "available": true
   },
   {
     "name": "Anex Juicer Blender Grinder AG-189EX",
-    "price": 16400.0,
+    "price": 16800.0,
     "url": "https://bismillahelectronics.pk/products/anex-juicer-blender-grinder-ag-189ex",
     "available": true
   },
   {
     "name": "Anex Juicer AG-177GL 3-in-1",
-    "price": 13700.0,
+    "price": 13300.0,
     "url": "https://bismillahelectronics.pk/products/anex-juicer-ag-177gl-3-in-1",
     "available": true
   },
   {
     "name": "Anex Juicer AG-176GL 3-in-1",
-    "price": 12100.0,
+    "price": 13000.0,
     "url": "https://bismillahelectronics.pk/products/anex-juicer-ag-176gl-3-in-1",
     "available": true
   },
   {
     "name": "Anex Food Factory AG-3152",
-    "price": 26000.0,
+    "price": 21900.0,
     "url": "https://bismillahelectronics.pk/products/anex-food-factory-ag-3152",
     "available": true
   },
@@ -2551,13 +2581,13 @@
   },
   {
     "name": "Anex Food Factory AG-3150EX",
-    "price": 18000.0,
+    "price": 21800.0,
     "url": "https://bismillahelectronics.pk/products/anex-food-factory-ag-3150ex",
     "available": true
   },
   {
     "name": "Anex Food Factory AG-2150EX",
-    "price": 19500.0,
+    "price": 19000.0,
     "url": "https://bismillahelectronics.pk/products/anex-food-factory-ag-2150ex",
     "available": true
   },
@@ -2569,13 +2599,13 @@
   },
   {
     "name": "Anex Egg Beater AG-822",
-    "price": 10500.0,
+    "price": 9800.0,
     "url": "https://bismillahelectronics.pk/products/anex-egg-beater-ag-822",
     "available": true
   },
   {
     "name": "Anex Dry Iron AG-662",
-    "price": 6300.0,
+    "price": 5100.0,
     "url": "https://bismillahelectronics.pk/products/anex-dry-iron-ag-662",
     "available": true
   },

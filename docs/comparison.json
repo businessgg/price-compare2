@@ -1,11 +1,25 @@
 {
-  "last_updated": "2026-10-10T09:04:56.217209+00:00",
+  "last_updated": "2026-10-10T10:05:00.003400+00:00",
   "my_store_name": "Bismillah Electronics",
   "competitor_name": "Japan Electronics",
-  "total_my_products": 1337,
+  "total_my_products": 1338,
   "total_competitor_products": 2146,
-  "matched_count": 1008,
+  "matched_count": 1009,
   "results": [
+    {
+      "product_name": "Super Asia Washing Machine SA-280 CRYSTAL",
+      "my_price": 41200.0,
+      "my_available": true,
+      "my_url": "https://bismillahelectronics.pk/products/super-asia-washing-machine-sa-280-crystal",
+      "competitor_name": "Super Asia Washing Machine SA-280",
+      "competitor_price": 39900.0,
+      "competitor_available": true,
+      "competitor_url": "https://japanelectronics.com.pk/products/super-asia-washing-machine-sa-280",
+      "match_confidence": 89.2,
+      "status": "matched",
+      "price_diff": 1300.0,
+      "cheaper": "competitor"
+    },
     {
       "product_name": "Super Asia Washing Machine SA-244",
       "my_price": 36800.0,
@@ -6098,7 +6112,7 @@
     },
     {
       "product_name": "Kenwood Refrigerator KRF-24457VCM Pearl Inverter",
-      "my_price": 93000.0,
+      "my_price": 88000.0,
       "my_available": true,
       "my_url": "https://bismillahelectronics.pk/products/kenwood-refrigerator-krf-24457vcm-pearl-inverter",
       "competitor_name": null,
@@ -6112,7 +6126,7 @@
     },
     {
       "product_name": "Kenwood Refrigerator Krf-Invertech 23357/280-L (GD)",
-      "my_price": 95000.0,
+      "my_price": 93000.0,
       "my_available": true,
       "my_url": "https://bismillahelectronics.pk/products/kenwood-refrigerator-krf-invertech-23357-280-l-gd",
       "competitor_name": "Kenwood Ref Krf-Invertech 23357/280-L (GD) MRG",
@@ -6121,8 +6135,8 @@
       "competitor_url": "https://japanelectronics.com.pk/products/kenwood-ref-krf-invertech-23357-280-l-gd-mrg",
       "match_confidence": 86.6,
       "status": "matched",
-      "price_diff": 2000.0,
-      "cheaper": "competitor"
+      "price_diff": 0.0,
+      "cheaper": "same"
     },
     {
       "product_name": "Haier Refrigerator HRF-418 IFR",
@@ -11306,7 +11320,7 @@
     },
     {
       "product_name": "Kenwood Refrigerator KRF-26657/480-L Invertech (GD) Mirror",
-      "my_price": 128000.0,
+      "my_price": 125000.0,
       "my_available": true,
       "my_url": "https://bismillahelectronics.pk/products/kenwood-refrigerator-krf-26657-480-l-invertech-gd-mirror",
       "competitor_name": "Kenwood Refrigerator Krf-Invertech-26657/480-L (GD) Mirror",
@@ -11315,12 +11329,12 @@
       "competitor_url": "https://japanelectronics.com.pk/products/kenwood-refrigerator-krf-invertech-26657-480-l-gd-mirror",
       "match_confidence": 79.3,
       "status": "matched",
-      "price_diff": 3000.0,
-      "cheaper": "competitor"
+      "price_diff": 0.0,
+      "cheaper": "same"
     },
     {
       "product_name": "Kenwood Refrigerator KRF-26657/480-L Invertech (GD)",
-      "my_price": 128000.0,
+      "my_price": 125000.0,
       "my_available": true,
       "my_url": "https://bismillahelectronics.pk/products/kenwood-refrigerator-krf-26657-480-l-invertech-gd",
       "competitor_name": "Kenwood Ref KRF-25657/453-L (GD) Smart Inverter MRG",
@@ -11329,26 +11343,26 @@
       "competitor_url": "https://japanelectronics.com.pk/products/kenwood-ref-krf-25657-453-l-gd-smart-inverter-mrg",
       "match_confidence": 76.5,
       "status": "matched",
-      "price_diff": 8000.0,
+      "price_diff": 5000.0,
       "cheaper": "competitor"
     },
     {
-      "product_name": "Kenwood Refrigerator KRF-25557/400-L Invertech (GD) Mirror",
-      "my_price": 118000.0,
+      "product_name": "Kenwood Refrigerator  KRF-26657/480-L Invertech (GD)",
+      "my_price": 125000.0,
       "my_available": true,
       "my_url": "https://bismillahelectronics.pk/products/kenwood-refrigerator-krf-25557-400-l-invertech-gd-mirror",
-      "competitor_name": "Kenwood Refrigerator Krf-Invertech-25557/400-L (GD) Mirror",
-      "competitor_price": 116000.0,
-      "competitor_available": true,
-      "competitor_url": "https://japanelectronics.com.pk/products/kenwood-refrigerator-krf-invertech-25557-400-l-gd-mirror",
-      "match_confidence": 79.3,
+      "competitor_name": "Kenwood Ref KRF-25657/453-L (GD) Smart Inverter MRG",
+      "competitor_price": 120000.0,
+      "competitor_available": false,
+      "competitor_url": "https://japanelectronics.com.pk/products/kenwood-ref-krf-25657-453-l-gd-smart-inverter-mrg",
+      "match_confidence": 76.5,
       "status": "matched",
-      "price_diff": 2000.0,
+      "price_diff": 5000.0,
       "cheaper": "competitor"
     },
     {
       "product_name": "Kenwood Refrigerator KRF-25557/400-L Invertech (GD)",
-      "my_price": 118000.0,
+      "my_price": 116000.0,
       "my_available": true,
       "my_url": "https://bismillahelectronics.pk/products/kenwood-refrigerator-krf-25557-400-l-invertech-gd",
       "competitor_name": "Kenwood Ref KRF-25657/453-L (GD) Smart Inverter MRG",
@@ -11357,7 +11371,7 @@
       "competitor_url": "https://japanelectronics.com.pk/products/kenwood-ref-krf-25657-453-l-gd-smart-inverter-mrg",
       "match_confidence": 76.5,
       "status": "matched",
-      "price_diff": -2000.0,
+      "price_diff": -4000.0,
       "cheaper": "us"
     },
     {
@@ -15800,7 +15814,7 @@
     },
     {
       "product_name": "Kenwood Double Washing Machine KWM-231159",
-      "my_price": 38000.0,
+      "my_price": 37000.0,
       "my_available": true,
       "my_url": "https://bismillahelectronics.pk/products/kenwood-double-washing-machine-kwm-231159",
       "competitor_name": "Kenwood Washing Machine KWM-899W",
@@ -15809,12 +15823,12 @@
       "competitor_url": "https://japanelectronics.com.pk/products/kenwood-washing-machine-kwm-899w",
       "match_confidence": 79.5,
       "status": "matched",
-      "price_diff": 15600.0,
+      "price_diff": 14600.0,
       "cheaper": "competitor"
     },
     {
       "product_name": "Kenwood Double Washing Machine KWM-21159 SAG",
-      "my_price": 37000.0,
+      "my_price": 36000.0,
       "my_available": true,
       "my_url": "https://bismillahelectronics.pk/products/kenwood-double-washing-machine-kwm-21159-sag",
       "competitor_name": "Kenwood Washing Machine KWM-899W",
@@ -15823,7 +15837,7 @@
       "competitor_url": "https://japanelectronics.com.pk/products/kenwood-washing-machine-kwm-899w",
       "match_confidence": 76.3,
       "status": "matched",
-      "price_diff": 14600.0,
+      "price_diff": 13600.0,
       "cheaper": "competitor"
     },
     {
@@ -17690,7 +17704,7 @@
     },
     {
       "product_name": "Kenwood Spinner Dryer KWS-1050",
-      "my_price": 22700.0,
+      "my_price": 23000.0,
       "my_available": true,
       "my_url": "https://bismillahelectronics.pk/products/kenwood-spinner-dryer-kws-1050",
       "competitor_name": null,
@@ -32719,6 +32733,20 @@
       "competitor_price": 103000.0,
       "competitor_available": true,
       "competitor_url": "https://japanelectronics.com.pk/products/kenwood-refrigerator-krf-invertech-24457-320-l-gd-mrg",
+      "match_confidence": 0,
+      "status": "only_competitor",
+      "price_diff": null,
+      "cheaper": null
+    },
+    {
+      "product_name": "Kenwood Refrigerator Krf-Invertech-25557/400-L (GD) Mirror",
+      "my_price": null,
+      "my_available": null,
+      "my_url": null,
+      "competitor_name": "Kenwood Refrigerator Krf-Invertech-25557/400-L (GD) Mirror",
+      "competitor_price": 116000.0,
+      "competitor_available": true,
+      "competitor_url": "https://japanelectronics.com.pk/products/kenwood-refrigerator-krf-invertech-25557-400-l-gd-mirror",
       "match_confidence": 0,
       "status": "only_competitor",
       "price_diff": null,

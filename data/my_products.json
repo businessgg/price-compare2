@@ -1,5 +1,11 @@
 [
   {
+    "name": "Anex Beater & Chopper AG-145",
+    "price": 7600.0,
+    "url": "https://bismillahelectronics.pk/products/anex-beater-chopper-ag-145",
+    "available": true
+  },
+  {
     "name": "Super Asia Washing Machine SA-280 CRYSTAL",
     "price": 41200.0,
     "url": "https://bismillahelectronics.pk/products/super-asia-washing-machine-sa-280-crystal",
@@ -2611,7 +2617,7 @@
   },
   {
     "name": "Anex Air Fryer AG-2024",
-    "price": 37900.0,
+    "price": 31200.0,
     "url": "https://bismillahelectronics.pk/products/anex-air-fryer-ag-2024",
     "available": true
   },
@@ -3888,32 +3894,26 @@
     "available": true
   },
   {
-    "name": "Anex Electric Oven AG-3075",
-    "price": 31900.0,
-    "url": "https://bismillahelectronics.pk/products/anex-electric-oven-ag-3075",
-    "available": true
-  },
-  {
     "name": "Anex Electric Oven AG-1070",
-    "price": 22900.0,
+    "price": 22300.0,
     "url": "https://bismillahelectronics.pk/products/anex-electric-oven-ag-1070",
     "available": true
   },
   {
     "name": "Anex Electric Oven AG-3067",
-    "price": 30250.0,
+    "price": 24000.0,
     "url": "https://bismillahelectronics.pk/products/anex-electric-oven-ag-3067",
     "available": true
   },
   {
     "name": "Anex Electric Oven AG-3070",
-    "price": 36500.0,
+    "price": 37000.0,
     "url": "https://bismillahelectronics.pk/products/anex-electric-oven-ag-3070",
     "available": true
   },
   {
     "name": "Anex Electric Oven AG-3080",
-    "price": 43000.0,
+    "price": 36000.0,
     "url": "https://bismillahelectronics.pk/products/anex-electric-oven-ag-3080",
     "available": true
   },
@@ -4500,8 +4500,14 @@
     "available": true
   },
   {
+    "name": "Westpoint Air Fryer WF-5255",
+    "price": 25000.0,
+    "url": "https://bismillahelectronics.pk/products/westpoint-air-fryer-wf-5255",
+    "available": true
+  },
+  {
     "name": "Anex Air Fryer AG-2025",
-    "price": 33100.0,
+    "price": 31500.0,
     "url": "https://bismillahelectronics.pk/products/anex-air-fryer-ag-2025",
     "available": true
   },
@@ -4543,13 +4549,13 @@
   },
   {
     "name": "Anex Air Fryer AG-2019",
-    "price": 24300.0,
+    "price": 28000.0,
     "url": "https://bismillahelectronics.pk/products/anex-air-fryer-ag-2019",
     "available": true
   },
   {
     "name": "Anex Air Fryer AG-2017",
-    "price": 28500.0,
+    "price": 27600.0,
     "url": "https://bismillahelectronics.pk/products/anex-air-fryer-ag-2017",
     "available": true
   },
@@ -5731,19 +5737,19 @@
   },
   {
     "name": "Anex Electric Oven AG-3079",
-    "price": 42350.0,
+    "price": 34000.0,
     "url": "https://bismillahelectronics.pk/products/anex-electric-oven-ag-3079",
     "available": true
   },
   {
     "name": "Anex Electric Oven AG-3072",
-    "price": 30770.0,
+    "price": 37200.0,
     "url": "https://bismillahelectronics.pk/products/anex-electric-oven-ag-3072",
     "available": true
   },
   {
     "name": "Anex Electric Oven AG-3073",
-    "price": 30600.0,
+    "price": 28600.0,
     "url": "https://bismillahelectronics.pk/products/anex-electric-oven-toaster-3073",
     "available": true
   },

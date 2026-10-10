@@ -1,11 +1,25 @@
 {
-  "last_updated": "2026-10-10T10:05:00.003400+00:00",
+  "last_updated": "2026-10-10T11:04:38.019582+00:00",
   "my_store_name": "Bismillah Electronics",
   "competitor_name": "Japan Electronics",
-  "total_my_products": 1338,
+  "total_my_products": 1339,
   "total_competitor_products": 2146,
-  "matched_count": 1009,
+  "matched_count": 1010,
   "results": [
+    {
+      "product_name": "Anex Beater & Chopper AG-145",
+      "my_price": 7600.0,
+      "my_available": true,
+      "my_url": "https://bismillahelectronics.pk/products/anex-beater-chopper-ag-145",
+      "competitor_name": "ANEX Chopper & Blender (AG-3146)",
+      "competitor_price": 21000.0,
+      "competitor_available": true,
+      "competitor_url": "https://japanelectronics.com.pk/products/anex-chopper-blender-ag-3146",
+      "match_confidence": 73.3,
+      "status": "matched",
+      "price_diff": -13400.0,
+      "cheaper": "us"
+    },
     {
       "product_name": "Super Asia Washing Machine SA-280 CRYSTAL",
       "my_price": 41200.0,
@@ -6098,7 +6112,7 @@
     },
     {
       "product_name": "Anex Air Fryer AG-2024",
-      "my_price": 37900.0,
+      "my_price": 31200.0,
       "my_available": true,
       "my_url": "https://bismillahelectronics.pk/products/anex-air-fryer-ag-2024",
       "competitor_name": "Anex Air Fryer (AG-2017)",
@@ -6107,7 +6121,7 @@
       "competitor_url": "https://japanelectronics.com.pk/products/anex-air-fryer-ag-2017",
       "match_confidence": 87.0,
       "status": "matched",
-      "price_diff": 9400.0,
+      "price_diff": 2700.0,
       "cheaper": "competitor"
     },
     {
@@ -9079,22 +9093,8 @@
       "cheaper": null
     },
     {
-      "product_name": "Anex Electric Oven AG-3075",
-      "my_price": 31900.0,
-      "my_available": true,
-      "my_url": "https://bismillahelectronics.pk/products/anex-electric-oven-ag-3075",
-      "competitor_name": "Anex Electric Kettle 4057",
-      "competitor_price": 6500.0,
-      "competitor_available": false,
-      "competitor_url": "https://japanelectronics.com.pk/products/anex-electric-kettle-4057",
-      "match_confidence": 70.6,
-      "status": "matched",
-      "price_diff": 25400.0,
-      "cheaper": "competitor"
-    },
-    {
       "product_name": "Anex Electric Oven AG-1070",
-      "my_price": 22900.0,
+      "my_price": 22300.0,
       "my_available": true,
       "my_url": "https://bismillahelectronics.pk/products/anex-electric-oven-ag-1070",
       "competitor_name": "Anex Electric Kettle 4057",
@@ -9103,12 +9103,12 @@
       "competitor_url": "https://japanelectronics.com.pk/products/anex-electric-kettle-4057",
       "match_confidence": 70.6,
       "status": "matched",
-      "price_diff": 16400.0,
+      "price_diff": 15800.0,
       "cheaper": "competitor"
     },
     {
       "product_name": "Anex Electric Oven AG-3067",
-      "my_price": 30250.0,
+      "my_price": 24000.0,
       "my_available": true,
       "my_url": "https://bismillahelectronics.pk/products/anex-electric-oven-ag-3067",
       "competitor_name": "Anex Electric Kettle 4057",
@@ -9117,12 +9117,12 @@
       "competitor_url": "https://japanelectronics.com.pk/products/anex-electric-kettle-4057",
       "match_confidence": 70.6,
       "status": "matched",
-      "price_diff": 23750.0,
+      "price_diff": 17500.0,
       "cheaper": "competitor"
     },
     {
       "product_name": "Anex Electric Oven AG-3070",
-      "my_price": 36500.0,
+      "my_price": 37000.0,
       "my_available": true,
       "my_url": "https://bismillahelectronics.pk/products/anex-electric-oven-ag-3070",
       "competitor_name": "Anex Electric Kettle 4057",
@@ -9131,12 +9131,12 @@
       "competitor_url": "https://japanelectronics.com.pk/products/anex-electric-kettle-4057",
       "match_confidence": 70.6,
       "status": "matched",
-      "price_diff": 30000.0,
+      "price_diff": 30500.0,
       "cheaper": "competitor"
     },
     {
       "product_name": "Anex Electric Oven AG-3080",
-      "my_price": 43000.0,
+      "my_price": 36000.0,
       "my_available": true,
       "my_url": "https://bismillahelectronics.pk/products/anex-electric-oven-ag-3080",
       "competitor_name": null,
@@ -10507,8 +10507,22 @@
       "cheaper": "competitor"
     },
     {
+      "product_name": "Westpoint Air Fryer WF-5255",
+      "my_price": 25000.0,
+      "my_available": true,
+      "my_url": "https://bismillahelectronics.pk/products/westpoint-air-fryer-wf-5255",
+      "competitor_name": "Westpoint Juicer WF-5161",
+      "competitor_price": 14499.0,
+      "competitor_available": true,
+      "competitor_url": "https://japanelectronics.com.pk/products/westpoint-juicer-wf-5161",
+      "match_confidence": 70.6,
+      "status": "matched",
+      "price_diff": 10501.0,
+      "cheaper": "competitor"
+    },
+    {
       "product_name": "Anex Air Fryer AG-2025",
-      "my_price": 33100.0,
+      "my_price": 31500.0,
       "my_available": true,
       "my_url": "https://bismillahelectronics.pk/products/anex-air-fryer-ag-2025",
       "competitor_name": "Anex Air Fryer (AG-2017)",
@@ -10517,7 +10531,7 @@
       "competitor_url": "https://japanelectronics.com.pk/products/anex-air-fryer-ag-2017",
       "match_confidence": 87.0,
       "status": "matched",
-      "price_diff": 4600.0,
+      "price_diff": 3000.0,
       "cheaper": "competitor"
     },
     {
@@ -10606,7 +10620,7 @@
     },
     {
       "product_name": "Anex Air Fryer AG-2019",
-      "my_price": 24300.0,
+      "my_price": 28000.0,
       "my_available": true,
       "my_url": "https://bismillahelectronics.pk/products/anex-air-fryer-ag-2019",
       "competitor_name": "Anex Air Fryer (AG-2017)",
@@ -10615,12 +10629,12 @@
       "competitor_url": "https://japanelectronics.com.pk/products/anex-air-fryer-ag-2017",
       "match_confidence": 91.3,
       "status": "matched",
-      "price_diff": -4200.0,
+      "price_diff": -500.0,
       "cheaper": "us"
     },
     {
       "product_name": "Anex Air Fryer AG-2017",
-      "my_price": 28500.0,
+      "my_price": 27600.0,
       "my_available": true,
       "my_url": "https://bismillahelectronics.pk/products/anex-air-fryer-ag-2017",
       "competitor_name": "Anex Air Fryer (AG-2017)",
@@ -10629,8 +10643,8 @@
       "competitor_url": "https://japanelectronics.com.pk/products/anex-air-fryer-ag-2017",
       "match_confidence": 95.7,
       "status": "matched",
-      "price_diff": 0.0,
-      "cheaper": "same"
+      "price_diff": -900.0,
+      "cheaper": "us"
     },
     {
       "product_name": "Panasonic LED TV 75 Inch TH75MX740M (4K Google)",
@@ -13378,7 +13392,7 @@
     },
     {
       "product_name": "Anex Electric Oven AG-3079",
-      "my_price": 42350.0,
+      "my_price": 34000.0,
       "my_available": true,
       "my_url": "https://bismillahelectronics.pk/products/anex-electric-oven-ag-3079",
       "competitor_name": "Anex Electric Kettle 4057",
@@ -13387,12 +13401,12 @@
       "competitor_url": "https://japanelectronics.com.pk/products/anex-electric-kettle-4057",
       "match_confidence": 70.6,
       "status": "matched",
-      "price_diff": 35850.0,
+      "price_diff": 27500.0,
       "cheaper": "competitor"
     },
     {
       "product_name": "Anex Electric Oven AG-3072",
-      "my_price": 30770.0,
+      "my_price": 37200.0,
       "my_available": true,
       "my_url": "https://bismillahelectronics.pk/products/anex-electric-oven-ag-3072",
       "competitor_name": "Anex Electric Kettle 4057",
@@ -13401,12 +13415,12 @@
       "competitor_url": "https://japanelectronics.com.pk/products/anex-electric-kettle-4057",
       "match_confidence": 70.6,
       "status": "matched",
-      "price_diff": 24270.0,
+      "price_diff": 30700.0,
       "cheaper": "competitor"
     },
     {
       "product_name": "Anex Electric Oven AG-3073",
-      "my_price": 30600.0,
+      "my_price": 28600.0,
       "my_available": true,
       "my_url": "https://bismillahelectronics.pk/products/anex-electric-oven-toaster-3073",
       "competitor_name": "Anex Electric Kettle 4057",
@@ -13415,7 +13429,7 @@
       "competitor_url": "https://japanelectronics.com.pk/products/anex-electric-kettle-4057",
       "match_confidence": 70.6,
       "status": "matched",
-      "price_diff": 24100.0,
+      "price_diff": 22100.0,
       "cheaper": "competitor"
     },
     {
@@ -30913,20 +30927,6 @@
       "competitor_price": 4200.0,
       "competitor_available": false,
       "competitor_url": "https://japanelectronics.com.pk/products/enviro-electric-kettle-ek-1708-1-7ltr",
-      "match_confidence": 0,
-      "status": "only_competitor",
-      "price_diff": null,
-      "cheaper": null
-    },
-    {
-      "product_name": "ANEX Chopper & Blender (AG-3146)",
-      "my_price": null,
-      "my_available": null,
-      "my_url": null,
-      "competitor_name": "ANEX Chopper & Blender (AG-3146)",
-      "competitor_price": 21000.0,
-      "competitor_available": true,
-      "competitor_url": "https://japanelectronics.com.pk/products/anex-chopper-blender-ag-3146",
       "match_confidence": 0,
       "status": "only_competitor",
       "price_diff": null,

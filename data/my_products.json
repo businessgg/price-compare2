@@ -1,5 +1,53 @@
 [
   {
+    "name": "Kenwood Chopper KW-3070",
+    "price": 7000.0,
+    "url": "https://bismillahelectronics.pk/products/kenwood-chopper-kw-3070",
+    "available": true
+  },
+  {
+    "name": "Binbazz Vaccume Cleaner WET AND DRY",
+    "price": 28500.0,
+    "url": "https://bismillahelectronics.pk/products/binbazz-vaccume-cleaner-wet-and-dry",
+    "available": true
+  },
+  {
+    "name": "Anex Vacum Cleaner 2199",
+    "price": 27000.0,
+    "url": "https://bismillahelectronics.pk/products/anex-vacum-cleaner-2199",
+    "available": true
+  },
+  {
+    "name": "Anex Sandwich Maker AG-2036",
+    "price": 8500.0,
+    "url": "https://bismillahelectronics.pk/products/anex-sandwich-maker-ag-2036",
+    "available": true
+  },
+  {
+    "name": "Anex Hand Blender AG-140",
+    "price": 11500.0,
+    "url": "https://bismillahelectronics.pk/products/anex-hand-blender-ag-140",
+    "available": true
+  },
+  {
+    "name": "Anex Hand Blender AG-126",
+    "price": 8300.0,
+    "url": "https://bismillahelectronics.pk/products/anex-hand-blender-ag-126",
+    "available": true
+  },
+  {
+    "name": "Anex Electric Oven AG-3075",
+    "price": 27000.0,
+    "url": "https://bismillahelectronics.pk/products/anex-electric-oven-ag-3075",
+    "available": true
+  },
+  {
+    "name": "Anex Food Processor AG-1141",
+    "price": 19000.0,
+    "url": "https://bismillahelectronics.pk/products/anex-food-processor-ag-1141",
+    "available": true
+  },
+  {
     "name": "Anex Beater & Chopper AG-145",
     "price": 7600.0,
     "url": "https://bismillahelectronics.pk/products/anex-beater-chopper-ag-145",
@@ -4491,12 +4539,6 @@
     "name": "Abdullah Dough Kneader 900A",
     "price": 11200.0,
     "url": "https://bismillahelectronics.pk/products/abdullah-dough-kneader-900a",
-    "available": true
-  },
-  {
-    "name": "Westpoint Air Fryer WF-5255",
-    "price": 25000.0,
-    "url": "https://bismillahelectronics.pk/products/westpoint-air-fryer-wf-5255",
     "available": true
   },
   {

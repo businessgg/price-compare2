@@ -1,5 +1,41 @@
 [
   {
+    "name": "Samsung Auto Wash WD70TA046BX 7KG WASH 5KG DRYER",
+    "price": 250000.0,
+    "url": "https://bismillahelectronics.pk/products/samsung-auto-wash-wd70ta046bx-7kg-wash-5kg-dryer",
+    "available": true
+  },
+  {
+    "name": "Kenwood AC Inverter 1.0 Ton KEC-1273S (E-Serena)",
+    "price": 134100.0,
+    "url": "https://bismillahelectronics.pk/products/kenwood-ac-inverter-1-0-ton-kec-1273s-e-serena",
+    "available": true
+  },
+  {
+    "name": "Samsung Auto Wash 15CK5745BORT",
+    "price": 170000.0,
+    "url": "https://bismillahelectronics.pk/products/samsung-auto-wash-15ck5745bort",
+    "available": true
+  },
+  {
+    "name": "Samsung Auto Wash 13CK5441BYRT",
+    "price": 150999.0,
+    "url": "https://bismillahelectronics.pk/products/samsung-auto-wash-13ck5441byrt",
+    "available": true
+  },
+  {
+    "name": "Royal Washing Machine RWM-8090",
+    "price": 25000.0,
+    "url": "https://bismillahelectronics.pk/products/royal-washing-machine-rwm-8090",
+    "available": true
+  },
+  {
+    "name": "Royal Washing Machine RWM-1012",
+    "price": 28000.0,
+    "url": "https://bismillahelectronics.pk/products/royal-washing-machine-rwm-1012",
+    "available": true
+  },
+  {
     "name": "Royal Dryer RD-110",
     "price": 28000.0,
     "url": "https://bismillahelectronics.pk/products/royal-dryer-rd-110",
@@ -319,7 +355,7 @@
   },
   {
     "name": "Kenwood Ac 1.0 Ton Inverter KLP-12B03S LUXURY ULTRA",
-    "price": 125000.0,
+    "price": 130000.0,
     "url": "https://bismillahelectronics.pk/products/kenwood-ac-1-0-ton-inverter-klp-12b03s-luxury-ultra",
     "available": true
   },
@@ -331,7 +367,7 @@
   },
   {
     "name": "Kenwood Ac 1.0 Ton Inverter KLP-12B02S LUXURY PRO",
-    "price": 125000.0,
+    "price": 130000.0,
     "url": "https://bismillahelectronics.pk/products/kenwood-ac-1-0-ton-inverter-klp-12b02s-luxury-pro",
     "available": true
   },
@@ -840,12 +876,6 @@
     "available": true
   },
   {
-    "name": "Kenwood Floor Standing AC 2.0 Ton KEI-2444 FHI",
-    "price": 328000.0,
-    "url": "https://bismillahelectronics.pk/products/kenwood-floor-standing-ac-2-0-ton-kei-2444-fhi",
-    "available": true
-  },
-  {
     "name": "Orient AC Inverter 2.0 Ton 24X Divine (Pristine)",
     "price": 225000.0,
     "url": "https://bismillahelectronics.pk/products/orient-ac-inverter-2-0-ton-24x-divine-pristine",
@@ -1249,7 +1279,7 @@
   },
   {
     "name": "KENWOOD AC 2.0 Inverter Floor Standing KES-2452 FHI Super AI Smart",
-    "price": 300000.0,
+    "price": 330000.0,
     "url": "https://bismillahelectronics.pk/products/kenwood-ac-2-0-inverter-floor-standing-kes-2452-fhi-super-ai-smart",
     "available": true
   },
@@ -1591,7 +1621,7 @@
   },
   {
     "name": "Kenwood AC 1.5 Ton Inverter 1867s Comfort Pro",
-    "price": 175000.0,
+    "price": 165000.0,
     "url": "https://bismillahelectronics.pk/products/kenwood-ac-1-5-ton-inverter-1867s-comfort-pro",
     "available": false
   },
@@ -1609,13 +1639,13 @@
   },
   {
     "name": "Kenwood AC 1.5 Ton Inverter Klu-18b03s Luxury Ultra",
-    "price": 170000.0,
+    "price": 167000.0,
     "url": "https://bismillahelectronics.pk/products/kenwood-ac-1-5-ton-inverter-klu-18b03s-luxury-ultra",
     "available": false
   },
   {
     "name": "Kenwood AC 1.5 Ton Inverter Klp-18b02s Luxury Pro",
-    "price": 170000.0,
+    "price": 167000.0,
     "url": "https://bismillahelectronics.pk/products/kenwood-ac-1-5-ton-inverter-klp-18b02s-luxury-pro",
     "available": false
   },
@@ -1633,7 +1663,7 @@
   },
   {
     "name": "KENWOOD AC 1.0 TON INVERTER KEC-1266S E-SMART OYNX",
-    "price": 150000.0,
+    "price": 140000.0,
     "url": "https://bismillahelectronics.pk/products/kenwood-ac-1-0-ton-inverter-kec-1266s-e-smart-oynx",
     "available": false
   },
@@ -4213,7 +4243,7 @@
   },
   {
     "name": "Kenwood AC Inverter 1.5 Ton KES-1866S E-Smart OYNX",
-    "price": 230000.0,
+    "price": 210000.0,
     "url": "https://bismillahelectronics.pk/products/kenwood-ac-inverter-1-5-ton-kes-1866s-e-smart-oynx",
     "available": true
   },

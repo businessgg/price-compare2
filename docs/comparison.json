@@ -1,11 +1,95 @@
 {
-  "last_updated": "2026-10-10T07:06:56.876916+00:00",
+  "last_updated": "2026-10-10T08:05:09.517926+00:00",
   "my_store_name": "Bismillah Electronics",
   "competitor_name": "Japan Electronics",
-  "total_my_products": 1325,
+  "total_my_products": 1330,
   "total_competitor_products": 2146,
-  "matched_count": 1004,
+  "matched_count": 1007,
   "results": [
+    {
+      "product_name": "Samsung Auto Wash WD70TA046BX 7KG WASH 5KG DRYER",
+      "my_price": 250000.0,
+      "my_available": true,
+      "my_url": "https://bismillahelectronics.pk/products/samsung-auto-wash-wd70ta046bx-7kg-wash-5kg-dryer",
+      "competitor_name": null,
+      "competitor_price": null,
+      "competitor_available": null,
+      "competitor_url": null,
+      "match_confidence": 0,
+      "status": "only_us",
+      "price_diff": null,
+      "cheaper": null
+    },
+    {
+      "product_name": "Kenwood AC Inverter 1.0 Ton KEC-1273S (E-Serena)",
+      "my_price": 134100.0,
+      "my_available": true,
+      "my_url": "https://bismillahelectronics.pk/products/kenwood-ac-inverter-1-0-ton-kec-1273s-e-serena",
+      "competitor_name": "Kenwood Split AC Inverter 1.0 Ton KES-1273S 60% (E-Serena)",
+      "competitor_price": 110000.0,
+      "competitor_available": false,
+      "competitor_url": "https://japanelectronics.com.pk/products/kenwood-split-ac-inverter-1-0-ton-kes-1273s-60-e-serena",
+      "match_confidence": 88.7,
+      "status": "matched",
+      "price_diff": 24100.0,
+      "cheaper": "competitor"
+    },
+    {
+      "product_name": "Samsung Auto Wash 15CK5745BORT",
+      "my_price": 170000.0,
+      "my_available": true,
+      "my_url": "https://bismillahelectronics.pk/products/samsung-auto-wash-15ck5745bort",
+      "competitor_name": "Samsung TAWM (WA15CK5745BDRT)",
+      "competitor_price": 165000.0,
+      "competitor_available": true,
+      "competitor_url": "https://japanelectronics.com.pk/products/samsung-tawm-wa15ck5745bdrt",
+      "match_confidence": 71.2,
+      "status": "matched",
+      "price_diff": 5000.0,
+      "cheaper": "competitor"
+    },
+    {
+      "product_name": "Samsung Auto Wash 13CK5441BYRT",
+      "my_price": 150999.0,
+      "my_available": true,
+      "my_url": "https://bismillahelectronics.pk/products/samsung-auto-wash-13ck5441byrt",
+      "competitor_name": null,
+      "competitor_price": null,
+      "competitor_available": null,
+      "competitor_url": null,
+      "match_confidence": 0,
+      "status": "only_us",
+      "price_diff": null,
+      "cheaper": null
+    },
+    {
+      "product_name": "Royal Washing Machine RWM-8090",
+      "my_price": 25000.0,
+      "my_available": true,
+      "my_url": "https://bismillahelectronics.pk/products/royal-washing-machine-rwm-8090",
+      "competitor_name": "Royal Washing Machine RWM-8010",
+      "competitor_price": 33900.0,
+      "competitor_available": true,
+      "competitor_url": "https://japanelectronics.com.pk/products/royal-washing-machine-rwm-8010",
+      "match_confidence": 96.7,
+      "status": "matched",
+      "price_diff": -8900.0,
+      "cheaper": "us"
+    },
+    {
+      "product_name": "Royal Washing Machine RWM-1012",
+      "my_price": 28000.0,
+      "my_available": true,
+      "my_url": "https://bismillahelectronics.pk/products/royal-washing-machine-rwm-1012",
+      "competitor_name": "Royal Washing Machine RWM-1012",
+      "competitor_price": 25900.0,
+      "competitor_available": false,
+      "competitor_url": "https://japanelectronics.com.pk/products/royal-washing-machine-rwm-1012",
+      "match_confidence": 100.0,
+      "status": "matched",
+      "price_diff": 2100.0,
+      "cheaper": "competitor"
+    },
     {
       "product_name": "Royal Dryer RD-110",
       "my_price": 28000.0,
@@ -750,7 +834,7 @@
     },
     {
       "product_name": "Kenwood Ac 1.0 Ton Inverter KLP-12B03S LUXURY ULTRA",
-      "my_price": 125000.0,
+      "my_price": 130000.0,
       "my_available": true,
       "my_url": "https://bismillahelectronics.pk/products/kenwood-ac-1-0-ton-inverter-klp-12b03s-luxury-ultra",
       "competitor_name": "Kenwood Split AC Inverter 1.0 Ton KES-1272S",
@@ -759,7 +843,7 @@
       "competitor_url": "https://japanelectronics.com.pk/products/kenwood-split-ac-inverter-1-0-ton-kes-1272s",
       "match_confidence": 70.2,
       "status": "matched",
-      "price_diff": -15000.0,
+      "price_diff": -10000.0,
       "cheaper": "us"
     },
     {
@@ -778,7 +862,7 @@
     },
     {
       "product_name": "Kenwood Ac 1.0 Ton Inverter KLP-12B02S LUXURY PRO",
-      "my_price": 125000.0,
+      "my_price": 130000.0,
       "my_available": true,
       "my_url": "https://bismillahelectronics.pk/products/kenwood-ac-1-0-ton-inverter-klp-12b02s-luxury-pro",
       "competitor_name": "Kenwood Split AC Inverter 1.0 Ton KES-1272S",
@@ -787,7 +871,7 @@
       "competitor_url": "https://japanelectronics.com.pk/products/kenwood-split-ac-inverter-1-0-ton-kes-1272s",
       "match_confidence": 73.9,
       "status": "matched",
-      "price_diff": -15000.0,
+      "price_diff": -10000.0,
       "cheaper": "us"
     },
     {
@@ -1967,20 +2051,6 @@
       "cheaper": "us"
     },
     {
-      "product_name": "Kenwood Floor Standing AC 2.0 Ton KEI-2444 FHI",
-      "my_price": 328000.0,
-      "my_available": true,
-      "my_url": "https://bismillahelectronics.pk/products/kenwood-floor-standing-ac-2-0-ton-kei-2444-fhi",
-      "competitor_name": "Kenwood Floor Standing AC 2.0 Ton KEI-2444 FHI",
-      "competitor_price": 250000.0,
-      "competitor_available": false,
-      "competitor_url": "https://japanelectronics.com.pk/products/kenwood-floor-standing-ac-2-0-ton-kei-2444-fhi",
-      "match_confidence": 100.0,
-      "status": "matched",
-      "price_diff": 78000.0,
-      "cheaper": "competitor"
-    },
-    {
       "product_name": "Orient AC Inverter 2.0 Ton 24X Divine (Pristine)",
       "my_price": 225000.0,
       "my_available": true,
@@ -2920,7 +2990,7 @@
     },
     {
       "product_name": "KENWOOD AC 2.0 Inverter Floor Standing KES-2452 FHI Super AI Smart",
-      "my_price": 300000.0,
+      "my_price": 330000.0,
       "my_available": true,
       "my_url": "https://bismillahelectronics.pk/products/kenwood-ac-2-0-inverter-floor-standing-kes-2452-fhi-super-ai-smart",
       "competitor_name": "Orient Floor Standing AC Inverter 2.0 Ton AK-24G Super",
@@ -2929,7 +2999,7 @@
       "competitor_url": "https://japanelectronics.com.pk/products/orient-floor-standing-ac-inverter-2-0-ton-ak-24g-super",
       "match_confidence": 70.0,
       "status": "matched",
-      "price_diff": 60000.0,
+      "price_diff": 90000.0,
       "cheaper": "competitor"
     },
     {
@@ -3718,7 +3788,7 @@
     },
     {
       "product_name": "Kenwood AC 1.5 Ton Inverter 1867s Comfort Pro",
-      "my_price": 175000.0,
+      "my_price": 165000.0,
       "my_available": false,
       "my_url": "https://bismillahelectronics.pk/products/kenwood-ac-1-5-ton-inverter-1867s-comfort-pro",
       "competitor_name": null,
@@ -3760,7 +3830,7 @@
     },
     {
       "product_name": "Kenwood AC 1.5 Ton Inverter Klu-18b03s Luxury Ultra",
-      "my_price": 170000.0,
+      "my_price": 167000.0,
       "my_available": false,
       "my_url": "https://bismillahelectronics.pk/products/kenwood-ac-1-5-ton-inverter-klu-18b03s-luxury-ultra",
       "competitor_name": null,
@@ -3774,7 +3844,7 @@
     },
     {
       "product_name": "Kenwood AC 1.5 Ton Inverter Klp-18b02s Luxury Pro",
-      "my_price": 170000.0,
+      "my_price": 167000.0,
       "my_available": false,
       "my_url": "https://bismillahelectronics.pk/products/kenwood-ac-1-5-ton-inverter-klp-18b02s-luxury-pro",
       "competitor_name": null,
@@ -3816,7 +3886,7 @@
     },
     {
       "product_name": "KENWOOD AC 1.0 TON INVERTER KEC-1266S E-SMART OYNX",
-      "my_price": 150000.0,
+      "my_price": 140000.0,
       "my_available": false,
       "my_url": "https://bismillahelectronics.pk/products/kenwood-ac-1-0-ton-inverter-kec-1266s-e-smart-oynx",
       "competitor_name": null,
@@ -9836,7 +9906,7 @@
     },
     {
       "product_name": "Kenwood AC Inverter 1.5 Ton KES-1866S E-Smart OYNX",
-      "my_price": 230000.0,
+      "my_price": 210000.0,
       "my_available": true,
       "my_url": "https://bismillahelectronics.pk/products/kenwood-ac-inverter-1-5-ton-kes-1866s-e-smart-oynx",
       "competitor_name": "Kenwood Split AC Inverter 1.5 Ton KES-1875S",
@@ -9845,7 +9915,7 @@
       "competitor_url": "https://japanelectronics.com.pk/products/kenwood-split-ac-inverter-1-5-ton-kes-1875s",
       "match_confidence": 77.4,
       "status": "matched",
-      "price_diff": 102000.0,
+      "price_diff": 82000.0,
       "cheaper": "competitor"
     },
     {
@@ -32151,20 +32221,6 @@
       "cheaper": null
     },
     {
-      "product_name": "Kenwood Split AC Inverter 1.0 Ton KES-1273S 60% (E-Serena)",
-      "my_price": null,
-      "my_available": null,
-      "my_url": null,
-      "competitor_name": "Kenwood Split AC Inverter 1.0 Ton KES-1273S 60% (E-Serena)",
-      "competitor_price": 110000.0,
-      "competitor_available": false,
-      "competitor_url": "https://japanelectronics.com.pk/products/kenwood-split-ac-inverter-1-0-ton-kes-1273s-60-e-serena",
-      "match_confidence": 0,
-      "status": "only_competitor",
-      "price_diff": null,
-      "cheaper": null
-    },
-    {
       "product_name": "Homage Split AC Inverter 1.0 Ton HES-1222S",
       "my_price": null,
       "my_available": null,
@@ -35841,20 +35897,6 @@
       "competitor_price": 209999.0,
       "competitor_available": true,
       "competitor_url": "https://japanelectronics.com.pk/products/samsung-tawm-wa17ck6745bdrt",
-      "match_confidence": 0,
-      "status": "only_competitor",
-      "price_diff": null,
-      "cheaper": null
-    },
-    {
-      "product_name": "Samsung TAWM (WA15CK5745BDRT)",
-      "my_price": null,
-      "my_available": null,
-      "my_url": null,
-      "competitor_name": "Samsung TAWM (WA15CK5745BDRT)",
-      "competitor_price": 165000.0,
-      "competitor_available": true,
-      "competitor_url": "https://japanelectronics.com.pk/products/samsung-tawm-wa15ck5745bdrt",
       "match_confidence": 0,
       "status": "only_competitor",
       "price_diff": null,
@@ -39873,6 +39915,20 @@
       "competitor_price": 36900.0,
       "competitor_available": false,
       "competitor_url": "https://japanelectronics.com.pk/products/orient-water-dispenser-owd-crystal-3-smoke-red",
+      "match_confidence": 0,
+      "status": "only_competitor",
+      "price_diff": null,
+      "cheaper": null
+    },
+    {
+      "product_name": "Kenwood Floor Standing AC 2.0 Ton KEI-2444 FHI",
+      "my_price": null,
+      "my_available": null,
+      "my_url": null,
+      "competitor_name": "Kenwood Floor Standing AC 2.0 Ton KEI-2444 FHI",
+      "competitor_price": 250000.0,
+      "competitor_available": false,
+      "competitor_url": "https://japanelectronics.com.pk/products/kenwood-floor-standing-ac-2-0-ton-kei-2444-fhi",
       "match_confidence": 0,
       "status": "only_competitor",
       "price_diff": null,

@@ -279,7 +279,7 @@
     "name": "Haier LED 55\" 55S80GUX (QLED)",
     "price": 127000.0,
     "url": "https://japanelectronics.com.pk/products/haier-led-55-55s80gux-qled",
-    "available": true
+    "available": false
   },
   {
     "name": "Haier LED 50\" 50S81GFX (QLED)",
@@ -463,25 +463,25 @@
   },
   {
     "name": "LG FAWM (FOZ6DRPK4)",
-    "price": 354999.0,
+    "price": 382000.0,
     "url": "https://japanelectronics.com.pk/products/lg-fawm-foz6drpk4",
     "available": true
   },
   {
     "name": "LG FAWM (FOZ8DYPK4)",
-    "price": 350000.0,
+    "price": 372000.0,
     "url": "https://japanelectronics.com.pk/products/lg-fawm-foz8dypk4",
     "available": false
   },
   {
     "name": "LG FAWM (FOZ9DFPK4)",
-    "price": 410000.0,
+    "price": 417000.0,
     "url": "https://japanelectronics.com.pk/products/lg-fawm-foz9dfpk4",
     "available": true
   },
   {
     "name": "LG FAWM (RH80T2SP7RM ONLY DRYER)",
-    "price": 250000.0,
+    "price": 252000.0,
     "url": "https://japanelectronics.com.pk/products/lg-fawm-rh80t2sp7rm-only-dryer",
     "available": false
   },
@@ -759,7 +759,7 @@
     "name": "PEL Ref (PRINVOFGD-6470 Hazel Red Blaze) Flat Glass Inverteron",
     "price": 107900.0,
     "url": "https://japanelectronics.com.pk/products/pel-ref-prinvofgd-6470-hazel-red-blaze-flat-glass-inverteron",
-    "available": false
+    "available": true
   },
   {
     "name": "PEL Ref (PRGD-6470 Purple Blaze)",
@@ -969,7 +969,7 @@
     "name": "PEL REF (PRINVO-2000 GOLD SILK) VCM INVERTER",
     "price": 69900.0,
     "url": "https://japanelectronics.com.pk/products/pel-ref-prinvo-2000-gold-silk-vcm-inverter",
-    "available": true
+    "available": false
   },
   {
     "name": "LG Refrigerator Side By Side GC-L257SLRL",
@@ -1695,7 +1695,7 @@
     "name": "PHILIPS HAIR CURLER (BHB-869/00)",
     "price": 17900.0,
     "url": "https://japanelectronics.com.pk/products/philips-hair-curler-bhb-869-00",
-    "available": true
+    "available": false
   },
   {
     "name": "PHILIPS HAIR STRAIGHTENER (HP-8316/00)",
@@ -1941,7 +1941,7 @@
     "name": "TCL SPLIT AC INVERTER 2.0 TON TAC-24T5-SMT-C",
     "price": 213000.0,
     "url": "https://japanelectronics.com.pk/products/tcl-split-ac-inverter-2-0-ton-tac-24t5-smt-c",
-    "available": true
+    "available": false
   },
   {
     "name": "Orient Split AC Inverter 1.5 Ton 19R Classic White NEO T3 (Ecotron)",
@@ -2589,7 +2589,7 @@
     "name": "Haier D.Freezer (HDF-405 Inverter)",
     "price": 103500.0,
     "url": "https://japanelectronics.com.pk/products/haier-d-freezer-hdf-405-inverter",
-    "available": true
+    "available": false
   },
   {
     "name": "Kenwood food processor FDP 05.50GY",
@@ -2985,7 +2985,7 @@
     "name": "Haier D.Freezer (HDF-175 IG Inverter Grey)",
     "price": 59000.0,
     "url": "https://japanelectronics.com.pk/products/haier-d-freezer-hdf-175-ig-inverter-grey",
-    "available": false
+    "available": true
   },
   {
     "name": "LG LED 75\" 75QNED86ASA (4K UHD)",
@@ -3111,7 +3111,7 @@
     "name": "LG LED 75\" 75UA8450PSA (4K UHD)",
     "price": 380000.0,
     "url": "https://japanelectronics.com.pk/products/lg-led-75-75ua8450psa-4k-uhd",
-    "available": false
+    "available": true
   },
   {
     "name": "LG LED 50\" 50UA8450PSA 4K UHD",
@@ -3619,7 +3619,7 @@
   },
   {
     "name": "LG FAWM (F4R3VYG6P) 9KG",
-    "price": 169000.0,
+    "price": 192000.0,
     "url": "https://japanelectronics.com.pk/products/lg-a-w-m-f4r3vyg6p",
     "available": true
   },
@@ -3795,7 +3795,7 @@
     "name": "Haier Microwave Oven (HMW-20MPS)",
     "price": 14000.0,
     "url": "https://japanelectronics.com.pk/products/haier-microwave-oven-hmw-20mps",
-    "available": false
+    "available": true
   },
   {
     "name": "Haier Microwave Oven (HMW-20MHES)",
@@ -4251,7 +4251,7 @@
     "name": "Haier D.Freezer (HDF-545 Inverter)",
     "price": 133500.0,
     "url": "https://japanelectronics.com.pk/products/haier-deep-freezer-hdf-545i-inverter",
-    "available": false
+    "available": true
   },
   {
     "name": "Haier Deep Freezer HDF-285SD-01",
@@ -4611,7 +4611,7 @@
     "name": "Kenwood Sandwich Maker SMM-01",
     "price": 14900.0,
     "url": "https://japanelectronics.com.pk/products/kenwood-sandwich-maker-smm-01",
-    "available": false
+    "available": true
   },
   {
     "name": "Anex Sandwich, Waffle Grill 2139",
@@ -6381,7 +6381,7 @@
     "name": "Haier Spinner HWS 60-50 (Cyan Black)",
     "price": 17500.0,
     "url": "https://japanelectronics.com.pk/products/haier-spinner-hws-60-50-cyan-black",
-    "available": false
+    "available": true
   },
   {
     "name": "Haier Split AC Inverter 1.5 Ton HSU-19HFPAA (Black)",
@@ -7489,7 +7489,7 @@
   },
   {
     "name": "Samsung AC 2.0 Ton Split Inverter AR24ASFZGWKY",
-    "price": 289999.0,
+    "price": 292100.0,
     "url": "https://japanelectronics.com.pk/products/samsung-ac-2-0-ton-split-inverter-ar24asfzgwky",
     "available": false
   },
@@ -7915,7 +7915,7 @@
   },
   {
     "name": "Samsung LED 85\" 85DU8000",
-    "price": 630900.0,
+    "price": 603900.0,
     "url": "https://japanelectronics.com.pk/products/samsung-led-85-85du8000",
     "available": false
   },
@@ -8113,7 +8113,7 @@
   },
   {
     "name": "Samsung LED 65\" CY-65DU8000",
-    "price": 280000.0,
+    "price": 281999.0,
     "url": "https://japanelectronics.com.pk/products/samsung-led-65-cy-65du8000usmz",
     "available": true
   },
@@ -8323,7 +8323,7 @@
   },
   {
     "name": "Philips Garment Steamer STE-1010/76",
-    "price": 24900.0,
+    "price": 22900.0,
     "url": "https://japanelectronics.com.pk/products/philips-garment-steamer-ste-1010-76",
     "available": true
   },
@@ -8919,7 +8919,7 @@
     "name": "Haier Microwave Oven (HMW-20MPB)",
     "price": 14000.0,
     "url": "https://japanelectronics.com.pk/products/haier-microwave-oven-hmw-20mpb",
-    "available": false
+    "available": true
   },
   {
     "name": "Haier Microwave Oven (HMW-20DSS)",
@@ -8961,7 +8961,7 @@
     "name": "Ecostar LED 40\" CX-40Q874 (Q-LED)",
     "price": 59900.0,
     "url": "https://japanelectronics.com.pk/products/ecostar-led-40-cx-40q874-q-led",
-    "available": true
+    "available": false
   },
   {
     "name": "Orient Floor Standing AC Inverter 2.0 Ton AK-24G Super",
@@ -9211,7 +9211,7 @@
   },
   {
     "name": "Panasonic Vacuum Cleaner (MC-YL633)",
-    "price": 42900.0,
+    "price": 44900.0,
     "url": "https://japanelectronics.com.pk/products/panasonic-vacuum-cleaner-mc-yl633-1",
     "available": true
   },
@@ -9709,7 +9709,7 @@
   },
   {
     "name": "Samsung LED 32\" UA32T5300AUSMM (Smart)",
-    "price": 63999.0,
+    "price": 63400.0,
     "url": "https://japanelectronics.com.pk/products/samsung-led-32-ua32t5300ausmm-smart",
     "available": false
   },
@@ -11115,7 +11115,7 @@
     "name": "Haier Washing Machine HWM 80-1217 (Grey)",
     "price": 20500.0,
     "url": "https://japanelectronics.com.pk/products/haier-washing-machine-hwm-80-1217",
-    "available": false
+    "available": true
   },
   {
     "name": "ANEX Juicer 76",
@@ -11505,7 +11505,7 @@
     "name": "Dawlance Fully Automatic Washing Machine DWT 270 S LVS+",
     "price": 81900.0,
     "url": "https://japanelectronics.com.pk/products/dawlance-fully-automatic-washing-machine-dwt-270-s-lvs",
-    "available": true
+    "available": false
   },
   {
     "name": "Japanese Heater 3.5 KW (Flat Panel)",
@@ -12145,7 +12145,7 @@
   },
   {
     "name": "LG A.W.M F4J3TMG5P (8.0/5.0) Kg Front Load",
-    "price": 235000.0,
+    "price": 242000.0,
     "url": "https://japanelectronics.com.pk/products/lg-a-w-m-f4j3tmg5p-8-0-5-0-kg-front-load",
     "available": false
   },
@@ -12321,7 +12321,7 @@
     "name": "Panasonic Steam Iron NI-M300T Blue",
     "price": 7500.0,
     "url": "https://japanelectronics.com.pk/products/panasonic-steam-iron-ni-m300t-blue",
-    "available": true
+    "available": false
   },
   {
     "name": "Gaba National Washing Machine GNW-93020 Glass",
@@ -12355,13 +12355,13 @@
   },
   {
     "name": "LG Automatic Washing Machine F4V5RGP2T",
-    "price": 250000.0,
+    "price": 252000.0,
     "url": "https://japanelectronics.com.pk/products/lg-a-w-m-f4v5rgp2t",
     "available": false
   },
   {
     "name": "LG Automatic Washing Machine F0L9DGP2S",
-    "price": 336900.0,
+    "price": 382000.0,
     "url": "https://japanelectronics.com.pk/products/lg-automatic-washing-machine-f0l9dgp2s",
     "available": false
   },

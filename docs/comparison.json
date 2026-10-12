@@ -1,11 +1,25 @@
 {
-  "last_updated": "2026-10-12T09:09:24.930071+00:00",
+  "last_updated": "2026-10-12T10:09:08.792346+00:00",
   "my_store_name": "Bismillah Electronics",
   "competitor_name": "Japan Electronics",
-  "total_my_products": 1378,
+  "total_my_products": 1379,
   "total_competitor_products": 2146,
   "matched_count": 1029,
   "results": [
+    {
+      "product_name": "Midas Infrared Cooker MI-INF-103 X3",
+      "my_price": 16500.0,
+      "my_available": true,
+      "my_url": "https://bismillahelectronics.pk/products/midas-infrared-cooker-mi-inf-103-x3",
+      "competitor_name": null,
+      "competitor_price": null,
+      "competitor_available": null,
+      "competitor_url": null,
+      "match_confidence": 0,
+      "status": "only_us",
+      "price_diff": null,
+      "cheaper": null
+    },
     {
       "product_name": "Midas Electric Heater E2",
       "my_price": 7500.0,

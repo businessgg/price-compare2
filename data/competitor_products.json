@@ -295,7 +295,7 @@
   },
   {
     "name": "ECOSTAR LED 43\" CX-43Q964 (4K Q-LED)",
-    "price": 75900.0,
+    "price": 86000.0,
     "url": "https://japanelectronics.com.pk/products/ecostar-led-43-cx-43q964-4k-q-led",
     "available": true
   },
@@ -495,7 +495,7 @@
     "name": "KENWOOD FAWM (KWM-8005FAF DG)",
     "price": 187100.0,
     "url": "https://japanelectronics.com.pk/products/kenwood-fawm-kwm-8005faf-dg",
-    "available": true
+    "available": false
   },
   {
     "name": "KENWOOD TAWM (KWM-10005FAT DG)",
@@ -2589,7 +2589,7 @@
     "name": "Haier D.Freezer (HDF-405 Inverter)",
     "price": 103500.0,
     "url": "https://japanelectronics.com.pk/products/haier-d-freezer-hdf-405-inverter",
-    "available": false
+    "available": true
   },
   {
     "name": "Kenwood food processor FDP 05.50GY",
@@ -2859,7 +2859,7 @@
     "name": "TCL LED 85\" 85C7L (MINI Q LED)",
     "price": 865000.0,
     "url": "https://japanelectronics.com.pk/products/tcl-led-85-85c7l-mini-q-led",
-    "available": false
+    "available": true
   },
   {
     "name": "Philips Hair Dryer (BHD-003/03)",
@@ -3631,7 +3631,7 @@
   },
   {
     "name": "LG Home Theater LHD-657",
-    "price": 95000.0,
+    "price": 125500.0,
     "url": "https://japanelectronics.com.pk/products/lg-home-theater-lhd-657",
     "available": true
   },
@@ -3723,7 +3723,7 @@
     "name": "Super Asia E+G Geyser 55 Gallon (GEH-755)",
     "price": 58900.0,
     "url": "https://japanelectronics.com.pk/products/super-asia-e-g-geyser-55-gallon-geh-755",
-    "available": true
+    "available": false
   },
   {
     "name": "Super Asia Electric Geyser EH-630",
@@ -3999,7 +3999,7 @@
     "name": "Dawlance REF 9191 WB Avante + Midnight Green (GD INV)",
     "price": 110000.0,
     "url": "https://japanelectronics.com.pk/products/dawlance-ref-9191-wb-avante-midnight-green-gd-inv",
-    "available": false
+    "available": true
   },
   {
     "name": "Dawlance REF 9193 Graze + Gem Black (GD INV)",
@@ -4533,7 +4533,7 @@
     "name": "ANEX Hair Straightener 7038",
     "price": 6760.0,
     "url": "https://japanelectronics.com.pk/products/anex-hair-straightener-7038",
-    "available": true
+    "available": false
   },
   {
     "name": "Remington Hair Dryer D9140",
@@ -4651,7 +4651,7 @@
   },
   {
     "name": "ANEX Food Processor with Juicer AG-3157",
-    "price": 36550.0,
+    "price": 37660.0,
     "url": "https://japanelectronics.com.pk/products/anex-food-processor-with-juicer-ag-3157",
     "available": true
   },
@@ -4789,7 +4789,7 @@
   },
   {
     "name": "ANEX Garment Steamer (AG-1018)",
-    "price": 11220.0,
+    "price": 11230.0,
     "url": "https://japanelectronics.com.pk/products/anex-garment-steamer-ag-1018",
     "available": true
   },
@@ -7045,7 +7045,7 @@
   },
   {
     "name": "ANEX Sandwich Maker (AG-2047)",
-    "price": 12040.0,
+    "price": 12050.0,
     "url": "https://japanelectronics.com.pk/products/anex-sandwich-maker-ag-2047",
     "available": true
   },
@@ -7057,9 +7057,9 @@
   },
   {
     "name": "ANEX Sandwich Maker AG-1037C",
-    "price": 5970.0,
+    "price": 7070.0,
     "url": "https://japanelectronics.com.pk/products/indicator-lamp-sandwich-maker-anex",
-    "available": false
+    "available": true
   },
   {
     "name": "ANEX Roti Maker 2029",
@@ -7135,7 +7135,7 @@
   },
   {
     "name": "ANEX Juicer (AG-92)",
-    "price": 14900.0,
+    "price": 14120.0,
     "url": "https://japanelectronics.com.pk/products/anex-juicer-ag-92",
     "available": true
   },
@@ -7165,13 +7165,13 @@
   },
   {
     "name": "ANEX Hand Mixer (AG-821)",
-    "price": 7510.0,
+    "price": 7720.0,
     "url": "https://japanelectronics.com.pk/products/anex-hand-mixer-ag-821",
     "available": true
   },
   {
     "name": "ANEX Egg Beater AG-399",
-    "price": 7460.0,
+    "price": 7670.0,
     "url": "https://japanelectronics.com.pk/products/anex-egg-beater-ag-399",
     "available": true
   },
@@ -8005,7 +8005,7 @@
   },
   {
     "name": "ECOSTAR LED 43\" CX-43Q874",
-    "price": 69500.0,
+    "price": 74500.0,
     "url": "https://japanelectronics.com.pk/products/ecostar-led-43-cx-43q874",
     "available": false
   },
@@ -8695,7 +8695,7 @@
   },
   {
     "name": "WestPoint Insect Killer 7115",
-    "price": 13900.0,
+    "price": 14200.0,
     "url": "https://japanelectronics.com.pk/products/westpoint-insect-killer-7115",
     "available": true
   },
@@ -8755,13 +8755,13 @@
   },
   {
     "name": "Westpoint Garment Steamer WF-1253",
-    "price": 8900.0,
+    "price": 9900.0,
     "url": "https://japanelectronics.com.pk/products/westpoint-garment-steamer-wf-1253",
     "available": true
   },
   {
     "name": "Westpoint Garment Steamer (WF-1159)",
-    "price": 33600.0,
+    "price": 38600.0,
     "url": "https://japanelectronics.com.pk/products/westpoint-garment-steamer-wf-1159",
     "available": true
   },
@@ -8815,13 +8815,13 @@
   },
   {
     "name": "Westpoint Electric Kettle WF-6172",
-    "price": 7900.0,
+    "price": 8800.0,
     "url": "https://japanelectronics.com.pk/products/westpoint-electric-kettle-wf-6172",
     "available": false
   },
   {
     "name": "Westpoint Electric Kettle WF-6171",
-    "price": 7900.0,
+    "price": 8800.0,
     "url": "https://japanelectronics.com.pk/products/westpoint-electric-kettle-wf-6171",
     "available": true
   },
@@ -8857,13 +8857,13 @@
   },
   {
     "name": "Westpoint Blender & Grinder WF-367",
-    "price": 16500.0,
+    "price": 18500.0,
     "url": "https://japanelectronics.com.pk/products/westpoint-blender-grinder-wf-367",
     "available": true
   },
   {
     "name": "Westpoint Blender & Grinder WF-364",
-    "price": 15800.0,
+    "price": 16900.0,
     "url": "https://japanelectronics.com.pk/products/westpoint-blender-grinder-wf-364",
     "available": true
   },
@@ -8881,7 +8881,7 @@
   },
   {
     "name": "Westpoint Blender & Grinder (WF-304 Black)",
-    "price": 10500.0,
+    "price": 11500.0,
     "url": "https://japanelectronics.com.pk/products/westpoint-blender-grinder-wf-304-black",
     "available": true
   },
@@ -8959,9 +8959,9 @@
   },
   {
     "name": "Ecostar LED 40\" CX-40Q874 (Q-LED)",
-    "price": 59900.0,
+    "price": 64000.0,
     "url": "https://japanelectronics.com.pk/products/ecostar-led-40-cx-40q874-q-led",
-    "available": false
+    "available": true
   },
   {
     "name": "Orient Floor Standing AC Inverter 2.0 Ton AK-24G Super",
@@ -9007,7 +9007,7 @@
   },
   {
     "name": "West Point Induction Cooker WF-143",
-    "price": 17000.0,
+    "price": 16000.0,
     "url": "https://japanelectronics.com.pk/products/west-point-induction-cooker-wf-143",
     "available": true
   },
@@ -9051,7 +9051,7 @@
     "name": "Super Asia TAWM (SA-809G Graphite) Metal",
     "price": 60000.0,
     "url": "https://japanelectronics.com.pk/products/super-asia-tawm-sa-809g-graphite-metal",
-    "available": false
+    "available": true
   },
   {
     "name": "Super Asia TAWM (SA-809G Black) Metal",
@@ -9091,7 +9091,7 @@
   },
   {
     "name": "Westpoint Toaster WF-2542",
-    "price": 8800.0,
+    "price": 8500.0,
     "url": "https://japanelectronics.com.pk/products/westpoint-toaster-wf-2542",
     "available": true
   },
@@ -10059,7 +10059,7 @@
     "name": "Haier D. Freezer (HDF-345IG Inverter Grey)",
     "price": 89500.0,
     "url": "https://japanelectronics.com.pk/products/haier-d-freezer-hdf-345ig-inverter-grey",
-    "available": false
+    "available": true
   },
   {
     "name": "Orient Split AC inverter 1.5 Ton Super 18X Mirror",
@@ -10281,7 +10281,7 @@
     "name": "LG Side By Side Ref GR-F411ELDM / GR-B414ELFM (Pigeon Pair)",
     "price": 550000.0,
     "url": "https://japanelectronics.com.pk/products/lg-side-by-side-ref-gr-f411eldm-gr-b414elfm-pigeon-pair",
-    "available": false
+    "available": true
   },
   {
     "name": "Homage Refrigerator HRI-47442/320 Crystal Inverter Mirror",
@@ -10663,7 +10663,7 @@
   },
   {
     "name": "WestPoint Induction Cooker WF-142",
-    "price": 15500.0,
+    "price": 14500.0,
     "url": "https://japanelectronics.com.pk/products/westpoint-induction-cooker-wf-142",
     "available": true
   },
@@ -10723,7 +10723,7 @@
   },
   {
     "name": "Anex Kettle 4070",
-    "price": 8290.0,
+    "price": 8540.0,
     "url": "https://japanelectronics.com.pk/products/anex-kettle-4070",
     "available": true
   },
@@ -11101,7 +11101,7 @@
   },
   {
     "name": "WestPoint Insect Killer 7112",
-    "price": 16290.0,
+    "price": 14200.0,
     "url": "https://japanelectronics.com.pk/products/westpoint-insect-killer-7112",
     "available": true
   },
@@ -11169,7 +11169,7 @@
     "name": "Dawlance Hot Plate DWHP-3021 B",
     "price": 10600.0,
     "url": "https://japanelectronics.com.pk/products/dawlance-hot-plate-dwhp-3021-b",
-    "available": false
+    "available": true
   },
   {
     "name": "Dawlance Hot Plate DWHP-3021 W",
@@ -11233,7 +11233,7 @@
   },
   {
     "name": "Super Asia Instant Gas Geyser GH-106DI LPG",
-    "price": 17999.0,
+    "price": 20900.0,
     "url": "https://japanelectronics.com.pk/products/super-asia-instant-gas-geyser-gh-106di-lpg",
     "available": false
   },
@@ -11247,7 +11247,7 @@
     "name": "Dawlance Fully Automatic Washing Machine DWT 270 C LVS+",
     "price": 81900.0,
     "url": "https://japanelectronics.com.pk/products/dawlance-fully-automatic-washing-machine-dwt-270-c-lvs",
-    "available": true
+    "available": false
   },
   {
     "name": "Super Asia Washing Machine Big Wash SA-290",
@@ -11385,7 +11385,7 @@
     "name": "Ecostar A.W.M EW-F9504DC",
     "price": 69900.0,
     "url": "https://japanelectronics.com.pk/products/ecostar-a-w-m-ew-f9504dc",
-    "available": true
+    "available": false
   },
   {
     "name": "Ecostar A.W.M EW-F1204DC",
@@ -11563,9 +11563,9 @@
   },
   {
     "name": "Sharp Air Fryer (AF-70RT-S3) 7L",
-    "price": 482000.0,
+    "price": 48000.0,
     "url": "https://japanelectronics.com.pk/products/sharp-air-fryer-af-70rt-s3",
-    "available": false
+    "available": true
   },
   {
     "name": "ANEX Oven Toaster 3072",
@@ -11593,7 +11593,7 @@
   },
   {
     "name": "ANEX Blender & Grinder (2 in 1) 6045",
-    "price": 11390.0,
+    "price": 11720.0,
     "url": "https://japanelectronics.com.pk/products/anex-blender-grinder-2-in-1-6045",
     "available": true
   },
@@ -11979,7 +11979,7 @@
     "name": "Beetro Water Cooler 45Ltr Slim Model",
     "price": 75300.0,
     "url": "https://japanelectronics.com.pk/products/beetro-water-cooler-45ltr-slim-model",
-    "available": true
+    "available": false
   },
   {
     "name": "Remington Hair Straightener S1400",
@@ -12211,7 +12211,7 @@
   },
   {
     "name": "WestPoint Food Processor WF-8819",
-    "price": 35999.0,
+    "price": 33900.0,
     "url": "https://japanelectronics.com.pk/products/westpoint-food-processor-wf-8819",
     "available": true
   },
@@ -12315,7 +12315,7 @@
     "name": "Dawlance Dry Iron DWDI-1020 Black",
     "price": 7500.0,
     "url": "https://japanelectronics.com.pk/products/dawlance-dry-iron-dwdi-1020-black",
-    "available": false
+    "available": true
   },
   {
     "name": "Panasonic Steam Iron NI-M300T Blue",
@@ -12693,7 +12693,7 @@
     "name": "Dawlance Microwave Oven DW-MD-10",
     "price": 15800.0,
     "url": "https://japanelectronics.com.pk/products/dawlance-microwave-oven-dw-md-10",
-    "available": true
+    "available": false
   },
   {
     "name": "Dawlance Microwave Oven DW-MD7",
@@ -12823,9 +12823,9 @@
   },
   {
     "name": "ANEX Dry Iron (Light Wt) 1072",
-    "price": 5170.0,
+    "price": 5480.0,
     "url": "https://japanelectronics.com.pk/products/super-quality-light-weight-dry-iron-by-anex",
-    "available": false
+    "available": true
   },
   {
     "name": "ANEX Chopper With Extra Bowl AG-3059",
@@ -12835,9 +12835,9 @@
   },
   {
     "name": "ANEX Blender & Grinder (3 in 1) AG-699",
-    "price": 6900.0,
+    "price": 7520.0,
     "url": "https://japanelectronics.com.pk/products/anex-blender-grinder-3-in-1-699",
-    "available": false
+    "available": true
   },
   {
     "name": "ANEX Big Chopper With Blender 3045",
@@ -12847,7 +12847,7 @@
   },
   {
     "name": "ANEX 2 Slice Toaster Cool Touch AG-3018",
-    "price": 7970.0,
+    "price": 8230.0,
     "url": "https://japanelectronics.com.pk/products/anex-2-slice-toaster-cool-touch-3018",
     "available": true
   },

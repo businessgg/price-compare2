@@ -1,5 +1,35 @@
 [
   {
+    "name": "Midas Electric Heater E2",
+    "price": 7500.0,
+    "url": "https://bismillahelectronics.pk/products/midas-electric-heater-e2",
+    "available": true
+  },
+  {
+    "name": "Kenwood Blender 8in1 KB-34G",
+    "price": 9300.0,
+    "url": "https://bismillahelectronics.pk/products/kenwood-blender-8in1-kb-34g",
+    "available": true
+  },
+  {
+    "name": "Homage Table Blender HTB-603A0",
+    "price": 16000.0,
+    "url": "https://bismillahelectronics.pk/products/homage-table-blender-htb-603a0",
+    "available": true
+  },
+  {
+    "name": "Homage Stand Mixer HKM-103A0",
+    "price": 46500.0,
+    "url": "https://bismillahelectronics.pk/products/homage-stand-mixer-hkm-103a0",
+    "available": true
+  },
+  {
+    "name": "Homage Sandwich Maker HSM-704C0",
+    "price": 13500.0,
+    "url": "https://bismillahelectronics.pk/products/homage-sandwich-maker-hsm-704c0",
+    "available": true
+  },
+  {
     "name": "Homage Sandwich Maker HSM-702C0",
     "price": 10000.0,
     "url": "https://bismillahelectronics.pk/products/homage-sandwich-maker-hsm-702c0",

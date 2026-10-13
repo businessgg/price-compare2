@@ -1,5 +1,11 @@
 [
   {
+    "name": "TCL LED TV 43 Inch 43P79K (Q LED)",
+    "price": 117900.0,
+    "url": "https://bismillahelectronics.pk/products/tcl-led-tv-43-inch-43p79k-q-led",
+    "available": true
+  },
+  {
     "name": "Haier Ref HRF-458 IPGA (GREEN)",
     "price": 109000.0,
     "url": "https://bismillahelectronics.pk/products/haier-ref-hrf-458-ipga-green",
@@ -105,12 +111,6 @@
     "name": "Haier Ref HRF-246 IPP (PURPLE)",
     "price": 73000.0,
     "url": "https://bismillahelectronics.pk/products/haier-ref-hrf-246-ipp-purple",
-    "available": true
-  },
-  {
-    "name": "TCL LED TV 32 Inch 32S5400 (Smart LED TV)",
-    "price": 56000.0,
-    "url": "https://bismillahelectronics.pk/products/tcl-l-ed-tv-32-inch-32s5400-smart-led-tv",
     "available": true
   },
   {
@@ -1219,7 +1219,7 @@
   },
   {
     "name": "TCL LED TV 65 Inch 65T6D (Q LED)",
-    "price": 210900.0,
+    "price": 212900.0,
     "url": "https://bismillahelectronics.pk/products/tcl-led-tv-65-inch-65t6d-q-led",
     "available": true
   },
@@ -1494,12 +1494,6 @@
     "available": true
   },
   {
-    "name": "TCL AC Inverter 1.0 Ton TAC-12T3 PRO D2",
-    "price": 125000.0,
-    "url": "https://bismillahelectronics.pk/products/tcl-ac-inverter-1-0-ton-tac-12t3-pro-d2",
-    "available": true
-  },
-  {
     "name": "TCL Floor Standing AC 2.0 Ton TAC-24T3-FH Inverter",
     "price": 285000.0,
     "url": "https://bismillahelectronics.pk/products/tcl-floor-standing-ac-2-0-ton-tac-24t3-fh-inverter",
@@ -1701,18 +1695,6 @@
     "name": "TCL LED TV 40 Inch 40S59K (Q LED)",
     "price": 74000.0,
     "url": "https://bismillahelectronics.pk/products/tcl-led-tv-40-inch-40s59k-q-led",
-    "available": true
-  },
-  {
-    "name": "TCL LED TV 85 Inch 85C7K",
-    "price": 647500.0,
-    "url": "https://bismillahelectronics.pk/products/tcl-led-tv-85-inch-85c7k",
-    "available": true
-  },
-  {
-    "name": "TCL LED TV 75 Inch 75C7K",
-    "price": 392500.0,
-    "url": "https://bismillahelectronics.pk/products/tcl-led-tv-75-inch-75c7k",
     "available": true
   },
   {
@@ -5748,12 +5730,6 @@
     "available": true
   },
   {
-    "name": "TCL LED TV 65 Inch 65P79K (Q LED)",
-    "price": 242900.0,
-    "url": "https://bismillahelectronics.pk/products/tcl-led-tv-65-inch-65p79k-q-led",
-    "available": true
-  },
-  {
     "name": "TCL LED TV 65 Inch 65P8K (Q LED)",
     "price": 246000.0,
     "url": "https://bismillahelectronics.pk/products/tcl-led-tv-65-inch-65p8k-q-led",
@@ -6379,7 +6355,7 @@
   },
   {
     "name": "TCL AC Inverter 2.0 Ton 24T3 Pro 2",
-    "price": 199000.0,
+    "price": 200000.0,
     "url": "https://bismillahelectronics.pk/products/tcl-ac-inverter-2-0-ton-24t3-pro-2",
     "available": true
   },
@@ -6396,27 +6372,9 @@
     "available": true
   },
   {
-    "name": "TCL AC Inverter 1.5 Ton TAC-18T3 Pro C2",
-    "price": 165000.0,
-    "url": "https://bismillahelectronics.pk/products/tcl-ac-inverter-1-5-ton-tac-18t3-pro-c2",
-    "available": true
-  },
-  {
-    "name": "TCL AC Inverter 1.5 Ton TAC-18T3 Pro D2",
-    "price": 165000.0,
-    "url": "https://bismillahelectronics.pk/products/tcl-ac-inverter-1-5-ton-tac-18t3-pro-d2",
-    "available": true
-  },
-  {
     "name": "TCL AC Inverter 1.5 Ton TAC-18T3B",
     "price": 161000.0,
     "url": "https://bismillahelectronics.pk/products/tcl-ac-inverter-1-5-ton-tac-18t3b",
-    "available": true
-  },
-  {
-    "name": "TCL AC Inverter 1.5 Ton TAC-18T3B-2",
-    "price": 161000.0,
-    "url": "https://bismillahelectronics.pk/products/tcl-ac-inverter-1-5-ton-tac-18t3b-2",
     "available": true
   },
   {

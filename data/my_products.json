@@ -1,5 +1,35 @@
 [
   {
+    "name": "Haier Ref HRF-418 IPP (PURPLE)",
+    "price": 104000.0,
+    "url": "https://bismillahelectronics.pk/products/haier-ref-hrf-418-ipp-purple",
+    "available": true
+  },
+  {
+    "name": "Haier Ref HRF-418 IPG (GREEN)",
+    "price": 104000.0,
+    "url": "https://bismillahelectronics.pk/products/haier-ref-hrf-418-ipg-green",
+    "available": true
+  },
+  {
+    "name": "Haier Ref HRF-418 IDG (GREY)",
+    "price": 109000.0,
+    "url": "https://bismillahelectronics.pk/products/haier-ref-hrf-418-idg-grey",
+    "available": true
+  },
+  {
+    "name": "Haier Ref HRF-346 IDGA (GREY)",
+    "price": 97000.0,
+    "url": "https://bismillahelectronics.pk/products/haier-ref-hrf-346-idga-grey",
+    "available": true
+  },
+  {
+    "name": "Haier Ref HRF-346 IARA+ (RED)",
+    "price": 97000.0,
+    "url": "https://bismillahelectronics.pk/products/haier-ref-hrf-346-iara-red",
+    "available": true
+  },
+  {
     "name": "Haier Ref HRF-316 IDR (RED)",
     "price": 93000.0,
     "url": "https://bismillahelectronics.pk/products/haier-ref-hrf-316-idr-red",

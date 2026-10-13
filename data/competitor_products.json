@@ -321,7 +321,7 @@
     "name": "ECOSTAR LED 58\" CX-58Q968 (Q-LED)",
     "price": 120000.0,
     "url": "https://japanelectronics.com.pk/products/ecostar-led-58-cx-58q968-q-led",
-    "available": false
+    "available": true
   },
   {
     "name": "ECOSTAR LED 43\" CX-43Q964 (4K Q-LED)",
@@ -951,7 +951,7 @@
     "name": "PEL REF (PRGD-2550 RED BLAZE)",
     "price": 86900.0,
     "url": "https://japanelectronics.com.pk/products/pel-ref-prgd-2550-red-blaze",
-    "available": true
+    "available": false
   },
   {
     "name": "PEL REF (PRGD-21860 RED BLAZE)",
@@ -969,7 +969,7 @@
     "name": "PEL REF (PRLP-2550 LIFE METALLIC TEXTURE GREY)",
     "price": 80900.0,
     "url": "https://japanelectronics.com.pk/products/pel-ref-prlp-2550-life-metallic-texture-grey",
-    "available": true
+    "available": false
   },
   {
     "name": "PEL REF (PRINVO-6360 GOLD SILK) VCM INVERTER",
@@ -1059,7 +1059,7 @@
     "name": "Kenwood Ref KRF-25657/453-L (GD) Smart Inverter MRG",
     "price": 120000.0,
     "url": "https://japanelectronics.com.pk/products/kenwood-ref-krf-25657-453-l-gd-smart-inverter-mrg",
-    "available": false
+    "available": true
   },
   {
     "name": "Homage Ref HRF-47662/480-L (GD) MRG New Crystal Series",
@@ -2313,7 +2313,7 @@
     "name": "Nasgas Electric Geyser DE-35",
     "price": 44000.0,
     "url": "https://japanelectronics.com.pk/products/nasgas-electric-geyser-de-35",
-    "available": true
+    "available": false
   },
   {
     "name": "Nasgas Electric & Gas Geyser 55 Gallon (DEG-55) Super HD",
@@ -5059,7 +5059,7 @@
   },
   {
     "name": "Panasonic Hair Dryer EH-ND21-P615",
-    "price": 6500.0,
+    "price": 8500.0,
     "url": "https://japanelectronics.com.pk/products/panasonic-hair-dryer-eh-nd21-p615",
     "available": false
   },
@@ -6243,7 +6243,7 @@
     "name": "Haier Ref HRF-458 IPRA",
     "price": 109000.0,
     "url": "https://japanelectronics.com.pk/products/haier-ref-hrf-458-ipra",
-    "available": true
+    "available": false
   },
   {
     "name": "Haier Ref HRF-458 IPGA",
@@ -6867,7 +6867,7 @@
     "name": "Canon Instant Gas Geyser 20D+ Dual",
     "price": 36900.0,
     "url": "https://japanelectronics.com.pk/products/canon-instant-gas-geyser-20d-dual",
-    "available": true
+    "available": false
   },
   {
     "name": "Canon Instant Gas Geyser 18D+ Dual",
@@ -8301,7 +8301,7 @@
     "name": "Braun Electric Kettle (WK-1500)",
     "price": 18500.0,
     "url": "https://japanelectronics.com.pk/products/braun-electric-kettle-wk-1500",
-    "available": false
+    "available": true
   },
   {
     "name": "Philips Electric Kettle (HD-9314)",
@@ -9003,7 +9003,7 @@
     "name": "Hisense LED 43\" 43Q6N (Q LED)",
     "price": 79900.0,
     "url": "https://japanelectronics.com.pk/products/hisense-led-43-43q6n-q-led",
-    "available": true
+    "available": false
   },
   {
     "name": "Nasgas Instant Gas Geyser DG-09 Dlx (Executive)",
@@ -9097,7 +9097,7 @@
   },
   {
     "name": "Kenwood Sandwich Maker SMP-50",
-    "price": 12900.0,
+    "price": 17900.0,
     "url": "https://japanelectronics.com.pk/products/kenwood-sandwich-maker-smp-50",
     "available": false
   },
@@ -9517,7 +9517,7 @@
   },
   {
     "name": "Haier TAWM (HWM 100-1678ES8)",
-    "price": 67400.0,
+    "price": 65300.0,
     "url": "https://japanelectronics.com.pk/products/haier-tawm-hwm-100-1678es8",
     "available": false
   },
@@ -11377,7 +11377,7 @@
   },
   {
     "name": "Super Asia Washing Machine SA-210 Quick Wash",
-    "price": 13999.0,
+    "price": 15000.0,
     "url": "https://japanelectronics.com.pk/products/super-asia-washing-machine-sa-210-quick-wash",
     "available": false
   },
@@ -11701,7 +11701,7 @@
   },
   {
     "name": "Haier Washing Machine HTW-110-186",
-    "price": 40600.0,
+    "price": 38500.0,
     "url": "https://japanelectronics.com.pk/products/haier-washing-machine-htw-110-186",
     "available": false
   },
@@ -11725,7 +11725,7 @@
   },
   {
     "name": "Haier A.W.M HWM95-1678ES8",
-    "price": 79400.0,
+    "price": 77400.0,
     "url": "https://japanelectronics.com.pk/products/haier-a-w-m-hwm95-1678es8",
     "available": false
   },
@@ -12363,7 +12363,7 @@
     "name": "Gaba National Washing Machine 92020",
     "price": 13500.0,
     "url": "https://japanelectronics.com.pk/products/gabba-national-washing-machine-92020",
-    "available": true
+    "available": false
   },
   {
     "name": "Dawlance Gas Hob (DHM 590 SI A Series) 5 BRN S.Steel",
@@ -12505,7 +12505,7 @@
   },
   {
     "name": "Remington Hair Straightener S3500",
-    "price": 8400.0,
+    "price": 9500.0,
     "url": "https://japanelectronics.com.pk/products/remington-hair-straightener-s3500",
     "available": true
   },

@@ -837,7 +837,7 @@
     "name": "PEL Ref (PRINVOGDDT-6470 Silver Strip Grey) Digitron Ultra Inverter Curved",
     "price": 113900.0,
     "url": "https://japanelectronics.com.pk/products/pel-ref-prinvogddt-6470-silver-strip-grey-digitron-ultra-inverter-curved",
-    "available": false
+    "available": true
   },
   {
     "name": "PEL Ref (PRINVOFGD-22270 Hazel Red Blaze) Flat Glass Inverteron",
@@ -951,7 +951,7 @@
     "name": "PEL REF (PRGD-2550 RED BLAZE)",
     "price": 86900.0,
     "url": "https://japanelectronics.com.pk/products/pel-ref-prgd-2550-red-blaze",
-    "available": false
+    "available": true
   },
   {
     "name": "PEL REF (PRGD-21860 RED BLAZE)",
@@ -1677,7 +1677,7 @@
     "name": "PHILIPS NOSE & EAR TRIMMER (NT3650/16)",
     "price": 7500.0,
     "url": "https://japanelectronics.com.pk/products/philips-nose-ear-trimmer-nt3650-16",
-    "available": false
+    "available": true
   },
   {
     "name": "PHILIPS NOSE & EAR TRIMMER (NT1650/16)",
@@ -2631,7 +2631,7 @@
     "name": "VGR Hair Trimmer (V-075)",
     "price": 4000.0,
     "url": "https://japanelectronics.com.pk/products/vgr-hair-trimmer-v-075",
-    "available": false
+    "available": true
   },
   {
     "name": "PHILIPS HAIR TRIMMER (MG-7715/13)",
@@ -3057,7 +3057,7 @@
     "name": "Haier Air Fryer (HAF-50MB)",
     "price": 18500.0,
     "url": "https://japanelectronics.com.pk/products/haier-air-fryer-haf-50mb",
-    "available": true
+    "available": false
   },
   {
     "name": "Haier D.Freezer (HDF-345 IG Star Inverter Grey)",
@@ -3267,7 +3267,7 @@
     "name": "PHILIPS MULTI PURPOSE GROOMING SET (MG-7940/15) 15 IN 1",
     "price": 27500.0,
     "url": "https://japanelectronics.com.pk/products/philips-multi-purpose-grooming-set-mg-7940-15-15-in-1",
-    "available": false
+    "available": true
   },
   {
     "name": "PANASONIC NOSE & EAR TRIMMER (ER-GN30-K)",
@@ -5061,7 +5061,7 @@
     "name": "Panasonic Hair Dryer EH-ND21-P615",
     "price": 8500.0,
     "url": "https://japanelectronics.com.pk/products/panasonic-hair-dryer-eh-nd21-p615",
-    "available": false
+    "available": true
   },
   {
     "name": "MultyNet LED 65\" 65IQ50 (Q LED)",
@@ -8145,7 +8145,7 @@
     "name": "Samsung LED 65\" CY-65DU8000",
     "price": 281999.0,
     "url": "https://japanelectronics.com.pk/products/samsung-led-65-cy-65du8000usmz",
-    "available": true
+    "available": false
   },
   {
     "name": "Samsung LED 50\" CY-50DU8000USWK",

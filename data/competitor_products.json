@@ -2313,7 +2313,7 @@
     "name": "Nasgas Electric Geyser DE-35",
     "price": 44000.0,
     "url": "https://japanelectronics.com.pk/products/nasgas-electric-geyser-de-35",
-    "available": false
+    "available": true
   },
   {
     "name": "Nasgas Electric & Gas Geyser 55 Gallon (DEG-55) Super HD",
@@ -3819,7 +3819,7 @@
     "name": "Haier Microwave Oven (HMW-20MXP3)",
     "price": 14000.0,
     "url": "https://japanelectronics.com.pk/products/haier-microwave-oven-hmw-20mxp3",
-    "available": false
+    "available": true
   },
   {
     "name": "Haier Microwave Oven (HMW-20MPS)",
@@ -8781,7 +8781,7 @@
     "name": "Westpoint Grinder (WF-9228)",
     "price": 8900.0,
     "url": "https://japanelectronics.com.pk/products/westpoint-grinder-wf-9228",
-    "available": false
+    "available": true
   },
   {
     "name": "Westpoint Garment Steamer WF-1253",
@@ -9003,7 +9003,7 @@
     "name": "Hisense LED 43\" 43Q6N (Q LED)",
     "price": 79900.0,
     "url": "https://japanelectronics.com.pk/products/hisense-led-43-43q6n-q-led",
-    "available": false
+    "available": true
   },
   {
     "name": "Nasgas Instant Gas Geyser DG-09 Dlx (Executive)",
@@ -10659,7 +10659,7 @@
     "name": "Haier Washing Machine HWM 130-1217",
     "price": 27000.0,
     "url": "https://japanelectronics.com.pk/products/haier-washing-machine-hwm-130-1217",
-    "available": false
+    "available": true
   },
   {
     "name": "Dawlance Air Fryer DWAF-6322 D",
@@ -10905,7 +10905,7 @@
     "name": "TCL Floor Standing AC Inverter 2.0 Ton TAC-24T3-FH",
     "price": 285000.0,
     "url": "https://japanelectronics.com.pk/products/tcl-floor-standing-ac-inverter-2-0-ton-tac-24t3-fh",
-    "available": true
+    "available": false
   },
   {
     "name": "Orient Split AC Inverter 1.0 Ton Ultron (King E-Comfort)",
@@ -11277,7 +11277,7 @@
     "name": "Dawlance Fully Automatic Washing Machine DWT 270 C LVS+",
     "price": 81900.0,
     "url": "https://japanelectronics.com.pk/products/dawlance-fully-automatic-washing-machine-dwt-270-c-lvs",
-    "available": false
+    "available": true
   },
   {
     "name": "Super Asia Washing Machine Big Wash SA-290",
@@ -11319,7 +11319,7 @@
     "name": "Dawlance Microwave Oven DW-210 S Pro",
     "price": 16499.0,
     "url": "https://japanelectronics.com.pk/products/dawlance-microwave-oven-dw-210-s-pro",
-    "available": false
+    "available": true
   },
   {
     "name": "Dawlance Washing Machine DW 9200 CFL",
@@ -11535,7 +11535,7 @@
     "name": "Dawlance Fully Automatic Washing Machine DWT 270 S LVS+",
     "price": 81900.0,
     "url": "https://japanelectronics.com.pk/products/dawlance-fully-automatic-washing-machine-dwt-270-s-lvs",
-    "available": false
+    "available": true
   },
   {
     "name": "Japanese Heater 3.5 KW (Flat Panel)",
@@ -11601,7 +11601,7 @@
     "name": "ANEX Oven Toaster 3072",
     "price": 33800.0,
     "url": "https://japanelectronics.com.pk/products/anex-oven-toaster-3072",
-    "available": true
+    "available": false
   },
   {
     "name": "Kenwood Refrigerator Krf-Invertech-24457/320-L (GD) Mirror",
@@ -12357,13 +12357,13 @@
     "name": "Gaba National Washing Machine GNW-93020 Glass",
     "price": 14500.0,
     "url": "https://japanelectronics.com.pk/products/gabba-national-washing-machine-gnw-93020-glass",
-    "available": false
+    "available": true
   },
   {
     "name": "Gaba National Washing Machine 92020",
     "price": 13500.0,
     "url": "https://japanelectronics.com.pk/products/gabba-national-washing-machine-92020",
-    "available": false
+    "available": true
   },
   {
     "name": "Dawlance Gas Hob (DHM 590 SI A Series) 5 BRN S.Steel",

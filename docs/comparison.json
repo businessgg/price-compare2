@@ -1,11 +1,25 @@
 {
-  "last_updated": "2026-10-15T12:20:04.044475+00:00",
+  "last_updated": "2026-10-15T13:31:52.962402+00:00",
   "my_store_name": "Bismillah Electronics",
   "competitor_name": "Japan Electronics",
-  "total_my_products": 1432,
+  "total_my_products": 1433,
   "total_competitor_products": 2151,
   "matched_count": 1059,
   "results": [
+    {
+      "product_name": "Haier REF HRF-578 TGG IOT",
+      "my_price": 213000.0,
+      "my_available": true,
+      "my_url": "https://bismillahelectronics.pk/products/haier-ref-hrf-578-tgg-iot",
+      "competitor_name": null,
+      "competitor_price": null,
+      "competitor_available": null,
+      "competitor_url": null,
+      "match_confidence": 0,
+      "status": "only_us",
+      "price_diff": null,
+      "cheaper": null
+    },
     {
       "product_name": "Haier Ref HRF-578 TBGU1 IOT SBS",
       "my_price": 213000.0,

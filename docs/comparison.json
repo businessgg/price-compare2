@@ -1,10 +1,10 @@
 {
-  "last_updated": "2026-10-16T08:18:55.875345+00:00",
+  "last_updated": "2026-10-16T09:20:55.882732+00:00",
   "my_store_name": "Bismillah Electronics",
   "competitor_name": "Japan Electronics",
-  "total_my_products": 1419,
+  "total_my_products": 1395,
   "total_competitor_products": 2151,
-  "matched_count": 1044,
+  "matched_count": 1025,
   "results": [
     {
       "product_name": "Candy AC Inverter 1.0 Ton CSU-13HF",
@@ -3269,20 +3269,6 @@
       "cheaper": "us"
     },
     {
-      "product_name": "American General AC Inverter 1.0 Ton Fantasy eSmart 12K Plus",
-      "my_price": 155000.0,
-      "my_available": true,
-      "my_url": "https://bismillahelectronics.pk/products/general-ac-fantasy-esmart-12k-plus-inverter",
-      "competitor_name": null,
-      "competitor_price": null,
-      "competitor_available": null,
-      "competitor_url": null,
-      "match_confidence": 0,
-      "status": "only_us",
-      "price_diff": null,
-      "cheaper": null
-    },
-    {
       "product_name": "Orient AC Inverter 1.0 Ton Ultron LUNAR 12G DC",
       "my_price": 122000.0,
       "my_available": true,
@@ -3423,64 +3409,8 @@
       "cheaper": "us"
     },
     {
-      "product_name": "Gree AC 1.0 Ton Inverter GS-12FITH3W AAA Wifi",
-      "my_price": 168900.0,
-      "my_available": true,
-      "my_url": "https://bismillahelectronics.pk/products/gree-ac-1-0-ton-inverter-gs-12fith3w-aaa-wifi",
-      "competitor_name": "Gree Split AC 1.0 Ton Inverter GS-12FITH3W AAA Wifi",
-      "competitor_price": 170900.0,
-      "competitor_available": false,
-      "competitor_url": "https://japanelectronics.com.pk/products/gree-split-ac-1-0-ton-inverter-gs-12fith3w-aaa-wifi",
-      "match_confidence": 93.8,
-      "status": "matched",
-      "price_diff": -2000.0,
-      "cheaper": "us"
-    },
-    {
-      "product_name": "Gree AC Inverter 1.0 Ton GS-12FITH3W AAA",
-      "my_price": 168900.0,
-      "my_available": true,
-      "my_url": "https://bismillahelectronics.pk/products/gree-ac-inverter-1-0-ton-gs-12fith3w-aaa-wifi",
-      "competitor_name": "Gree Split AC 1.0 Ton Inverter GS-12FITH6C AAA",
-      "competitor_price": 161900.0,
-      "competitor_available": false,
-      "competitor_url": "https://japanelectronics.com.pk/products/gree-split-ac-1-0-ton-inverter-gs-12fith6c-aaa",
-      "match_confidence": 88.4,
-      "status": "matched",
-      "price_diff": 7000.0,
-      "cheaper": "competitor"
-    },
-    {
-      "product_name": "Gree AC Inverter 1.0 Ton GS-12PITH11S AAA",
-      "my_price": 130900.0,
-      "my_available": true,
-      "my_url": "https://bismillahelectronics.pk/products/gree-ac-inverter-1-0-ton-gs-12pith11s-aaa",
-      "competitor_name": "Gree Split AC Inverter 1.0 Ton GS-12PITH11S AAA",
-      "competitor_price": 127500.0,
-      "competitor_available": false,
-      "competitor_url": "https://japanelectronics.com.pk/products/gree-split-ac-inverter-1-0-ton-gs-12pith11s-aaa",
-      "match_confidence": 93.2,
-      "status": "matched",
-      "price_diff": 3400.0,
-      "cheaper": "competitor"
-    },
-    {
-      "product_name": "Gree AC Inverter 2.0 Ton GS-24FITH6S AAA",
-      "my_price": 267900.0,
-      "my_available": true,
-      "my_url": "https://bismillahelectronics.pk/products/gree-ac-inverter-2-0-ton-gs-24fith6s-aaa",
-      "competitor_name": "Gree Split AC 2.0 Inverter Ton GS-24FITH6S AAA",
-      "competitor_price": 269900.0,
-      "competitor_available": false,
-      "competitor_url": "https://japanelectronics.com.pk/products/gree-split-ac-2-0-inverter-ton-gs-24fith6s-aaa",
-      "match_confidence": 93.0,
-      "status": "matched",
-      "price_diff": -2000.0,
-      "cheaper": "us"
-    },
-    {
       "product_name": "Gree AC 2.0 Ton Inverter GS-24FITH1C AAA Wifi",
-      "my_price": 282900.0,
+      "my_price": 269900.0,
       "my_available": true,
       "my_url": "https://bismillahelectronics.pk/products/gree-ac-2-0-ton-inverter-gs-24fith1c-aaa-wifi",
       "competitor_name": "Gree Split AC 2.0 Ton Inverter GS-24FITH1C AAA Wifi",
@@ -3489,54 +3419,12 @@
       "competitor_url": "https://japanelectronics.com.pk/products/gree-split-ac-2-0-ton-inverter-gs-24fith1c-aaa-wifi",
       "match_confidence": 93.8,
       "status": "matched",
-      "price_diff": -2000.0,
+      "price_diff": -15000.0,
       "cheaper": "us"
-    },
-    {
-      "product_name": "Gree AC 2.0 Ton Inverter GS-24PITH11G AAA",
-      "my_price": 230900.0,
-      "my_available": true,
-      "my_url": "https://bismillahelectronics.pk/products/gree-ac-2-0-ton-inverter-gs-24pith11g-aaa",
-      "competitor_name": "Gree AC Split Inverter 2.0 Ton GS-24PITH11G AAA",
-      "competitor_price": 232900.0,
-      "competitor_available": false,
-      "competitor_url": "https://japanelectronics.com.pk/products/gree-split-ac-inverter-2-0-ton-gs-24pith11g-aaa",
-      "match_confidence": 93.2,
-      "status": "matched",
-      "price_diff": -2000.0,
-      "cheaper": "us"
-    },
-    {
-      "product_name": "Gree AC Floor Standing 2.0 Ton GF-24ISH AA+ Inverter",
-      "my_price": 473000.0,
-      "my_available": true,
-      "my_url": "https://bismillahelectronics.pk/products/gree-ac-floor-standing-2-0-ton-gf-24ish-aa-inverter",
-      "competitor_name": "Gree AC Floor Standing Inverter 2.0 Ton GF-24ISH AA+",
-      "competitor_price": 408000.0,
-      "competitor_available": false,
-      "competitor_url": "https://japanelectronics.com.pk/products/gree-floor-standing-ac-inverter-2-0-ton-gf-24ish-aa",
-      "match_confidence": 100.0,
-      "status": "matched",
-      "price_diff": 65000.0,
-      "cheaper": "competitor"
-    },
-    {
-      "product_name": "Gree AC Floor Standing 2.0 Ton GF-24TF AA+ Cool Only",
-      "my_price": 307000.0,
-      "my_available": true,
-      "my_url": "https://bismillahelectronics.pk/products/gree-ac-floor-standing-2-0-ton-gf-24tf-aa-cool-only",
-      "competitor_name": "Gree AC Floor Standing 2.0 Ton Cool Only GF-24TF AA+",
-      "competitor_price": 279000.0,
-      "competitor_available": false,
-      "competitor_url": "https://japanelectronics.com.pk/products/gree-floor-standing-2-0-ton-cool-only-gf-24tf-aa",
-      "match_confidence": 100.0,
-      "status": "matched",
-      "price_diff": 28000.0,
-      "cheaper": "competitor"
     },
     {
       "product_name": "Gree Floor Standing AC 2.0 Ton GF-24VTIH AA+ Inverter",
-      "my_price": 473000.0,
+      "my_price": 475000.0,
       "my_available": true,
       "my_url": "https://bismillahelectronics.pk/products/gree-floor-standing-ac-2-0-ton-gf-24vtih-aa-inverter",
       "competitor_name": "Gree Floor Standing AC Inverter 2.0 Ton GF-24VTIH AA+",
@@ -3545,26 +3433,12 @@
       "competitor_url": "https://japanelectronics.com.pk/products/gree-floor-standing-ac-inverter-2-0-ton-gf-24vtih-aa",
       "match_confidence": 100.0,
       "status": "matched",
-      "price_diff": 74000.0,
-      "cheaper": "competitor"
-    },
-    {
-      "product_name": "Gree Floor Standing AC 4.0 Ton GF-24TFIH AA+ Inverter",
-      "my_price": 697000.0,
-      "my_available": true,
-      "my_url": "https://bismillahelectronics.pk/products/gree-floor-standing-ac-4-0-ton-gf-24tfih-aa-inverter",
-      "competitor_name": "Gree Floor Standing AC Inverter 2.0 Ton GF-24TFIH AA+",
-      "competitor_price": 319000.0,
-      "competitor_available": false,
-      "competitor_url": "https://japanelectronics.com.pk/products/gree-floor-standing-ac-inverter-2-0-ton-gf-24tfih-aa",
-      "match_confidence": 98.1,
-      "status": "matched",
-      "price_diff": 378000.0,
+      "price_diff": 76000.0,
       "cheaper": "competitor"
     },
     {
       "product_name": "Gree Floor Standing 4.0 Ton GF-48TF AA+ Cool Only",
-      "my_price": 597000.0,
+      "my_price": 608000.0,
       "my_available": true,
       "my_url": "https://bismillahelectronics.pk/products/gree-floor-standing-4-0-ton-gf-48tf-aa-cool-only",
       "competitor_name": "Gree AC Floor Standing 2.0 Ton Cool Only GF-24TF AA+",
@@ -3573,7 +3447,7 @@
       "competitor_url": "https://japanelectronics.com.pk/products/gree-floor-standing-2-0-ton-cool-only-gf-24tf-aa",
       "match_confidence": 93.1,
       "status": "matched",
-      "price_diff": 318000.0,
+      "price_diff": 329000.0,
       "cheaper": "competitor"
     },
     {
@@ -5019,20 +4893,6 @@
       "cheaper": "competitor"
     },
     {
-      "product_name": "Gree AC 2.0 Ton Inverter 24VITH",
-      "my_price": 475000.0,
-      "my_available": true,
-      "my_url": "https://bismillahelectronics.pk/products/gree-ac-2-0-ton-inverter-24vith",
-      "competitor_name": "Gree Split AC Inverter 2.0 Ton 24ZITH-1W",
-      "competitor_price": 251900.0,
-      "competitor_available": true,
-      "competitor_url": "https://japanelectronics.com.pk/products/gree-split-ac-inverter-2-0-ton-24zith-1w",
-      "match_confidence": 84.5,
-      "status": "matched",
-      "price_diff": 223100.0,
-      "cheaper": "competitor"
-    },
-    {
       "product_name": "Gree AC 2.0 Ton Inverter 24TFIH-T3 Floor Standing",
       "my_price": 319000.0,
       "my_available": true,
@@ -5829,20 +5689,6 @@
       "status": "matched",
       "price_diff": 2300.0,
       "cheaper": "competitor"
-    },
-    {
-      "product_name": "Gree AC Inverter 1.0 Ton Fairy Series GS-12FITH6S",
-      "my_price": 161900.0,
-      "my_available": true,
-      "my_url": "https://bismillahelectronics.pk/products/gree-inverter-air-conditioner-gs-12fith6s-1-ton",
-      "competitor_name": "Gree Split AC 1.0 Ton Inverter GS-12FITH6C AAA",
-      "competitor_price": 161900.0,
-      "competitor_available": false,
-      "competitor_url": "https://japanelectronics.com.pk/products/gree-split-ac-1-0-ton-inverter-gs-12fith6c-aaa",
-      "match_confidence": 80.0,
-      "status": "matched",
-      "price_diff": 0.0,
-      "cheaper": "same"
     },
     {
       "product_name": "Canon Built-In Microwave Oven BOV-25E",
@@ -11236,51 +11082,9 @@
     },
     {
       "product_name": "American General AC 1.5 Ton Smiley Smart 18K",
-      "my_price": 189000.0,
+      "my_price": 175000.0,
       "my_available": true,
       "my_url": "https://bismillahelectronics.pk/products/american-general-ac-1-5-ton-smiley-smart-18k",
-      "competitor_name": null,
-      "competitor_price": null,
-      "competitor_available": null,
-      "competitor_url": null,
-      "match_confidence": 0,
-      "status": "only_us",
-      "price_diff": null,
-      "cheaper": null
-    },
-    {
-      "product_name": "American General AC 1.5 Ton 18K Magic ES",
-      "my_price": 187000.0,
-      "my_available": true,
-      "my_url": "https://bismillahelectronics.pk/products/american-general-ac-1-5-ton-18k-magic-es",
-      "competitor_name": null,
-      "competitor_price": null,
-      "competitor_available": null,
-      "competitor_url": null,
-      "match_confidence": 0,
-      "status": "only_us",
-      "price_diff": null,
-      "cheaper": null
-    },
-    {
-      "product_name": "American General AC 1.5 Ton Gold Star 18K",
-      "my_price": 178000.0,
-      "my_available": true,
-      "my_url": "https://bismillahelectronics.pk/products/american-general-ac-1-5-ton-gold-star-18k",
-      "competitor_name": null,
-      "competitor_price": null,
-      "competitor_available": null,
-      "competitor_url": null,
-      "match_confidence": 0,
-      "status": "only_us",
-      "price_diff": null,
-      "cheaper": null
-    },
-    {
-      "product_name": "American General AC 1.5 Ton Pearl eSmart 18K",
-      "my_price": 161000.0,
-      "my_available": true,
-      "my_url": "https://bismillahelectronics.pk/products/american-general-ac-1-5-ton-pearl-esmart-18k",
       "competitor_name": null,
       "competitor_price": null,
       "competitor_available": null,
@@ -11303,34 +11107,6 @@
       "status": "matched",
       "price_diff": 20800.0,
       "cheaper": "competitor"
-    },
-    {
-      "product_name": "Gree AC Inverter 2.0 Ton GS-24FITH6C",
-      "my_price": 269900.0,
-      "my_available": true,
-      "my_url": "https://bismillahelectronics.pk/products/gree-ac-inverter-2-0-ton-gs-24fith6c",
-      "competitor_name": "Gree Split AC 2.0 Inverter Ton GS-24FITH6S AAA",
-      "competitor_price": 269900.0,
-      "competitor_available": false,
-      "competitor_url": "https://japanelectronics.com.pk/products/gree-split-ac-2-0-inverter-ton-gs-24fith6s-aaa",
-      "match_confidence": 85.4,
-      "status": "matched",
-      "price_diff": 0.0,
-      "cheaper": "same"
-    },
-    {
-      "product_name": "Gree AC Inverter 2.0 Ton GS-24FITH7G AAA",
-      "my_price": 239300.0,
-      "my_available": true,
-      "my_url": "https://bismillahelectronics.pk/products/gree-ac-inverter-2-0-ton-gs-24fith7g-aaa",
-      "competitor_name": "Gree Split AC 2.0 Inverter Ton GS-24FITH6S AAA",
-      "competitor_price": 269900.0,
-      "competitor_available": false,
-      "competitor_url": "https://japanelectronics.com.pk/products/gree-split-ac-2-0-inverter-ton-gs-24fith6s-aaa",
-      "match_confidence": 88.4,
-      "status": "matched",
-      "price_diff": -30600.0,
-      "cheaper": "us"
     },
     {
       "product_name": "Haier Floor Standing AC HPU-24CE (Cool Only)",
@@ -14946,7 +14722,7 @@
     },
     {
       "product_name": "American General AC Inverter 2.0 Ton Royal 24K T3",
-      "my_price": 210000.0,
+      "my_price": 203500.0,
       "my_available": true,
       "my_url": "https://bismillahelectronics.pk/products/american-general-ac-inverter-2-0-ton-royal-24k-t3",
       "competitor_name": "American General Split AC Inverter 1.0 Ton Royal 12K T3 (80%)",
@@ -14955,12 +14731,12 @@
       "competitor_url": "https://japanelectronics.com.pk/products/american-general-split-ac-inverter-1-0-ton-royal-12k-t3-80",
       "match_confidence": 85.5,
       "status": "matched",
-      "price_diff": 80100.0,
+      "price_diff": 73600.0,
       "cheaper": "competitor"
     },
     {
       "product_name": "American General AC Inverter 1.0 Ton Royal 12K T3",
-      "my_price": 145000.0,
+      "my_price": 130500.0,
       "my_available": true,
       "my_url": "https://bismillahelectronics.pk/products/american-general-ac-inverter-1-0-ton-royal-12k-t3",
       "competitor_name": "American General Split AC Inverter 1.0 Ton Royal 12K T3 (80%)",
@@ -14969,7 +14745,7 @@
       "competitor_url": "https://japanelectronics.com.pk/products/american-general-split-ac-inverter-1-0-ton-royal-12k-t3-80",
       "match_confidence": 89.1,
       "status": "matched",
-      "price_diff": 15100.0,
+      "price_diff": 600.0,
       "cheaper": "competitor"
     },
     {
@@ -15436,7 +15212,7 @@
     },
     {
       "product_name": "Gree Floor Standing AC 2.0 Ton GF-24TFIH AA+ Inverter",
-      "my_price": 373000.0,
+      "my_price": 319000.0,
       "my_available": true,
       "my_url": "https://bismillahelectronics.pk/products/gree-floor-standing-ac-2-0-ton-gf-24tfih-aa-inverter",
       "competitor_name": "Gree Floor Standing AC Inverter 2.0 Ton GF-24TFIH AA+",
@@ -15445,12 +15221,12 @@
       "competitor_url": "https://japanelectronics.com.pk/products/gree-floor-standing-ac-inverter-2-0-ton-gf-24tfih-aa",
       "match_confidence": 100.0,
       "status": "matched",
-      "price_diff": 54000.0,
-      "cheaper": "competitor"
+      "price_diff": 0.0,
+      "cheaper": "same"
     },
     {
       "product_name": "Gree AC 1.5 Ton Inverter GS 18PITH11G",
-      "my_price": 160900.0,
+      "my_price": 155900.0,
       "my_available": true,
       "my_url": "https://bismillahelectronics.pk/products/gree-ac-1-5-ton-inverter-gs-18pith11g",
       "competitor_name": "Gree Split AC Inverter 1.5 Ton 18PITH15G",
@@ -15459,12 +15235,12 @@
       "competitor_url": "https://japanelectronics.com.pk/products/gree-split-ac-inverter-1-5-ton-18pith15g",
       "match_confidence": 85.7,
       "status": "matched",
-      "price_diff": -19000.0,
+      "price_diff": -24000.0,
       "cheaper": "us"
     },
     {
       "product_name": "Gree AC Inverter 1.5 Ton GS-18FITH6C AAA",
-      "my_price": 199900.0,
+      "my_price": 201900.0,
       "my_available": true,
       "my_url": "https://bismillahelectronics.pk/products/gree-ac-inverter-1-5-ton-gs-18fith6c-aaa",
       "competitor_name": "Gree AC Split Inverter 1.5 Ton GS-18FITH6C AAA",
@@ -15473,82 +15249,12 @@
       "competitor_url": "https://japanelectronics.com.pk/products/gree-ac-split-inverter-1-5-ton-gs-18fith6c-aaa",
       "match_confidence": 93.0,
       "status": "matched",
-      "price_diff": -2000.0,
-      "cheaper": "us"
-    },
-    {
-      "product_name": "Gree AC Inverter 1.5 Ton GS-18PITH11S AAA",
-      "my_price": 160900.0,
-      "my_available": true,
-      "my_url": "https://bismillahelectronics.pk/products/gree-ac-inverter-1-5-ton-gs-18pith11s-aaa",
-      "competitor_name": "Gree Split AC Inverter 1.5 Ton GS-18PITH11S AAA",
-      "competitor_price": 156000.0,
-      "competitor_available": false,
-      "competitor_url": "https://japanelectronics.com.pk/products/gree-split-ac-inverter-1-5-ton-gs-18pith11s-aaa",
-      "match_confidence": 93.2,
-      "status": "matched",
-      "price_diff": 4900.0,
-      "cheaper": "competitor"
-    },
-    {
-      "product_name": "Gree AC Inverter 1.5 Ton GS-18PITH21B-T3",
-      "my_price": 196900.0,
-      "my_available": true,
-      "my_url": "https://bismillahelectronics.pk/products/gree-ac-inverter-1-5-ton-gs-18pith21b-t3",
-      "competitor_name": "Gree Split AC Inverter 1.5 Ton GS-18AITH21W-T3",
-      "competitor_price": 210000.0,
-      "competitor_available": true,
-      "competitor_url": "https://japanelectronics.com.pk/products/gree-split-ac-inverter-1-5-ton-gs-18aith21w-t3",
-      "match_confidence": 88.4,
-      "status": "matched",
-      "price_diff": -13100.0,
-      "cheaper": "us"
-    },
-    {
-      "product_name": "Gree AC Inverter 1.5 Ton GS-18AITH23W-T3",
-      "my_price": 242900.0,
-      "my_available": true,
-      "my_url": "https://bismillahelectronics.pk/products/gree-ac-inverter-1-5-ton-gs-18aith23w-t3",
-      "competitor_name": "Gree Split AC Inverter 1.5 Ton GS-18AITH23W-T3",
-      "competitor_price": 244900.0,
-      "competitor_available": false,
-      "competitor_url": "https://japanelectronics.com.pk/products/gree-split-ac-inverter-1-5-ton-gs-18aith23w-t3",
-      "match_confidence": 93.0,
-      "status": "matched",
-      "price_diff": -2000.0,
-      "cheaper": "us"
-    },
-    {
-      "product_name": "Gree AC Inverter 1.0 Ton GS-12PITH21B-T3",
-      "my_price": 158900.0,
-      "my_available": true,
-      "my_url": "https://bismillahelectronics.pk/products/gree-ac-inverter-1-0-ton-gs-12pith21b-t3",
-      "competitor_name": "Gree Split AC Inverter 1.0 Ton GS-12PITH21B-T3",
-      "competitor_price": 158900.0,
-      "competitor_available": true,
-      "competitor_url": "https://japanelectronics.com.pk/products/gree-split-ac-inverter-1-0-ton-gs-12pith21b-t3",
-      "match_confidence": 93.0,
-      "status": "matched",
       "price_diff": 0.0,
       "cheaper": "same"
     },
     {
-      "product_name": "Gree AC Inverter 1.0 Ton GS-12PITH11G AAA",
-      "my_price": 130900.0,
-      "my_available": true,
-      "my_url": "https://bismillahelectronics.pk/products/gree-ac-inverter-1-0-ton-gs-12pith11g-aaa",
-      "competitor_name": "Gree AC Split Inverter 1.0 Ton GS-12PITH11G AAA",
-      "competitor_price": 127500.0,
-      "competitor_available": false,
-      "competitor_url": "https://japanelectronics.com.pk/products/gree-split-ac-inverter-1-0-ton-gs-12pith11g-aaa",
-      "match_confidence": 93.2,
-      "status": "matched",
-      "price_diff": 3400.0,
-      "cheaper": "competitor"
-    },
-    {
       "product_name": "Gree AC Inverter 1.0 Ton GS-12PITH11W AAA",
-      "my_price": 129900.0,
+      "my_price": 122900.0,
       "my_available": true,
       "my_url": "https://bismillahelectronics.pk/products/gree-ac-inverter-1-0-ton-gs-12pith11w-aaa",
       "competitor_name": "Gree AC Split Inverter 1.0 Ton GS-12PITH11W AAA",
@@ -15557,21 +15263,7 @@
       "competitor_url": "https://japanelectronics.com.pk/products/gree-split-ac-inverter-1-0-ton-gs-12pith11w-aaa",
       "match_confidence": 93.2,
       "status": "matched",
-      "price_diff": 5400.0,
-      "cheaper": "competitor"
-    },
-    {
-      "product_name": "Gree AC Inverter 2.0 Ton GS-24PITH11S AAA",
-      "my_price": 230900.0,
-      "my_available": true,
-      "my_url": "https://bismillahelectronics.pk/products/gree-ac-inverter-2-0-ton-gs-24pith11s-aaa",
-      "competitor_name": "Gree Split AC Inverter 2.0 Ton GS-24PITH11S AAA",
-      "competitor_price": 232900.0,
-      "competitor_available": false,
-      "competitor_url": "https://japanelectronics.com.pk/products/gree-split-ac-inverter-2-0-ton-gs-24pith11s-aaa",
-      "match_confidence": 93.2,
-      "status": "matched",
-      "price_diff": -2000.0,
+      "price_diff": -1600.0,
       "cheaper": "us"
     },
     {
@@ -16569,20 +16261,6 @@
       "cheaper": "same"
     },
     {
-      "product_name": "Gree AC Inverter 2.0 Ton GS-24PITH11W AAA",
-      "my_price": 233900.0,
-      "my_available": true,
-      "my_url": "https://bismillahelectronics.pk/products/gree-ac-2-0-ton-inverter-gs-24pith11w-aaa",
-      "competitor_name": "Gree AC Split Inverter 2.0 Ton GS-24PITH11G AAA",
-      "competitor_price": 232900.0,
-      "competitor_available": false,
-      "competitor_url": "https://japanelectronics.com.pk/products/gree-split-ac-inverter-2-0-ton-gs-24pith11g-aaa",
-      "match_confidence": 90.9,
-      "status": "matched",
-      "price_diff": 1000.0,
-      "cheaper": "competitor"
-    },
-    {
       "product_name": "Haier Floor Standing AC 2.0 Ton HPU-24HE/WSDC Inverter",
       "my_price": 263000.0,
       "my_available": true,
@@ -16668,7 +16346,7 @@
     },
     {
       "product_name": "Gree AC Inverter 1.5 Ton GS-18FITH6S AAA",
-      "my_price": 199000.0,
+      "my_price": 201900.0,
       "my_available": true,
       "my_url": "https://bismillahelectronics.pk/products/gree-ac-1-5-ton-inverter-gs-18fith6s-aaa",
       "competitor_name": "Gree Split AC Inverter 1.5 Ton GS-18FITH6S AAA",
@@ -16677,12 +16355,12 @@
       "competitor_url": "https://japanelectronics.com.pk/products/gree-split-ac-inverter-1-5-ton-gs-18fith6s-aaa",
       "match_confidence": 93.0,
       "status": "matched",
-      "price_diff": -2900.0,
-      "cheaper": "us"
+      "price_diff": 0.0,
+      "cheaper": "same"
     },
     {
       "product_name": "Gree AC Inverter 1.5 Ton GS-18FITH1C AAA",
-      "my_price": 214900.0,
+      "my_price": 224900.0,
       "my_available": true,
       "my_url": "https://bismillahelectronics.pk/products/gree-ac-1-5-ton-inverter-gs-18fith1c-aaa",
       "competitor_name": "Gree AC Split Inverter 1.5 Ton GS-18FITH6C AAA",
@@ -16691,7 +16369,7 @@
       "competitor_url": "https://japanelectronics.com.pk/products/gree-ac-split-inverter-1-5-ton-gs-18fith6c-aaa",
       "match_confidence": 90.7,
       "status": "matched",
-      "price_diff": 13000.0,
+      "price_diff": 23000.0,
       "cheaper": "competitor"
     },
     {
@@ -16724,7 +16402,7 @@
     },
     {
       "product_name": "Gree AC Inverter 1.0 Ton GS-12FITH6C AAA",
-      "my_price": 159900.0,
+      "my_price": 161900.0,
       "my_available": true,
       "my_url": "https://bismillahelectronics.pk/products/gree-ac-1-0-ton-inverter-gs-12fith6c-aaa",
       "competitor_name": "Gree Split AC 1.0 Ton Inverter GS-12FITH6C AAA",
@@ -16733,8 +16411,8 @@
       "competitor_url": "https://japanelectronics.com.pk/products/gree-split-ac-1-0-ton-inverter-gs-12fith6c-aaa",
       "match_confidence": 93.0,
       "status": "matched",
-      "price_diff": -2000.0,
-      "cheaper": "us"
+      "price_diff": 0.0,
+      "cheaper": "same"
     },
     {
       "product_name": "Kenwood AC Inverter 1.5 Ton KEL-1870 Eluxury Pro T3",
@@ -16766,7 +16444,7 @@
     },
     {
       "product_name": "American General AC 1.5 Ton Royal 18K T3",
-      "my_price": 187900.0,
+      "my_price": 163500.0,
       "my_available": true,
       "my_url": "https://bismillahelectronics.pk/products/general-ac-1-5-ton-royal-esmart-18k-inverter",
       "competitor_name": "American General Split AC Inverter 1.0 Ton Royal 12K T3 (80%)",
@@ -16775,7 +16453,7 @@
       "competitor_url": "https://japanelectronics.com.pk/products/american-general-split-ac-inverter-1-0-ton-royal-12k-t3-80",
       "match_confidence": 75.2,
       "status": "matched",
-      "price_diff": 58000.0,
+      "price_diff": 33600.0,
       "cheaper": "competitor"
     },
     {
@@ -16861,20 +16539,6 @@
       "status": "matched",
       "price_diff": -1000.0,
       "cheaper": "us"
-    },
-    {
-      "product_name": "American General AC Inverter 1.5 Ton Fantasy eSmart 18K Plus",
-      "my_price": 188800.0,
-      "my_available": true,
-      "my_url": "https://bismillahelectronics.pk/products/general-ac-fantasy-esmart-18k-plus-inverter",
-      "competitor_name": null,
-      "competitor_price": null,
-      "competitor_available": null,
-      "competitor_url": null,
-      "match_confidence": 0,
-      "status": "only_us",
-      "price_diff": null,
-      "cheaper": null
     },
     {
       "product_name": "Dawlance Juicer DWHJ 4002 Black",
@@ -19090,7 +18754,7 @@
     },
     {
       "product_name": "Gree AC 1.5 Ton Inverter GS 18PITH11W AAA",
-      "my_price": 160900.0,
+      "my_price": 155900.0,
       "my_available": true,
       "my_url": "https://bismillahelectronics.pk/products/gree-ac-1-5-ton-inverter-gs-18pith11w-aaa",
       "competitor_name": "Gree AC 1.5 Ton Split Inverter GS 18PITH11W AAA",
@@ -19099,7 +18763,7 @@
       "competitor_url": "https://japanelectronics.com.pk/products/gree-split-ac-1-5-ton-inverter-gs-18pith11w-aaa",
       "match_confidence": 93.2,
       "status": "matched",
-      "price_diff": 8000.0,
+      "price_diff": 3000.0,
       "cheaper": "competitor"
     },
     {
@@ -24577,6 +24241,20 @@
       "cheaper": null
     },
     {
+      "product_name": "Gree Split AC Inverter 2.0 Ton 24ZITH-1W",
+      "my_price": null,
+      "my_available": null,
+      "my_url": null,
+      "competitor_name": "Gree Split AC Inverter 2.0 Ton 24ZITH-1W",
+      "competitor_price": 251900.0,
+      "competitor_available": true,
+      "competitor_url": "https://japanelectronics.com.pk/products/gree-split-ac-inverter-2-0-ton-24zith-1w",
+      "match_confidence": 0,
+      "status": "only_competitor",
+      "price_diff": null,
+      "cheaper": null
+    },
+    {
       "product_name": "Orient Split AC Inverter 1.0 Ton 13W Silk White T3+ (Ultron King E-Comfort)",
       "my_price": null,
       "my_available": null,
@@ -25453,6 +25131,20 @@
       "competitor_price": 294900.0,
       "competitor_available": false,
       "competitor_url": "https://japanelectronics.com.pk/products/gree-split-ac-inverter-2-0-ton-gs-24aith24s-t3",
+      "match_confidence": 0,
+      "status": "only_competitor",
+      "price_diff": null,
+      "cheaper": null
+    },
+    {
+      "product_name": "Gree Split AC Inverter 1.5 Ton GS-18AITH21W-T3",
+      "my_price": null,
+      "my_available": null,
+      "my_url": null,
+      "competitor_name": "Gree Split AC Inverter 1.5 Ton GS-18AITH21W-T3",
+      "competitor_price": 210000.0,
+      "competitor_available": true,
+      "competitor_url": "https://japanelectronics.com.pk/products/gree-split-ac-inverter-1-5-ton-gs-18aith21w-t3",
       "match_confidence": 0,
       "status": "only_competitor",
       "price_diff": null,
@@ -30401,6 +30093,20 @@
       "cheaper": null
     },
     {
+      "product_name": "Gree Split AC 1.0 Ton Inverter GS-12FITH3W AAA Wifi",
+      "my_price": null,
+      "my_available": null,
+      "my_url": null,
+      "competitor_name": "Gree Split AC 1.0 Ton Inverter GS-12FITH3W AAA Wifi",
+      "competitor_price": 170900.0,
+      "competitor_available": false,
+      "competitor_url": "https://japanelectronics.com.pk/products/gree-split-ac-1-0-ton-inverter-gs-12fith3w-aaa-wifi",
+      "match_confidence": 0,
+      "status": "only_competitor",
+      "price_diff": null,
+      "cheaper": null
+    },
+    {
       "product_name": "TCL Split AC Inverter 1.0 Ton TAC-12HEB-2",
       "my_price": null,
       "my_available": null,
@@ -30409,6 +30115,20 @@
       "competitor_price": 111000.0,
       "competitor_available": false,
       "competitor_url": "https://japanelectronics.com.pk/products/tcl-split-ac-inverter-1-0-ton-tac-12heb-2",
+      "match_confidence": 0,
+      "status": "only_competitor",
+      "price_diff": null,
+      "cheaper": null
+    },
+    {
+      "product_name": "Gree AC Split Inverter 1.0 Ton GS-12PITH11G AAA",
+      "my_price": null,
+      "my_available": null,
+      "my_url": null,
+      "competitor_name": "Gree AC Split Inverter 1.0 Ton GS-12PITH11G AAA",
+      "competitor_price": 127500.0,
+      "competitor_available": false,
+      "competitor_url": "https://japanelectronics.com.pk/products/gree-split-ac-inverter-1-0-ton-gs-12pith11g-aaa",
       "match_confidence": 0,
       "status": "only_competitor",
       "price_diff": null,
@@ -33285,6 +33005,20 @@
       "cheaper": null
     },
     {
+      "product_name": "Gree AC Split Inverter 2.0 Ton GS-24PITH11G AAA",
+      "my_price": null,
+      "my_available": null,
+      "my_url": null,
+      "competitor_name": "Gree AC Split Inverter 2.0 Ton GS-24PITH11G AAA",
+      "competitor_price": 232900.0,
+      "competitor_available": false,
+      "competitor_url": "https://japanelectronics.com.pk/products/gree-split-ac-inverter-2-0-ton-gs-24pith11g-aaa",
+      "match_confidence": 0,
+      "status": "only_competitor",
+      "price_diff": null,
+      "cheaper": null
+    },
+    {
       "product_name": "Electrolux Split AC Inverter 2.0 Ton ELSAC-24K LUX White",
       "my_price": null,
       "my_available": null,
@@ -35469,6 +35203,20 @@
       "cheaper": null
     },
     {
+      "product_name": "Gree Split AC Inverter 2.0 Ton GS-24PITH11S AAA",
+      "my_price": null,
+      "my_available": null,
+      "my_url": null,
+      "competitor_name": "Gree Split AC Inverter 2.0 Ton GS-24PITH11S AAA",
+      "competitor_price": 232900.0,
+      "competitor_available": false,
+      "competitor_url": "https://japanelectronics.com.pk/products/gree-split-ac-inverter-2-0-ton-gs-24pith11s-aaa",
+      "match_confidence": 0,
+      "status": "only_competitor",
+      "price_diff": null,
+      "cheaper": null
+    },
+    {
       "product_name": "Kenwood Sandwich Maker SMM-00",
       "my_price": null,
       "my_available": null,
@@ -36981,6 +36729,20 @@
       "cheaper": null
     },
     {
+      "product_name": "Gree Split AC Inverter 1.0 Ton GS-12PITH21B-T3",
+      "my_price": null,
+      "my_available": null,
+      "my_url": null,
+      "competitor_name": "Gree Split AC Inverter 1.0 Ton GS-12PITH21B-T3",
+      "competitor_price": 158900.0,
+      "competitor_available": true,
+      "competitor_url": "https://japanelectronics.com.pk/products/gree-split-ac-inverter-1-0-ton-gs-12pith21b-t3",
+      "match_confidence": 0,
+      "status": "only_competitor",
+      "price_diff": null,
+      "cheaper": null
+    },
+    {
       "product_name": "Dawlance FAWM (DWF-8201S)",
       "my_price": null,
       "my_available": null,
@@ -37415,6 +37177,20 @@
       "cheaper": null
     },
     {
+      "product_name": "Gree Split AC Inverter 1.0 Ton GS-12PITH11S AAA",
+      "my_price": null,
+      "my_available": null,
+      "my_url": null,
+      "competitor_name": "Gree Split AC Inverter 1.0 Ton GS-12PITH11S AAA",
+      "competitor_price": 127500.0,
+      "competitor_available": false,
+      "competitor_url": "https://japanelectronics.com.pk/products/gree-split-ac-inverter-1-0-ton-gs-12pith11s-aaa",
+      "match_confidence": 0,
+      "status": "only_competitor",
+      "price_diff": null,
+      "cheaper": null
+    },
+    {
       "product_name": "Ecostar Split AC Inverter 1.0 Ton ES-12DU01GC",
       "my_price": null,
       "my_available": null,
@@ -37597,6 +37373,20 @@
       "cheaper": null
     },
     {
+      "product_name": "Gree Split AC Inverter 1.5 Ton GS-18PITH11S AAA",
+      "my_price": null,
+      "my_available": null,
+      "my_url": null,
+      "competitor_name": "Gree Split AC Inverter 1.5 Ton GS-18PITH11S AAA",
+      "competitor_price": 156000.0,
+      "competitor_available": false,
+      "competitor_url": "https://japanelectronics.com.pk/products/gree-split-ac-inverter-1-5-ton-gs-18pith11s-aaa",
+      "match_confidence": 0,
+      "status": "only_competitor",
+      "price_diff": null,
+      "cheaper": null
+    },
+    {
       "product_name": "PEL Ref (PRINVOGD-2550 Purple Blaze) Ultra Inverter Curved",
       "my_price": null,
       "my_available": null,
@@ -37745,6 +37535,20 @@
       "competitor_price": 156000.0,
       "competitor_available": true,
       "competitor_url": "https://japanelectronics.com.pk/products/haier-split-ac-inverter-1-5-ton-hsu-19hfab-grey",
+      "match_confidence": 0,
+      "status": "only_competitor",
+      "price_diff": null,
+      "cheaper": null
+    },
+    {
+      "product_name": "Gree Split AC Inverter 1.5 Ton GS-18AITH23W-T3",
+      "my_price": null,
+      "my_available": null,
+      "my_url": null,
+      "competitor_name": "Gree Split AC Inverter 1.5 Ton GS-18AITH23W-T3",
+      "competitor_price": 244900.0,
+      "competitor_available": false,
+      "competitor_url": "https://japanelectronics.com.pk/products/gree-split-ac-inverter-1-5-ton-gs-18aith23w-t3",
       "match_confidence": 0,
       "status": "only_competitor",
       "price_diff": null,
@@ -39215,6 +39019,20 @@
       "competitor_price": 17900.0,
       "competitor_available": true,
       "competitor_url": "https://japanelectronics.com.pk/products/philips-blender-hr-2041",
+      "match_confidence": 0,
+      "status": "only_competitor",
+      "price_diff": null,
+      "cheaper": null
+    },
+    {
+      "product_name": "Gree Split AC 2.0 Inverter Ton GS-24FITH6S AAA",
+      "my_price": null,
+      "my_available": null,
+      "my_url": null,
+      "competitor_name": "Gree Split AC 2.0 Inverter Ton GS-24FITH6S AAA",
+      "competitor_price": 269900.0,
+      "competitor_available": false,
+      "competitor_url": "https://japanelectronics.com.pk/products/gree-split-ac-2-0-inverter-ton-gs-24fith6s-aaa",
       "match_confidence": 0,
       "status": "only_competitor",
       "price_diff": null,
@@ -41007,6 +40825,20 @@
       "competitor_price": 250000.0,
       "competitor_available": false,
       "competitor_url": "https://japanelectronics.com.pk/products/kenwood-floor-standing-ac-2-0-ton-kei-2444-fhi",
+      "match_confidence": 0,
+      "status": "only_competitor",
+      "price_diff": null,
+      "cheaper": null
+    },
+    {
+      "product_name": "Gree AC Floor Standing Inverter 2.0 Ton GF-24ISH AA+",
+      "my_price": null,
+      "my_available": null,
+      "my_url": null,
+      "competitor_name": "Gree AC Floor Standing Inverter 2.0 Ton GF-24ISH AA+",
+      "competitor_price": 408000.0,
+      "competitor_available": false,
+      "competitor_url": "https://japanelectronics.com.pk/products/gree-floor-standing-ac-inverter-2-0-ton-gf-24ish-aa",
       "match_confidence": 0,
       "status": "only_competitor",
       "price_diff": null,

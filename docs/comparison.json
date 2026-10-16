@@ -1,11 +1,25 @@
 {
-  "last_updated": "2026-10-16T07:27:35.350331+00:00",
+  "last_updated": "2026-10-16T08:18:55.875345+00:00",
   "my_store_name": "Bismillah Electronics",
   "competitor_name": "Japan Electronics",
-  "total_my_products": 1435,
+  "total_my_products": 1419,
   "total_competitor_products": 2151,
-  "matched_count": 1060,
+  "matched_count": 1044,
   "results": [
+    {
+      "product_name": "Candy AC Inverter 1.0 Ton CSU-13HF",
+      "my_price": 94500.0,
+      "my_available": true,
+      "my_url": "https://bismillahelectronics.pk/products/candy-ac-inverter-1-0-ton-csu-13hf",
+      "competitor_name": "Haier Split AC Inverter 1.0 Ton HSU-13HFN013 T3",
+      "competitor_price": 118000.0,
+      "competitor_available": true,
+      "competitor_url": "https://japanelectronics.com.pk/products/haier-split-ac-inverter-1-0-ton-hsu-13hfn013-t3",
+      "match_confidence": 71.6,
+      "status": "matched",
+      "price_diff": -23500.0,
+      "cheaper": "us"
+    },
     {
       "product_name": "Homage Ref HRI-47672/R450-L TCH INVERTER (GD) MRG",
       "my_price": 133000.0,
@@ -3255,20 +3269,6 @@
       "cheaper": "us"
     },
     {
-      "product_name": "Dawlance AC Inverter 1.5 Ton DAC-Excel 30",
-      "my_price": 139900.0,
-      "my_available": true,
-      "my_url": "https://bismillahelectronics.pk/products/dawlance-ac-1-5-ton-inverter-dac-excel-30",
-      "competitor_name": "Dawlance Split AC Inverter 1.5 Ton DAC-Excel 30",
-      "competitor_price": 150000.0,
-      "competitor_available": false,
-      "competitor_url": "https://japanelectronics.com.pk/products/dawlance-split-ac-inverter-1-5-ton-dac-excel-30",
-      "match_confidence": 93.2,
-      "status": "matched",
-      "price_diff": -10100.0,
-      "cheaper": "us"
-    },
-    {
       "product_name": "American General AC Inverter 1.0 Ton Fantasy eSmart 12K Plus",
       "my_price": 155000.0,
       "my_available": true,
@@ -3395,20 +3395,6 @@
       "cheaper": "us"
     },
     {
-      "product_name": "Dawlance AC Inverter 1.5 Ton Econo+ X 30",
-      "my_price": 145000.0,
-      "my_available": true,
-      "my_url": "https://bismillahelectronics.pk/products/dawlance-ac-inverter-1-5-ton-econo-x-30",
-      "competitor_name": "Dawlance Split AC Inverter 1.5 Ton Econo+ X 30",
-      "competitor_price": 145000.0,
-      "competitor_available": false,
-      "competitor_url": "https://japanelectronics.com.pk/products/dawlance-split-ac-inverter-1-5-ton-econo-x-30",
-      "match_confidence": 93.0,
-      "status": "matched",
-      "price_diff": 0.0,
-      "cheaper": "same"
-    },
-    {
       "product_name": "Dawlance AC Inverter 1.5 Ton Inspire Pro 30",
       "my_price": 140000.0,
       "my_available": true,
@@ -3435,20 +3421,6 @@
       "status": "matched",
       "price_diff": -5000.0,
       "cheaper": "us"
-    },
-    {
-      "product_name": "Dawlance AC Inverter 2.0 Ton DAC-Chrome+ 45 (Copper Stamp)",
-      "my_price": 213100.0,
-      "my_available": true,
-      "my_url": "https://bismillahelectronics.pk/products/dawlance-ac-2-0-ton-dac-chrome-45-inverter-copper-stamp",
-      "competitor_name": "Dawlance Split AC Inverter 2.0 Ton DAC-Chrome+ 45 (Copper Stamp)",
-      "competitor_price": 213100.0,
-      "competitor_available": true,
-      "competitor_url": "https://japanelectronics.com.pk/products/dawlance-split-ac-inverter-2-0-ton-dac-chrome-45-copper-stamp",
-      "match_confidence": 95.1,
-      "status": "matched",
-      "price_diff": 0.0,
-      "cheaper": "same"
     },
     {
       "product_name": "Gree AC 1.0 Ton Inverter GS-12FITH3W AAA Wifi",
@@ -5563,20 +5535,6 @@
       "status": "matched",
       "price_diff": 9000.0,
       "cheaper": "competitor"
-    },
-    {
-      "product_name": "Dawlance AC 1.5 Ton Inverter Chillex 30",
-      "my_price": 118000.0,
-      "my_available": true,
-      "my_url": "https://bismillahelectronics.pk/products/dawlance-ac-1-5-ton-inverter-chillex-30",
-      "competitor_name": "Dawlance Split AC Inverter 1.5 Ton Chillex 30",
-      "competitor_price": 118000.0,
-      "competitor_available": false,
-      "competitor_url": "https://japanelectronics.com.pk/products/dawlance-split-ac-inverter-1-5-ton-chillex-30",
-      "match_confidence": 92.9,
-      "status": "matched",
-      "price_diff": 0.0,
-      "cheaper": "same"
     },
     {
       "product_name": "Midea Dishwasher WQP12-WU7633G Inverter",
@@ -11263,36 +11221,8 @@
       "cheaper": null
     },
     {
-      "product_name": "EcoStar AC Inverter 1.5 Ton ES-18EM01WS SA+",
-      "my_price": 128900.0,
-      "my_available": true,
-      "my_url": "https://bismillahelectronics.pk/products/ecostar-ac-inverter-1-5-ton-es-18em01ws-sa",
-      "competitor_name": "Ecostar AC 1.5 Ton Split Inverter ES-18EM01WS SA+",
-      "competitor_price": 129900.0,
-      "competitor_available": false,
-      "competitor_url": "https://japanelectronics.com.pk/products/ecostar-ac-1-5-ton-split-inverter-es-18em01ws-sa",
-      "match_confidence": 91.3,
-      "status": "matched",
-      "price_diff": -1000.0,
-      "cheaper": "us"
-    },
-    {
-      "product_name": "EcoStar AC Inverter 1.0 Ton ES-12EM01WS SA+",
-      "my_price": 119500.0,
-      "my_available": true,
-      "my_url": "https://bismillahelectronics.pk/products/ecostar-ac-inverter-1-0-ton-es-12em01ws-sa",
-      "competitor_name": "Ecostar AC 1.0 Ton Split Inverter ES-12EM01WS SA+",
-      "competitor_price": 110900.0,
-      "competitor_available": false,
-      "competitor_url": "https://japanelectronics.com.pk/products/ecostar-ac-1-0-ton-split-inverter-es-12em01ws-sa",
-      "match_confidence": 91.3,
-      "status": "matched",
-      "price_diff": 8600.0,
-      "cheaper": "competitor"
-    },
-    {
       "product_name": "Electrolux AC Inverter 1.5 Ton ELSAC-18K LUX (Black)",
-      "my_price": 209000.0,
+      "my_price": 192900.0,
       "my_available": true,
       "my_url": "https://bismillahelectronics.pk/products/electrolux-ac-inverter-1-5-ton-elsac-18k-lux-black",
       "competitor_name": "Electrolux Split AC Inverter 1.5 Ton ELSAC-18K LUX White (T3)",
@@ -11301,7 +11231,7 @@
       "competitor_url": "https://japanelectronics.com.pk/products/electrolux-split-ac-inverter-1-5-ton-elsac-18k-lux-white-t3",
       "match_confidence": 83.2,
       "status": "matched",
-      "price_diff": 19100.0,
+      "price_diff": 3000.0,
       "cheaper": "competitor"
     },
     {
@@ -15646,7 +15576,7 @@
     },
     {
       "product_name": "Electrolux AC Inverter 2.0 Ton ELSAC-24K LUX (White)",
-      "my_price": 254900.0,
+      "my_price": 251900.0,
       "my_available": true,
       "my_url": "https://bismillahelectronics.pk/products/electrolux-ac-inverter-2-0-ton-elsac-24k-lux-white",
       "competitor_name": "Electrolux Split AC Inverter 2.0 Ton ELSAC-24K LUX Black (T3)",
@@ -15655,12 +15585,12 @@
       "competitor_url": "https://japanelectronics.com.pk/products/electrolux-split-ac-inverter-2-0-ton-elsac-24k-lux-black-t3",
       "match_confidence": 83.2,
       "status": "matched",
-      "price_diff": 0.0,
-      "cheaper": "same"
+      "price_diff": -3000.0,
+      "cheaper": "us"
     },
     {
       "product_name": "Electrolux AC Inverter 2.0 Ton ELSAC-24K LUX (Black)",
-      "my_price": 257900.0,
+      "my_price": 254900.0,
       "my_available": true,
       "my_url": "https://bismillahelectronics.pk/products/electrolux-ac-inverter-2-0-ton-elsac-24k-lux-black",
       "competitor_name": "Electrolux Split AC Inverter 2.0 Ton ELSAC-24K LUX Black (T3)",
@@ -15669,12 +15599,12 @@
       "competitor_url": "https://japanelectronics.com.pk/products/electrolux-split-ac-inverter-2-0-ton-elsac-24k-lux-black-t3",
       "match_confidence": 83.2,
       "status": "matched",
-      "price_diff": 3000.0,
-      "cheaper": "competitor"
+      "price_diff": 0.0,
+      "cheaper": "same"
     },
     {
       "product_name": "Electrolux AC Inverter 1.5 Ton ELSAC-18K LUX (White)",
-      "my_price": 194900.0,
+      "my_price": 189900.0,
       "my_available": true,
       "my_url": "https://bismillahelectronics.pk/products/electrolux-ac-inverter-1-5-ton-elsac-18k-lux-white-t3",
       "competitor_name": "Electrolux Split AC Inverter 1.5 Ton ELSAC-18K LUX White (T3)",
@@ -15683,12 +15613,12 @@
       "competitor_url": "https://japanelectronics.com.pk/products/electrolux-split-ac-inverter-1-5-ton-elsac-18k-lux-white-t3",
       "match_confidence": 83.2,
       "status": "matched",
-      "price_diff": 5000.0,
-      "cheaper": "competitor"
+      "price_diff": 0.0,
+      "cheaper": "same"
     },
     {
       "product_name": "Electrolux AC Inverter 1.0 Ton ELSAC-12K LUX White (T3)",
-      "my_price": 141900.0,
+      "my_price": 134900.0,
       "my_available": true,
       "my_url": "https://bismillahelectronics.pk/products/electrolux-ac-inverter-1-0-ton-elsac-12k-lux-white-t3",
       "competitor_name": "Electrolux Split AC Inverter 1.0 Ton ELSAC-12K LUX White (T3)",
@@ -15697,22 +15627,8 @@
       "competitor_url": "https://japanelectronics.com.pk/products/electrolux-split-ac-inverter-1-0-ton-elsac-12k-lux-white-t3",
       "match_confidence": 94.8,
       "status": "matched",
-      "price_diff": 1000.0,
-      "cheaper": "competitor"
-    },
-    {
-      "product_name": "Electrolux AC Inverter 1.0 Ton ELSAC-12K LUX Black (T3)",
-      "my_price": 143900.0,
-      "my_available": true,
-      "my_url": "https://bismillahelectronics.pk/products/electrolux-ac-inverter-1-0-ton-elsac-12k-lux-black-t3",
-      "competitor_name": "Electrolux Split AC Inverter 1.0 Ton ELSAC-12K LUX Black (T3)",
-      "competitor_price": 143900.0,
-      "competitor_available": true,
-      "competitor_url": "https://japanelectronics.com.pk/products/electrolux-split-ac-inverter-1-0-ton-elsac-12k-lux-black-t3",
-      "match_confidence": 94.8,
-      "status": "matched",
-      "price_diff": 0.0,
-      "cheaper": "same"
+      "price_diff": -6000.0,
+      "cheaper": "us"
     },
     {
       "product_name": "Dawlance Floor Standing 2.0 Ton Glamour+ 45 Inverter",
@@ -15724,20 +15640,6 @@
       "competitor_available": false,
       "competitor_url": "https://japanelectronics.com.pk/products/dawlance-floor-standing-inverter-2-0-ton-glamour-46",
       "match_confidence": 99.0,
-      "status": "matched",
-      "price_diff": 0.0,
-      "cheaper": "same"
-    },
-    {
-      "product_name": "Dawlance Inverter AC 1.5 Ton Mega T3 Pro 30",
-      "my_price": 165000.0,
-      "my_available": true,
-      "my_url": "https://bismillahelectronics.pk/products/dawlance-ac-1-5-ton-mega-t3-pro-30-inverter",
-      "competitor_name": "Dawlance Split AC Inverter 1.5 Ton Mega T3 Pro 30",
-      "competitor_price": 165000.0,
-      "competitor_available": true,
-      "competitor_url": "https://japanelectronics.com.pk/products/dawlance-split-ac-inverter-1-5-ton-mega-t3-pro-30",
-      "match_confidence": 93.5,
       "status": "matched",
       "price_diff": 0.0,
       "cheaper": "same"
@@ -15839,20 +15741,6 @@
       "status": "matched",
       "price_diff": 5000.0,
       "cheaper": "competitor"
-    },
-    {
-      "product_name": "Dawlance AC Inverter 1.0 Ton DAC Elegance Pro 15",
-      "my_price": 124300.0,
-      "my_available": true,
-      "my_url": "https://bismillahelectronics.pk/products/dawlance-split-ac-inverter-1-0-ton-dac-elegance-pro-15",
-      "competitor_name": "Dawlance AC 2.0 ton Split Inverter Elegance 45",
-      "competitor_price": 182000.0,
-      "competitor_available": false,
-      "competitor_url": "https://japanelectronics.com.pk/products/dawlance-ac-2-0-ton-split-inverter-elegance-45",
-      "match_confidence": 80.9,
-      "status": "matched",
-      "price_diff": -57700.0,
-      "cheaper": "us"
     },
     {
       "product_name": "Haier AC Inverter 1.5 Ton HSU-19HFP Pearl Pro",
@@ -16653,20 +16541,6 @@
       "cheaper": null
     },
     {
-      "product_name": "Dawlance AC Inverter 1.5 Ton AURA X 30",
-      "my_price": 153300.0,
-      "my_available": true,
-      "my_url": "https://bismillahelectronics.pk/products/dawlance-ac-inverter-1-5-ton-aura-x-30",
-      "competitor_name": "Dawlance Split AC Inverter 1.5 Ton Aeromax 30",
-      "competitor_price": 118000.0,
-      "competitor_available": true,
-      "competitor_url": "https://japanelectronics.com.pk/products/dawlance-split-ac-inverter-1-5-ton-aeromax-30",
-      "match_confidence": 79.5,
-      "status": "matched",
-      "price_diff": 35300.0,
-      "cheaper": "competitor"
-    },
-    {
       "product_name": "Haier Floor Standing AC 4.0 Ton HPU-48E DC",
       "my_price": 550000.0,
       "my_available": true,
@@ -16877,20 +16751,6 @@
       "cheaper": "competitor"
     },
     {
-      "product_name": "Dawlance AC Inverter 1.0 Ton Sprinter X 15",
-      "my_price": 121900.0,
-      "my_available": true,
-      "my_url": "https://bismillahelectronics.pk/products/dawlance-ac-1-0-ton-inverter-sprinter-x-15",
-      "competitor_name": "Dawlance Split AC Inverter 1.0 Ton Sprinter X 15 (T3)",
-      "competitor_price": 115000.0,
-      "competitor_available": true,
-      "competitor_url": "https://japanelectronics.com.pk/products/dawlance-split-ac-inverter-1-0-ton-sprinter-x-15-t3",
-      "match_confidence": 88.4,
-      "status": "matched",
-      "price_diff": 6900.0,
-      "cheaper": "competitor"
-    },
-    {
       "product_name": "Haier AC Inverter 1.5 Ton Solar Hybrid-III (White)",
       "my_price": 180000.0,
       "my_available": true,
@@ -16931,34 +16791,6 @@
       "status": "matched",
       "price_diff": -25099.0,
       "cheaper": "us"
-    },
-    {
-      "product_name": "Dawlance AC Inverter 1.0 Ton Powercon X 15",
-      "my_price": 121900.0,
-      "my_available": true,
-      "my_url": "https://bismillahelectronics.pk/products/dawlance-ac-1-ton-powercon-x-15-inverter",
-      "competitor_name": "Dawlance AC 1.0 Ton split Inverter Powercon X 15",
-      "competitor_price": 111900.0,
-      "competitor_available": false,
-      "competitor_url": "https://japanelectronics.com.pk/products/dawlance-split-ac-inverter-1-0-ton-powercon-x-15",
-      "match_confidence": 93.3,
-      "status": "matched",
-      "price_diff": 10000.0,
-      "cheaper": "competitor"
-    },
-    {
-      "product_name": "Dawlance AC Inverter 1.5 Ton Powercon X 30",
-      "my_price": 140000.0,
-      "my_available": true,
-      "my_url": "https://bismillahelectronics.pk/products/dawlance-ac-1-5-ton-dac-powercon-30-inverter",
-      "competitor_name": "Dawlance Split AC Inverter 1.5 Ton Powercon X 30",
-      "competitor_price": 119000.0,
-      "competitor_available": false,
-      "competitor_url": "https://japanelectronics.com.pk/products/dawlance-split-ac-inverter-1-5-ton-powercon-x-30",
-      "match_confidence": 93.3,
-      "status": "matched",
-      "price_diff": 21000.0,
-      "cheaper": "competitor"
     },
     {
       "product_name": "Panasonic AC 1.5 Ton-CS-UE18WKF-9 T3",
@@ -17043,20 +16875,6 @@
       "status": "only_us",
       "price_diff": null,
       "cheaper": null
-    },
-    {
-      "product_name": "Dawlance AC 1.5 Ton Elegance Pro",
-      "my_price": 153700.0,
-      "my_available": true,
-      "my_url": "https://bismillahelectronics.pk/products/dawlance-ac-1-5-ton-elegance-pro",
-      "competitor_name": "Dawlance AC 2.0 ton Split Inverter Elegance 45",
-      "competitor_price": 182000.0,
-      "competitor_available": false,
-      "competitor_url": "https://japanelectronics.com.pk/products/dawlance-ac-2-0-ton-split-inverter-elegance-45",
-      "match_confidence": 71.8,
-      "status": "matched",
-      "price_diff": -28300.0,
-      "cheaper": "us"
     },
     {
       "product_name": "Dawlance Juicer DWHJ 4002 Black",
@@ -19243,20 +19061,6 @@
       "cheaper": "competitor"
     },
     {
-      "product_name": "Dawlance AC Inverter 1.5 Ton DAC-Elegance Plus 30",
-      "my_price": 165300.0,
-      "my_available": true,
-      "my_url": "https://bismillahelectronics.pk/products/dawlance-ac-inverter-1-5-ton-dac-elegance-plus-30",
-      "competitor_name": "Dawlance Split AC Inverter 1.0 Ton DAC-Elegance Pro 15",
-      "competitor_price": 118000.0,
-      "competitor_available": false,
-      "competitor_url": "https://japanelectronics.com.pk/products/dawlance-split-ac-inverter-1-0-ton-dac-elegance-pro-15",
-      "match_confidence": 85.4,
-      "status": "matched",
-      "price_diff": 47300.0,
-      "cheaper": "competitor"
-    },
-    {
       "product_name": "Dawlance Refrigerator 9106 SD (White)",
       "my_price": 51700.0,
       "my_available": true,
@@ -19716,34 +19520,6 @@
       "match_confidence": 86.0,
       "status": "matched",
       "price_diff": 5400.0,
-      "cheaper": "competitor"
-    },
-    {
-      "product_name": "Dawlance AC Inverter 1.5 Ton Sprinter X 30",
-      "my_price": 150300.0,
-      "my_available": true,
-      "my_url": "https://bismillahelectronics.pk/products/dawlance-ac-inverter-1-5-ton-sprinter-x-30",
-      "competitor_name": "Dawlance Split AC Inverter 1.5 Ton Sprinter X 30",
-      "competitor_price": 119000.0,
-      "competitor_available": false,
-      "competitor_url": "https://japanelectronics.com.pk/products/dawlance-split-ac-inverter-1-5-ton-sprinter-x-30",
-      "match_confidence": 93.3,
-      "status": "matched",
-      "price_diff": 31300.0,
-      "cheaper": "competitor"
-    },
-    {
-      "product_name": "Dawlance AC 1.5 Ton DAC-Elegance X 30",
-      "my_price": 153700.0,
-      "my_available": true,
-      "my_url": "https://bismillahelectronics.pk/products/dawlance-ac-1-5-ton-dac-elegance-x-30",
-      "competitor_name": "Dawlance Split AC Inverter 1.5 Ton DAC-Excel 30",
-      "competitor_price": 150000.0,
-      "competitor_available": false,
-      "competitor_url": "https://japanelectronics.com.pk/products/dawlance-split-ac-inverter-1-5-ton-dac-excel-30",
-      "match_confidence": 71.4,
-      "status": "matched",
-      "price_diff": 3700.0,
       "cheaper": "competitor"
     },
     {
@@ -28217,6 +27993,20 @@
       "cheaper": null
     },
     {
+      "product_name": "Dawlance Split AC Inverter 1.5 Ton DAC-Excel 30",
+      "my_price": null,
+      "my_available": null,
+      "my_url": null,
+      "competitor_name": "Dawlance Split AC Inverter 1.5 Ton DAC-Excel 30",
+      "competitor_price": 150000.0,
+      "competitor_available": false,
+      "competitor_url": "https://japanelectronics.com.pk/products/dawlance-split-ac-inverter-1-5-ton-dac-excel-30",
+      "match_confidence": 0,
+      "status": "only_competitor",
+      "price_diff": null,
+      "cheaper": null
+    },
+    {
       "product_name": "Haier Refrigerator HRF-216 EBD Dark Metallic",
       "my_price": null,
       "my_available": null,
@@ -30709,6 +30499,20 @@
       "cheaper": null
     },
     {
+      "product_name": "Dawlance AC 2.0 ton Split Inverter Elegance 45",
+      "my_price": null,
+      "my_available": null,
+      "my_url": null,
+      "competitor_name": "Dawlance AC 2.0 ton Split Inverter Elegance 45",
+      "competitor_price": 182000.0,
+      "competitor_available": false,
+      "competitor_url": "https://japanelectronics.com.pk/products/dawlance-ac-2-0-ton-split-inverter-elegance-45",
+      "match_confidence": 0,
+      "status": "only_competitor",
+      "price_diff": null,
+      "cheaper": null
+    },
+    {
       "product_name": "Haier AC Split Inverter 1.5 Ton HSU-18HFPCA (Black)",
       "my_price": null,
       "my_available": null,
@@ -30787,6 +30591,34 @@
       "competitor_price": 160000.0,
       "competitor_available": true,
       "competitor_url": "https://japanelectronics.com.pk/products/dawlance-split-ac-inverter-1-5-ton-dac-hyper-t3-white-home-whiz",
+      "match_confidence": 0,
+      "status": "only_competitor",
+      "price_diff": null,
+      "cheaper": null
+    },
+    {
+      "product_name": "Dawlance Split AC Inverter 1.5 Ton Chillex 30",
+      "my_price": null,
+      "my_available": null,
+      "my_url": null,
+      "competitor_name": "Dawlance Split AC Inverter 1.5 Ton Chillex 30",
+      "competitor_price": 118000.0,
+      "competitor_available": false,
+      "competitor_url": "https://japanelectronics.com.pk/products/dawlance-split-ac-inverter-1-5-ton-chillex-30",
+      "match_confidence": 0,
+      "status": "only_competitor",
+      "price_diff": null,
+      "cheaper": null
+    },
+    {
+      "product_name": "Dawlance Split AC Inverter 1.0 Ton Sprinter X 15 (T3)",
+      "my_price": null,
+      "my_available": null,
+      "my_url": null,
+      "competitor_name": "Dawlance Split AC Inverter 1.0 Ton Sprinter X 15 (T3)",
+      "competitor_price": 115000.0,
+      "competitor_available": true,
+      "competitor_url": "https://japanelectronics.com.pk/products/dawlance-split-ac-inverter-1-0-ton-sprinter-x-15-t3",
       "match_confidence": 0,
       "status": "only_competitor",
       "price_diff": null,
@@ -33489,6 +33321,20 @@
       "competitor_price": 125000.0,
       "competitor_available": false,
       "competitor_url": "https://japanelectronics.com.pk/products/homage-split-ac-inverter-1-0-ton-hes-1222s",
+      "match_confidence": 0,
+      "status": "only_competitor",
+      "price_diff": null,
+      "cheaper": null
+    },
+    {
+      "product_name": "Dawlance Split AC Inverter 1.0 Ton DAC-Elegance Pro 15",
+      "my_price": null,
+      "my_available": null,
+      "my_url": null,
+      "competitor_name": "Dawlance Split AC Inverter 1.0 Ton DAC-Elegance Pro 15",
+      "competitor_price": 118000.0,
+      "competitor_available": false,
+      "competitor_url": "https://japanelectronics.com.pk/products/dawlance-split-ac-inverter-1-0-ton-dac-elegance-pro-15",
       "match_confidence": 0,
       "status": "only_competitor",
       "price_diff": null,
@@ -37667,6 +37513,20 @@
       "cheaper": null
     },
     {
+      "product_name": "Electrolux Split AC Inverter 1.0 Ton ELSAC-12K LUX Black (T3)",
+      "my_price": null,
+      "my_available": null,
+      "my_url": null,
+      "competitor_name": "Electrolux Split AC Inverter 1.0 Ton ELSAC-12K LUX Black (T3)",
+      "competitor_price": 143900.0,
+      "competitor_available": true,
+      "competitor_url": "https://japanelectronics.com.pk/products/electrolux-split-ac-inverter-1-0-ton-elsac-12k-lux-black-t3",
+      "match_confidence": 0,
+      "status": "only_competitor",
+      "price_diff": null,
+      "cheaper": null
+    },
+    {
       "product_name": "Homage Split AC Inverter 2.0 Ton HCS-2421S 60% Classic (T3)",
       "my_price": null,
       "my_available": null,
@@ -38899,6 +38759,20 @@
       "cheaper": null
     },
     {
+      "product_name": "Dawlance Split AC Inverter 2.0 Ton DAC-Chrome+ 45 (Copper Stamp)",
+      "my_price": null,
+      "my_available": null,
+      "my_url": null,
+      "competitor_name": "Dawlance Split AC Inverter 2.0 Ton DAC-Chrome+ 45 (Copper Stamp)",
+      "competitor_price": 213100.0,
+      "competitor_available": true,
+      "competitor_url": "https://japanelectronics.com.pk/products/dawlance-split-ac-inverter-2-0-ton-dac-chrome-45-copper-stamp",
+      "match_confidence": 0,
+      "status": "only_competitor",
+      "price_diff": null,
+      "cheaper": null
+    },
+    {
       "product_name": "WestPoint Food Processor WF-8817",
       "my_price": null,
       "my_available": null,
@@ -39159,6 +39033,20 @@
       "competitor_price": 215000.0,
       "competitor_available": true,
       "competitor_url": "https://japanelectronics.com.pk/products/samsung-sound-bar-q-800c",
+      "match_confidence": 0,
+      "status": "only_competitor",
+      "price_diff": null,
+      "cheaper": null
+    },
+    {
+      "product_name": "Dawlance Split AC Inverter 1.5 Ton Econo+ X 30",
+      "my_price": null,
+      "my_available": null,
+      "my_url": null,
+      "competitor_name": "Dawlance Split AC Inverter 1.5 Ton Econo+ X 30",
+      "competitor_price": 145000.0,
+      "competitor_available": false,
+      "competitor_url": "https://japanelectronics.com.pk/products/dawlance-split-ac-inverter-1-5-ton-econo-x-30",
       "match_confidence": 0,
       "status": "only_competitor",
       "price_diff": null,

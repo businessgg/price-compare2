@@ -1,5 +1,11 @@
 [
   {
+    "name": "Candy AC Inverter 1.0 Ton CSU-13HF",
+    "price": 94500.0,
+    "url": "https://bismillahelectronics.pk/products/candy-ac-inverter-1-0-ton-csu-13hf",
+    "available": true
+  },
+  {
     "name": "Homage Ref HRI-47672/R450-L TCH INVERTER (GD) MRG",
     "price": 133000.0,
     "url": "https://bismillahelectronics.pk/products/homage-ref-hri-47672-r450-l-tch-inverter-gd-mrg",
@@ -1392,12 +1398,6 @@
     "available": true
   },
   {
-    "name": "Dawlance AC Inverter 1.5 Ton DAC-Excel 30",
-    "price": 139900.0,
-    "url": "https://bismillahelectronics.pk/products/dawlance-ac-1-5-ton-inverter-dac-excel-30",
-    "available": true
-  },
-  {
     "name": "American General AC Inverter 1.0 Ton Fantasy eSmart 12K Plus",
     "price": 155000.0,
     "url": "https://bismillahelectronics.pk/products/general-ac-fantasy-esmart-12k-plus-inverter",
@@ -1452,12 +1452,6 @@
     "available": false
   },
   {
-    "name": "Dawlance AC Inverter 1.5 Ton Econo+ X 30",
-    "price": 145000.0,
-    "url": "https://bismillahelectronics.pk/products/dawlance-ac-inverter-1-5-ton-econo-x-30",
-    "available": true
-  },
-  {
     "name": "Dawlance AC Inverter 1.5 Ton Inspire Pro 30",
     "price": 140000.0,
     "url": "https://bismillahelectronics.pk/products/dawlance-ac-1-5-ton-inspire-pro-30-inverter",
@@ -1467,12 +1461,6 @@
     "name": "Dawlance Floor Standing AC 2.0 Ton Gallant 45 Inverter",
     "price": 250000.0,
     "url": "https://bismillahelectronics.pk/products/dawlance-floor-standing-ac-2-0-ton-gallant-45-inverter",
-    "available": true
-  },
-  {
-    "name": "Dawlance AC Inverter 2.0 Ton DAC-Chrome+ 45 (Copper Stamp)",
-    "price": 213100.0,
-    "url": "https://bismillahelectronics.pk/products/dawlance-ac-2-0-ton-dac-chrome-45-inverter-copper-stamp",
     "available": true
   },
   {
@@ -2379,12 +2367,6 @@
     "name": "Dawlance Vertical Freezer VF-1035 GD (Burgundy)",
     "price": 105000.0,
     "url": "https://bismillahelectronics.pk/products/dawlance-vertical-freezer-vf-1035-gd-burgundy",
-    "available": true
-  },
-  {
-    "name": "Dawlance AC 1.5 Ton Inverter Chillex 30",
-    "price": 118000.0,
-    "url": "https://bismillahelectronics.pk/products/dawlance-ac-1-5-ton-inverter-chillex-30",
     "available": true
   },
   {
@@ -4824,20 +4806,8 @@
     "available": true
   },
   {
-    "name": "EcoStar AC Inverter 1.5 Ton ES-18EM01WS SA+",
-    "price": 128900.0,
-    "url": "https://bismillahelectronics.pk/products/ecostar-ac-inverter-1-5-ton-es-18em01ws-sa",
-    "available": true
-  },
-  {
-    "name": "EcoStar AC Inverter 1.0 Ton ES-12EM01WS SA+",
-    "price": 119500.0,
-    "url": "https://bismillahelectronics.pk/products/ecostar-ac-inverter-1-0-ton-es-12em01ws-sa",
-    "available": true
-  },
-  {
     "name": "Electrolux AC Inverter 1.5 Ton ELSAC-18K LUX (Black)",
-    "price": 209000.0,
+    "price": 192900.0,
     "url": "https://bismillahelectronics.pk/products/electrolux-ac-inverter-1-5-ton-elsac-18k-lux-black",
     "available": true
   },
@@ -6703,44 +6673,32 @@
   },
   {
     "name": "Electrolux AC Inverter 2.0 Ton ELSAC-24K LUX (White)",
-    "price": 254900.0,
+    "price": 251900.0,
     "url": "https://bismillahelectronics.pk/products/electrolux-ac-inverter-2-0-ton-elsac-24k-lux-white",
     "available": true
   },
   {
     "name": "Electrolux AC Inverter 2.0 Ton ELSAC-24K LUX (Black)",
-    "price": 257900.0,
+    "price": 254900.0,
     "url": "https://bismillahelectronics.pk/products/electrolux-ac-inverter-2-0-ton-elsac-24k-lux-black",
     "available": true
   },
   {
     "name": "Electrolux AC Inverter 1.5 Ton ELSAC-18K LUX (White)",
-    "price": 194900.0,
+    "price": 189900.0,
     "url": "https://bismillahelectronics.pk/products/electrolux-ac-inverter-1-5-ton-elsac-18k-lux-white-t3",
     "available": true
   },
   {
     "name": "Electrolux AC Inverter 1.0 Ton ELSAC-12K LUX White (T3)",
-    "price": 141900.0,
+    "price": 134900.0,
     "url": "https://bismillahelectronics.pk/products/electrolux-ac-inverter-1-0-ton-elsac-12k-lux-white-t3",
-    "available": true
-  },
-  {
-    "name": "Electrolux AC Inverter 1.0 Ton ELSAC-12K LUX Black (T3)",
-    "price": 143900.0,
-    "url": "https://bismillahelectronics.pk/products/electrolux-ac-inverter-1-0-ton-elsac-12k-lux-black-t3",
     "available": true
   },
   {
     "name": "Dawlance Floor Standing 2.0 Ton Glamour+ 45 Inverter",
     "price": 240000.0,
     "url": "https://bismillahelectronics.pk/products/dawlance-floor-standing-2-0-ton-glamour-45-inverter",
-    "available": true
-  },
-  {
-    "name": "Dawlance Inverter AC 1.5 Ton Mega T3 Pro 30",
-    "price": 165000.0,
-    "url": "https://bismillahelectronics.pk/products/dawlance-ac-1-5-ton-mega-t3-pro-30-inverter",
     "available": true
   },
   {
@@ -6783,12 +6741,6 @@
     "name": "Dawlance AC 1.0 Ton Mega T3 Pro 15 Inverter",
     "price": 130000.0,
     "url": "https://bismillahelectronics.pk/products/dawlance-split-ac-inverter-1-0-ton-mega-t3-pro-15",
-    "available": true
-  },
-  {
-    "name": "Dawlance AC Inverter 1.0 Ton DAC Elegance Pro 15",
-    "price": 124300.0,
-    "url": "https://bismillahelectronics.pk/products/dawlance-split-ac-inverter-1-0-ton-dac-elegance-pro-15",
     "available": true
   },
   {
@@ -7134,12 +7086,6 @@
     "available": true
   },
   {
-    "name": "Dawlance AC Inverter 1.5 Ton AURA X 30",
-    "price": 153300.0,
-    "url": "https://bismillahelectronics.pk/products/dawlance-ac-inverter-1-5-ton-aura-x-30",
-    "available": true
-  },
-  {
     "name": "Haier Floor Standing AC 4.0 Ton HPU-48E DC",
     "price": 550000.0,
     "url": "https://bismillahelectronics.pk/products/haier-ac-cabinet-hpu-48e-dc-inverter",
@@ -7230,12 +7176,6 @@
     "available": true
   },
   {
-    "name": "Dawlance AC Inverter 1.0 Ton Sprinter X 15",
-    "price": 121900.0,
-    "url": "https://bismillahelectronics.pk/products/dawlance-ac-1-0-ton-inverter-sprinter-x-15",
-    "available": true
-  },
-  {
     "name": "Haier AC Inverter 1.5 Ton Solar Hybrid-III (White)",
     "price": 180000.0,
     "url": "https://bismillahelectronics.pk/products/haier-ac-1-5-ton-inverter-solar-hybrid-ii-heat-cool",
@@ -7251,18 +7191,6 @@
     "name": "Orient AC Inverter 1.5 Ton Inverter 18G Pro",
     "price": 129900.0,
     "url": "https://bismillahelectronics.pk/products/orient-ac-inverter-1-5-ton-18g-pro",
-    "available": true
-  },
-  {
-    "name": "Dawlance AC Inverter 1.0 Ton Powercon X 15",
-    "price": 121900.0,
-    "url": "https://bismillahelectronics.pk/products/dawlance-ac-1-ton-powercon-x-15-inverter",
-    "available": true
-  },
-  {
-    "name": "Dawlance AC Inverter 1.5 Ton Powercon X 30",
-    "price": 140000.0,
-    "url": "https://bismillahelectronics.pk/products/dawlance-ac-1-5-ton-dac-powercon-30-inverter",
     "available": true
   },
   {
@@ -7299,12 +7227,6 @@
     "name": "American General AC Inverter 1.5 Ton Fantasy eSmart 18K Plus",
     "price": 188800.0,
     "url": "https://bismillahelectronics.pk/products/general-ac-fantasy-esmart-18k-plus-inverter",
-    "available": true
-  },
-  {
-    "name": "Dawlance AC 1.5 Ton Elegance Pro",
-    "price": 153700.0,
-    "url": "https://bismillahelectronics.pk/products/dawlance-ac-1-5-ton-elegance-pro",
     "available": true
   },
   {
@@ -8244,12 +8166,6 @@
     "available": true
   },
   {
-    "name": "Dawlance AC Inverter 1.5 Ton DAC-Elegance Plus 30",
-    "price": 165300.0,
-    "url": "https://bismillahelectronics.pk/products/dawlance-ac-inverter-1-5-ton-dac-elegance-plus-30",
-    "available": true
-  },
-  {
     "name": "Dawlance Refrigerator 9106 SD (White)",
     "price": 51700.0,
     "url": "https://bismillahelectronics.pk/products/dawlance-refrigerator-9106-sd-white",
@@ -8445,18 +8361,6 @@
     "name": "Dawlance Built-In Microwave Oven DBMO 25 BG",
     "price": 45900.0,
     "url": "https://bismillahelectronics.pk/products/microwave-dawlance-dbmo-25-bg",
-    "available": true
-  },
-  {
-    "name": "Dawlance AC Inverter 1.5 Ton Sprinter X 30",
-    "price": 150300.0,
-    "url": "https://bismillahelectronics.pk/products/dawlance-ac-inverter-1-5-ton-sprinter-x-30",
-    "available": true
-  },
-  {
-    "name": "Dawlance AC 1.5 Ton DAC-Elegance X 30",
-    "price": 153700.0,
-    "url": "https://bismillahelectronics.pk/products/dawlance-ac-1-5-ton-dac-elegance-x-30",
     "available": true
   },
   {

@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-16T06:19:20.766877+00:00",
+  "last_updated": "2026-10-16T07:27:35.350331+00:00",
   "my_store_name": "Bismillah Electronics",
   "competitor_name": "Japan Electronics",
   "total_my_products": 1435,
@@ -11684,7 +11684,7 @@
     },
     {
       "product_name": "PEL AC 2.0 Ton InverterOn Fit 24K Graphite",
-      "my_price": 204900.0,
+      "my_price": 222900.0,
       "my_available": true,
       "my_url": "https://bismillahelectronics.pk/products/pel-ac-2-0-ton-inverteron-fit-24k-graphite",
       "competitor_name": null,
@@ -11712,7 +11712,7 @@
     },
     {
       "product_name": "PEL AC Inverter 2.0 Ton 24K FIT Black",
-      "my_price": 204900.0,
+      "my_price": 222900.0,
       "my_available": true,
       "my_url": "https://bismillahelectronics.pk/products/pel-ac-inverter-2-0-ton-24k-fit-black",
       "competitor_name": null,
@@ -16766,7 +16766,7 @@
     },
     {
       "product_name": "PEL AC Inverter 1.5 Ton PINV-18K Arctic",
-      "my_price": 153900.0,
+      "my_price": 160000.0,
       "my_available": true,
       "my_url": "https://bismillahelectronics.pk/products/pel-ac-1-5-ton-pinv-18k-arctic",
       "competitor_name": "PEL Split AC Inverter 1.5 Ton PINV-18K Turbo",
@@ -16775,7 +16775,7 @@
       "competitor_url": "https://japanelectronics.com.pk/products/pel-split-ac-inverter-1-5-ton-pinv-18k-turbo",
       "match_confidence": 77.1,
       "status": "matched",
-      "price_diff": -23000.0,
+      "price_diff": -16900.0,
       "cheaper": "us"
     },
     {
@@ -17004,7 +17004,7 @@
     },
     {
       "product_name": "Pel AC Inverter 1.5 Ton PINVO-18K Jumbo",
-      "my_price": 182900.0,
+      "my_price": 174900.0,
       "my_available": true,
       "my_url": "https://bismillahelectronics.pk/products/pel-ac-1-5-ton-pinv-18k-jumbo-dc-prime-t3",
       "competitor_name": "PEL Split AC Inverter 1.0 Ton PINV-12K Jumbo",
@@ -17013,7 +17013,7 @@
       "competitor_url": "https://japanelectronics.com.pk/products/pel-split-ac-inverter-1-0-ton-pinv-12k-jumbo",
       "match_confidence": 81.9,
       "status": "matched",
-      "price_diff": 43000.0,
+      "price_diff": 35000.0,
       "cheaper": "competitor"
     },
     {

@@ -1398,30 +1398,6 @@
     "available": true
   },
   {
-    "name": "Orient AC Inverter 1.0 Ton Ultron LUNAR 12G DC",
-    "price": 122000.0,
-    "url": "https://bismillahelectronics.pk/products/orient-ac-12g-ultron-lunar-grace-black-dc-inverter",
-    "available": true
-  },
-  {
-    "name": "Orient AC Inverter 2.0 Ton Ultron LUNAR 24G DC",
-    "price": 200000.0,
-    "url": "https://bismillahelectronics.pk/products/orient-ac-24g-ultron-lunar-grace-black-dc-inverter",
-    "available": true
-  },
-  {
-    "name": "Orient AC Inverter 1.0 Ton 12X Aura T3 (White)",
-    "price": 127000.0,
-    "url": "https://bismillahelectronics.pk/products/orient-ac-1-ton-ultron-mega-ecomfort-12x-dc-inverter",
-    "available": true
-  },
-  {
-    "name": "Panasonic AC 1.0 Ton-CS-UE12WKF-9 T3",
-    "price": 145900.0,
-    "url": "https://bismillahelectronics.pk/products/panasonic-ac-1-0-ton-cs-ue12wkf-9-t3",
-    "available": true
-  },
-  {
     "name": "Haier 1.0 Ton AC Candy CSU-12HF DC",
     "price": 111000.0,
     "url": "https://bismillahelectronics.pk/products/haier-1-ton-ac-candy-csu-12hf-dc-inverter",
@@ -1491,30 +1467,6 @@
     "name": "Haier AC Inverter 1.5 Ton HSU-19HFPAA (Black)",
     "price": 137000.0,
     "url": "https://bismillahelectronics.pk/products/haier-ac-1-5-ton-hsu-19hfpaa-inverter-black",
-    "available": true
-  },
-  {
-    "name": "Hisense AC Inverter 1.0 Ton 12DC60HC",
-    "price": 110000.0,
-    "url": "https://bismillahelectronics.pk/products/hisense-ac-inverter-1-0-ton-12dc60hc",
-    "available": true
-  },
-  {
-    "name": "Hisense AC Inverter 1.0 Ton 12TV60HC T3",
-    "price": 110000.0,
-    "url": "https://bismillahelectronics.pk/products/hisense-ac-inverter-1-0-ton-12tv60hc-t3",
-    "available": true
-  },
-  {
-    "name": "Orient AC Inverter 2.0 Ton 24X Divine (Pristine)",
-    "price": 225000.0,
-    "url": "https://bismillahelectronics.pk/products/orient-ac-inverter-2-0-ton-24x-divine-pristine",
-    "available": true
-  },
-  {
-    "name": "Orient AC Inverter 1.0 Ton Ultron (King E-Comfort)",
-    "price": 107900.0,
-    "url": "https://bismillahelectronics.pk/products/orient-ac-inverter-1-0-ton-ultron-king-e-comfort",
     "available": true
   },
   {
@@ -1885,7 +1837,7 @@
   },
   {
     "name": "Orient Split AC 2.0 Ton Inverter King 24G (Silk White)",
-    "price": 190000.0,
+    "price": 200000.0,
     "url": "https://bismillahelectronics.pk/products/orient-floor-standing-ac-2-0-ton-inverter-king-24g-silk-white",
     "available": true
   },
@@ -2218,12 +2170,6 @@
     "price": 138900.0,
     "url": "https://bismillahelectronics.pk/products/pel-ac-1-0-ton-inverter-jumbo-dc-prime-pinvo-12k",
     "available": false
-  },
-  {
-    "name": "Hisense AC Inverter 1.0 Ton 12TV60HC",
-    "price": 110000.0,
-    "url": "https://bismillahelectronics.pk/products/hisense-ac-inverter-1-0-ton-12tv60hc",
-    "available": true
   },
   {
     "name": "Kenwood AC 1.5 Ton Inverter 1867s Comfort Pro",
@@ -4776,12 +4722,6 @@
     "available": true
   },
   {
-    "name": "Hisense AC Inverter 1.5 Ton HDB-18TQ60HC",
-    "price": 135000.0,
-    "url": "https://bismillahelectronics.pk/products/hisense-ac-inverter-1-5-ton-hdb-18tq60hc",
-    "available": true
-  },
-  {
     "name": "Kenwood AC Inverter 1.5 Ton KES-1866S E-Smart OYNX",
     "price": 210000.0,
     "url": "https://bismillahelectronics.pk/products/kenwood-ac-inverter-1-5-ton-kes-1866s-e-smart-oynx",
@@ -4800,81 +4740,39 @@
     "available": true
   },
   {
-    "name": "Midea AC Inverter 1.0 Ton Extreme Plus 12-HRFN1",
-    "price": 130000.0,
-    "url": "https://bismillahelectronics.pk/products/midea-ac-inverter-1-0-ton-extreme-plus-12-hrfn1",
-    "available": true
-  },
-  {
-    "name": "Midea AC Inverter 1.5 Ton Extreme Plus 18-HRFN1",
-    "price": 165000.0,
-    "url": "https://bismillahelectronics.pk/products/midea-ac-inverter-1-5-ton-extreme-plus-18-hrfn1",
-    "available": true
-  },
-  {
     "name": "Orient AC Inverter 1.0 Ton Ultron 12G Hyper",
-    "price": 118000.0,
+    "price": 129000.0,
     "url": "https://bismillahelectronics.pk/products/orient-ac-inverter-1-0-ton-ultron-12g-hyper",
     "available": true
   },
   {
     "name": "Orient AC Inverter 1.5 Ton Ultron 18G KING eComfort",
-    "price": 146900.0,
+    "price": 162500.0,
     "url": "https://bismillahelectronics.pk/products/orient-ac-inverter-1-5-ton-ultron-18g-king-ecomfort",
     "available": true
   },
   {
     "name": "Orient AC Inverter 1.5 Ton 18X CA Smart Aux (Matt White)",
-    "price": 170000.0,
+    "price": 184000.0,
     "url": "https://bismillahelectronics.pk/products/orient-ac-inverter-1-5-ton-18x-ca-smart-aux-matt-white",
     "available": true
   },
   {
-    "name": "Orient AC Inverter 1.5 Ton 18X Megatron Infinity (Matt Silver)",
-    "price": 175000.0,
-    "url": "https://bismillahelectronics.pk/products/orient-ac-inverter-1-5-ton-18x-megatron-infinity-matt-silver",
-    "available": true
-  },
-  {
     "name": "Orient AC Inverter 1.5 Ton Lunar eComfort 18G (Golden)",
-    "price": 149900.0,
+    "price": 162000.0,
     "url": "https://bismillahelectronics.pk/products/orient-ac-inverter-1-5-ton-lunar-ecomfort-18g-golden",
     "available": true
   },
   {
     "name": "Orient AC 1.5 Ton Ultron Inverter Smile 18G",
-    "price": 144900.0,
+    "price": 162500.0,
     "url": "https://bismillahelectronics.pk/products/orient-ac-1-5-ton-ultron-inverter-smile-18g",
     "available": true
   },
   {
     "name": "Orient AC Inverter 1.5 Ton Star 18G (Pattern White)",
-    "price": 131900.0,
-    "url": "https://bismillahelectronics.pk/products/orient-ac-inverter-1-5-ton-star-18g-pattern-white",
-    "available": true
-  },
-  {
-    "name": "Orient AC Inverter 1.5 Ton Titanium 18X T3 (Olive Black)",
-    "price": 202000.0,
-    "url": "https://bismillahelectronics.pk/products/orient-ac-inverter-1-5-ton-titanium-18x-t3-olive-black",
-    "available": true
-  },
-  {
-    "name": "Orient AC 2.0 Ton Premier T3 DC Inverter (Sand White)",
-    "price": 320000.0,
-    "url": "https://bismillahelectronics.pk/products/orient-ac-2-0-ton-premier-t3-dc-inverter-sand-white",
-    "available": true
-  },
-  {
-    "name": "Orient AC 1.0 Ton AUX FA-12X (Matt White)",
-    "price": 118900.0,
-    "url": "https://bismillahelectronics.pk/products/orient-ac-1-0-ton-aux-fa-12x-matt-white",
-    "available": true
-  },
-  {
-    "name": "Orient AC 1.5 Ton AUX FA-18X (Snow White)",
     "price": 129900.0,
-    "url": "https://bismillahelectronics.pk/products/orient-ac-1-5-ton-aux-inverter-fa-18x-snow-white",
+    "url": "https://bismillahelectronics.pk/products/orient-ac-inverter-1-5-ton-star-18g-pattern-white",
     "available": true
   },
   {
@@ -6354,32 +6252,14 @@
     "available": true
   },
   {
-    "name": "Panasonic AC 1.5 Ton UE18XKF-9 Inverter",
-    "price": 185000.0,
-    "url": "https://bismillahelectronics.pk/products/panasonic-ac-1-5-ton-ue18xkf-9-inverter-copy",
-    "available": true
-  },
-  {
     "name": "Panasonic AC 1.0 Ton UE12XKF-9 Inverter",
-    "price": 135000.0,
+    "price": 129900.0,
     "url": "https://bismillahelectronics.pk/products/panasonic-ac-1-0-ton-ue12xkf-9-inverter",
     "available": true
   },
   {
-    "name": "Orient Split AC 1.0 Ton 12X Divine Inverter (Pristine)",
-    "price": 127000.0,
-    "url": "https://bismillahelectronics.pk/products/orient-split-ac-1-0-ton-12x-divine-inverter-pristine",
-    "available": true
-  },
-  {
-    "name": "Midea AC 2.0 Ton 24HRFN8-INV Breeze Inverter",
-    "price": 225000.0,
-    "url": "https://bismillahelectronics.pk/products/midea-ac-2-0-ton-24hrfn8-inv-breeze-inverter",
-    "available": true
-  },
-  {
     "name": "Midea Floor Standing AC 2.0 Ton 24-HRFN8 (Round Flow)",
-    "price": 320000.0,
+    "price": 305000.0,
     "url": "https://bismillahelectronics.pk/products/midea-floor-standing-ac-2-0-ton-24-hrfn8-round-flow",
     "available": true
   },
@@ -6393,18 +6273,6 @@
     "name": "Midea AC Inverter 1.5 Ton Extreme 18-HRFN1",
     "price": 155000.0,
     "url": "https://bismillahelectronics.pk/products/midea-ac-inverter-1-5-ton-extreme-18-hrfn1",
-    "available": true
-  },
-  {
-    "name": "Midea AC Inverter 1.0 Ton Extreme 12-HRFN1",
-    "price": 125000.0,
-    "url": "https://bismillahelectronics.pk/products/midea-ac-inverter-1-0-ton-extreme-12-hrfn1",
-    "available": true
-  },
-  {
-    "name": "Midea AC Inverter 1.0 Ton 12-HRFN8 (Breeze)",
-    "price": 140000.0,
-    "url": "https://bismillahelectronics.pk/products/midea-ac-inverter-1-0-ton-12hrfn8-breeze",
     "available": true
   },
   {
@@ -6426,27 +6294,9 @@
     "available": true
   },
   {
-    "name": "Hisense AC 1.5 Ton 18TG75HC T3 Inverter (White)",
-    "price": 165000.0,
-    "url": "https://bismillahelectronics.pk/products/hisense-ac-1-5-ton-18tg75hc-t3-inverter-white",
-    "available": true
-  },
-  {
-    "name": "Hisense AC Inverter 1.5 Ton 18DC60HC",
-    "price": 132900.0,
-    "url": "https://bismillahelectronics.pk/products/hisense-ac-inverter-1-5-ton-18dc60hc",
-    "available": true
-  },
-  {
     "name": "Hisense AC Inverter 1.5 Ton 18TG75HC T3 (Black)",
     "price": 170000.0,
     "url": "https://bismillahelectronics.pk/products/hisense-ac-inverter-1-5-ton-18tg75hc-t3-black",
-    "available": true
-  },
-  {
-    "name": "Hisense AC 1.0 Ton 12TG75HC T3",
-    "price": 130000.0,
-    "url": "https://bismillahelectronics.pk/products/hisense-ac-1-0-ton-12tg75hc-t3",
     "available": true
   },
   {
@@ -7057,14 +6907,8 @@
   },
   {
     "name": "Panasonic AC 1.5 Ton-CS-UE18WKF-9 T3",
-    "price": 195000.0,
+    "price": 175000.0,
     "url": "https://bismillahelectronics.pk/products/panasonic-ac-1-5-ton-cs-ue18wkf-9-t3",
-    "available": true
-  },
-  {
-    "name": "Orient AC 1.5 Ton Ultron MEGA eComfort 18G DC",
-    "price": 129900.0,
-    "url": "https://bismillahelectronics.pk/products/orient-ac-1-5-ton-ultron-mega-ecomfort-18g-dc",
     "available": true
   },
   {
@@ -7839,12 +7683,6 @@
     "name": "Dawlance AC Inverter 1.5 Ton Chrome Pro 30",
     "price": 162900.0,
     "url": "https://bismillahelectronics.pk/products/dawlance-split-air-conditioner-chrome-pro-inverter-30",
-    "available": true
-  },
-  {
-    "name": "Orient AC Inverter 1.5 Ton Divine",
-    "price": 157900.0,
-    "url": "https://bismillahelectronics.pk/products/orient-ac-inverter-1-5-ton-divine",
     "available": true
   },
   {

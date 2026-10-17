@@ -1,14 +1,14 @@
 {
-  "last_updated": "2026-10-17T14:00:01.767090+00:00",
+  "last_updated": "2026-10-17T16:55:26.790450+00:00",
   "my_store_name": "Bismillah Electronics",
   "competitor_name": "Japan Electronics",
-  "total_my_products": 1408,
+  "total_my_products": 1407,
   "total_competitor_products": 2151,
   "matched_count": 1009,
   "results": [
     {
       "product_name": "Binbazz Semi Electric Geyser ME-9060L (3+7 YEARS) ELEMENT+TANK LEAKAGE",
-      "my_price": 29000.0,
+      "my_price": 34000.0,
       "my_available": true,
       "my_url": "https://bismillahelectronics.pk/products/binbazz-semi-electric-geyser-me-9060l-3-7-years-element-tank-leakage",
       "competitor_name": null,
@@ -22,7 +22,7 @@
     },
     {
       "product_name": "Binbazz Semi Electric Geyser ME-9050L (3+7 YEARS) ELEMENT+TANK LEAKAGE",
-      "my_price": 28000.0,
+      "my_price": 33000.0,
       "my_available": true,
       "my_url": "https://bismillahelectronics.pk/products/binbazz-semi-electric-geyser-me-9050l-3-7-years-element-tank-leakage",
       "competitor_name": null,
@@ -36,7 +36,7 @@
     },
     {
       "product_name": "Binbazz Semi Electric Geyser ME-9040L (3+7 YEARS) ELEMENT+TANK LEAKAGE",
-      "my_price": 27000.0,
+      "my_price": 32000.0,
       "my_available": true,
       "my_url": "https://bismillahelectronics.pk/products/binbazz-semi-electric-geyser-me-9040l-3-7-years-element-tank-leakage",
       "competitor_name": null,
@@ -50,7 +50,7 @@
     },
     {
       "product_name": "Binbazz Semi Electric Geyser ME-9030L (3+7 YEARS) ELEMENT+TANK LEAKAGE",
-      "my_price": 26000.0,
+      "my_price": 31000.0,
       "my_available": true,
       "my_url": "https://bismillahelectronics.pk/products/binbazz-semi-electric-geyser-me-9030l-3-7-years-element-tank-leakage",
       "competitor_name": null,
@@ -64,7 +64,7 @@
     },
     {
       "product_name": "Binbazz Electric Geyser YAS-40L (2+5 YEARS) ELEMENT+TANK LEAKAG",
-      "my_price": 25000.0,
+      "my_price": 30000.0,
       "my_available": true,
       "my_url": "https://bismillahelectronics.pk/products/binbazz-electric-geyser-yas-40l-2-5-years-element-tank-leakag",
       "competitor_name": null,
@@ -78,7 +78,7 @@
     },
     {
       "product_name": "Binbazz Electric Geyser YAS-35L AQUA SERIES",
-      "my_price": 21500.0,
+      "my_price": 26500.0,
       "my_available": true,
       "my_url": "https://bismillahelectronics.pk/products/binbazz-electric-geyser-yas-35l-aqua-series",
       "competitor_name": null,
@@ -91,8 +91,8 @@
       "cheaper": null
     },
     {
-      "product_name": "Binbazz Electric Geyser OT-728 WOOD (2+5 YEARS) ELEMENT+TANK LEAKAGE",
-      "my_price": 26000.0,
+      "product_name": "Binbazz Electric Geyser OT-728 (2+5 YEARS) ELEMENT+TANK LEAKAGE",
+      "my_price": 31000.0,
       "my_available": true,
       "my_url": "https://bismillahelectronics.pk/products/binbazz-electric-geyser-ot-728-wood-2-5-years-element-tank-leakage",
       "competitor_name": null,
@@ -105,8 +105,8 @@
       "cheaper": null
     },
     {
-      "product_name": "Binbazz Electric Geyser OT-715 WOOD (2+5 YEARS) ELEMENT+TANK LEAKAGE",
-      "my_price": 23000.0,
+      "product_name": "Binbazz Electric Geyser OT-715(2+5 YEARS) ELEMENT+TANK LEAKAGE",
+      "my_price": 28000.0,
       "my_available": true,
       "my_url": "https://bismillahelectronics.pk/products/binbazz-electric-geyser-ot-715-wood-2-5-years-element-tank-leakage",
       "competitor_name": null,
@@ -428,7 +428,7 @@
     },
     {
       "product_name": "Binbazz Instant Geyser WL-08 LPG (1+6MONTHS YEARS HEAT EXCH+SERV)",
-      "my_price": 25500.0,
+      "my_price": 30500.0,
       "my_available": true,
       "my_url": "https://bismillahelectronics.pk/products/binbazz-instant-geyser-wl-08-lpg-1-6months-years-heat-exch-serv",
       "competitor_name": null,
@@ -442,7 +442,7 @@
     },
     {
       "product_name": "Binbazz Instant Geyser WL-06 (1+6MONTHS YEARS HEAT EXCH+SERV)",
-      "my_price": 22000.0,
+      "my_price": 25000.0,
       "my_available": true,
       "my_url": "https://bismillahelectronics.pk/products/binbazz-instant-geyser-wl-06-1-6months-years-heat-exch-serv",
       "competitor_name": null,
@@ -470,7 +470,7 @@
     },
     {
       "product_name": "Binbazz Instant Geyser CH-708 IMPORTED SS (STAINLES STEEL)",
-      "my_price": 25500.0,
+      "my_price": 28500.0,
       "my_available": true,
       "my_url": "https://bismillahelectronics.pk/products/binbazz-instant-geyser-ch-708-imported-ss-stainles-steel",
       "competitor_name": null,
@@ -498,7 +498,7 @@
     },
     {
       "product_name": "Binbazz Hybrid E+G Geyser WL-20 GL ENERGY SAVER",
-      "my_price": 41000.0,
+      "my_price": 46000.0,
       "my_available": true,
       "my_url": "https://bismillahelectronics.pk/products/binbazz-hybrid-e-g-geyser-wl-20-gl-energy-saver",
       "competitor_name": null,
@@ -512,7 +512,7 @@
     },
     {
       "product_name": "Binbazz Geyser YAS-15G (E+G TWIN) (2+5 YEARS) ELEMENT+TANK LEAKAG",
-      "my_price": 42000.0,
+      "my_price": 47000.0,
       "my_available": true,
       "my_url": "https://bismillahelectronics.pk/products/binbazz-geyser-yas-15g-e-g-twin-2-5-years-element-tank-leakag",
       "competitor_name": null,
@@ -554,7 +554,7 @@
     },
     {
       "product_name": "Binbazz E+G Fast Geyser ME-915 (2+5 YEARS THERMOSTAE+TANK LEAKAGE)",
-      "my_price": 43000.0,
+      "my_price": 48000.0,
       "my_available": true,
       "my_url": "https://bismillahelectronics.pk/products/binbazz-e-g-fast-geyser-me-915-2-5-years-thermostae-tank-leakage",
       "competitor_name": null,
@@ -4611,20 +4611,6 @@
       "status": "matched",
       "price_diff": -5900.0,
       "cheaper": "us"
-    },
-    {
-      "product_name": "Samsung Refrigerato RR39M73107F Pigeon - Pair",
-      "my_price": 482400.0,
-      "my_available": true,
-      "my_url": "https://bismillahelectronics.pk/products/samsung-refrigerato-rr39m73107f-pigeon-pair",
-      "competitor_name": null,
-      "competitor_price": null,
-      "competitor_available": null,
-      "competitor_url": null,
-      "match_confidence": 0,
-      "status": "only_us",
-      "price_diff": null,
-      "cheaper": null
     },
     {
       "product_name": "Haier Refrigerator HRF-438 IDRA+ (Red)",

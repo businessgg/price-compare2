@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-17T07:24:17.181381+00:00",
+  "last_updated": "2026-10-17T08:13:29.982361+00:00",
   "my_store_name": "Bismillah Electronics",
   "competitor_name": "Japan Electronics",
   "total_my_products": 1400,
@@ -4404,7 +4404,7 @@
     },
     {
       "product_name": "Xiaomi LED TV 65 Inch 65APRO (Q LED)",
-      "my_price": 189900.0,
+      "my_price": 180900.0,
       "my_available": true,
       "my_url": "https://bismillahelectronics.pk/products/xiaomi-led-tv-65-inch-65apro-q-led",
       "competitor_name": null,
@@ -9934,7 +9934,7 @@
     },
     {
       "product_name": "Dawlance Deep Freezer 91998 LVS Convertible",
-      "my_price": 98900.0,
+      "my_price": 109000.0,
       "my_available": true,
       "my_url": "https://bismillahelectronics.pk/products/dawlance-deep-freezer-91998-lvs",
       "competitor_name": null,
@@ -9948,7 +9948,7 @@
     },
     {
       "product_name": "Dawlance Deep Freezer 91998-H Signature Inverter",
-      "my_price": 109900.0,
+      "my_price": 120000.0,
       "my_available": true,
       "my_url": "https://bismillahelectronics.pk/products/dawlance-deep-freezer-91998-h-signature-inverter",
       "competitor_name": "Dawlance Deep Freezer CF-91998-H Signature Inverter",
@@ -9957,8 +9957,8 @@
       "competitor_url": "https://japanelectronics.com.pk/products/dawlance-deep-freezer-cf-91998-h-signature-inverter",
       "match_confidence": 97.0,
       "status": "matched",
-      "price_diff": -100.0,
-      "cheaper": "us"
+      "price_diff": 10000.0,
+      "cheaper": "competitor"
     },
     {
       "product_name": "NasGas Cooking Range NG-786",
@@ -11362,7 +11362,7 @@
     },
     {
       "product_name": "Xiaomi LED TV 43 Inch 43APRO (Q LED)",
-      "my_price": 92900.0,
+      "my_price": 99900.0,
       "my_available": true,
       "my_url": "https://bismillahelectronics.pk/products/xiaomi-led-tv-43-inch-43apro",
       "competitor_name": "Xiaomi LED 43\" 43A PRO 2026 (Q LED)",
@@ -11371,12 +11371,12 @@
       "competitor_url": "https://japanelectronics.com.pk/products/xiaomi-led-43-43a-pro-2026-q-led",
       "match_confidence": 73.2,
       "status": "matched",
-      "price_diff": 0.0,
-      "cheaper": "same"
+      "price_diff": 7000.0,
+      "cheaper": "competitor"
     },
     {
       "product_name": "Xiaomi LED TV 55 Inch 55A2026 (Q LED)",
-      "my_price": 131900.0,
+      "my_price": 141900.0,
       "my_available": true,
       "my_url": "https://bismillahelectronics.pk/products/xiaomi-led-tv-55-inch-55a2026-q-led",
       "competitor_name": null,
@@ -13434,7 +13434,7 @@
     },
     {
       "product_name": "Xiaomi LED TV 43 Inch 43A2025 (FHD Android)",
-      "my_price": 79900.0,
+      "my_price": 78000.0,
       "my_available": true,
       "my_url": "https://bismillahelectronics.pk/products/xiaomi-led-tv-43-inch-43a2025-fhd-android",
       "competitor_name": "Xiaomi LED 43\" 43A 2026 (FHD Android)",
@@ -13443,7 +13443,7 @@
       "competitor_url": "https://japanelectronics.com.pk/products/xiaomi-led-43-43a-2026-fhd-android",
       "match_confidence": 77.5,
       "status": "matched",
-      "price_diff": 4000.0,
+      "price_diff": 2100.0,
       "cheaper": "competitor"
     },
     {
@@ -13462,7 +13462,7 @@
     },
     {
       "product_name": "Xiaomi LED TV 32 Inch 32A 2026",
-      "my_price": 48900.0,
+      "my_price": 50900.0,
       "my_available": true,
       "my_url": "https://bismillahelectronics.pk/products/xiaomi-led-tv-32-inch-32a2026",
       "competitor_name": "Xiaomi LED 32\" 32A 2026",
@@ -13471,12 +13471,12 @@
       "competitor_url": "https://japanelectronics.com.pk/products/xiaomi-led-32-32a-2026",
       "match_confidence": 83.0,
       "status": "matched",
-      "price_diff": 0.0,
-      "cheaper": "same"
+      "price_diff": 2000.0,
+      "cheaper": "competitor"
     },
     {
       "product_name": "Xiaomi LED TV 32 Inch 32A2025 (HD Android)",
-      "my_price": 45990.0,
+      "my_price": 48000.0,
       "my_available": true,
       "my_url": "https://bismillahelectronics.pk/products/xiaomi-led-tv-32-inch-32a2025-hd-android",
       "competitor_name": "Xiaomi LED 43\" 43A 2026 (FHD Android)",
@@ -13485,7 +13485,7 @@
       "competitor_url": "https://japanelectronics.com.pk/products/xiaomi-led-43-43a-2026-fhd-android",
       "match_confidence": 70.9,
       "status": "matched",
-      "price_diff": -29910.0,
+      "price_diff": -27900.0,
       "cheaper": "us"
     },
     {
@@ -18222,7 +18222,7 @@
     },
     {
       "product_name": "Dawlance Deep Freezer 91998 Signature Inverter",
-      "my_price": 121000.0,
+      "my_price": 120000.0,
       "my_available": true,
       "my_url": "https://bismillahelectronics.pk/products/dawlance-deep-freezer-91998-signature-inverter",
       "competitor_name": "Dawlance Deep Freezer CF-91998-H Signature Inverter",
@@ -18231,12 +18231,12 @@
       "competitor_url": "https://japanelectronics.com.pk/products/dawlance-deep-freezer-cf-91998-h-signature-inverter",
       "match_confidence": 94.8,
       "status": "matched",
-      "price_diff": 11000.0,
+      "price_diff": 10000.0,
       "cheaper": "competitor"
     },
     {
       "product_name": "Dawlance Deep Freezer CF-91997 Signature Inverter",
-      "my_price": 96000.0,
+      "my_price": 106000.0,
       "my_available": true,
       "my_url": "https://bismillahelectronics.pk/products/dawlance-deep-freezer-cf-91997-signature-inverter",
       "competitor_name": "Dawlance Deep Freezer CF-91997 Signature Inverter",
@@ -18245,12 +18245,12 @@
       "competitor_url": "https://japanelectronics.com.pk/products/dawlance-deep-freezer-cf-91997-signature-inverter",
       "match_confidence": 100.0,
       "status": "matched",
-      "price_diff": -3999.0,
-      "cheaper": "us"
+      "price_diff": 6001.0,
+      "cheaper": "competitor"
     },
     {
       "product_name": "Dawlance Deep Freezer 400 EDS",
-      "my_price": 91000.0,
+      "my_price": 84700.0,
       "my_available": true,
       "my_url": "https://bismillahelectronics.pk/products/dawlance-deep-freezer-400-eds",
       "competitor_name": "Dawlance Deep Freezer DF-400 (Inverter)",
@@ -18259,12 +18259,12 @@
       "competitor_url": "https://japanelectronics.com.pk/products/dawlance-deep-freezer-df-400p-inverter",
       "match_confidence": 73.5,
       "status": "matched",
-      "price_diff": 11500.0,
+      "price_diff": 5200.0,
       "cheaper": "competitor"
     },
     {
       "product_name": "Dawlance Deep Freezer CF-91997 LVS Convertible",
-      "my_price": 108000.0,
+      "my_price": 106000.0,
       "my_available": true,
       "my_url": "https://bismillahelectronics.pk/products/dawlance-deep-freezer-cf-91997-lvs-convertible",
       "competitor_name": null,
@@ -18278,7 +18278,7 @@
     },
     {
       "product_name": "Dawlance Deep Freezer 200P (Gold)",
-      "my_price": 81500.0,
+      "my_price": 71500.0,
       "my_available": true,
       "my_url": "https://bismillahelectronics.pk/products/dawlance-df-200es-gd-deep-freezer-energy-saving",
       "competitor_name": "Dawlance Deep Freezer DF-300P (Inverter)",
@@ -18287,8 +18287,8 @@
       "competitor_url": "https://japanelectronics.com.pk/products/dawlance-deep-freezer-df-300p-inverter",
       "match_confidence": 76.7,
       "status": "matched",
-      "price_diff": 7800.0,
-      "cheaper": "competitor"
+      "price_diff": -2200.0,
+      "cheaper": "us"
     },
     {
       "product_name": "Dawlance Refrigerator 9140 WB Avante Pearl Burgundy (GD)",
@@ -18684,7 +18684,7 @@
     },
     {
       "product_name": "Dawlance Deep Freezer DF-400 Inverter",
-      "my_price": 95000.0,
+      "my_price": 100000.0,
       "my_available": true,
       "my_url": "https://bismillahelectronics.pk/products/deep-freezer-dawlance-400-sd-inverter",
       "competitor_name": "Dawlance Deep Freezer CF-91998 Inverter (Grey)",
@@ -18693,7 +18693,7 @@
       "competitor_url": "https://japanelectronics.com.pk/products/dawlance-deep-freezer-cf-91998-inverter-grey",
       "match_confidence": 79.5,
       "status": "matched",
-      "price_diff": -15000.0,
+      "price_diff": -10000.0,
       "cheaper": "us"
     },
     {
@@ -19034,7 +19034,7 @@
     },
     {
       "product_name": "Dawlance Deep Freezer 300 SD Inverter",
-      "my_price": 89500.0,
+      "my_price": 84200.0,
       "my_available": true,
       "my_url": "https://bismillahelectronics.pk/products/deep-freezer-dawlance-df-300-es-series",
       "competitor_name": "Dawlance Deep Freezer CF-91997 Signature Inverter",
@@ -19043,12 +19043,12 @@
       "competitor_url": "https://japanelectronics.com.pk/products/dawlance-deep-freezer-cf-91997-signature-inverter",
       "match_confidence": 76.7,
       "status": "matched",
-      "price_diff": -10499.0,
+      "price_diff": -15799.0,
       "cheaper": "us"
     },
     {
       "product_name": "Dawlance Deep Freezer 200P (Whte)",
-      "my_price": 85000.0,
+      "my_price": 71500.0,
       "my_available": true,
       "my_url": "https://bismillahelectronics.pk/products/dawlance-deep-freezer-200p",
       "competitor_name": "Dawlance Deep Freezer DF-300P (Inverter)",
@@ -19057,12 +19057,12 @@
       "competitor_url": "https://japanelectronics.com.pk/products/dawlance-deep-freezer-df-300p-inverter",
       "match_confidence": 82.2,
       "status": "matched",
-      "price_diff": 11300.0,
-      "cheaper": "competitor"
+      "price_diff": -2200.0,
+      "cheaper": "us"
     },
     {
       "product_name": "Dawlance Deep Freezer CF-91998 LVS",
-      "my_price": 98000.0,
+      "my_price": 100400.0,
       "my_available": true,
       "my_url": "https://bismillahelectronics.pk/products/deep-freezer-dawlance-91998-signature-lvs",
       "competitor_name": "Dawlance Deep Freezer CF-91998 Inverter (Grey)",
@@ -19071,12 +19071,12 @@
       "competitor_url": "https://japanelectronics.com.pk/products/dawlance-deep-freezer-cf-91998-inverter-grey",
       "match_confidence": 77.5,
       "status": "matched",
-      "price_diff": -12000.0,
+      "price_diff": -9600.0,
       "cheaper": "us"
     },
     {
       "product_name": "Dawlance Deep Freezer 91997 Signature",
-      "my_price": 106500.0,
+      "my_price": 105400.0,
       "my_available": true,
       "my_url": "https://bismillahelectronics.pk/products/deep-freezer-dawlance-91997-signature-lvs",
       "competitor_name": "Dawlance Deep Freezer CF-91997 Signature Inverter",
@@ -19085,7 +19085,7 @@
       "competitor_url": "https://japanelectronics.com.pk/products/dawlance-deep-freezer-cf-91997-signature-inverter",
       "match_confidence": 86.0,
       "status": "matched",
-      "price_diff": 6501.0,
+      "price_diff": 5401.0,
       "cheaper": "competitor"
     },
     {
@@ -19104,7 +19104,7 @@
     },
     {
       "product_name": "Dawlance Deep Freezer DF-500",
-      "my_price": 121000.0,
+      "my_price": 101800.0,
       "my_available": true,
       "my_url": "https://bismillahelectronics.pk/products/dawlance-deep-freezer-df-500",
       "competitor_name": "Dawlance Deep Freezer DF-400 (Inverter)",
@@ -19113,7 +19113,7 @@
       "competitor_url": "https://japanelectronics.com.pk/products/dawlance-deep-freezer-df-400p-inverter",
       "match_confidence": 80.6,
       "status": "matched",
-      "price_diff": 41500.0,
+      "price_diff": 22300.0,
       "cheaper": "competitor"
     },
     {

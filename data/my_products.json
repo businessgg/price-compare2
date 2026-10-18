@@ -1,5 +1,83 @@
 [
   {
+    "name": "Haier HWM-32300B-Grill Series",
+    "price": 35500.0,
+    "url": "https://bismillahelectronics.pk/products/haier-hwm-32300b-grill-series",
+    "available": true
+  },
+  {
+    "name": "Haier HMW-45DGM -Grill Series",
+    "price": 43500.0,
+    "url": "https://bismillahelectronics.pk/products/haier-mwo-45dgm",
+    "available": true
+  },
+  {
+    "name": "Haier HMW-20MXP3 -Solo Series",
+    "price": 14000.0,
+    "url": "https://bismillahelectronics.pk/products/haier-mwo-20mxp3",
+    "available": true
+  },
+  {
+    "name": "Haier HMW-20MX11-Solo Series",
+    "price": 16900.0,
+    "url": "https://bismillahelectronics.pk/products/haier-mwo-20mx11",
+    "available": true
+  },
+  {
+    "name": "Haier HMW-20MPS-Solo Series",
+    "price": 14000.0,
+    "url": "https://bismillahelectronics.pk/products/haier-mwo-20mps",
+    "available": true
+  },
+  {
+    "name": "Haier HMW-20MPB-Solo Series",
+    "price": 14000.0,
+    "url": "https://bismillahelectronics.pk/products/haier-mwo-20mpb",
+    "available": true
+  },
+  {
+    "name": "Dawlance Microwave Oven DW-MD-10",
+    "price": 17550.0,
+    "url": "https://bismillahelectronics.pk/products/dawlance-mwo-md-10",
+    "available": true
+  },
+  {
+    "name": "Dawlance Micowave Oven DW-299GSS",
+    "price": 25700.0,
+    "url": "https://bismillahelectronics.pk/products/dawlance-mwo-dw-299-gss",
+    "available": true
+  },
+  {
+    "name": "Dawlance Micorwave Oven DW-136G",
+    "price": 36200.0,
+    "url": "https://bismillahelectronics.pk/products/dawlance-mwo-dw-136",
+    "available": true
+  },
+  {
+    "name": "Binbazz Instant Geyser CH-706 IMPORTED (1+6MONTHS YEARS HEAT EXCH+SERV)",
+    "price": 25500.0,
+    "url": "https://bismillahelectronics.pk/products/binbazz-instant-geyser-ch-706-imported-1-6months-years-heat-exch-serv",
+    "available": true
+  },
+  {
+    "name": "Binbazz E+G Geyser ME-935 (2+5 YEARS THERMOSTAE+TANK LEAKAGE)",
+    "price": 47500.0,
+    "url": "https://bismillahelectronics.pk/products/binbazz-e-g-geyser-me-935-2-5-years-thermostae-tank-leakage",
+    "available": true
+  },
+  {
+    "name": "Binbazz E+G Geyser ME-925 (2+5 YEARS THERMOSTAE+TANK LEAKAGE)",
+    "price": 50500.0,
+    "url": "https://bismillahelectronics.pk/products/binbazz-e-g-geyser-me-925-2-5-years-thermostae-tank-leakage",
+    "available": true
+  },
+  {
+    "name": "Nasgas Electric Geyser NEG-30 | 8 Gallon",
+    "price": 22200.0,
+    "url": "https://bismillahelectronics.pk/products/nasgas-electric-geyser-neg-30",
+    "available": true
+  },
+  {
     "name": "Binbazz Semi Electric Geyser ME-9060L (3+7 YEARS) ELEMENT+TANK LEAKAGE",
     "price": 34000.0,
     "url": "https://bismillahelectronics.pk/products/binbazz-semi-electric-geyser-me-9060l-3-7-years-element-tank-leakage",
@@ -3787,61 +3865,61 @@
   },
   {
     "name": "NasGas Electric Geyser NEG-30",
-    "price": 20900.0,
+    "price": 20200.0,
     "url": "https://bismillahelectronics.pk/products/nasgas-electric-geyser-neg-31",
     "available": true
   },
   {
     "name": "NasGas Electric Geyser NEG-40",
-    "price": 27000.0,
+    "price": 23200.0,
     "url": "https://bismillahelectronics.pk/products/nasgas-electric-geyser-neg-40",
     "available": true
   },
   {
     "name": "NasGas Electric Geyser NEG-50",
-    "price": 22900.0,
+    "price": 24200.0,
     "url": "https://bismillahelectronics.pk/products/nasgas-electric-geyser-neg-50",
     "available": true
   },
   {
     "name": "NasGas Electric Geyser NEG-60",
-    "price": 26000.0,
+    "price": 26200.0,
     "url": "https://bismillahelectronics.pk/products/nasgas-electric-geyser-neg-60",
     "available": true
   },
   {
     "name": "NasGas Electric Geyser NEG-80",
-    "price": 27500.0,
+    "price": 28000.0,
     "url": "https://bismillahelectronics.pk/products/nasgas-electric-geyser-neg-80",
     "available": true
   },
   {
     "name": "NasGas Electric Geyser NEG-303 Plus",
-    "price": 24000.0,
+    "price": 24550.0,
     "url": "https://bismillahelectronics.pk/products/nasgas-electric-geyser-neg-303-plus",
     "available": true
   },
   {
     "name": "NasGas Electric Geyser NEG-404 Plus",
-    "price": 25000.0,
+    "price": 25550.0,
     "url": "https://bismillahelectronics.pk/products/nasgas-electric-geyser-neg-404-plus",
     "available": true
   },
   {
     "name": "NasGas Electric Geyser NEG-505 Plus",
-    "price": 26000.0,
+    "price": 26550.0,
     "url": "https://bismillahelectronics.pk/products/nasgas-electric-geyser-neg-505-plus",
     "available": true
   },
   {
     "name": "NasGas Instant Gas Geyser DG-06L",
-    "price": 21300.0,
+    "price": 22300.0,
     "url": "https://bismillahelectronics.pk/products/nasgas-instant-gas-geyser-dg-06ly",
     "available": true
   },
   {
     "name": "NasGas Semi Instant Electric Geyser SEM-100",
-    "price": 17500.0,
+    "price": 18500.0,
     "url": "https://bismillahelectronics.pk/products/nasgas-semi-instant-electric-geyser-sem-100",
     "available": true
   },
@@ -3859,7 +3937,7 @@
   },
   {
     "name": "NasGas Semi Instant Electric Geyser SEM-200",
-    "price": 23500.0,
+    "price": 24700.0,
     "url": "https://bismillahelectronics.pk/products/nasgas-semi-instant-electric-geyser-sem-200",
     "available": true
   },
@@ -3901,31 +3979,31 @@
   },
   {
     "name": "Canon Instant Geyser 16D",
-    "price": 22000.0,
+    "price": 23900.0,
     "url": "https://bismillahelectronics.pk/products/canon-instant-geyser-16d",
     "available": true
   },
   {
     "name": "Canon Instant Geyser 17D Dual Plus",
-    "price": 23500.0,
+    "price": 25900.0,
     "url": "https://bismillahelectronics.pk/products/canon-instant-geyser-17d-dual-plus",
     "available": true
   },
   {
     "name": "Canon Instant Geyser 18D",
-    "price": 29600.0,
+    "price": 33900.0,
     "url": "https://bismillahelectronics.pk/products/canon-instant-geyser-18d",
     "available": true
   },
   {
     "name": "Canon Instant Geyser 24D Dual Plus",
-    "price": 37400.0,
+    "price": 40900.0,
     "url": "https://bismillahelectronics.pk/products/canon-instant-geyser-24d-dual-plus",
     "available": true
   },
   {
     "name": "Canon Instant Geyser 24D Dual",
-    "price": 37400.0,
+    "price": 40900.0,
     "url": "https://bismillahelectronics.pk/products/canon-instant-geyser-24d-dual",
     "available": true
   },
@@ -3937,49 +4015,49 @@
   },
   {
     "name": "NasGas Electric & Gas Geyser DEG-25 Dlx",
-    "price": 41800.0,
+    "price": 43100.0,
     "url": "https://bismillahelectronics.pk/products/nasgas-electric-gas-geyser-deg-25-dlx",
     "available": true
   },
   {
     "name": "NasGas Electric & Gas Geyser DEG-2020 Super Fast",
-    "price": 45500.0,
+    "price": 46500.0,
     "url": "https://bismillahelectronics.pk/products/nasgas-electric-gas-geyser-deg-2020",
     "available": true
   },
   {
     "name": "NasGas Electric & Gas Geyser DG-35 Dlx",
-    "price": 43200.0,
+    "price": 44700.0,
     "url": "https://bismillahelectronics.pk/products/nasgas-electric-gas-geyser-dg-35-dlx",
     "available": true
   },
   {
     "name": "NasGas Electric & Gas Geyser DGE-35 Super Dlx",
-    "price": 51000.0,
+    "price": 48000.0,
     "url": "https://bismillahelectronics.pk/products/nasgas-electric-gas-geyser-dge-35-super-dlx",
     "available": true
   },
   {
     "name": "NasGas Electric & Gas Geyser DGE-55 Super Dlx",
-    "price": 58200.0,
+    "price": 58500.0,
     "url": "https://bismillahelectronics.pk/products/nasgas-electric-gas-geyser-dge-55-super-dlx",
     "available": true
   },
   {
     "name": "NasGas Gas Geyser DG-35 Dlx",
-    "price": 43200.0,
+    "price": 44700.0,
     "url": "https://bismillahelectronics.pk/products/nasgas-gas-geyser-dg-35-dlx",
     "available": true
   },
   {
     "name": "NasGas Gas Geyser DG-35 Super Dlx",
-    "price": 46500.0,
+    "price": 48000.0,
     "url": "https://bismillahelectronics.pk/products/nasgas-gas-geyser-dg-35-super-dlx",
     "available": true
   },
   {
     "name": "NasGas Gas Geyser DG-55 Super Dlx",
-    "price": 54000.0,
+    "price": 55700.0,
     "url": "https://bismillahelectronics.pk/products/nasgas-gas-geyser-dg-55-super-dlx",
     "available": true
   },
@@ -3997,13 +4075,13 @@
   },
   {
     "name": "NasGas Instant Gas Geyser DG-08L",
-    "price": 28400.0,
+    "price": 29600.0,
     "url": "https://bismillahelectronics.pk/products/nasgas-instant-gas-geyser-dg-08l",
     "available": true
   },
   {
     "name": "NasGas Instant Gas Geyser DG-9L",
-    "price": 30200.0,
+    "price": 31400.0,
     "url": "https://bismillahelectronics.pk/products/nasgas-instant-gas-geyser-dg-9l",
     "available": true
   },
@@ -7177,7 +7255,7 @@
   },
   {
     "name": "NasGas Instant Gas Geyser DG-10L",
-    "price": 32800.0,
+    "price": 34000.0,
     "url": "https://bismillahelectronics.pk/products/nasgas-instant-gas-geyser-dg-10l",
     "available": true
   },
@@ -7717,7 +7795,7 @@
   },
   {
     "name": "Nasgas Geyser DEG-35 DLX Electric + Gas 35 Gallon",
-    "price": 46400.0,
+    "price": 48500.0,
     "url": "https://bismillahelectronics.pk/products/nasgas-geyser-deg-35-dlx-electric-gas-35-gallon",
     "available": true
   },
@@ -7947,12 +8025,6 @@
     "name": "Super Asia Single Washing Machine SA-255",
     "price": 23000.0,
     "url": "https://bismillahelectronics.pk/products/super-asia-single-washing-machine-sa-255",
-    "available": true
-  },
-  {
-    "name": "Nasgas Electric Geyser NEG-30 | 8 Gallon",
-    "price": 19900.0,
-    "url": "https://bismillahelectronics.pk/products/nasgas-electric-geyser-neg-30",
     "available": true
   },
   {

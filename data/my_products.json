@@ -1,5 +1,41 @@
 [
   {
+    "name": "Samford Electric Oven SG-6500",
+    "price": 31500.0,
+    "url": "https://bismillahelectronics.pk/products/samford-electric-oven-sg-6500",
+    "available": true
+  },
+  {
+    "name": "Pel Microwave Oven MWO PMO-26 Chef",
+    "price": 33900.0,
+    "url": "https://bismillahelectronics.pk/products/pel-microwave-oven-mwo-pmo-26-chef",
+    "available": true
+  },
+  {
+    "name": "Pel Microwave Oven MWO PMO-20BH Classic",
+    "price": 17900.0,
+    "url": "https://bismillahelectronics.pk/products/pel-microwave-oven-mwo-pmo-20bh-classic",
+    "available": true
+  },
+  {
+    "name": "Midea Microwave Oven MWO 32L SILVER",
+    "price": 39900.0,
+    "url": "https://bismillahelectronics.pk/products/midea-microwave-oven-mwo-32l-silver",
+    "available": true
+  },
+  {
+    "name": "Midea Microwave Oven MWO 25L Black",
+    "price": 32900.0,
+    "url": "https://bismillahelectronics.pk/products/midea-microwave-oven-mwo-25l-black",
+    "available": true
+  },
+  {
+    "name": "Midea Microwave Oven MWO 20L Black",
+    "price": 17900.0,
+    "url": "https://bismillahelectronics.pk/products/midea-microwave-oven-mwo-20l-black",
+    "available": true
+  },
+  {
     "name": "Haier HWM-32300B-Grill Series",
     "price": 35500.0,
     "url": "https://bismillahelectronics.pk/products/haier-hwm-32300b-grill-series",
@@ -912,7 +948,7 @@
     "available": true
   },
   {
-    "name": "LG Vacume Cleaner ZL16-4832 2800W",
+    "name": "Binbazz  Vacuum Cleaner ZL16-4832 2800W",
     "price": 24500.0,
     "url": "https://bismillahelectronics.pk/products/lg-vacume-cleaner-zl16-4832-2800w",
     "available": true

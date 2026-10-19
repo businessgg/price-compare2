@@ -153,7 +153,7 @@
     "name": "IFFALCON LED 65\" 65U85A (Mini QLED)",
     "price": 209000.0,
     "url": "https://japanelectronics.com.pk/products/iffalcon-led-65-65u85a-mini-qled",
-    "available": true
+    "available": false
   },
   {
     "name": "IFFALCON LED 85\" 85U65A Pro (QLED)",
@@ -321,7 +321,7 @@
     "name": "ECOSTAR LED 58\" CX-58Q968 (Q-LED)",
     "price": 120000.0,
     "url": "https://japanelectronics.com.pk/products/ecostar-led-58-cx-58q968-q-led",
-    "available": true
+    "available": false
   },
   {
     "name": "ECOSTAR LED 43\" CX-43Q964 (4K Q-LED)",
@@ -411,7 +411,7 @@
     "name": "ORIENT WATER DISPENSER (VELVET 3 SILK GREEN)",
     "price": 36900.0,
     "url": "https://japanelectronics.com.pk/products/orient-water-dispenser-velvet-3-silk-green",
-    "available": true
+    "available": false
   },
   {
     "name": "ORIENT WATER DISPENSER (VELVET 3 SILK RED)",
@@ -1041,7 +1041,7 @@
     "name": "KENWOOD REF KRF-26757/453-L (GD) SMART INVERTER BKG",
     "price": 125000.0,
     "url": "https://japanelectronics.com.pk/products/kenwood-ref-krf-26757-453-l-gd-smart-inverter-bkg",
-    "available": false
+    "available": true
   },
   {
     "name": "KENWOOD REF KRF-25657/453-L (GD) SMART INVERTER BKG",
@@ -1315,7 +1315,7 @@
   },
   {
     "name": "Dawlance Microwave Oven (DW-390 S)",
-    "price": 21700.0,
+    "price": 22200.0,
     "url": "https://japanelectronics.com.pk/products/dawlance-microwave-oven-dw-390-s",
     "available": true
   },
@@ -1333,7 +1333,7 @@
   },
   {
     "name": "Dawlance Microwave Oven (DW-299 DS)",
-    "price": 23900.0,
+    "price": 23600.0,
     "url": "https://japanelectronics.com.pk/products/dawlance-microwave-oven-dw-299-ds",
     "available": true
   },
@@ -1515,7 +1515,7 @@
     "name": "Generaltec Cooking Range GCTR-98DFF",
     "price": 269900.0,
     "url": "https://japanelectronics.com.pk/products/generaltec-cooking-range-gctr-98dff",
-    "available": false
+    "available": true
   },
   {
     "name": "DAWLANCE KITCHEN HOB (DHG 590 BI)",
@@ -1917,7 +1917,7 @@
     "name": "HISENSE LED 85\" 85Q6N (Q LED)",
     "price": 419900.0,
     "url": "https://japanelectronics.com.pk/products/hisense-led-85-85q6n-q-led",
-    "available": true
+    "available": false
   },
   {
     "name": "Haier LED 65\" 65S80GUX (Q LED)",
@@ -2827,13 +2827,13 @@
   },
   {
     "name": "HAIER D.FREEZER (HDF-230) INVERTER",
-    "price": 86700.0,
+    "price": 90800.0,
     "url": "https://japanelectronics.com.pk/products/haier-d-freezer-hdf-230-inverter",
     "available": false
   },
   {
     "name": "DAWLANCE D.FREEZER (DF-400 INVERTER GREY)",
-    "price": 79500.0,
+    "price": 83200.0,
     "url": "https://japanelectronics.com.pk/products/dawlance-d-freezer-df-400-inverter-grey",
     "available": false
   },
@@ -2845,13 +2845,13 @@
   },
   {
     "name": "DAWLANCE C.FREEZER (CF-91998-H INVERTER GD WICKER CHAM)",
-    "price": 108000.0,
+    "price": 105900.0,
     "url": "https://japanelectronics.com.pk/products/dawlance-c-freezer-cf-91998-h-inverter-gd-wicker-cham",
     "available": true
   },
   {
     "name": "DAWLANCE D.FREEZER (DF-200 SD INVERTER WHITE)",
-    "price": 67300.0,
+    "price": 70500.0,
     "url": "https://japanelectronics.com.pk/products/dawlance-d-freezer-df-200-sd-inverter-white",
     "available": false
   },
@@ -3195,7 +3195,7 @@
     "name": "WESTPOINT SANDWICH MAKER (WF-6393)",
     "price": 13000.0,
     "url": "https://japanelectronics.com.pk/products/westpoint-sandwich-maker-wf-6393",
-    "available": true
+    "available": false
   },
   {
     "name": "TCL SPLIT AC INVERTER 1.5 TON TAC-18T5-VOX-13",
@@ -3291,7 +3291,7 @@
     "name": "Orient Split AC Inverter 1.0 Ton 12X Infinity",
     "price": 139900.0,
     "url": "https://japanelectronics.com.pk/products/orient-split-ac-inverter-1-0-ton-12x-infinity",
-    "available": true
+    "available": false
   },
   {
     "name": "TCL LED 98\" 98P8L (MINI Q LED)",
@@ -3681,7 +3681,7 @@
     "name": "Samsung FAWM (WW90DG5U34ABFA)",
     "price": 255000.0,
     "url": "https://japanelectronics.com.pk/products/samsung-fawm-ww90dg5u34abfa",
-    "available": true
+    "available": false
   },
   {
     "name": "Samsung FAWM (WD13BB944DGB)",
@@ -3981,7 +3981,7 @@
     "name": "Kenwood Ref Krf-22257//220-L (GD) New BKG Persona Plus",
     "price": 71000.0,
     "url": "https://japanelectronics.com.pk/products/kenwood-ref-krf-22257-220-l-gd-new-bkg-persona-plus",
-    "available": false
+    "available": true
   },
   {
     "name": "Dawlance REF 9149 Chrome Pro (Inverter)",
@@ -4281,7 +4281,7 @@
     "name": "Haier D.Freezer (HDF-545 Inverter)",
     "price": 133500.0,
     "url": "https://japanelectronics.com.pk/products/haier-deep-freezer-hdf-545i-inverter",
-    "available": true
+    "available": false
   },
   {
     "name": "Haier Deep Freezer HDF-285SD-01",
@@ -4303,31 +4303,31 @@
   },
   {
     "name": "Dawlance Deep Freezer HDF-500DD STUCCO PCM",
-    "price": 91100.0,
+    "price": 90300.0,
     "url": "https://japanelectronics.com.pk/products/dawlance-deep-freezer-hdf-500dd-stucco-pcm",
     "available": true
   },
   {
     "name": "Dawlance Deep Freezer DF-400 (Inverter)",
-    "price": 79500.0,
+    "price": 83200.0,
     "url": "https://japanelectronics.com.pk/products/dawlance-deep-freezer-df-400p-inverter",
     "available": false
   },
   {
     "name": "Dawlance Deep Freezer CF-91998-H Signature Inverter",
-    "price": 110000.0,
+    "price": 102000.0,
     "url": "https://japanelectronics.com.pk/products/dawlance-deep-freezer-cf-91998-h-signature-inverter",
     "available": false
   },
   {
     "name": "Dawlance Deep Freezer CF-91997 Signature Inverter",
-    "price": 99999.0,
+    "price": 97900.0,
     "url": "https://japanelectronics.com.pk/products/dawlance-deep-freezer-cf-91997-signature-inverter",
     "available": false
   },
   {
     "name": "Dawlance D.Freezer DF-500DD (Inverter White)",
-    "price": 97999.0,
+    "price": 102500.0,
     "url": "https://japanelectronics.com.pk/products/dawlance-d-freezer-df-500dd-inverter-white",
     "available": false
   },
@@ -4381,19 +4381,19 @@
   },
   {
     "name": "Dawlance Deep Freezer DF-400P Stucco PCM",
-    "price": 72800.0,
+    "price": 76600.0,
     "url": "https://japanelectronics.com.pk/products/dawlance-deep-freezer-df-400p-stucco-pcm",
     "available": false
   },
   {
     "name": "Dawlance Vertical Freezer 1035WB GD Avante+ Emerald Green",
-    "price": 97700.0,
+    "price": 98500.0,
     "url": "https://japanelectronics.com.pk/products/dawlance-vertical-freezer-1035wb-gd-avante-emerald-green",
     "available": true
   },
   {
     "name": "Dawlance Deep Freezer DF-300P (Inverter)",
-    "price": 73700.0,
+    "price": 77100.0,
     "url": "https://japanelectronics.com.pk/products/dawlance-deep-freezer-df-300p-inverter",
     "available": false
   },
@@ -4411,7 +4411,7 @@
   },
   {
     "name": "Dawlance Vertical Freezer 1035WB GD (Burgundy Honey Comb)",
-    "price": 96000.0,
+    "price": 100500.0,
     "url": "https://japanelectronics.com.pk/products/dawlance-vertical-freezer-1035wb-gd",
     "available": true
   },
@@ -4423,13 +4423,13 @@
   },
   {
     "name": "Dawlance Deep Freezer DF-300P Stucco PCM (White)",
-    "price": 68300.0,
+    "price": 71600.0,
     "url": "https://japanelectronics.com.pk/products/dawlance-deep-freezer-df-300p-stucco-pcm-white",
     "available": false
   },
   {
     "name": "Dawlance Deep Freezer DF-200P Stucco PCM",
-    "price": 62900.0,
+    "price": 66000.0,
     "url": "https://japanelectronics.com.pk/products/dawlance-deep-freezer-df-200p-stucco-pcm",
     "available": false
   },
@@ -5073,7 +5073,7 @@
     "name": "JBL Sound Bar BAR-1000MK2",
     "price": 325000.0,
     "url": "https://japanelectronics.com.pk/products/jbl-sound-bar-bar-1000mk2",
-    "available": false
+    "available": true
   },
   {
     "name": "Hisense Split AC Inverter 1.5 Ton 18TV60HC T3",
@@ -5167,19 +5167,19 @@
   },
   {
     "name": "DAWLANCE LED 43\" KORE FHD GOOGLE TV (SMART)",
-    "price": 71900.0,
+    "price": 76900.0,
     "url": "https://japanelectronics.com.pk/products/dawlance-led-43-kore-fhd-google-tv-smart",
     "available": false
   },
   {
     "name": "Dawlance LED 40\" Kore FHD Google TV (SMART)",
-    "price": 62900.0,
+    "price": 69900.0,
     "url": "https://japanelectronics.com.pk/products/dawlance-led-40-kore-fhd-google-tv-smart",
     "available": true
   },
   {
     "name": "Dawlance LED 32\" Kore FHD Google TV (SMART)",
-    "price": 47900.0,
+    "price": 55900.0,
     "url": "https://japanelectronics.com.pk/products/dawlance-led-32-kore-fhd-google-tv-smart",
     "available": true
   },
@@ -5349,7 +5349,7 @@
     "name": "Panasonic Split AC Inverter 1.0 Ton UE12XKF-9",
     "price": 129900.0,
     "url": "https://japanelectronics.com.pk/products/panasonic-split-ac-inverter-1-0-ton-ue12xkf-9",
-    "available": true
+    "available": false
   },
   {
     "name": "TCL Split AC Inverter 1.5 Ton TAC-18HEW-2",
@@ -5499,7 +5499,7 @@
     "name": "Dawlance Split AC Inverter 1.0 Ton Aeromax 15",
     "price": 103000.0,
     "url": "https://japanelectronics.com.pk/products/dawlance-split-ac-inverter-1-0-ton-aeromax-15",
-    "available": false
+    "available": true
   },
   {
     "name": "Waves Deep Freezer WDF-315/2150/2160 Regular Series",
@@ -5539,7 +5539,7 @@
   },
   {
     "name": "Dawlance D.Freezer (DF-400 Commercial White)",
-    "price": 91700.0,
+    "price": 95900.0,
     "url": "https://japanelectronics.com.pk/products/dawlance-d-freezer-df-400-commercial-white",
     "available": false
   },
@@ -5775,11 +5775,11 @@
     "name": "Dawlance Automatic Washing Machine DWT-14711 FLT",
     "price": 88000.0,
     "url": "https://japanelectronics.com.pk/products/dawlance-automatic-washing-machine-dwt-14711-flt",
-    "available": false
+    "available": true
   },
   {
     "name": "Dawlance Deep Freezer CF-91997 Signature Inverter in White",
-    "price": 99999.0,
+    "price": 97900.0,
     "url": "https://japanelectronics.com.pk/products/dawlance-deep-freezer-cf-91997-signature-inverter-in-white",
     "available": false
   },
@@ -5793,7 +5793,7 @@
     "name": "Kenwood Refrigerator Krf-22257/220-L (GD) New MRG Persona Plus",
     "price": 71000.0,
     "url": "https://japanelectronics.com.pk/products/kenwood-refrigerator-krf-22257-220-l-gd-new-mrg-persona-plus",
-    "available": false
+    "available": true
   },
   {
     "name": "Dawlance Refrigerator 91999 Avante + Silky Red (GD INV) IOT WIFI",
@@ -5845,7 +5845,7 @@
   },
   {
     "name": "Dawlance Deep Freezer CF-91998 Inverter (Grey)",
-    "price": 110000.0,
+    "price": 102000.0,
     "url": "https://japanelectronics.com.pk/products/dawlance-deep-freezer-cf-91998-inverter-grey",
     "available": false
   },
@@ -6549,7 +6549,7 @@
     "name": "Dawlance TAWM (DWT-255 White)",
     "price": 57900.0,
     "url": "https://japanelectronics.com.pk/products/dawlance-tawm-dwt-255-white",
-    "available": false
+    "available": true
   },
   {
     "name": "Pel Ref (PRGD-1400 EWSD) Pattern Mirror",
@@ -6801,7 +6801,7 @@
     "name": "Canon Fast Electric Geyser FEWH-25CZ",
     "price": 41000.0,
     "url": "https://japanelectronics.com.pk/products/canon-fast-electric-geyser-fewh-25cz",
-    "available": true
+    "available": false
   },
   {
     "name": "Canon Fast Electric Geyser FEWH-20 FE Gold",
@@ -6945,7 +6945,7 @@
     "name": "Midea Floor Standing AC 4.0 Ton Inverter (MFM-48HRDN1)",
     "price": 541900.0,
     "url": "https://japanelectronics.com.pk/products/midea-floor-standing-ac-4-0-ton-inverter-mfm-48hrdn1",
-    "available": true
+    "available": false
   },
   {
     "name": "Hisense AC Floor Standing Inverter 2.0 Ton 24UR4RJJ1",
@@ -7359,7 +7359,7 @@
     "name": "DeLonghi DEDICA Pump Espresso (EC-685 Black)",
     "price": 46900.0,
     "url": "https://japanelectronics.com.pk/products/delonghi-dedica-pump-espresso-ec-685-black",
-    "available": true
+    "available": false
   },
   {
     "name": "Kenwood Refrigerator Krf-23357/280-L New BKG Persona Plus",
@@ -7395,7 +7395,7 @@
     "name": "Kenwood Refrigerator Krf-Invertech-25557/400-L (GD) Mirror",
     "price": 116000.0,
     "url": "https://japanelectronics.com.pk/products/kenwood-refrigerator-krf-invertech-25557-400-l-gd-mirror",
-    "available": false
+    "available": true
   },
   {
     "name": "Kenwood Refrigerator Krf-Invertech-25557/400-L (GD) MRG",
@@ -7597,7 +7597,7 @@
   },
   {
     "name": "Beetro Electric & Gas Geyser 35 Gallon (FEG-35 9/10 Gauge)",
-    "price": 58000.0,
+    "price": 83000.0,
     "url": "https://japanelectronics.com.pk/products/beetro-electric-gas-geyser-35-gallon-feg-35-9-10-gauge",
     "available": true
   },
@@ -7701,7 +7701,7 @@
     "name": "Homage Washing Machine HW-49102 Glass Gray Diamond",
     "price": 32200.0,
     "url": "https://japanelectronics.com.pk/products/homage-washing-machine-hw-49102-glass-gray-diamond",
-    "available": true
+    "available": false
   },
   {
     "name": "Haier LED 43\" 43S81EUX (Q LED)",
@@ -8065,7 +8065,7 @@
   },
   {
     "name": "Dawlance LED 55\" Apollo",
-    "price": 139900.0,
+    "price": 151000.0,
     "url": "https://japanelectronics.com.pk/products/dawlance-led-55-apollo",
     "available": false
   },
@@ -8319,7 +8319,7 @@
     "name": "Black & Decker Air Fryer (AF-700 Digital)",
     "price": 48000.0,
     "url": "https://japanelectronics.com.pk/products/black-decker-air-fryer-af-700-digital",
-    "available": true
+    "available": false
   },
   {
     "name": "Electrolux Air Fryer (E6AF1-520K Digital)",
@@ -8583,7 +8583,7 @@
     "name": "Canon Fast Electric Geyser FEWH-25 LCF",
     "price": 32400.0,
     "url": "https://japanelectronics.com.pk/products/canon-fast-electric-geyser-fewh-25-lcf",
-    "available": true
+    "available": false
   },
   {
     "name": "Haier Ref HRF-518IFFB",
@@ -8631,7 +8631,7 @@
     "name": "ANEX Dry Iron (AG-2074)",
     "price": 4999.0,
     "url": "https://japanelectronics.com.pk/products/anex-dry-iron-ag-2074",
-    "available": true
+    "available": false
   },
   {
     "name": "ANEX Dough Maker (AG-2127)",
@@ -8751,7 +8751,7 @@
     "name": "Westpoint Hand Blender WF-9916",
     "price": 12100.0,
     "url": "https://japanelectronics.com.pk/products/westpoint-hand-blender-wf-9916",
-    "available": false
+    "available": true
   },
   {
     "name": "Westpoint Hand Blender WF-9915",
@@ -8959,19 +8959,19 @@
   },
   {
     "name": "Dawlance Microwave Oven (DW-395 HCG)",
-    "price": 26800.0,
+    "price": 27000.0,
     "url": "https://japanelectronics.com.pk/products/dawlance-microwave-oven-dw-395-hcg-1",
     "available": false
   },
   {
     "name": "Dawlance Microwave Oven (DW-393G)",
-    "price": 27000.0,
+    "price": 27500.0,
     "url": "https://japanelectronics.com.pk/products/dawlance-microwave-oven-dw-393g",
     "available": true
   },
   {
     "name": "Dawlance Microwave Oven (DW-133 RG)",
-    "price": 30500.0,
+    "price": 30600.0,
     "url": "https://japanelectronics.com.pk/products/dawlance-microwave-oven-dw-133-rg",
     "available": true
   },
@@ -10737,7 +10737,7 @@
     "name": "Nasgas Kitchen Hood KHD-330",
     "price": 34600.0,
     "url": "https://japanelectronics.com.pk/products/nasgas-kitchen-hood-khd-330",
-    "available": true
+    "available": false
   },
   {
     "name": "NASGAS Cooking Range ECO-534",
@@ -11283,7 +11283,7 @@
     "name": "Super Asia Washing Machine Big Wash SA-290",
     "price": 29600.0,
     "url": "https://japanelectronics.com.pk/products/super-asia-washing-machine-big-wash-sa-290",
-    "available": true
+    "available": false
   },
   {
     "name": "ANEX Vacuum Cleaner 2097 1600 Watts",
@@ -11317,7 +11317,7 @@
   },
   {
     "name": "Dawlance Microwave Oven DW-210 S Pro",
-    "price": 16499.0,
+    "price": 17100.0,
     "url": "https://japanelectronics.com.pk/products/dawlance-microwave-oven-dw-210-s-pro",
     "available": true
   },
@@ -11365,13 +11365,13 @@
   },
   {
     "name": "Dawlance Microwave Oven DW-MD4 Black (20 L)",
-    "price": 16900.0,
+    "price": 16500.0,
     "url": "https://japanelectronics.com.pk/products/dawlance-microwave-oven-dw-md4-black-20-l",
     "available": true
   },
   {
     "name": "Dawlance Microwave Oven DW-MD-20 (20 Ltr) Inverter",
-    "price": 15900.0,
+    "price": 16500.0,
     "url": "https://japanelectronics.com.pk/products/dawlance-microwave-oven-dw-md-20-20-ltr-inverter",
     "available": false
   },
@@ -11383,7 +11383,7 @@
   },
   {
     "name": "Dawlance Dish Washer DDW-868 CTB",
-    "price": 78400.0,
+    "price": 80200.0,
     "url": "https://japanelectronics.com.pk/products/dawlance-dish-washer-ddw-868-ctb",
     "available": true
   },
@@ -11497,7 +11497,7 @@
   },
   {
     "name": "Dawlance Microwave Oven DW-132 S Digital Solo",
-    "price": 29800.0,
+    "price": 30300.0,
     "url": "https://japanelectronics.com.pk/products/dawlance-microwave-oven-dw-132-s-digital-solo",
     "available": true
   },
@@ -11607,7 +11607,7 @@
     "name": "Kenwood Refrigerator Krf-Invertech-24457/320-L (GD) Mirror",
     "price": 103000.0,
     "url": "https://japanelectronics.com.pk/products/kenwood-ref-krf-invertech-24457-320-l-gd-mirror",
-    "available": false
+    "available": true
   },
   {
     "name": "Orient Split AC Inverter 1.5 Ton Ultron (King E-Comfort)",
@@ -12073,7 +12073,7 @@
   },
   {
     "name": "Dawlance Microwave Oven DW-550-AF Air Fryer Black",
-    "price": 44900.0,
+    "price": 45500.0,
     "url": "https://japanelectronics.com.pk/products/dawlance-microwave-oven-dw-550-af-air-fryer-black",
     "available": true
   },
@@ -12277,7 +12277,7 @@
   },
   {
     "name": "Dawlance Microwave Oven DW-210 S Solo White",
-    "price": 16300.0,
+    "price": 16600.0,
     "url": "https://japanelectronics.com.pk/products/dawlance-microwave-oven-dw-210-s-solo-white",
     "available": true
   },
@@ -12409,19 +12409,19 @@
   },
   {
     "name": "Dawlance Microwave Oven DW-297 GSS",
-    "price": 21700.0,
+    "price": 22000.0,
     "url": "https://japanelectronics.com.pk/products/dawlance-microwave-oven-dw-297-gss",
     "available": true
   },
   {
     "name": "Dawlance Microwave Oven DW-162HZP",
-    "price": 43900.0,
+    "price": 44000.0,
     "url": "https://japanelectronics.com.pk/products/dawlance-microwave-oven-dw-162hzp",
     "available": true
   },
   {
     "name": "Dawlance Microwave Oven DW-128 G",
-    "price": 32100.0,
+    "price": 32700.0,
     "url": "https://japanelectronics.com.pk/products/dawlance-microwave-oven-dw-128-g",
     "available": true
   },
@@ -12499,7 +12499,7 @@
   },
   {
     "name": "Dawlance Microwave Oven DW-MD15",
-    "price": 14700.0,
+    "price": 15300.0,
     "url": "https://japanelectronics.com.pk/products/dawlance-microwave-oven-dw-md15",
     "available": true
   },
@@ -12565,7 +12565,7 @@
   },
   {
     "name": "Dawlance Microwave Oven DW-131 HP",
-    "price": 34900.0,
+    "price": 35200.0,
     "url": "https://japanelectronics.com.pk/products/dawlance-microwave-oven-dw-131-hp",
     "available": true
   },
@@ -12673,7 +12673,7 @@
   },
   {
     "name": "Dawlance Microwave Oven DW-374",
-    "price": 24200.0,
+    "price": 24700.0,
     "url": "https://japanelectronics.com.pk/products/dawlance-microwave-oven-dw-374",
     "available": true
   },
@@ -12709,25 +12709,25 @@
   },
   {
     "name": "Dawlance Microwave Oven DW-220 S Solo",
-    "price": 16100.0,
+    "price": 16400.0,
     "url": "https://japanelectronics.com.pk/products/dawlance-microwave-oven-dw-220-s-solo",
     "available": true
   },
   {
     "name": "Dawlance Microwave Oven DW-295",
-    "price": 18300.0,
+    "price": 18400.0,
     "url": "https://japanelectronics.com.pk/products/dawlance-microwave-oven-dw-295",
     "available": false
   },
   {
     "name": "Dawlance Microwave Oven DW-MD-10",
-    "price": 15800.0,
+    "price": 16200.0,
     "url": "https://japanelectronics.com.pk/products/dawlance-microwave-oven-dw-md-10",
     "available": false
   },
   {
     "name": "Dawlance Microwave Oven DW-MD7",
-    "price": 15899.0,
+    "price": 16300.0,
     "url": "https://japanelectronics.com.pk/products/dawlance-microwave-oven-dw-md7",
     "available": true
   },
@@ -12745,7 +12745,7 @@
   },
   {
     "name": "Dawlance Microwave Oven DW-115 CHZ Plus",
-    "price": 37000.0,
+    "price": 37600.0,
     "url": "https://japanelectronics.com.pk/products/dawlance-microwave-oven-dw-115chz-plus",
     "available": true
   },
@@ -12765,7 +12765,7 @@
     "name": "NASGAS COOKING RANGE DG-534 5 BURNERS",
     "price": 57450.0,
     "url": "https://japanelectronics.com.pk/products/nasgas-cooking-range-dg-534-5-burners",
-    "available": true
+    "available": false
   },
   {
     "name": "ANEX Kettle AG-4048",
@@ -12781,21 +12781,21 @@
   },
   {
     "name": "Dawlance Microwave Oven DW-142 HZP",
-    "price": 40900.0,
+    "price": 41100.0,
     "url": "https://japanelectronics.com.pk/products/dawlance-microwave-oven-dw-142-hzp",
     "available": true
   },
   {
     "name": "Dawlance Microwave Oven DW-136 G",
-    "price": 33500.0,
+    "price": 33800.0,
     "url": "https://japanelectronics.com.pk/products/dawlance-microwave-oven-dw-136-g",
     "available": true
   },
   {
     "name": "Dawlance Microwave Oven DW-MD4",
-    "price": 15499.0,
+    "price": 16100.0,
     "url": "https://japanelectronics.com.pk/products/dawlance-microwave-oven-dw-md4",
-    "available": false
+    "available": true
   },
   {
     "name": "Dawlance Vacuum Cleaner DWVC 7500",

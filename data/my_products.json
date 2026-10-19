@@ -1,5 +1,17 @@
 [
   {
+    "name": "Haier LED 50\" 50S80GUX",
+    "price": 108000.0,
+    "url": "https://bismillahelectronics.pk/products/haier-led-50-50s80gux",
+    "available": true
+  },
+  {
+    "name": "Haier Led 50\" 50S80GFX",
+    "price": 89000.0,
+    "url": "https://bismillahelectronics.pk/products/haier-led-50-50s80gfx",
+    "available": true
+  },
+  {
     "name": "Haier Led 43\" 43S80GUX",
     "price": 91000.0,
     "url": "https://bismillahelectronics.pk/products/haier-led-43-43s80gux",
@@ -5893,7 +5905,7 @@
   },
   {
     "name": "Haier LED TV 43 Inch 43S81EUX (Q LED)",
-    "price": 90000.0,
+    "price": 91000.0,
     "url": "https://bismillahelectronics.pk/products/haier-led-43-inch-h43k85ffx-android-google-tv-copy",
     "available": true
   },

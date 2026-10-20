@@ -361,7 +361,7 @@
   },
   {
     "name": "Haier Split AC Inverter 1.0 Ton HSU-13HFN013 T3",
-    "price": 118000.0,
+    "price": 121000.0,
     "url": "https://japanelectronics.com.pk/products/haier-split-ac-inverter-1-0-ton-hsu-13hfn013-t3",
     "available": true
   },
@@ -777,7 +777,7 @@
     "name": "PEL Ref (PRINVOGDDT-21970 CGD Silver Strip Grey) Digitron Ultra Inverteron",
     "price": 121900.0,
     "url": "https://japanelectronics.com.pk/products/pel-ref-prinvogddt-21970-cgd-silver-strip-grey-digitron-ultra-inverteron",
-    "available": true
+    "available": false
   },
   {
     "name": "PEL Ref (PRINVOFGD-21870 Maroon Blaze) Flat Glass Inverteron",
@@ -2005,7 +2005,7 @@
   },
   {
     "name": "Haier Floor Standing AC 2.0 Ton HPU-24HE/012WSDC (X-IK) T3 Plus Inverter",
-    "price": 263000.0,
+    "price": 264000.0,
     "url": "https://japanelectronics.com.pk/products/haier-floor-standing-ac-2-0-ton-hpu-24he-012wsdc-x-ik-t3-plus-inverter",
     "available": true
   },
@@ -2239,13 +2239,13 @@
   },
   {
     "name": "Haier Split AC Inverter 1.0 Ton HSU-13HFS013 T3 Pro (Silver)",
-    "price": 126000.0,
+    "price": 128000.0,
     "url": "https://japanelectronics.com.pk/products/haier-split-ac-inverter-1-0-ton-hsu-13hfs013-t3-pro-silver",
     "available": true
   },
   {
     "name": "Haier Split AC Inverter 1.0 Ton HSU-13HFS013 T3 Pro (Golden)",
-    "price": 126000.0,
+    "price": 128000.0,
     "url": "https://japanelectronics.com.pk/products/haier-split-ac-inverter-1-0-ton-hsu-13hfs013-t3-pro-golden",
     "available": false
   },
@@ -2275,7 +2275,7 @@
   },
   {
     "name": "Haier split AC Inverter 1.0 Ton HSU-13HFCP023DC (White)",
-    "price": 111000.0,
+    "price": 112000.0,
     "url": "https://japanelectronics.com.pk/products/haier-split-ac-inverter-1-0-ton-hsu-13hfcp023dc-white",
     "available": true
   },
@@ -2581,7 +2581,7 @@
   },
   {
     "name": "Haier Split AC Inverter 1.5 Ton Solar Hybrid-IV (OW)-T3",
-    "price": 212000.0,
+    "price": 186000.0,
     "url": "https://japanelectronics.com.pk/products/haier-split-ac-inverter-1-5-ton-solar-hybrid-iv-ow-t3",
     "available": true
   },
@@ -3589,25 +3589,25 @@
   },
   {
     "name": "Haier Split AC Inverter 1.5 Ton Solar Hybrid-III (OW)-T3",
-    "price": 182000.0,
+    "price": 183000.0,
     "url": "https://japanelectronics.com.pk/products/haier-split-ac-inverter-1-5-ton-solar-hybrid-iii-ow-t3",
     "available": false
   },
   {
     "name": "Haier Split AC Inverter 1.5 Ton HSU-19HFS T3 Pro (Silver)",
-    "price": 156000.0,
+    "price": 159000.0,
     "url": "https://japanelectronics.com.pk/products/haier-split-ac-inverter-1-5-ton-hsu-19hfs-t3-pro-silver",
     "available": true
   },
   {
     "name": "Haier Split AC Inverter 1.5 Ton HSU-19HFS T3 Pro (Golden)",
-    "price": 156000.0,
+    "price": 159000.0,
     "url": "https://japanelectronics.com.pk/products/haier-split-ac-inverter-1-5-ton-hsu-19hfs-t3-pro-golden",
     "available": true
   },
   {
     "name": "Haier Split AC Inverter 1.5 Ton HSU-19HFS T3 Pro (White)",
-    "price": 151000.0,
+    "price": 154000.0,
     "url": "https://japanelectronics.com.pk/products/haier-split-ac-inverter-1-5-ton-hsu-19hfs-t3-pro-white",
     "available": true
   },
@@ -3873,7 +3873,7 @@
     "name": "Haier Microwave Oven HMW-20MX11",
     "price": 16900.0,
     "url": "https://japanelectronics.com.pk/products/haier-microwave-oven-hmw-20mx11",
-    "available": false
+    "available": true
   },
   {
     "name": "Haier Microwave Oven HMW-20MX12",
@@ -4975,7 +4975,7 @@
   },
   {
     "name": "Haier Split AC Inverter 1.0 Ton HSU-13HFS T3 Pro (White)",
-    "price": 122000.0,
+    "price": 124000.0,
     "url": "https://japanelectronics.com.pk/products/haier-split-ac-inverter-1-0-ton-hsu-13hfs-t3-pro-white",
     "available": false
   },
@@ -5061,7 +5061,7 @@
     "name": "Panasonic Hair Dryer EH-ND21-P615",
     "price": 8500.0,
     "url": "https://japanelectronics.com.pk/products/panasonic-hair-dryer-eh-nd21-p615",
-    "available": true
+    "available": false
   },
   {
     "name": "MultyNet LED 65\" 65IQ50 (Q LED)",
@@ -5317,7 +5317,7 @@
   },
   {
     "name": "Haier split AC Inverter 1.0 Ton HSU-13HFCA (White)",
-    "price": 111000.0,
+    "price": 112000.0,
     "url": "https://japanelectronics.com.pk/products/haier-split-ac-inverter-1-0-ton-hsu-13hfca-white",
     "available": true
   },
@@ -5335,7 +5335,7 @@
   },
   {
     "name": "Haier split AC Inverter 1.0 Ton HSU-13HFCS023DC (White)",
-    "price": 111000.0,
+    "price": 112000.0,
     "url": "https://japanelectronics.com.pk/products/haier-split-ac-inverter-1-0-ton-hsu-13hfcs-white",
     "available": true
   },
@@ -6487,7 +6487,7 @@
   },
   {
     "name": "Haier Split AC Inverter 1.0 Ton HSU-14HFTEX DG (T3)",
-    "price": 137000.0,
+    "price": 139000.0,
     "url": "https://japanelectronics.com.pk/products/haier-split-ac-inverter-1-0-ton-hsu-14hftex-dg-t3",
     "available": false
   },
@@ -6955,7 +6955,7 @@
   },
   {
     "name": "Haier Floor Standing AC 2.0 Ton HSU-24HJ/013/023USDC Inverter",
-    "price": 324000.0,
+    "price": 328000.0,
     "url": "https://japanelectronics.com.pk/products/haier-floor-standing-ac-2-0-ton-hsu-24hj-013-023usdc-inverter",
     "available": false
   },
@@ -9153,7 +9153,7 @@
     "name": "Dawlance Sandwich Toaster (DWT-4220W)",
     "price": 8300.0,
     "url": "https://japanelectronics.com.pk/products/dawlance-sandwich-toaster-dwt-4220w",
-    "available": true
+    "available": false
   },
   {
     "name": "ANEX Oven Toaster (AG-3080 Digital)",
@@ -9733,7 +9733,7 @@
   },
   {
     "name": "Haier Split AC Inverter 1.0 Ton HSU-13HFAB (T3) White",
-    "price": 122000.0,
+    "price": 124000.0,
     "url": "https://japanelectronics.com.pk/products/haier-split-ac-inverter-1-0-ton-hsu-13hfab-t3-white",
     "available": false
   },
@@ -9807,7 +9807,7 @@
     "name": "Haier LED 50\" 50S81EUX (Q LED)",
     "price": 108000.0,
     "url": "https://japanelectronics.com.pk/products/haier-led-50-50s81eux-q-led",
-    "available": true
+    "available": false
   },
   {
     "name": "TCL LED 55\" 55P6K (4K UHD)",
@@ -9901,13 +9901,13 @@
   },
   {
     "name": "Haier Split AC Inverter 2.0 Ton HSU-24HFAB (T3) Grey",
-    "price": 209000.0,
+    "price": 212000.0,
     "url": "https://japanelectronics.com.pk/products/haier-split-ac-inverter-2-0-ton-hsu-24hfab-t3-grey",
     "available": false
   },
   {
     "name": "Haier Split AC Inverter 1.5 Ton Solar Hybrid-III White",
-    "price": 182000.0,
+    "price": 183000.0,
     "url": "https://japanelectronics.com.pk/products/haier-split-ac-inverter-1-5-ton-solar-hybrid-iii-white",
     "available": false
   },
@@ -9979,7 +9979,7 @@
   },
   {
     "name": "Haier Split AC Inverter 2.0 Ton HSU-24HFAB",
-    "price": 203000.0,
+    "price": 206000.0,
     "url": "https://japanelectronics.com.pk/products/haier-split-ac-inverter-2-0-ton-hsu-24hfab",
     "available": true
   },
@@ -9997,31 +9997,31 @@
   },
   {
     "name": "Haier Split AC Inverter 1.5 Ton HSU-19HFCS023DC (White)",
-    "price": 126000.0,
+    "price": 127000.0,
     "url": "https://japanelectronics.com.pk/products/haier-split-ac-inverter-1-5-ton-hsu-19hfcs",
     "available": true
   },
   {
     "name": "Haier Split AC Inverter 1.5 Ton HSU-19HFCP023DC (White)",
-    "price": 126000.0,
+    "price": 127000.0,
     "url": "https://japanelectronics.com.pk/products/haier-split-ac-inverter-1-5-ton-hsu-19hfcp",
     "available": false
   },
   {
     "name": "Haier Split AC Inverter 1.5 Ton HSU-19HFCA",
-    "price": 126000.0,
+    "price": 127000.0,
     "url": "https://japanelectronics.com.pk/products/haier-split-ac-inverter-1-5-ton-hsu-19hfca",
     "available": true
   },
   {
     "name": "Haier Split AC Inverter 1.5 Ton HSU-19HFAB  White",
-    "price": 151000.0,
+    "price": 154000.0,
     "url": "https://japanelectronics.com.pk/products/haier-split-ac-inverter-1-5-ton-hsu-19hfab-white",
     "available": false
   },
   {
     "name": "Haier Split AC Inverter 1.5 Ton HSU-19HFAB Grey",
-    "price": 156000.0,
+    "price": 159000.0,
     "url": "https://japanelectronics.com.pk/products/haier-split-ac-inverter-1-5-ton-hsu-19hfab-grey",
     "available": true
   },
@@ -10039,13 +10039,13 @@
   },
   {
     "name": "Haier Split AC Inverter 1.5 Ton HSU-20HFTEX OW",
-    "price": 169000.0,
+    "price": 172000.0,
     "url": "https://japanelectronics.com.pk/products/haier-split-ac-inverter-1-5-ton-hsu-20hftex-ow",
     "available": true
   },
   {
     "name": "Haier Split AC Inverter 1.5 Ton HSU-20HFTEX DG",
-    "price": 175000.0,
+    "price": 178000.0,
     "url": "https://japanelectronics.com.pk/products/haier-split-ac-inverter-1-5-ton-hsu-20hftex-dg",
     "available": true
   },
@@ -10105,7 +10105,7 @@
   },
   {
     "name": "Haier Split AC Inverter 1.5 Ton HSU-19HFCM023DC (White)",
-    "price": 126000.0,
+    "price": 127000.0,
     "url": "https://japanelectronics.com.pk/products/haier-split-ac-inverter-1-5-ton-hsu-19hfcm",
     "available": true
   },
@@ -10123,7 +10123,7 @@
   },
   {
     "name": "Haier Split AC Inverter 1.0 Ton HSU-13HFAB (T3) Grey",
-    "price": 126000.0,
+    "price": 128000.0,
     "url": "https://japanelectronics.com.pk/products/haier-split-ac-inverter-1-0-ton-hsu-13hfab-t3-grey",
     "available": true
   },
@@ -10219,7 +10219,7 @@
   },
   {
     "name": "Haier Split AC Inverter 1.0 Ton HSU-14HFTEX OW (T3)",
-    "price": 133000.0,
+    "price": 135000.0,
     "url": "https://japanelectronics.com.pk/products/haier-split-ac-inverter-1-0-ton-hsu-14hftex-ow-t3",
     "available": true
   },
@@ -11917,7 +11917,7 @@
   },
   {
     "name": "Haier Split AC Inverter 2.0 Ton HSU-24HFCD",
-    "price": 196000.0,
+    "price": 198000.0,
     "url": "https://japanelectronics.com.pk/products/haier-split-ac-inverter-2-0-ton-hsu-24hfcd",
     "available": true
   },
@@ -12127,7 +12127,7 @@
   },
   {
     "name": "Haier Floor Standing AC Inverter 2.0 Ton HPU-24HE/WSDC (X-IK)",
-    "price": 263000.0,
+    "price": 264000.0,
     "url": "https://japanelectronics.com.pk/products/haier-floor-standing-ac-inverter-2-0-ton-hpu-24he-wsdc-x-ik",
     "available": false
   },

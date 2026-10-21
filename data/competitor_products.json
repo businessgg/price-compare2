@@ -1353,7 +1353,7 @@
     "name": "VATTI BUILT IN MWO (MO-311S 31LTR)",
     "price": 143000.0,
     "url": "https://japanelectronics.com.pk/products/vatti-built-in-mwo-mo-311s-31ltr",
-    "available": true
+    "available": false
   },
   {
     "name": "VATTI KITCHEN HOOD V-934-PK",
@@ -1515,7 +1515,7 @@
     "name": "Generaltec Cooking Range GCTR-98DFF",
     "price": 269900.0,
     "url": "https://japanelectronics.com.pk/products/generaltec-cooking-range-gctr-98dff",
-    "available": true
+    "available": false
   },
   {
     "name": "DAWLANCE KITCHEN HOB (DHG 590 BI)",
@@ -2841,7 +2841,7 @@
     "name": "Waves D.Freezer (WDF-318 Regular Series)",
     "price": 124600.0,
     "url": "https://japanelectronics.com.pk/products/waves-d-freezer-wdf-318-regular-series",
-    "available": false
+    "available": true
   },
   {
     "name": "DAWLANCE C.FREEZER (CF-91998-H INVERTER GD WICKER CHAM)",
@@ -3711,7 +3711,7 @@
     "name": "Beetro Gas Geyser 15 Gallon (FG-15 14/12 Gauge) Auto Ignition",
     "price": 47100.0,
     "url": "https://japanelectronics.com.pk/products/beetro-gas-geyser-15-gallon-fg-15-14-12-gauge-auto-ignition",
-    "available": true
+    "available": false
   },
   {
     "name": "Beetro Gas Geyser 25 Gallon (FG-25 14/12 Gauge) Auto Ignition",
@@ -4251,7 +4251,7 @@
     "name": "Waves Deep Freezer WINDFT-315 Inverter",
     "price": 105300.0,
     "url": "https://japanelectronics.com.pk/products/waves-deep-freezer-windft-315-inverter",
-    "available": false
+    "available": true
   },
   {
     "name": "Waves Deep Freezer WDF-315/2160 Cool Bank",
@@ -4305,7 +4305,7 @@
     "name": "Dawlance Deep Freezer HDF-500DD STUCCO PCM",
     "price": 90300.0,
     "url": "https://japanelectronics.com.pk/products/dawlance-deep-freezer-hdf-500dd-stucco-pcm",
-    "available": true
+    "available": false
   },
   {
     "name": "Dawlance Deep Freezer DF-400 (Inverter)",
@@ -5247,7 +5247,7 @@
     "name": "Samsung Refrigerator Side By Side RS70F64 KITAE",
     "price": 565000.0,
     "url": "https://japanelectronics.com.pk/products/samsung-refrigerator-side-by-side-rs70f64-kitae",
-    "available": true
+    "available": false
   },
   {
     "name": "HAIER SBS REF HRF-578TBG (IOT)",
@@ -5505,7 +5505,7 @@
     "name": "Waves Deep Freezer WDF-315/2150/2160 Regular Series",
     "price": 102000.0,
     "url": "https://japanelectronics.com.pk/products/waves-deep-freezer-wdf-315-2150-2160-regular-series",
-    "available": false
+    "available": true
   },
   {
     "name": "ANEX Air Fryer AG-2019 Black Over Heating Protection",
@@ -6837,7 +6837,7 @@
     "name": "Nasgas Electric Geyser (NEG-505 Plus)",
     "price": 26550.0,
     "url": "https://japanelectronics.com.pk/products/nasgas-electric-geyser-neg-505-plus",
-    "available": true
+    "available": false
   },
   {
     "name": "Nasgas Electric Geyser (NEG-404 Plus)",
@@ -7899,7 +7899,7 @@
     "name": "Canon Air Purifier (CHA-AP-01-265)",
     "price": 35900.0,
     "url": "https://japanelectronics.com.pk/products/canon-air-purifier-cha-ap-01-265",
-    "available": true
+    "available": false
   },
   {
     "name": "Bosch Side By Side REF KFN96VPEA",
@@ -9069,7 +9069,7 @@
     "name": "Super Asia TAWM (SA-812 I Graphite) Auto Inverter Metal",
     "price": 91500.0,
     "url": "https://japanelectronics.com.pk/products/super-asia-tawm-sa-812-i-graphite-auto-inverter-metal",
-    "available": true
+    "available": false
   },
   {
     "name": "Super Asia TAWM (SA-809P White) Metal",
@@ -9153,7 +9153,7 @@
     "name": "Dawlance Sandwich Toaster (DWT-4220W)",
     "price": 8300.0,
     "url": "https://japanelectronics.com.pk/products/dawlance-sandwich-toaster-dwt-4220w",
-    "available": false
+    "available": true
   },
   {
     "name": "ANEX Oven Toaster (AG-3080 Digital)",
@@ -9237,7 +9237,7 @@
     "name": "Panasonic Vacuum Cleaner (MC-YL635)",
     "price": 47499.0,
     "url": "https://japanelectronics.com.pk/products/panasonic-vacuum-cleaner-mc-yl635",
-    "available": true
+    "available": false
   },
   {
     "name": "Panasonic Vacuum Cleaner (MC-YL633)",
@@ -10201,7 +10201,7 @@
   },
   {
     "name": "Orient Split AC Inverter 1.0 Ton 12X Divine (Pristine)",
-    "price": 114999.0,
+    "price": 118900.0,
     "url": "https://japanelectronics.com.pk/products/orient-split-ac-inverter-1-0-ton-12x-divine-pristine",
     "available": true
   },
@@ -11199,7 +11199,7 @@
     "name": "Dawlance Hot Plate DWHP-3021 B",
     "price": 10600.0,
     "url": "https://japanelectronics.com.pk/products/dawlance-hot-plate-dwhp-3021-b",
-    "available": false
+    "available": true
   },
   {
     "name": "Dawlance Hot Plate DWHP-3021 W",

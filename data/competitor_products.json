@@ -75,7 +75,7 @@
     "name": "ANEX BLENDER & GRINDER (AG-695)",
     "price": 7290.0,
     "url": "https://japanelectronics.com.pk/products/anex-blender-grinder-ag-695",
-    "available": true
+    "available": false
   },
   {
     "name": "Kenwood Microwave Oven (MWP-20.030SI 20Ltr)",
@@ -1515,7 +1515,7 @@
     "name": "Generaltec Cooking Range GCTR-98DFF",
     "price": 269900.0,
     "url": "https://japanelectronics.com.pk/products/generaltec-cooking-range-gctr-98dff",
-    "available": false
+    "available": true
   },
   {
     "name": "DAWLANCE KITCHEN HOB (DHG 590 BI)",
@@ -1945,13 +1945,13 @@
   },
   {
     "name": "Beetro Built in Oven MAS-1010 (Electric + Gas)",
-    "price": 128600.0,
+    "price": 116900.0,
     "url": "https://japanelectronics.com.pk/products/beetro-built-in-oven-mas-1010-electric-gas-75-ltr",
     "available": false
   },
   {
     "name": "Beetro Built in Oven MAS-1020 (Electric + Gas)",
-    "price": 135700.0,
+    "price": 123500.0,
     "url": "https://japanelectronics.com.pk/products/beetro-built-in-oven-mas-1020-electric-gas-75-ltr",
     "available": true
   },
@@ -2751,7 +2751,7 @@
     "name": "Dawlance LED 50\" Canvas (4K UHD)",
     "price": 89900.0,
     "url": "https://japanelectronics.com.pk/products/dawlance-led-50-canvas-4k-uhd",
-    "available": true
+    "available": false
   },
   {
     "name": "Homage Ref HRI-47662/480 Crystal Inverter Mirror",
@@ -4281,7 +4281,7 @@
     "name": "Haier D.Freezer (HDF-545 Inverter)",
     "price": 133500.0,
     "url": "https://japanelectronics.com.pk/products/haier-deep-freezer-hdf-545i-inverter",
-    "available": false
+    "available": true
   },
   {
     "name": "Haier Deep Freezer HDF-285SD-01",
@@ -4735,31 +4735,31 @@
   },
   {
     "name": "Beetro Kitchen Hob (Mas-09) 3 BRN S.Steel",
-    "price": 31900.0,
+    "price": 29100.0,
     "url": "https://japanelectronics.com.pk/products/beetro-kitchen-hob-mas-09-3-brn-s-steel",
     "available": false
   },
   {
     "name": "Beetro Kitchen Hob (Mas-35) 3 BRN BK Steel (Sabaf)",
-    "price": 26100.0,
+    "price": 23900.0,
     "url": "https://japanelectronics.com.pk/products/beetro-kitchen-hob-mas-35-3-brn-bk-steel-sabaf",
     "available": false
   },
   {
     "name": "Beetro Kitchen Hob (RD-31000 Timer) 3 BRN Steel (EPS + Safety)",
-    "price": 49300.0,
+    "price": 44800.0,
     "url": "https://japanelectronics.com.pk/products/beetro-kitchen-hob-rd-31000-timer-3-brn-steel-eps-safety",
     "available": false
   },
   {
     "name": "Beetro Kitchen Hob (RD-3938) 3 BRN Glass",
-    "price": 55700.0,
+    "price": 50800.0,
     "url": "https://japanelectronics.com.pk/products/beetro-kitchen-hob-rd-3938-3-brn-glass",
     "available": false
   },
   {
     "name": "Beetro Kitchen Hob 329(RD-3329) 3 BRN Glass",
-    "price": 37100.0,
+    "price": 33900.0,
     "url": "https://japanelectronics.com.pk/products/beetro-kitchen-hob-329rd-3329-3-brn-glass",
     "available": false
   },
@@ -4801,13 +4801,13 @@
   },
   {
     "name": "Beetro Kitchen Hood 155/106 (CH-3404 THS BF) 34\" Touch T-Shape",
-    "price": 50000.0,
+    "price": 45400.0,
     "url": "https://japanelectronics.com.pk/products/beetro-kitchen-hood-155-106-ch-3404-ths-bf-34-touch-t-shape",
     "available": false
   },
   {
     "name": "Beetro Kitchen Hood 503 (RD-3403 THS) 34\" Touch + Hand Sensor",
-    "price": 40000.0,
+    "price": 36500.0,
     "url": "https://japanelectronics.com.pk/products/beetro-kitchen-hood-503-rd-3403-ths-34-touch-hand-sensor",
     "available": true
   },
@@ -4897,7 +4897,7 @@
   },
   {
     "name": "Beetro Cooking Range 34\" (WB-11000) 5 BRN GLS Top S.Door",
-    "price": 98100.0,
+    "price": 89300.0,
     "url": "https://japanelectronics.com.pk/products/beetro-cooking-range-34-wb-11000-5-brn-gls-top-s-door",
     "available": true
   },
@@ -11199,7 +11199,7 @@
     "name": "Dawlance Hot Plate DWHP-3021 B",
     "price": 10600.0,
     "url": "https://japanelectronics.com.pk/products/dawlance-hot-plate-dwhp-3021-b",
-    "available": true
+    "available": false
   },
   {
     "name": "Dawlance Hot Plate DWHP-3021 W",
@@ -11743,7 +11743,7 @@
   },
   {
     "name": "Beetro Kitchen Hob 22(Mas-522) 5 BRN Glass (Sabaf)",
-    "price": 48400.0,
+    "price": 44100.0,
     "url": "https://japanelectronics.com.pk/products/beetro-kitchen-hob-22mas-522-5-brn-glass-sabaf",
     "available": true
   },
@@ -11833,7 +11833,7 @@
   },
   {
     "name": "Beetro Kitchen Hood X-40 (MAS-3456 THS) 34\" Touch + Hand Sensor (Dual Motor)",
-    "price": 80000.0,
+    "price": 72700.0,
     "url": "https://japanelectronics.com.pk/products/beetro-kitchen-hood-x-40-mas-3456-ths-34-touch-hand-sensor-dual-motor",
     "available": false
   },
@@ -11851,61 +11851,61 @@
   },
   {
     "name": "Beetro Kitchen Hood G-20 (MAS-3404 THS Plus) 34\" Touch T-Shape",
-    "price": 70000.0,
+    "price": 63800.0,
     "url": "https://japanelectronics.com.pk/products/beetro-kitchen-hood-g-20-mas-3404-ths-plus-34-touch-t-shape",
     "available": false
   },
   {
     "name": "Beetro Kitchen Hood 455 (CH-3455 THS) 34\" Touch + Hand Sensor",
-    "price": 54300.0,
+    "price": 49400.0,
     "url": "https://japanelectronics.com.pk/products/beetro-kitchen-hood-455-ch-3455-ths-34-touch-hand-sensor",
     "available": true
   },
   {
     "name": "Beetro Kitchen Hood (MAS-3457 THS) 34\" Touch + Hand Sensor",
-    "price": 76400.0,
+    "price": 69500.0,
     "url": "https://japanelectronics.com.pk/products/beetro-kitchen-hood-mas-3457-ths-34-touch-hand-sensor",
     "available": false
   },
   {
     "name": "Beetro Kitchen Hood (CH-2903 Ths) 29\" Touch + Hand Sensor",
-    "price": 35700.0,
+    "price": 32500.0,
     "url": "https://japanelectronics.com.pk/products/beetro-kitchen-hood-ch-2903-ths-29-touch-hand-sensor",
     "available": false
   },
   {
     "name": "Beetro Kitchen Hood (CH-2901 PB) 29\" Manual",
-    "price": 31400.0,
+    "price": 28700.0,
     "url": "https://japanelectronics.com.pk/products/beetro-kitchen-hood-ch-2901-pb-29-manual",
     "available": false
   },
   {
     "name": "Beetro Kitchen Hood (CH-2703 Ths) 27\" Touch + Hand Sensor",
-    "price": 37100.0,
+    "price": 33900.0,
     "url": "https://japanelectronics.com.pk/products/beetro-kitchen-hood-ch-2703-ths-27-touch-hand-sensor",
     "available": true
   },
   {
     "name": "Beetro Kitchen Hood (CH-2701 PB) 27\" Manual",
-    "price": 27200.0,
+    "price": 28600.0,
     "url": "https://japanelectronics.com.pk/products/beetro-kitchen-hood-ch-2701-pb-27-manual",
     "available": false
   },
   {
     "name": "Beetro Cooking Range 34\" (WB-9999) 5 BRN GLS Top S.Door (Timer)",
-    "price": 86400.0,
+    "price": 78700.0,
     "url": "https://japanelectronics.com.pk/products/beetro-cooking-range-34-wb-9999-5-brn-gls-top-s-door-timer",
     "available": true
   },
   {
     "name": "Beetro Cooking Range 34\" (WB-8000) 3 BRN GLS Top S.Door",
-    "price": 75100.0,
+    "price": 68500.0,
     "url": "https://japanelectronics.com.pk/products/beetro-cooking-range-34-wb-8000-3-brn-gls-top-s-door",
     "available": true
   },
   {
     "name": "Beetro Cooking Range 34\" (WB-786) 5 BRN Metal Top D.Door",
-    "price": 55300.0,
+    "price": 50200.0,
     "url": "https://japanelectronics.com.pk/products/beetro-cooking-range-34-wb-786-5-brn-metal-top-d-door",
     "available": true
   },
@@ -11923,37 +11923,37 @@
   },
   {
     "name": "Beetro Cooking Range 34\" (WB-6500) 5 BRN GLS Top S.Door",
-    "price": 69000.0,
+    "price": 63600.0,
     "url": "https://japanelectronics.com.pk/products/beetro-cooking-range-34-wb-6500-5-brn-gls-top-s-door",
     "available": true
   },
   {
     "name": "Beetro Cooking Range 34\" (WB-6002) 3 BRN GLS Top D.Door",
-    "price": 75100.0,
+    "price": 68000.0,
     "url": "https://japanelectronics.com.pk/products/beetro-cooking-range-34-wb-6002-3-brn-gls-top-d-door",
     "available": true
   },
   {
     "name": "Beetro Cooking Range 34\" (WB-5000 Auto) 3 BRN Metal Top D.Door",
-    "price": 65600.0,
+    "price": 59600.0,
     "url": "https://japanelectronics.com.pk/products/beetro-cooking-range-34-wb-5000-auto-3-brn-metal-top-d-door",
     "available": true
   },
   {
     "name": "Beetro Cooking Range 34\" (WB-4000) 5 BRN GLS Top S.Door (Timer)",
-    "price": 69700.0,
+    "price": 63500.0,
     "url": "https://japanelectronics.com.pk/products/beetro-cooking-range-34-wb-4000-5-brn-gls-top-s-door-timer",
     "available": true
   },
   {
     "name": "Beetro Cooking Range 27\" (WB-777) 3 BRN Metal Top S.Door",
-    "price": 44300.0,
+    "price": 40200.0,
     "url": "https://japanelectronics.com.pk/products/beetro-cooking-range-27-wb-777-3-brn-metal-top-s-door",
     "available": true
   },
   {
     "name": "Beetro Cooking Range 27\" (WB-500) 3 BRN GLS Top S.Door",
-    "price": 58100.0,
+    "price": 52800.0,
     "url": "https://japanelectronics.com.pk/products/beetro-cooking-range-27-wb-500-3-brn-gls-top-s-door",
     "available": true
   },

@@ -1653,7 +1653,7 @@
     "name": "Bosch Dish Washer (SMS4HMI65M Silver)",
     "price": 290000.0,
     "url": "https://japanelectronics.com.pk/products/bosch-dish-washer-sms4hmi65m-silver",
-    "available": true
+    "available": false
   },
   {
     "name": "REMINGTON HAIR DRYER D5901",
@@ -1915,7 +1915,7 @@
   },
   {
     "name": "HISENSE LED 85\" 85Q6N (Q LED)",
-    "price": 419900.0,
+    "price": 459000.0,
     "url": "https://japanelectronics.com.pk/products/hisense-led-85-85q6n-q-led",
     "available": false
   },
@@ -2089,7 +2089,7 @@
   },
   {
     "name": "LG LED 65\" 65UA8450PSA (4K UHD)",
-    "price": 230000.0,
+    "price": 250000.0,
     "url": "https://japanelectronics.com.pk/products/lg-led-65-65ua8450psa-4k-uhd",
     "available": true
   },
@@ -3219,7 +3219,7 @@
     "name": "PEL V.FREEZER (PVF-7D BRUSHED METALLIC GREY)",
     "price": 83900.0,
     "url": "https://japanelectronics.com.pk/products/pel-v-freezer-pvf-7d-brushed-metallic-grey",
-    "available": true
+    "available": false
   },
   {
     "name": "HAIER MICROWAVE OVEN (HMW-26MGH)",
@@ -9069,7 +9069,7 @@
     "name": "Super Asia TAWM (SA-812 I Graphite) Auto Inverter Metal",
     "price": 91500.0,
     "url": "https://japanelectronics.com.pk/products/super-asia-tawm-sa-812-i-graphite-auto-inverter-metal",
-    "available": false
+    "available": true
   },
   {
     "name": "Super Asia TAWM (SA-809P White) Metal",
@@ -10125,7 +10125,7 @@
     "name": "Haier Split AC Inverter 1.0 Ton HSU-13HFAB (T3) Grey",
     "price": 128000.0,
     "url": "https://japanelectronics.com.pk/products/haier-split-ac-inverter-1-0-ton-hsu-13hfab-t3-grey",
-    "available": true
+    "available": false
   },
   {
     "name": "ECOSTAR LED 55\" CX-55Q966 (Q-LED)",
@@ -10669,7 +10669,7 @@
   },
   {
     "name": "Dawlance Air Fryer DWAF-6321 L",
-    "price": 21900.0,
+    "price": 20900.0,
     "url": "https://japanelectronics.com.pk/products/dawlance-air-fryer-dwaf-6321-l",
     "available": true
   },
@@ -12379,7 +12379,7 @@
   },
   {
     "name": "Kenwood Washing Machine KWM-899W",
-    "price": 22400.0,
+    "price": 23000.0,
     "url": "https://japanelectronics.com.pk/products/kenwood-washing-machine-kwm-899w",
     "available": false
   },

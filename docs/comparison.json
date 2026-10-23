@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-23T02:42:06.150977+00:00",
+  "last_updated": "2026-10-23T08:07:11.666613+00:00",
   "my_store_name": "Bismillah Electronics",
   "competitor_name": "Japan Electronics",
   "total_my_products": 1445,
@@ -7610,7 +7610,7 @@
     },
     {
       "product_name": "Anex Dough Maker AG-2127",
-      "my_price": 14500.0,
+      "my_price": 16900.0,
       "my_available": true,
       "my_url": "https://bismillahelectronics.pk/products/anex-dough-maker-ag-2127",
       "competitor_name": "ANEX Dough Maker (AG-2127)",
@@ -7619,7 +7619,7 @@
       "competitor_url": "https://japanelectronics.com.pk/products/anex-dough-maker-ag-2127",
       "match_confidence": 84.0,
       "status": "matched",
-      "price_diff": -2440.0,
+      "price_diff": -40.0,
       "cheaper": "us"
     },
     {
@@ -12440,7 +12440,7 @@
     },
     {
       "product_name": "Anex Vacuum Cleaner AG 2097",
-      "my_price": 25000.0,
+      "my_price": 24600.0,
       "my_available": true,
       "my_url": "https://bismillahelectronics.pk/products/anex-vacuum-cleaner-ag-2097",
       "competitor_name": "ANEX Vacuum Cleaner 2093",
@@ -12449,12 +12449,12 @@
       "competitor_url": "https://japanelectronics.com.pk/products/anex-vacuum-cleaner-2093",
       "match_confidence": 78.4,
       "status": "matched",
-      "price_diff": -900.0,
+      "price_diff": -1300.0,
       "cheaper": "us"
     },
     {
       "product_name": "Anex Vacuum Cleaner AG 2093",
-      "my_price": 22500.0,
+      "my_price": 23700.0,
       "my_available": true,
       "my_url": "https://bismillahelectronics.pk/products/anex-vacuum-cleaner-ag-2093",
       "competitor_name": "ANEX Vacuum Cleaner 2093",
@@ -12463,12 +12463,12 @@
       "competitor_url": "https://japanelectronics.com.pk/products/anex-vacuum-cleaner-2093",
       "match_confidence": 82.4,
       "status": "matched",
-      "price_diff": -3400.0,
+      "price_diff": -2200.0,
       "cheaper": "us"
     },
     {
       "product_name": "Anex Vacuum Cleaner AG 2098",
-      "my_price": 27100.0,
+      "my_price": 2700.0,
       "my_available": true,
       "my_url": "https://bismillahelectronics.pk/products/anex-vacuum-cleaner-ag-2098",
       "competitor_name": "ANEX Vacuum Cleaner 2093",
@@ -12477,12 +12477,12 @@
       "competitor_url": "https://japanelectronics.com.pk/products/anex-vacuum-cleaner-2093",
       "match_confidence": 78.4,
       "status": "matched",
-      "price_diff": 1200.0,
-      "cheaper": "competitor"
+      "price_diff": -23200.0,
+      "cheaper": "us"
     },
     {
       "product_name": "Anex Vacuum Cleaner AG 2099",
-      "my_price": 32600.0,
+      "my_price": 31000.0,
       "my_available": true,
       "my_url": "https://bismillahelectronics.pk/products/anex-vacuum-cleaner-ag-2099",
       "competitor_name": "ANEX Vacuum Cleaner 2093",
@@ -12491,7 +12491,7 @@
       "competitor_url": "https://japanelectronics.com.pk/products/anex-vacuum-cleaner-2093",
       "match_confidence": 78.4,
       "status": "matched",
-      "price_diff": 6700.0,
+      "price_diff": 5100.0,
       "cheaper": "competitor"
     },
     {

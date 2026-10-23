@@ -1041,7 +1041,7 @@
     "name": "KENWOOD REF KRF-26757/453-L (GD) SMART INVERTER BKG",
     "price": 125000.0,
     "url": "https://japanelectronics.com.pk/products/kenwood-ref-krf-26757-453-l-gd-smart-inverter-bkg",
-    "available": true
+    "available": false
   },
   {
     "name": "KENWOOD REF KRF-25657/453-L (GD) SMART INVERTER BKG",
@@ -1063,7 +1063,7 @@
   },
   {
     "name": "Homage Ref HRF-47662/480-L (GD) MRG New Crystal Series",
-    "price": 117400.0,
+    "price": 119800.0,
     "url": "https://japanelectronics.com.pk/products/homage-ref-hrf-47662-480-l-gd-mrg-new-crystal-series",
     "available": true
   },
@@ -2593,7 +2593,7 @@
   },
   {
     "name": "Gree Split AC Inverter 1.5 Ton GS-18AITH21W-T3",
-    "price": 210000.0,
+    "price": 206900.0,
     "url": "https://japanelectronics.com.pk/products/gree-split-ac-inverter-1-5-ton-gs-18aith21w-t3",
     "available": true
   },
@@ -2607,7 +2607,7 @@
     "name": "PEL D.Freezer (PDIN70-180 Inverter On)",
     "price": 111900.0,
     "url": "https://japanelectronics.com.pk/products/pel-d-freezer-pdin70-180-inverter-on",
-    "available": true
+    "available": false
   },
   {
     "name": "PEL D.Freezer (PDFT70-155 Pro Freeze) Light Grey",
@@ -2755,67 +2755,67 @@
   },
   {
     "name": "Homage Ref HRI-47662/480 Crystal Inverter Mirror",
-    "price": 122100.0,
+    "price": 124500.0,
     "url": "https://japanelectronics.com.pk/products/homage-ref-hri-47662-480-crystal-inverter-mirror",
     "available": true
   },
   {
     "name": "Homage Ref HRI-47552/400 Crystal Inverter Mirror",
-    "price": 113900.0,
+    "price": 116200.0,
     "url": "https://japanelectronics.com.pk/products/homage-ref-hri-47552-400-crystal-inverter-mirror",
     "available": true
   },
   {
     "name": "Homage Ref HRI-47332/280 Crystal Inverter Mirror",
-    "price": 93500.0,
+    "price": 95400.0,
     "url": "https://japanelectronics.com.pk/products/homage-ref-hri-47332-280-crystal-inverter-mirror-1-yrw",
     "available": true
   },
   {
     "name": "Homage Ref HR-47782/-L (GD) Tech Inverter MRG (R-550)",
-    "price": 132100.0,
+    "price": 134700.0,
     "url": "https://japanelectronics.com.pk/products/homage-ref-hr-47782-l-gd-tech-inverter-mrg-r-550",
     "available": true
   },
   {
     "name": "Homage Ref HR-47782/-L (GD) Tech Inverter BKG (R-550)",
-    "price": 132100.0,
+    "price": 134700.0,
     "url": "https://japanelectronics.com.pk/products/homage-ref-hr-47782-l-gd-tech-inverter-bkg-r-550",
     "available": true
   },
   {
     "name": "Homage Ref HR-47672/453-L (GD) Tech Inverter BKG (R-450)",
-    "price": 125000.0,
+    "price": 127400.0,
     "url": "https://japanelectronics.com.pk/products/homage-ref-hr-47672-453-l-gd-tech-inverter-bkg-r-450",
     "available": true
   },
   {
     "name": "Homage Ref HR-47672/453-L (GD) Tech Inverter MRG (R-450)",
-    "price": 125000.0,
+    "price": 127400.0,
     "url": "https://japanelectronics.com.pk/products/homage-ref-hr-47672-453-l-gd-tech-inverter-mrg-r-450",
     "available": true
   },
   {
     "name": "Homage Ref HR-47562/453-L (GD) Tech Inverter MRG (R-410)",
-    "price": 118800.0,
+    "price": 121100.0,
     "url": "https://japanelectronics.com.pk/products/homage-ref-hr-47562-453-l-gd-tech-inverter-mrg-r-410",
     "available": true
   },
   {
     "name": "Homage Ref HR-47562/453-L (GD) Tech Inverter BKG (R-410)",
-    "price": 118800.0,
+    "price": 121100.0,
     "url": "https://japanelectronics.com.pk/products/homage-ref-hr-47562-453-l-gd-tech-inverter-bkg-r-410",
     "available": true
   },
   {
     "name": "Homage Ref HR-47452/368-L (GD) Tech Inverter MRG (R-310)",
-    "price": 109000.0,
+    "price": 111100.0,
     "url": "https://japanelectronics.com.pk/products/homage-ref-hr-47452-368-l-gd-tech-inverter-mrg-r-310",
     "available": true
   },
   {
     "name": "Homage Ref HR-47452/368-L (GD) Tech Inverter BKG (R-310)",
-    "price": 109000.0,
+    "price": 111100.0,
     "url": "https://japanelectronics.com.pk/products/homage-ref-hr-47452-368-l-gd-tech-inverter-bkg-r-310",
     "available": true
   },
@@ -3417,7 +3417,7 @@
     "name": "Gree Split AC Inverter 1.5 Ton GS-18AITH24S-T3",
     "price": 254900.0,
     "url": "https://japanelectronics.com.pk/products/gree-split-ac-inverter-1-5-ton-gs-18aith24s-t3",
-    "available": true
+    "available": false
   },
   {
     "name": "Dawlance REF 9193 Acce Pro Meadow Green",
@@ -3741,7 +3741,7 @@
     "name": "Canon Fast Electric Geyser FEWH-30 LCM",
     "price": 35400.0,
     "url": "https://japanelectronics.com.pk/products/canon-fast-electric-geyser-fewh-30-lcm",
-    "available": true
+    "available": false
   },
   {
     "name": "Canon Fast Electric Geyser FEWH-15 LCM",
@@ -4233,7 +4233,7 @@
     "name": "TCL LED 50 50S51K (Q LED)",
     "price": 92000.0,
     "url": "https://japanelectronics.com.pk/products/tcl-led-50-50s51k-q-led",
-    "available": true
+    "available": false
   },
   {
     "name": "Samsung LED 55\" CY-55Q70DAUSMZ (4K + Smart)",
@@ -4981,7 +4981,7 @@
   },
   {
     "name": "GREE SPLIT AC INVERTER 1.5 TON GS-18AITH21B",
-    "price": 210000.0,
+    "price": 206900.0,
     "url": "https://japanelectronics.com.pk/products/gree-split-ac-inverter-1-5-ton-gs-18aith21b",
     "available": true
   },
@@ -5169,7 +5169,7 @@
     "name": "DAWLANCE LED 43\" KORE FHD GOOGLE TV (SMART)",
     "price": 76900.0,
     "url": "https://japanelectronics.com.pk/products/dawlance-led-43-kore-fhd-google-tv-smart",
-    "available": false
+    "available": true
   },
   {
     "name": "Dawlance LED 40\" Kore FHD Google TV (SMART)",
@@ -5229,7 +5229,7 @@
     "name": "GREE SPLIT AC INVERTER 2.0 TON GS-24AITH21B",
     "price": 264900.0,
     "url": "https://japanelectronics.com.pk/products/gree-split-ac-inverter-2-0-ton-gs-24aith21b",
-    "available": true
+    "available": false
   },
   {
     "name": "Samsung Refrigerator Side By Side RS70F65QETTR (Metal)",
@@ -5401,7 +5401,7 @@
   },
   {
     "name": "Gree AC Floor Standing Inverter 3.0 Ton GF-36TFIH AA+",
-    "price": 459000.0,
+    "price": 449000.0,
     "url": "https://japanelectronics.com.pk/products/gree-ac-floor-standing-inverter-3-0-ton-gf-36tfih-aa",
     "available": true
   },
@@ -6315,7 +6315,7 @@
     "name": "DAWLANCE REF 9101 SD (METALLIC GREY)",
     "price": 42000.0,
     "url": "https://japanelectronics.com.pk/products/dawlance-ref-9101-sd-metallic-grey",
-    "available": false
+    "available": true
   },
   {
     "name": "DAWLANCE HAND BLENDER DWHB-475 W",
@@ -6655,13 +6655,13 @@
   },
   {
     "name": "Homage W.M (HWM-4991 White)",
-    "price": 21200.0,
+    "price": 21800.0,
     "url": "https://japanelectronics.com.pk/products/homage-w-m-hwm-4991-white",
     "available": true
   },
   {
     "name": "Homage W.M (HWM-49112 Glass Blue Bubbles)",
-    "price": 36100.0,
+    "price": 37300.0,
     "url": "https://japanelectronics.com.pk/products/homage-w-m-hwm-49112-glass-blue-bubbles",
     "available": true
   },
@@ -7699,7 +7699,7 @@
   },
   {
     "name": "Homage Washing Machine HW-49102 Glass Gray Diamond",
-    "price": 32200.0,
+    "price": 33400.0,
     "url": "https://japanelectronics.com.pk/products/homage-washing-machine-hw-49102-glass-gray-diamond",
     "available": false
   },
@@ -8067,7 +8067,7 @@
     "name": "Dawlance LED 55\" Apollo",
     "price": 151000.0,
     "url": "https://japanelectronics.com.pk/products/dawlance-led-55-apollo",
-    "available": false
+    "available": true
   },
   {
     "name": "Sony Sound Bar S500RF",
@@ -10315,7 +10315,7 @@
   },
   {
     "name": "Homage Refrigerator HRI-47442/320 Crystal Inverter Mirror",
-    "price": 102700.0,
+    "price": 104700.0,
     "url": "https://japanelectronics.com.pk/products/homage-refrigerator-hri-47442-320-crystal-inverter-mirror",
     "available": true
   },
@@ -10957,7 +10957,7 @@
   },
   {
     "name": "Gree Floor Standing AC Inverter 4.0 Ton GF-48TFIH AA+",
-    "price": 620000.0,
+    "price": 608000.0,
     "url": "https://japanelectronics.com.pk/products/gree-floor-standing-ac-inverter-4-0-ton-gf-48tfih-aa",
     "available": false
   },
@@ -12133,7 +12133,7 @@
   },
   {
     "name": "Gree AC Floor Standing Inverter 2.0 Ton GF-24ISH AA+",
-    "price": 408000.0,
+    "price": 399000.0,
     "url": "https://japanelectronics.com.pk/products/gree-floor-standing-ac-inverter-2-0-ton-gf-24ish-aa",
     "available": false
   },
@@ -12441,7 +12441,7 @@
     "name": "Royal Washing Machine RWM-1012",
     "price": 25900.0,
     "url": "https://japanelectronics.com.pk/products/royal-washing-machine-rwm-1012",
-    "available": false
+    "available": true
   },
   {
     "name": "Royal Washing Machine RW-1016FT",
@@ -12453,7 +12453,7 @@
     "name": "Royal Washing Machine RW-1014",
     "price": 29800.0,
     "url": "https://japanelectronics.com.pk/products/royal-washing-machine-rw-1014",
-    "available": false
+    "available": true
   },
   {
     "name": "Haier Automatic Washing Machine HS150-B1978S9",
@@ -12717,13 +12717,13 @@
     "name": "Dawlance Microwave Oven DW-295",
     "price": 18400.0,
     "url": "https://japanelectronics.com.pk/products/dawlance-microwave-oven-dw-295",
-    "available": false
+    "available": true
   },
   {
     "name": "Dawlance Microwave Oven DW-MD-10",
     "price": 16200.0,
     "url": "https://japanelectronics.com.pk/products/dawlance-microwave-oven-dw-md-10",
-    "available": false
+    "available": true
   },
   {
     "name": "Dawlance Microwave Oven DW-MD7",

@@ -153,7 +153,7 @@
     "name": "IFFALCON LED 65\" 65U85A (Mini QLED)",
     "price": 209000.0,
     "url": "https://japanelectronics.com.pk/products/iffalcon-led-65-65u85a-mini-qled",
-    "available": true
+    "available": false
   },
   {
     "name": "IFFALCON LED 85\" 85U65A Pro (QLED)",
@@ -1041,7 +1041,7 @@
     "name": "KENWOOD REF KRF-26757/453-L (GD) SMART INVERTER BKG",
     "price": 125000.0,
     "url": "https://japanelectronics.com.pk/products/kenwood-ref-krf-26757-453-l-gd-smart-inverter-bkg",
-    "available": false
+    "available": true
   },
   {
     "name": "KENWOOD REF KRF-25657/453-L (GD) SMART INVERTER BKG",
@@ -1383,7 +1383,7 @@
     "name": "VATTI GAS HOB C-730G",
     "price": 87000.0,
     "url": "https://japanelectronics.com.pk/products/vatti-gas-hob-c-730g",
-    "available": true
+    "available": false
   },
   {
     "name": "NASGAS KITCHEN HOB (DG-227 GT)",
@@ -1509,7 +1509,7 @@
     "name": "HAIER KITCHEN HOB (HCC-Q67366 GL)",
     "price": 47000.0,
     "url": "https://japanelectronics.com.pk/products/haier-kitchen-hob-hcc-q67366-gl",
-    "available": true
+    "available": false
   },
   {
     "name": "Generaltec Cooking Range GCTR-98DFF",
@@ -2487,7 +2487,7 @@
     "name": "Beetro Kitchen Robot (BKR-7802) 3 IN 1",
     "price": 24000.0,
     "url": "https://japanelectronics.com.pk/products/beetro-kitchen-robot-bkr-7802-3-in-1",
-    "available": true
+    "available": false
   },
   {
     "name": "Beetro Kitchen Robot (BKR-1201)",
@@ -2655,7 +2655,7 @@
     "name": "Haier SBS Ref HRF-578TSG (Silver)",
     "price": 210000.0,
     "url": "https://japanelectronics.com.pk/products/haier-sbs-ref-hrf-578tsg-silver",
-    "available": false
+    "available": true
   },
   {
     "name": "Orient Water Dispenser (Crystal 3 Triangle Black)",
@@ -3837,7 +3837,7 @@
     "name": "Haier Microwave Oven (HMW-20DGS)",
     "price": 22000.0,
     "url": "https://japanelectronics.com.pk/products/haier-microwave-oven-hmw-20dgs",
-    "available": false
+    "available": true
   },
   {
     "name": "Haier Microwave Oven HMW-20MWS",
@@ -3879,7 +3879,7 @@
     "name": "Haier Microwave Oven HMW-20MX12",
     "price": 17500.0,
     "url": "https://japanelectronics.com.pk/products/haier-microwave-oven-hmw-20mx12",
-    "available": false
+    "available": true
   },
   {
     "name": "Orient Split AC Inverter 1.5 Ton 18X Snow (EMAX)",
@@ -4623,7 +4623,7 @@
     "name": "Westpoint Sandwich Toaster (WF-6293)",
     "price": 10500.0,
     "url": "https://japanelectronics.com.pk/products/westpoint-sandwich-toaster-wf-6293",
-    "available": false
+    "available": true
   },
   {
     "name": "Westpoint Sandwich Maker WF-6686",
@@ -5169,7 +5169,7 @@
     "name": "DAWLANCE LED 43\" KORE FHD GOOGLE TV (SMART)",
     "price": 76900.0,
     "url": "https://japanelectronics.com.pk/products/dawlance-led-43-kore-fhd-google-tv-smart",
-    "available": true
+    "available": false
   },
   {
     "name": "Dawlance LED 40\" Kore FHD Google TV (SMART)",
@@ -8665,9 +8665,9 @@
   },
   {
     "name": "Westpoint Vacuum Cleaner (WF-104)",
-    "price": 21900.0,
+    "price": 24500.0,
     "url": "https://japanelectronics.com.pk/products/westpoint-vacuum-cleaner-wf-104",
-    "available": false
+    "available": true
   },
   {
     "name": "Westpoint Steam Iron WF-2065",
@@ -8847,7 +8847,7 @@
     "name": "Westpoint Electric Kettle WF-6172",
     "price": 8800.0,
     "url": "https://japanelectronics.com.pk/products/westpoint-electric-kettle-wf-6172",
-    "available": false
+    "available": true
   },
   {
     "name": "Westpoint Electric Kettle WF-6171",
@@ -8865,7 +8865,7 @@
     "name": "Westpoint Chopper WF-495C",
     "price": 14900.0,
     "url": "https://japanelectronics.com.pk/products/westpoint-chopper-wf-495c",
-    "available": false
+    "available": true
   },
   {
     "name": "Westpoint Chopper WF-1097",
@@ -8949,7 +8949,7 @@
     "name": "Haier Microwave Oven (HMW-20MPB)",
     "price": 14000.0,
     "url": "https://japanelectronics.com.pk/products/haier-microwave-oven-hmw-20mpb",
-    "available": false
+    "available": true
   },
   {
     "name": "Haier Microwave Oven (HMW-20DSS)",
@@ -12345,7 +12345,7 @@
     "name": "Dawlance Dry Iron DWDI-1020 Black",
     "price": 7500.0,
     "url": "https://japanelectronics.com.pk/products/dawlance-dry-iron-dwdi-1020-black",
-    "available": true
+    "available": false
   },
   {
     "name": "Panasonic Steam Iron NI-M300T Blue",
@@ -12505,7 +12505,7 @@
   },
   {
     "name": "Remington Hair Straightener S3500",
-    "price": 9500.0,
+    "price": 8400.0,
     "url": "https://japanelectronics.com.pk/products/remington-hair-straightener-s3500",
     "available": true
   },

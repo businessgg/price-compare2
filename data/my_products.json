@@ -1,5 +1,29 @@
 [
   {
+    "name": "TCL LED TV 65 Inch 65P79K (Q LED)",
+    "price": 242900.0,
+    "url": "https://bismillahelectronics.pk/products/tcl-led-tv-65-inch-65p79k-q-led",
+    "available": true
+  },
+  {
+    "name": "Haier LED TV 65 Inch 65M90EUX (Mini Q LED)",
+    "price": 320000.0,
+    "url": "https://bismillahelectronics.pk/products/haier-led-65-inch-65m80fux-mini-q-led-copy",
+    "available": true
+  },
+  {
+    "name": "Haier LED TV 55 Inch 55S900UX",
+    "price": 216000.0,
+    "url": "https://bismillahelectronics.pk/products/haier-led-tv-55-inch-55s900ux",
+    "available": true
+  },
+  {
+    "name": "Haier LED 50\" 50S80GUX",
+    "price": 108000.0,
+    "url": "https://bismillahelectronics.pk/products/haier-led-50-50s80gux",
+    "available": true
+  },
+  {
     "name": "Xiaomi Led 43\" 43A PRO QLED 2026",
     "price": 99900.0,
     "url": "https://bismillahelectronics.pk/products/xiaomi-led-43-43a-pro-qled-2026",
@@ -121,7 +145,7 @@
   },
   {
     "name": "Eco Star LED 32\" 32Q875 QLED",
-    "price": 51900.0,
+    "price": 49600.0,
     "url": "https://bismillahelectronics.pk/products/eco-star-led-32-32q875-qled",
     "available": true
   },
@@ -2082,24 +2106,6 @@
     "available": true
   },
   {
-    "name": "Samsung LED TV 50 Inch CY-50DU8000USWK",
-    "price": 157900.0,
-    "url": "https://bismillahelectronics.pk/products/samsug-led-tv-50-inch-cy-50du8000uswk",
-    "available": true
-  },
-  {
-    "name": "Samsung LED TV 55 Inch CY-55DU8000USMZ",
-    "price": 189900.0,
-    "url": "https://bismillahelectronics.pk/products/samsug-led-tv-55-inch-cy-55du8000usmz",
-    "available": true
-  },
-  {
-    "name": "Samsung LED TV 65 Inch CY-65DU8000",
-    "price": 264900.0,
-    "url": "https://bismillahelectronics.pk/products/samsug-led-tv-65-inch-cy-65du8000",
-    "available": true
-  },
-  {
     "name": "Samsung LED TV 85 Inch 85DU8000",
     "price": 630900.0,
     "url": "https://bismillahelectronics.pk/products/samsug-led-tv-85-inch-85du8000",
@@ -2107,7 +2113,7 @@
   },
   {
     "name": "Samsung LED TV 65 Inch CY-65Q70DAUSMZ (4K + Smart)",
-    "price": 307900.0,
+    "price": 300000.0,
     "url": "https://bismillahelectronics.pk/products/samsug-led-tv-65-inch-cy-65q70dausmz-4k-smart",
     "available": true
   },
@@ -2115,12 +2121,6 @@
     "name": "Samsung LED TV 75 Inch 75Q80D (Q LED)",
     "price": 619900.0,
     "url": "https://bismillahelectronics.pk/products/samsug-led-tv-675-inch-75q80d-q-led",
-    "available": true
-  },
-  {
-    "name": "Samsung LED TV 75 Inch CY-75DU7000 (Crystal UHD)",
-    "price": 370000.0,
-    "url": "https://bismillahelectronics.pk/products/samsug-led-tv-75-inch-cy-75du7000-crystal-uhd",
     "available": true
   },
   {
@@ -2829,12 +2829,6 @@
     "name": "Canon Built-In Microwave Oven BOV-25E",
     "price": 95000.0,
     "url": "https://bismillahelectronics.pk/products/canon-built-in-microwave-oven-bov-25e",
-    "available": true
-  },
-  {
-    "name": "EcoStar LED TV 32 Inch CX-32U871",
-    "price": 58700.0,
-    "url": "https://bismillahelectronics.pk/products/ecostar-led-tv-32-inch-cx-32u871",
     "available": true
   },
   {
@@ -5005,37 +4999,31 @@
   },
   {
     "name": "EcoStar LED TV 43 Inch CX-43UD962",
-    "price": 99900.0,
+    "price": 103000.0,
     "url": "https://bismillahelectronics.pk/products/ecostar-led-tv-43-inch-cx-43ud962",
     "available": true
   },
   {
-    "name": "EcoStar LED TV 50 Inch CX-50UD962",
-    "price": 118900.0,
-    "url": "https://bismillahelectronics.pk/products/ecostar-led-tv-50-inch-cx-50ud962",
-    "available": true
-  },
-  {
     "name": "EcoStar LED TV 65 Inch 65M980 (4K UHD)",
-    "price": 239900.0,
+    "price": 250000.0,
     "url": "https://bismillahelectronics.pk/products/dawlance-led-tv-65-inch-65m980-4k-uhd",
     "available": true
   },
   {
     "name": "Dawlance LED TV 32 Inch 32KORE (HD)",
-    "price": 49000.0,
+    "price": 50000.0,
     "url": "https://bismillahelectronics.pk/products/dawlance-led-tv-32-inch-32kore-hd",
     "available": true
   },
   {
     "name": "Dawlance LED TV 40 Inch 40KORE (FHD)",
-    "price": 66100.0,
+    "price": 66300.0,
     "url": "https://bismillahelectronics.pk/products/dawlance-led-tv-40-inch-40kore-fhd",
     "available": true
   },
   {
     "name": "Dawlance LED TV 43 Inch 43KORE (FHD)",
-    "price": 75000.0,
+    "price": 75300.0,
     "url": "https://bismillahelectronics.pk/products/dawlance-led-tv-43-inch-43kore-fhd",
     "available": true
   },
@@ -5047,7 +5035,7 @@
   },
   {
     "name": "Dawlance LED TV 50 Inch 50PrisMAX (Q LED)",
-    "price": 99900.0,
+    "price": 86900.0,
     "url": "https://bismillahelectronics.pk/products/dawlance-led-tv-50-inch-50prismax-q-led",
     "available": true
   },
@@ -5077,25 +5065,25 @@
   },
   {
     "name": "Panasonic LED TV 65 Inch TH65MX740M (4K Google)",
-    "price": 230000.0,
+    "price": 199999.0,
     "url": "https://bismillahelectronics.pk/products/panasonic-led-tv-65-inch-th65mx740m-4k-google",
     "available": true
   },
   {
     "name": "Samsung LED TV 55 Inch 55U8000F (Crystal UHD)",
-    "price": 184000.0,
+    "price": 151900.0,
     "url": "https://bismillahelectronics.pk/products/samsung-led-tv-55-inch-55u8000f-crystal-uhd",
     "available": true
   },
   {
     "name": "Samsung LED TV 55 Inch QA-55Q7FAAUSMM (Q LED)",
-    "price": 260000.0,
+    "price": 230000.0,
     "url": "https://bismillahelectronics.pk/products/samsung-led-tv-55-inch-qa-55q7faausmm-q-led",
     "available": true
   },
   {
     "name": "Samsung LED TV 55 Inch 55U8000F (Crystal UHD)",
-    "price": 184000.0,
+    "price": 151900.0,
     "url": "https://bismillahelectronics.pk/products/samsug-led-tv-55-inch-55u8000f-crystal-uhd",
     "available": true
   },
@@ -5880,12 +5868,6 @@
     "available": true
   },
   {
-    "name": "Haier LED TV 98 Inch 98S90EUX (Q LED)",
-    "price": 830000.0,
-    "url": "https://bismillahelectronics.pk/products/haier-led-tv-98-inch-98s90eux-q-led",
-    "available": true
-  },
-  {
     "name": "Haier LED TV 85 Inch H85S800UX (Q LED TV)",
     "price": 415000.0,
     "url": "https://bismillahelectronics.pk/products/haier-led-tv-85-inch-h85s800ux-q-led-tv",
@@ -5893,25 +5875,25 @@
   },
   {
     "name": "Haier LED TV 75 Inch 75S80EUX (Q LED)",
-    "price": 275000.0,
+    "price": 271000.0,
     "url": "https://bismillahelectronics.pk/products/haier-led-tv-75-inch-75s80eux-q-led",
     "available": true
   },
   {
     "name": "Haier LED TV 65 Inch 65S81EUX (Q LED)",
-    "price": 195000.0,
+    "price": 190000.0,
     "url": "https://bismillahelectronics.pk/products/haier-led-tv-65-inch-65s81eux-q-led",
     "available": true
   },
   {
     "name": "Haier LED TV 65 Inch 65S80EUX (Q LED)",
-    "price": 195000.0,
+    "price": 190000.0,
     "url": "https://bismillahelectronics.pk/products/haier-led-tv-65-inch-65s80eux-q-led",
     "available": true
   },
   {
     "name": "Haier LED TV 55 Inch 55S81EUX (Q LED)",
-    "price": 126000.0,
+    "price": 127000.0,
     "url": "https://bismillahelectronics.pk/products/haier-led-tv-55-inch-55s81eux-q-led",
     "available": true
   },
@@ -5929,7 +5911,7 @@
   },
   {
     "name": "Haier LED TV 75 Inch 75M80FUX (Mini Q LED)",
-    "price": 305000.0,
+    "price": 320000.0,
     "url": "https://bismillahelectronics.pk/products/haier-led-75-inch-75m80fux-mini-q-led",
     "available": true
   },
@@ -5977,7 +5959,7 @@
   },
   {
     "name": "Haier LED TV 55 Inch 55K85FUX",
-    "price": 112500.0,
+    "price": 116000.0,
     "url": "https://bismillahelectronics.pk/products/haier-led-tv-55-inch-55k85fux",
     "available": true
   },
@@ -6109,13 +6091,13 @@
   },
   {
     "name": "Samsung LED TV 55 Inch CY-55Q60DAUSMZ (4K + Smart)",
-    "price": 199000.0,
+    "price": 200000.0,
     "url": "https://bismillahelectronics.pk/products/samsug-led-tv-55-inch-cy-55q60dausmz-4k-smart",
     "available": true
   },
   {
     "name": "Samsung LED TV 65 Inch 65DU7000 (Crystal UHD)",
-    "price": 207900.0,
+    "price": 263000.0,
     "url": "https://bismillahelectronics.pk/products/samsug-led-tv-65-inch-65du7000-crystal-uhd",
     "available": true
   },
@@ -6127,13 +6109,13 @@
   },
   {
     "name": "Samsung LED TV 50 Inch 50DU7000 (Crystal UHD)",
-    "price": 165000.0,
+    "price": 175000.0,
     "url": "https://bismillahelectronics.pk/products/samsug-led-tv-50-inch-50du7000-crystal-uhd",
     "available": true
   },
   {
     "name": "Samsung LED TV 65 Inch 65U8000F (Crystal UHD)",
-    "price": 285000.0,
+    "price": 229999.0,
     "url": "https://bismillahelectronics.pk/products/samsug-led-tv-65-inch-65u8000f-crystal-uhd",
     "available": true
   },

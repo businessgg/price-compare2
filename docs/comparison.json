@@ -1,10 +1,10 @@
 {
-  "last_updated": "2026-10-25T05:32:06.647901+00:00",
+  "last_updated": "2026-10-25T10:26:33.111165+00:00",
   "my_store_name": "Bismillah Electronics",
   "competitor_name": "Japan Electronics",
-  "total_my_products": 1436,
+  "total_my_products": 1422,
   "total_competitor_products": 2151,
-  "matched_count": 1016,
+  "matched_count": 1005,
   "results": [
     {
       "product_name": "TCL LED TV 65 Inch 65P79K (Q LED)",
@@ -1671,20 +1671,6 @@
       "status": "matched",
       "price_diff": 0.0,
       "cheaper": "same"
-    },
-    {
-      "product_name": "TCL LED TV 55 Inch 55C655",
-      "my_price": 200500.0,
-      "my_available": true,
-      "my_url": "https://bismillahelectronics.pk/products/tcl-led-tv-55-inch-55c655",
-      "competitor_name": null,
-      "competitor_price": null,
-      "competitor_available": null,
-      "competitor_url": null,
-      "match_confidence": 0,
-      "status": "only_us",
-      "price_diff": null,
-      "cheaper": null
     },
     {
       "product_name": "Haier Ref HRF-246 IPG (GREEN)",
@@ -4333,34 +4319,6 @@
       "cheaper": "competitor"
     },
     {
-      "product_name": "Haier LED TV 32 Inch H32D2M/MS (Miracast TV)",
-      "my_price": 39700.0,
-      "my_available": true,
-      "my_url": "https://bismillahelectronics.pk/products/haier-led-tv-32-inch-h32d2m-ms-miracast-tv",
-      "competitor_name": "Haier LED 32 H32D2M/MS (Miracast TV)",
-      "competitor_price": 39900.0,
-      "competitor_available": false,
-      "competitor_url": "https://japanelectronics.com.pk/products/haier-led-32-h32d2m-ms-miracast-tv",
-      "match_confidence": 90.0,
-      "status": "matched",
-      "price_diff": -200.0,
-      "cheaper": "us"
-    },
-    {
-      "product_name": "Haier LED TV 40 Inch 40K66FG",
-      "my_price": 64400.0,
-      "my_available": true,
-      "my_url": "https://bismillahelectronics.pk/products/haier-led-tv-40-inch-40k66fg",
-      "competitor_name": "Haier LED 43 TV Inch H43P7UX",
-      "competitor_price": 74900.0,
-      "competitor_available": false,
-      "competitor_url": "https://japanelectronics.com.pk/products/haier-led-43-tv-inch-h43p7ux",
-      "match_confidence": 75.0,
-      "status": "matched",
-      "price_diff": -10500.0,
-      "cheaper": "us"
-    },
-    {
       "product_name": "Haier Deep Freezer HDF-285 IG",
       "my_price": 83000.0,
       "my_available": true,
@@ -4415,34 +4373,6 @@
       "status": "only_us",
       "price_diff": null,
       "cheaper": null
-    },
-    {
-      "product_name": "Haier LED TV 75 Inch H75S800UX (Q LED)",
-      "my_price": 349900.0,
-      "my_available": true,
-      "my_url": "https://bismillahelectronics.pk/products/haier-led-tv-75-inch-h75s800ux-q-led",
-      "competitor_name": "Haier LED 85\" H85S800UX (Q LED TV)",
-      "competitor_price": 415000.0,
-      "competitor_available": false,
-      "competitor_url": "https://japanelectronics.com.pk/products/haier-led-85-h85s800ux-q-led-tv",
-      "match_confidence": 83.3,
-      "status": "matched",
-      "price_diff": -65100.0,
-      "cheaper": "us"
-    },
-    {
-      "product_name": "Haier LED TV 48 Inch H48S800UX (Q LED)",
-      "my_price": 104900.0,
-      "my_available": true,
-      "my_url": "https://bismillahelectronics.pk/products/haier-led-tv-48-inch-h48s800ux-q-led",
-      "competitor_name": "Haier LED 85\" H85S800UX (Q LED TV)",
-      "competitor_price": 415000.0,
-      "competitor_available": false,
-      "competitor_url": "https://japanelectronics.com.pk/products/haier-led-85-h85s800ux-q-led-tv",
-      "match_confidence": 83.3,
-      "status": "matched",
-      "price_diff": -310100.0,
-      "cheaper": "us"
     },
     {
       "product_name": "Haier 1.0 Ton AC Candy CSU-12HF DC",
@@ -4754,7 +4684,7 @@
     },
     {
       "product_name": "Dawlance LED TV 55 Inch - Apollo",
-      "my_price": 157500.0,
+      "my_price": 136000.0,
       "my_available": true,
       "my_url": "https://bismillahelectronics.pk/products/dawlance-led-tv-55-inch-apollo",
       "competitor_name": "Dawlance LED 55\" Apollo",
@@ -4763,106 +4693,8 @@
       "competitor_url": "https://japanelectronics.com.pk/products/dawlance-led-55-apollo",
       "match_confidence": 80.0,
       "status": "matched",
-      "price_diff": 6500.0,
-      "cheaper": "competitor"
-    },
-    {
-      "product_name": "Dawlance LED TV 65 Inch - Apollo",
-      "my_price": 225000.0,
-      "my_available": true,
-      "my_url": "https://bismillahelectronics.pk/products/dawlance-led-tv-65-inch-apollo",
-      "competitor_name": "Dawlance LED 65\" Apollo",
-      "competitor_price": 159900.0,
-      "competitor_available": false,
-      "competitor_url": "https://japanelectronics.com.pk/products/dawlance-led-65-apollo",
-      "match_confidence": 80.0,
-      "status": "matched",
-      "price_diff": 65100.0,
-      "cheaper": "competitor"
-    },
-    {
-      "product_name": "Dawlance LED TV 55 Inch - Delta Series",
-      "my_price": 174900.0,
-      "my_available": true,
-      "my_url": "https://bismillahelectronics.pk/products/dawlance-led-tv-55-inch-delta-series",
-      "competitor_name": "Dawlance LED 55\" Delta Series",
-      "competitor_price": 175400.0,
-      "competitor_available": false,
-      "competitor_url": "https://japanelectronics.com.pk/products/dawlance-led-55-delta-series",
-      "match_confidence": 83.6,
-      "status": "matched",
-      "price_diff": -500.0,
+      "price_diff": -15000.0,
       "cheaper": "us"
-    },
-    {
-      "product_name": "Dawlance LED TV 65 Inch - Delta Series",
-      "my_price": 250000.0,
-      "my_available": true,
-      "my_url": "https://bismillahelectronics.pk/products/dawlance-led-tv-65-inch-delta-series",
-      "competitor_name": "Dawlance LED 65\" Delta Series",
-      "competitor_price": 250400.0,
-      "competitor_available": false,
-      "competitor_url": "https://japanelectronics.com.pk/products/dawlance-led-65-delta-series",
-      "match_confidence": 83.6,
-      "status": "matched",
-      "price_diff": -400.0,
-      "cheaper": "us"
-    },
-    {
-      "product_name": "Dawlance LED TV 75 Inch - Delta Series SE",
-      "my_price": 335600.0,
-      "my_available": true,
-      "my_url": "https://bismillahelectronics.pk/products/dawlance-led-tv-75-inch-delta-series-se",
-      "competitor_name": "Dawlance LED 75\" Delta Series SE",
-      "competitor_price": 310900.0,
-      "competitor_available": false,
-      "competitor_url": "https://japanelectronics.com.pk/products/dawlance-led-75-delta-series-se",
-      "match_confidence": 84.9,
-      "status": "matched",
-      "price_diff": 24700.0,
-      "cheaper": "competitor"
-    },
-    {
-      "product_name": "EcoStar LED TV 32 Inch CX-32Q873 (Q LED)",
-      "my_price": 42900.0,
-      "my_available": true,
-      "my_url": "https://bismillahelectronics.pk/products/eco-star-led-tv-32-inch-cx-32q873-q-led",
-      "competitor_name": null,
-      "competitor_price": null,
-      "competitor_available": null,
-      "competitor_url": null,
-      "match_confidence": 0,
-      "status": "only_us",
-      "price_diff": null,
-      "cheaper": null
-    },
-    {
-      "product_name": "EcoStar LED TV 43 Inch CX-43Q873 (Q LED)",
-      "my_price": 69500.0,
-      "my_available": true,
-      "my_url": "https://bismillahelectronics.pk/products/eco-star-led-tv-43-inch-cx-43q873-q-led",
-      "competitor_name": null,
-      "competitor_price": null,
-      "competitor_available": null,
-      "competitor_url": null,
-      "match_confidence": 0,
-      "status": "only_us",
-      "price_diff": null,
-      "cheaper": null
-    },
-    {
-      "product_name": "EcoStar LED TV 65 Inch CX-65Q964",
-      "my_price": 192900.0,
-      "my_available": true,
-      "my_url": "https://bismillahelectronics.pk/products/eco-star-led-tv-65-inch-cx-65q964",
-      "competitor_name": "Ecostar LED 50\" CX-50Q964",
-      "competitor_price": 99900.0,
-      "competitor_available": false,
-      "competitor_url": "https://japanelectronics.com.pk/products/ecostar-led-50-cx-50q964",
-      "match_confidence": 73.7,
-      "status": "matched",
-      "price_diff": 93000.0,
-      "cheaper": "competitor"
     },
     {
       "product_name": "Hisense LED TV 43 Inch 43A4N (FHD Google TV)",
@@ -4879,20 +4711,6 @@
       "cheaper": "us"
     },
     {
-      "product_name": "Hisense LED TV 75 Inch 75Q6N",
-      "my_price": 315000.0,
-      "my_available": true,
-      "my_url": "https://bismillahelectronics.pk/products/hisense-led-tv-75-inch-75q6n",
-      "competitor_name": "Hisense LED 75\" 75Q6N",
-      "competitor_price": 285300.0,
-      "competitor_available": true,
-      "competitor_url": "https://japanelectronics.com.pk/products/hisense-led-75-75q6n",
-      "match_confidence": 81.6,
-      "status": "matched",
-      "price_diff": 29700.0,
-      "cheaper": "competitor"
-    },
-    {
       "product_name": "Hisense LED TV 50 Inch 50A6K (4K UHD Google TV)",
       "my_price": 125000.0,
       "my_available": true,
@@ -4904,20 +4722,6 @@
       "match_confidence": 89.7,
       "status": "matched",
       "price_diff": 23000.0,
-      "cheaper": "competitor"
-    },
-    {
-      "product_name": "Samsung LED TV 32 Inch UA32T5300AUSMM (Smart)",
-      "my_price": 64000.0,
-      "my_available": true,
-      "my_url": "https://bismillahelectronics.pk/products/samsug-led-tv-32-inch-ua32t5300ausmm-smart",
-      "competitor_name": "Samsung LED 32\" UA32T5300AUSMM (Smart)",
-      "competitor_price": 63400.0,
-      "competitor_available": false,
-      "competitor_url": "https://japanelectronics.com.pk/products/samsung-led-32-ua32t5300ausmm-smart",
-      "match_confidence": 89.2,
-      "status": "matched",
-      "price_diff": 600.0,
       "cheaper": "competitor"
     },
     {
@@ -14316,7 +14120,7 @@
     },
     {
       "product_name": "Hisense LED TV 65 Inch 65Q6N",
-      "my_price": 195000.0,
+      "my_price": 183000.0,
       "my_available": true,
       "my_url": "https://bismillahelectronics.pk/products/hisense-led-tv-65-inch-65q6n",
       "competitor_name": "Hisense LED 65\" 65Q6N",
@@ -14325,12 +14129,12 @@
       "competitor_url": "https://japanelectronics.com.pk/products/hisense-led-65-65q6n",
       "match_confidence": 81.6,
       "status": "matched",
-      "price_diff": -9900.0,
+      "price_diff": -21900.0,
       "cheaper": "us"
     },
     {
       "product_name": "Hisense LED TV 40 Inch 40A4N (FHD Google TV)",
-      "my_price": 62000.0,
+      "my_price": 59900.0,
       "my_available": true,
       "my_url": "https://bismillahelectronics.pk/products/hisense-led-tv-40-inch-40a4n-fhd-google-tv",
       "competitor_name": "Hisense LED 40\" 40A4N (FHD Google TV)",
@@ -14339,12 +14143,12 @@
       "competitor_url": "https://japanelectronics.com.pk/products/hisense-led-40-40a4n-fhd-google-tv",
       "match_confidence": 88.9,
       "status": "matched",
-      "price_diff": -8000.0,
+      "price_diff": -10100.0,
       "cheaper": "us"
     },
     {
       "product_name": "Hisense LED TV 43 Inch 43Q6N (Q LED)",
-      "my_price": 104900.0,
+      "my_price": 88000.0,
       "my_available": true,
       "my_url": "https://bismillahelectronics.pk/products/hisense-led-tv-43-inch-43q6n-q-led",
       "competitor_name": "Hisense LED 43\" 43Q6N (Q LED)",
@@ -14353,7 +14157,7 @@
       "competitor_url": "https://japanelectronics.com.pk/products/hisense-led-43-43q6n-q-led",
       "match_confidence": 86.2,
       "status": "matched",
-      "price_diff": 25000.0,
+      "price_diff": 8100.0,
       "cheaper": "competitor"
     },
     {
@@ -14372,7 +14176,7 @@
     },
     {
       "product_name": "Hisense LED TV 55 Inch 55Q6N (Q LED)",
-      "my_price": 133000.0,
+      "my_price": 125000.0,
       "my_available": true,
       "my_url": "https://bismillahelectronics.pk/products/hisense-led-tv-55-inch-55q6n-q-led",
       "competitor_name": "Hisense LED 50\" 50Q6N (Q LED)",
@@ -14381,12 +14185,12 @@
       "competitor_url": "https://japanelectronics.com.pk/products/hisense-led-50-50q6n-q-led",
       "match_confidence": 80.0,
       "status": "matched",
-      "price_diff": 23000.0,
+      "price_diff": 15000.0,
       "cheaper": "competitor"
     },
     {
       "product_name": "Hisense LED TV 32 Inch 32A4N (FHD Google TV)",
-      "my_price": 52000.0,
+      "my_price": 46000.0,
       "my_available": true,
       "my_url": "https://bismillahelectronics.pk/products/hisense-led-tv-32-inch-32a4n-fhd-google-tv",
       "competitor_name": "Hisense LED 32\" 32A4N (FHD Google TV)",
@@ -14395,12 +14199,12 @@
       "competitor_url": "https://japanelectronics.com.pk/products/hisense-led-32-32a4n-fhd-google-tv",
       "match_confidence": 88.9,
       "status": "matched",
-      "price_diff": 2800.0,
-      "cheaper": "competitor"
+      "price_diff": -3200.0,
+      "cheaper": "us"
     },
     {
       "product_name": "EcoStar LED TV 55 Inch CX-55Q964 (Q LED)",
-      "my_price": 121500.0,
+      "my_price": 130000.0,
       "my_available": true,
       "my_url": "https://bismillahelectronics.pk/products/eco-star-led-tv-55-inch-cx-55q964-q-led",
       "competitor_name": null,
@@ -14456,7 +14260,7 @@
     },
     {
       "product_name": "EcoStar LED TV 40 Inch CX-40Q874 (Q LED)",
-      "my_price": 59900.0,
+      "my_price": 64900.0,
       "my_available": true,
       "my_url": "https://bismillahelectronics.pk/products/eco-star-led-tv-40-inch-cx-40q874-q-led",
       "competitor_name": "Ecostar LED 40\" CX-40Q874 (Q-LED)",
@@ -14465,12 +14269,12 @@
       "competitor_url": "https://japanelectronics.com.pk/products/ecostar-led-40-cx-40q874-q-led",
       "match_confidence": 71.2,
       "status": "matched",
-      "price_diff": -4100.0,
-      "cheaper": "us"
+      "price_diff": 900.0,
+      "cheaper": "competitor"
     },
     {
       "product_name": "EcoStar LED TV 32 Inch CX-32Q874 (Q LED)",
-      "my_price": 42900.0,
+      "my_price": 51900.0,
       "my_available": true,
       "my_url": "https://bismillahelectronics.pk/products/eco-star-led-tv-32-inch-cx-32q874-q-led",
       "competitor_name": null,
@@ -14484,7 +14288,7 @@
     },
     {
       "product_name": "EcoStar LED TV 43 Inch CX-43Q874",
-      "my_price": 75000.0,
+      "my_price": 80000.0,
       "my_available": true,
       "my_url": "https://bismillahelectronics.pk/products/eco-star-led-tv-43-inch-cx-43q874",
       "competitor_name": "Haier LED 43 TV Inch H43P7UX",
@@ -14493,12 +14297,12 @@
       "competitor_url": "https://japanelectronics.com.pk/products/haier-led-43-tv-inch-h43p7ux",
       "match_confidence": 70.0,
       "status": "matched",
-      "price_diff": 100.0,
+      "price_diff": 5100.0,
       "cheaper": "competitor"
     },
     {
       "product_name": "Dawlance LED TV 32 Inch 32E22 - Smart",
-      "my_price": 49800.0,
+      "my_price": 59600.0,
       "my_available": true,
       "my_url": "https://bismillahelectronics.pk/products/dawlance-led-tv-32-inch-32e22-smart",
       "competitor_name": "Dawlance LED TV 32 Inch 32E22 - 2K Smart",
@@ -14507,7 +14311,7 @@
       "competitor_url": "https://japanelectronics.com.pk/products/dawlance-led-tv-32-inch-32e22-2k-smart",
       "match_confidence": 96.1,
       "status": "matched",
-      "price_diff": 4800.0,
+      "price_diff": 14600.0,
       "cheaper": "competitor"
     },
     {
@@ -17410,7 +17214,7 @@
     },
     {
       "product_name": "Dawlance LED TV 65 Inch 65G22 (4K UHD)",
-      "my_price": 161900.0,
+      "my_price": 181300.0,
       "my_available": true,
       "my_url": "https://bismillahelectronics.pk/products/dawlance-led-tv-65-inch-65g22-4k-uhd",
       "competitor_name": "Dawlance LED TV 55 Inch 55G22",
@@ -17419,12 +17223,12 @@
       "competitor_url": "https://japanelectronics.com.pk/products/dawlance-led-tv-55-inch-55g22",
       "match_confidence": 80.6,
       "status": "matched",
-      "price_diff": 57900.0,
+      "price_diff": 77300.0,
       "cheaper": "competitor"
     },
     {
       "product_name": "Haier LED TV 55 Inch H55S800UX",
-      "my_price": 155000.0,
+      "my_price": 140000.0,
       "my_available": true,
       "my_url": "https://bismillahelectronics.pk/products/haier-led-tv-55-inch-h55s800ux",
       "competitor_name": "Haier LED TV 55 Inch 55S900UX",
@@ -17433,7 +17237,7 @@
       "competitor_url": "https://japanelectronics.com.pk/products/haier-led-tv-55-inch-55s900ux",
       "match_confidence": 94.9,
       "status": "matched",
-      "price_diff": -29900.0,
+      "price_diff": -44900.0,
       "cheaper": "us"
     },
     {
@@ -17452,7 +17256,7 @@
     },
     {
       "product_name": "Dawlance LED TV 50 Inch 50G22 (4K HUD)",
-      "my_price": 90500.0,
+      "my_price": 108600.0,
       "my_available": true,
       "my_url": "https://bismillahelectronics.pk/products/dawlance-led-tv-50-inch-50g22-4k-hud",
       "competitor_name": "Dawlance LED TV 50 Inch 50G22",
@@ -17461,12 +17265,12 @@
       "competitor_url": "https://japanelectronics.com.pk/products/dawlance-led-50-50g22",
       "match_confidence": 86.6,
       "status": "matched",
-      "price_diff": -400.0,
-      "cheaper": "us"
+      "price_diff": 17700.0,
+      "cheaper": "competitor"
     },
     {
       "product_name": "Dawlance LED TV 43 Inch 43G22 (4K HUD)",
-      "my_price": 70400.0,
+      "my_price": 84300.0,
       "my_available": true,
       "my_url": "https://bismillahelectronics.pk/products/dawlance-led-tv-43-inch-43g22-4k-hud",
       "competitor_name": "Dawlance LED TV 32 Inch E3A-HD",
@@ -17475,12 +17279,12 @@
       "competitor_url": "https://japanelectronics.com.pk/products/dawlance-led-32-e3a-hd",
       "match_confidence": 76.5,
       "status": "matched",
-      "price_diff": 33400.0,
+      "price_diff": 47300.0,
       "cheaper": "competitor"
     },
     {
       "product_name": "Dawlance LED TV 43 Inch 43E22 (2K FDH)",
-      "my_price": 72000.0,
+      "my_price": 80300.0,
       "my_available": true,
       "my_url": "https://bismillahelectronics.pk/products/dawlance-led-tv-43-inch-43e22-2k-fdh",
       "competitor_name": "Dawlance LED TV 32 Inch 32E22 - 2K Smart",
@@ -17489,7 +17293,7 @@
       "competitor_url": "https://japanelectronics.com.pk/products/dawlance-led-tv-32-inch-32e22-2k-smart",
       "match_confidence": 76.9,
       "status": "matched",
-      "price_diff": 27000.0,
+      "price_diff": 35300.0,
       "cheaper": "competitor"
     },
     {
@@ -17564,7 +17368,7 @@
     },
     {
       "product_name": "Dawlance LED TV 40 Inch 40E22 (2K FDH)",
-      "my_price": 60500.0,
+      "my_price": 76300.0,
       "my_available": true,
       "my_url": "https://bismillahelectronics.pk/products/dawlance-led-tv-40-inch-40e22-2k-fdh",
       "competitor_name": "Dawlance LED TV 40 Inch 40E22 - 2K Smart",
@@ -17573,8 +17377,8 @@
       "competitor_url": "https://japanelectronics.com.pk/products/dawlance-led-tv-40-inch-40e22-2k-smart",
       "match_confidence": 82.1,
       "status": "matched",
-      "price_diff": 0.0,
-      "cheaper": "same"
+      "price_diff": 15800.0,
+      "cheaper": "competitor"
     },
     {
       "product_name": "Dawlance Dishwasher DDW-868 CTB (Counter Top)",
@@ -18824,7 +18628,7 @@
     },
     {
       "product_name": "Dawlance LED TV 43 Inch 43G3AP (4K UHD)",
-      "my_price": 83900.0,
+      "my_price": 88500.0,
       "my_available": true,
       "my_url": "https://bismillahelectronics.pk/products/dawlance-led-tv-43-inch-43g3ap-4k-uhd",
       "competitor_name": null,
@@ -18838,7 +18642,7 @@
     },
     {
       "product_name": "Dawlance LED TV 55 Inch 55G3AP (UHD Android)",
-      "my_price": 105000.0,
+      "my_price": 131500.0,
       "my_available": true,
       "my_url": "https://bismillahelectronics.pk/products/dawlance-led-tv-55-inch-55g3ap-uhd-android",
       "competitor_name": "Dawlance LED TV 55 Inch 55G22",
@@ -18847,12 +18651,12 @@
       "competitor_url": "https://japanelectronics.com.pk/products/dawlance-led-tv-55-inch-55g22",
       "match_confidence": 74.0,
       "status": "matched",
-      "price_diff": 1000.0,
+      "price_diff": 27500.0,
       "cheaper": "competitor"
     },
     {
       "product_name": "Dawlance LED TV 65 Inch 65G3AP (4K UHD Android)",
-      "my_price": 159900.0,
+      "my_price": 194400.0,
       "my_available": true,
       "my_url": "https://bismillahelectronics.pk/products/dawlance-led-tv-65-inch-65g3ap-4k-uhd-android",
       "competitor_name": null,
@@ -18866,7 +18670,7 @@
     },
     {
       "product_name": "Dawlance LED TV 50 Inch G3A Pro",
-      "my_price": 89999.0,
+      "my_price": 107500.0,
       "my_available": true,
       "my_url": "https://bismillahelectronics.pk/products/dawlance-led-tv-50-inch-g3a-pro",
       "competitor_name": "Dawlance LED TV 50 Inch G3A Pro",
@@ -18875,8 +18679,8 @@
       "competitor_url": "https://japanelectronics.com.pk/products/dawlance-led-50-g3a-pro",
       "match_confidence": 100.0,
       "status": "matched",
-      "price_diff": 0.0,
-      "cheaper": "same"
+      "price_diff": 17501.0,
+      "cheaper": "competitor"
     },
     {
       "product_name": "Haier AC Triple Inverter 2.0 Ton  HSU-24HFCD",
@@ -18978,7 +18782,7 @@
     },
     {
       "product_name": "Dawlance LED TV 43 Inch  43G3A (4K UHD Android)",
-      "my_price": 83900.0,
+      "my_price": 88500.0,
       "my_available": true,
       "my_url": "https://bismillahelectronics.pk/products/dawlance-led-tv-43-inch-43g3a-4k-uhd-android",
       "competitor_name": null,
@@ -18992,7 +18796,7 @@
     },
     {
       "product_name": "Dawlance LED TV 43 Inch 43E3A",
-      "my_price": 56900.0,
+      "my_price": 67100.0,
       "my_available": true,
       "my_url": "https://bismillahelectronics.pk/products/dawlance-led-tv-43-inch-43e3a",
       "competitor_name": "Dawlance LED TV 43 Inch G3A Pro",
@@ -19001,12 +18805,12 @@
       "competitor_url": "https://japanelectronics.com.pk/products/dawlance-led-tv-43-inch-g3a-pro",
       "match_confidence": 76.7,
       "status": "matched",
-      "price_diff": -14600.0,
+      "price_diff": -4400.0,
       "cheaper": "us"
     },
     {
       "product_name": "Dawlance LED TV 32 Inch 32E3A",
-      "my_price": 37000.0,
+      "my_price": 44000.0,
       "my_available": true,
       "my_url": "https://bismillahelectronics.pk/products/dawlance-led-tv-32-inch-32e3a",
       "competitor_name": "Dawlance LED TV 55 Inch 55G22",
@@ -19015,7 +18819,7 @@
       "competitor_url": "https://japanelectronics.com.pk/products/dawlance-led-tv-55-inch-55g22",
       "match_confidence": 79.3,
       "status": "matched",
-      "price_diff": -67000.0,
+      "price_diff": -60000.0,
       "cheaper": "us"
     },
     {
@@ -32599,6 +32403,20 @@
       "cheaper": null
     },
     {
+      "product_name": "Haier LED 32 H32D2M/MS (Miracast TV)",
+      "my_price": null,
+      "my_available": null,
+      "my_url": null,
+      "competitor_name": "Haier LED 32 H32D2M/MS (Miracast TV)",
+      "competitor_price": 39900.0,
+      "competitor_available": false,
+      "competitor_url": "https://japanelectronics.com.pk/products/haier-led-32-h32d2m-ms-miracast-tv",
+      "match_confidence": 0,
+      "status": "only_competitor",
+      "price_diff": null,
+      "cheaper": null
+    },
+    {
       "product_name": "JBL Cinema Sound Bar SB-170",
       "my_price": null,
       "my_available": null,
@@ -34895,6 +34713,20 @@
       "cheaper": null
     },
     {
+      "product_name": "Hisense LED 75\" 75Q6N",
+      "my_price": null,
+      "my_available": null,
+      "my_url": null,
+      "competitor_name": "Hisense LED 75\" 75Q6N",
+      "competitor_price": 285300.0,
+      "competitor_available": true,
+      "competitor_url": "https://japanelectronics.com.pk/products/hisense-led-75-75q6n",
+      "match_confidence": 0,
+      "status": "only_competitor",
+      "price_diff": null,
+      "cheaper": null
+    },
+    {
       "product_name": "Haier LED 85\" 85M80FUX",
       "my_price": null,
       "my_available": null,
@@ -34959,6 +34791,62 @@
       "competitor_price": 74500.0,
       "competitor_available": false,
       "competitor_url": "https://japanelectronics.com.pk/products/ecostar-led-43-cx-43q874",
+      "match_confidence": 0,
+      "status": "only_competitor",
+      "price_diff": null,
+      "cheaper": null
+    },
+    {
+      "product_name": "Dawlance LED 75\" Delta Series SE",
+      "my_price": null,
+      "my_available": null,
+      "my_url": null,
+      "competitor_name": "Dawlance LED 75\" Delta Series SE",
+      "competitor_price": 310900.0,
+      "competitor_available": false,
+      "competitor_url": "https://japanelectronics.com.pk/products/dawlance-led-75-delta-series-se",
+      "match_confidence": 0,
+      "status": "only_competitor",
+      "price_diff": null,
+      "cheaper": null
+    },
+    {
+      "product_name": "Dawlance LED 65\" Delta Series",
+      "my_price": null,
+      "my_available": null,
+      "my_url": null,
+      "competitor_name": "Dawlance LED 65\" Delta Series",
+      "competitor_price": 250400.0,
+      "competitor_available": false,
+      "competitor_url": "https://japanelectronics.com.pk/products/dawlance-led-65-delta-series",
+      "match_confidence": 0,
+      "status": "only_competitor",
+      "price_diff": null,
+      "cheaper": null
+    },
+    {
+      "product_name": "Dawlance LED 65\" Apollo",
+      "my_price": null,
+      "my_available": null,
+      "my_url": null,
+      "competitor_name": "Dawlance LED 65\" Apollo",
+      "competitor_price": 159900.0,
+      "competitor_available": false,
+      "competitor_url": "https://japanelectronics.com.pk/products/dawlance-led-65-apollo",
+      "match_confidence": 0,
+      "status": "only_competitor",
+      "price_diff": null,
+      "cheaper": null
+    },
+    {
+      "product_name": "Dawlance LED 55\" Delta Series",
+      "my_price": null,
+      "my_available": null,
+      "my_url": null,
+      "competitor_name": "Dawlance LED 55\" Delta Series",
+      "competitor_price": 175400.0,
+      "competitor_available": false,
+      "competitor_url": "https://japanelectronics.com.pk/products/dawlance-led-55-delta-series",
       "match_confidence": 0,
       "status": "only_competitor",
       "price_diff": null,
@@ -37829,6 +37717,20 @@
       "competitor_price": 124000.0,
       "competitor_available": false,
       "competitor_url": "https://japanelectronics.com.pk/products/haier-split-ac-inverter-1-0-ton-hsu-13hfab-t3-white",
+      "match_confidence": 0,
+      "status": "only_competitor",
+      "price_diff": null,
+      "cheaper": null
+    },
+    {
+      "product_name": "Samsung LED 32\" UA32T5300AUSMM (Smart)",
+      "my_price": null,
+      "my_available": null,
+      "my_url": null,
+      "competitor_name": "Samsung LED 32\" UA32T5300AUSMM (Smart)",
+      "competitor_price": 63400.0,
+      "competitor_available": false,
+      "competitor_url": "https://japanelectronics.com.pk/products/samsung-led-32-ua32t5300ausmm-smart",
       "match_confidence": 0,
       "status": "only_competitor",
       "price_diff": null,

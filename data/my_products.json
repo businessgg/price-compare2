@@ -714,12 +714,6 @@
     "available": true
   },
   {
-    "name": "TCL LED TV 55 Inch 55C655",
-    "price": 200500.0,
-    "url": "https://bismillahelectronics.pk/products/tcl-led-tv-55-inch-55c655",
-    "available": true
-  },
-  {
     "name": "Haier Ref HRF-246 IPG (GREEN)",
     "price": 73000.0,
     "url": "https://bismillahelectronics.pk/products/haier-ref-hrf-246-ipg-green",
@@ -1854,18 +1848,6 @@
     "available": true
   },
   {
-    "name": "Haier LED TV 32 Inch H32D2M/MS (Miracast TV)",
-    "price": 39700.0,
-    "url": "https://bismillahelectronics.pk/products/haier-led-tv-32-inch-h32d2m-ms-miracast-tv",
-    "available": true
-  },
-  {
-    "name": "Haier LED TV 40 Inch 40K66FG",
-    "price": 64400.0,
-    "url": "https://bismillahelectronics.pk/products/haier-led-tv-40-inch-40k66fg",
-    "available": true
-  },
-  {
     "name": "Haier Deep Freezer HDF-285 IG",
     "price": 83000.0,
     "url": "https://bismillahelectronics.pk/products/haier-deep-freezer-hdf-285-ig",
@@ -1887,18 +1869,6 @@
     "name": "PEL Water Dispenser PWD-425 (Glass Door)",
     "price": 38500.0,
     "url": "https://bismillahelectronics.pk/products/pel-water-dispenser-pwd-425-glass-door",
-    "available": true
-  },
-  {
-    "name": "Haier LED TV 75 Inch H75S800UX (Q LED)",
-    "price": 349900.0,
-    "url": "https://bismillahelectronics.pk/products/haier-led-tv-75-inch-h75s800ux-q-led",
-    "available": true
-  },
-  {
-    "name": "Haier LED TV 48 Inch H48S800UX (Q LED)",
-    "price": 104900.0,
-    "url": "https://bismillahelectronics.pk/products/haier-led-tv-48-inch-h48s800ux-q-led",
     "available": true
   },
   {
@@ -2035,50 +2005,8 @@
   },
   {
     "name": "Dawlance LED TV 55 Inch - Apollo",
-    "price": 157500.0,
+    "price": 136000.0,
     "url": "https://bismillahelectronics.pk/products/dawlance-led-tv-55-inch-apollo",
-    "available": true
-  },
-  {
-    "name": "Dawlance LED TV 65 Inch - Apollo",
-    "price": 225000.0,
-    "url": "https://bismillahelectronics.pk/products/dawlance-led-tv-65-inch-apollo",
-    "available": true
-  },
-  {
-    "name": "Dawlance LED TV 55 Inch - Delta Series",
-    "price": 174900.0,
-    "url": "https://bismillahelectronics.pk/products/dawlance-led-tv-55-inch-delta-series",
-    "available": true
-  },
-  {
-    "name": "Dawlance LED TV 65 Inch - Delta Series",
-    "price": 250000.0,
-    "url": "https://bismillahelectronics.pk/products/dawlance-led-tv-65-inch-delta-series",
-    "available": true
-  },
-  {
-    "name": "Dawlance LED TV 75 Inch - Delta Series SE",
-    "price": 335600.0,
-    "url": "https://bismillahelectronics.pk/products/dawlance-led-tv-75-inch-delta-series-se",
-    "available": true
-  },
-  {
-    "name": "EcoStar LED TV 32 Inch CX-32Q873 (Q LED)",
-    "price": 42900.0,
-    "url": "https://bismillahelectronics.pk/products/eco-star-led-tv-32-inch-cx-32q873-q-led",
-    "available": true
-  },
-  {
-    "name": "EcoStar LED TV 43 Inch CX-43Q873 (Q LED)",
-    "price": 69500.0,
-    "url": "https://bismillahelectronics.pk/products/eco-star-led-tv-43-inch-cx-43q873-q-led",
-    "available": true
-  },
-  {
-    "name": "EcoStar LED TV 65 Inch CX-65Q964",
-    "price": 192900.0,
-    "url": "https://bismillahelectronics.pk/products/eco-star-led-tv-65-inch-cx-65q964",
     "available": true
   },
   {
@@ -2088,21 +2016,9 @@
     "available": true
   },
   {
-    "name": "Hisense LED TV 75 Inch 75Q6N",
-    "price": 315000.0,
-    "url": "https://bismillahelectronics.pk/products/hisense-led-tv-75-inch-75q6n",
-    "available": true
-  },
-  {
     "name": "Hisense LED TV 50 Inch 50A6K (4K UHD Google TV)",
     "price": 125000.0,
     "url": "https://bismillahelectronics.pk/products/hisense-led-tv-50-inch-50a6k-4k-uhd-google-tv",
-    "available": true
-  },
-  {
-    "name": "Samsung LED TV 32 Inch UA32T5300AUSMM (Smart)",
-    "price": 64000.0,
-    "url": "https://bismillahelectronics.pk/products/samsug-led-tv-32-inch-ua32t5300ausmm-smart",
     "available": true
   },
   {
@@ -6133,19 +6049,19 @@
   },
   {
     "name": "Hisense LED TV 65 Inch 65Q6N",
-    "price": 195000.0,
+    "price": 183000.0,
     "url": "https://bismillahelectronics.pk/products/hisense-led-tv-65-inch-65q6n",
     "available": true
   },
   {
     "name": "Hisense LED TV 40 Inch 40A4N (FHD Google TV)",
-    "price": 62000.0,
+    "price": 59900.0,
     "url": "https://bismillahelectronics.pk/products/hisense-led-tv-40-inch-40a4n-fhd-google-tv",
     "available": true
   },
   {
     "name": "Hisense LED TV 43 Inch 43Q6N (Q LED)",
-    "price": 104900.0,
+    "price": 88000.0,
     "url": "https://bismillahelectronics.pk/products/hisense-led-tv-43-inch-43q6n-q-led",
     "available": true
   },
@@ -6157,19 +6073,19 @@
   },
   {
     "name": "Hisense LED TV 55 Inch 55Q6N (Q LED)",
-    "price": 133000.0,
+    "price": 125000.0,
     "url": "https://bismillahelectronics.pk/products/hisense-led-tv-55-inch-55q6n-q-led",
     "available": true
   },
   {
     "name": "Hisense LED TV 32 Inch 32A4N (FHD Google TV)",
-    "price": 52000.0,
+    "price": 46000.0,
     "url": "https://bismillahelectronics.pk/products/hisense-led-tv-32-inch-32a4n-fhd-google-tv",
     "available": true
   },
   {
     "name": "EcoStar LED TV 55 Inch CX-55Q964 (Q LED)",
-    "price": 121500.0,
+    "price": 130000.0,
     "url": "https://bismillahelectronics.pk/products/eco-star-led-tv-55-inch-cx-55q964-q-led",
     "available": true
   },
@@ -6193,25 +6109,25 @@
   },
   {
     "name": "EcoStar LED TV 40 Inch CX-40Q874 (Q LED)",
-    "price": 59900.0,
+    "price": 64900.0,
     "url": "https://bismillahelectronics.pk/products/eco-star-led-tv-40-inch-cx-40q874-q-led",
     "available": true
   },
   {
     "name": "EcoStar LED TV 32 Inch CX-32Q874 (Q LED)",
-    "price": 42900.0,
+    "price": 51900.0,
     "url": "https://bismillahelectronics.pk/products/eco-star-led-tv-32-inch-cx-32q874-q-led",
     "available": true
   },
   {
     "name": "EcoStar LED TV 43 Inch CX-43Q874",
-    "price": 75000.0,
+    "price": 80000.0,
     "url": "https://bismillahelectronics.pk/products/eco-star-led-tv-43-inch-cx-43q874",
     "available": true
   },
   {
     "name": "Dawlance LED TV 32 Inch 32E22 - Smart",
-    "price": 49800.0,
+    "price": 59600.0,
     "url": "https://bismillahelectronics.pk/products/dawlance-led-tv-32-inch-32e22-smart",
     "available": true
   },
@@ -7459,13 +7375,13 @@
   },
   {
     "name": "Dawlance LED TV 65 Inch 65G22 (4K UHD)",
-    "price": 161900.0,
+    "price": 181300.0,
     "url": "https://bismillahelectronics.pk/products/dawlance-led-tv-65-inch-65g22-4k-uhd",
     "available": true
   },
   {
     "name": "Haier LED TV 55 Inch H55S800UX",
-    "price": 155000.0,
+    "price": 140000.0,
     "url": "https://bismillahelectronics.pk/products/haier-led-tv-55-inch-h55s800ux",
     "available": true
   },
@@ -7477,19 +7393,19 @@
   },
   {
     "name": "Dawlance LED TV 50 Inch 50G22 (4K HUD)",
-    "price": 90500.0,
+    "price": 108600.0,
     "url": "https://bismillahelectronics.pk/products/dawlance-led-tv-50-inch-50g22-4k-hud",
     "available": true
   },
   {
     "name": "Dawlance LED TV 43 Inch 43G22 (4K HUD)",
-    "price": 70400.0,
+    "price": 84300.0,
     "url": "https://bismillahelectronics.pk/products/dawlance-led-tv-43-inch-43g22-4k-hud",
     "available": true
   },
   {
     "name": "Dawlance LED TV 43 Inch 43E22 (2K FDH)",
-    "price": 72000.0,
+    "price": 80300.0,
     "url": "https://bismillahelectronics.pk/products/dawlance-led-tv-43-inch-43e22-2k-fdh",
     "available": true
   },
@@ -7525,7 +7441,7 @@
   },
   {
     "name": "Dawlance LED TV 40 Inch 40E22 (2K FDH)",
-    "price": 60500.0,
+    "price": 76300.0,
     "url": "https://bismillahelectronics.pk/products/dawlance-led-tv-40-inch-40e22-2k-fdh",
     "available": true
   },
@@ -8065,25 +7981,25 @@
   },
   {
     "name": "Dawlance LED TV 43 Inch 43G3AP (4K UHD)",
-    "price": 83900.0,
+    "price": 88500.0,
     "url": "https://bismillahelectronics.pk/products/dawlance-led-tv-43-inch-43g3ap-4k-uhd",
     "available": true
   },
   {
     "name": "Dawlance LED TV 55 Inch 55G3AP (UHD Android)",
-    "price": 105000.0,
+    "price": 131500.0,
     "url": "https://bismillahelectronics.pk/products/dawlance-led-tv-55-inch-55g3ap-uhd-android",
     "available": true
   },
   {
     "name": "Dawlance LED TV 65 Inch 65G3AP (4K UHD Android)",
-    "price": 159900.0,
+    "price": 194400.0,
     "url": "https://bismillahelectronics.pk/products/dawlance-led-tv-65-inch-65g3ap-4k-uhd-android",
     "available": true
   },
   {
     "name": "Dawlance LED TV 50 Inch G3A Pro",
-    "price": 89999.0,
+    "price": 107500.0,
     "url": "https://bismillahelectronics.pk/products/dawlance-led-tv-50-inch-g3a-pro",
     "available": true
   },
@@ -8131,19 +8047,19 @@
   },
   {
     "name": "Dawlance LED TV 43 Inch  43G3A (4K UHD Android)",
-    "price": 83900.0,
+    "price": 88500.0,
     "url": "https://bismillahelectronics.pk/products/dawlance-led-tv-43-inch-43g3a-4k-uhd-android",
     "available": true
   },
   {
     "name": "Dawlance LED TV 43 Inch 43E3A",
-    "price": 56900.0,
+    "price": 67100.0,
     "url": "https://bismillahelectronics.pk/products/dawlance-led-tv-43-inch-43e3a",
     "available": true
   },
   {
     "name": "Dawlance LED TV 32 Inch 32E3A",
-    "price": 37000.0,
+    "price": 44000.0,
     "url": "https://bismillahelectronics.pk/products/dawlance-led-tv-32-inch-32e3a",
     "available": true
   },

@@ -1,10 +1,10 @@
 {
-  "last_updated": "2026-10-25T10:26:33.111165+00:00",
+  "last_updated": "2026-10-25T14:42:21.289900+00:00",
   "my_store_name": "Bismillah Electronics",
   "competitor_name": "Japan Electronics",
-  "total_my_products": 1422,
+  "total_my_products": 1420,
   "total_competitor_products": 2151,
-  "matched_count": 1005,
+  "matched_count": 1003,
   "results": [
     {
       "product_name": "TCL LED TV 65 Inch 65P79K (Q LED)",
@@ -3746,7 +3746,7 @@
     },
     {
       "product_name": "Haier Ac 1.5 Ton Inverter Solar Hybrid-IV(OW) T3",
-      "my_price": 182000.0,
+      "my_price": 186000.0,
       "my_available": true,
       "my_url": "https://bismillahelectronics.pk/products/haier-ac-1-5-ton-inverter-solar-hybrid-ivow-t3",
       "competitor_name": "Haier Split AC Inverter 1.5 Ton Solar Hybrid-IV (OW)-T3",
@@ -3755,12 +3755,12 @@
       "competitor_url": "https://japanelectronics.com.pk/products/haier-split-ac-inverter-1-5-ton-solar-hybrid-iv-ow-t3",
       "match_confidence": 79.6,
       "status": "matched",
-      "price_diff": -4000.0,
-      "cheaper": "us"
+      "price_diff": 0.0,
+      "cheaper": "same"
     },
     {
       "product_name": "Haier Ac 1.0 Ton Inverter HSU-13HFS (S) T3 PRO",
-      "my_price": 126000.0,
+      "my_price": 128000.0,
       "my_available": true,
       "my_url": "https://bismillahelectronics.pk/products/haier-ac-1-0-ton-inverter-hsu-13hfs-s-t3-pro",
       "competitor_name": "Haier Split AC Inverter 1.0 Ton HSU-13HFS T3 Pro (White)",
@@ -3769,7 +3769,7 @@
       "competitor_url": "https://japanelectronics.com.pk/products/haier-split-ac-inverter-1-0-ton-hsu-13hfs-t3-pro-white",
       "match_confidence": 82.4,
       "status": "matched",
-      "price_diff": 2000.0,
+      "price_diff": 4000.0,
       "cheaper": "competitor"
     },
     {
@@ -3788,7 +3788,7 @@
     },
     {
       "product_name": "Haier Ac 1.0 Ton Inverter HSU-13HFN T3",
-      "my_price": 119000.0,
+      "my_price": 121000.0,
       "my_available": true,
       "my_url": "https://bismillahelectronics.pk/products/haier-ac-1-0-ton-inverter-hsu-13hfn-t3",
       "competitor_name": "Haier Split AC Inverter 1.0 Ton HSU-13HFN013 T3",
@@ -3797,8 +3797,8 @@
       "competitor_url": "https://japanelectronics.com.pk/products/haier-split-ac-inverter-1-0-ton-hsu-13hfn013-t3",
       "match_confidence": 87.1,
       "status": "matched",
-      "price_diff": -2000.0,
-      "cheaper": "us"
+      "price_diff": 0.0,
+      "cheaper": "same"
     },
     {
       "product_name": "Gree Ac 2.0 Ton Inverter 24PITH15W-T3",
@@ -4403,20 +4403,6 @@
       "cheaper": "competitor"
     },
     {
-      "product_name": "Haier AC Inverter 2.0 Ton HSU-24HFPCA",
-      "my_price": 196000.0,
-      "my_available": true,
-      "my_url": "https://bismillahelectronics.pk/products/haier-ac-inverter-2-0-ton-hsu-24hfpca",
-      "competitor_name": "Haier Split AC Inverter 2.0 Ton HSU-24HFAB",
-      "competitor_price": 206000.0,
-      "competitor_available": true,
-      "competitor_url": "https://japanelectronics.com.pk/products/haier-split-ac-inverter-2-0-ton-hsu-24hfab",
-      "match_confidence": 88.6,
-      "status": "matched",
-      "price_diff": -10000.0,
-      "cheaper": "us"
-    },
-    {
       "product_name": "Dawlance AC Inverter 0.75 Ton Mega T+ 10",
       "my_price": 76990.0,
       "my_available": false,
@@ -4502,7 +4488,7 @@
     },
     {
       "product_name": "Haier AC Inverter 1.5 Ton HSU-19HFCM",
-      "my_price": 126000.0,
+      "my_price": 127000.0,
       "my_available": true,
       "my_url": "https://bismillahelectronics.pk/products/haier-ac-inverter-1-5-ton-hsu-19hfcm",
       "competitor_name": "Haier Split AC Inverter 1.5 Ton HSU-19HFCA",
@@ -4511,8 +4497,8 @@
       "competitor_url": "https://japanelectronics.com.pk/products/haier-split-ac-inverter-1-5-ton-hsu-19hfca",
       "match_confidence": 89.7,
       "status": "matched",
-      "price_diff": -1000.0,
-      "cheaper": "us"
+      "price_diff": 0.0,
+      "cheaper": "same"
     },
     {
       "product_name": "Haier AC Inverter 1.5 Ton HSU-18HJUV (Golden)",
@@ -5286,7 +5272,7 @@
     },
     {
       "product_name": "Haier AC Capsule 2.0 Ton Inverter  HPU-24HDZCA",
-      "my_price": 284000.0,
+      "my_price": 288000.0,
       "my_available": true,
       "my_url": "https://bismillahelectronics.pk/products/haier-ac-capsule-2-0-ton-inverter-hpu-24hdzca",
       "competitor_name": "Haier Split AC Inverter 2.0 Ton HSU-24HFAB",
@@ -5295,7 +5281,7 @@
       "competitor_url": "https://japanelectronics.com.pk/products/haier-split-ac-inverter-2-0-ton-hsu-24hfab",
       "match_confidence": 75.9,
       "status": "matched",
-      "price_diff": 78000.0,
+      "price_diff": 82000.0,
       "cheaper": "competitor"
     },
     {
@@ -5454,7 +5440,7 @@
     },
     {
       "product_name": "Haier AC 2.0 Ton Inverter Hsu-24hfab White",
-      "my_price": 203000.0,
+      "my_price": 206000.0,
       "my_available": true,
       "my_url": "https://bismillahelectronics.pk/products/haier-ac-2-0-ton-inverter-hsu-24hfab-white",
       "competitor_name": null,
@@ -5468,7 +5454,7 @@
     },
     {
       "product_name": "Haier AC 1.5 Ton Inverter Hsu-19hfs (W) T3 Pro",
-      "my_price": 151000.0,
+      "my_price": 154000.0,
       "my_available": true,
       "my_url": "https://bismillahelectronics.pk/products/haier-ac-1-5-ton-inverter-hsu-19hfs-w-t3-pro",
       "competitor_name": "Haier Split AC Inverter 1.5 Ton HSU-19HFS T3 Pro (White)",
@@ -5477,12 +5463,12 @@
       "competitor_url": "https://japanelectronics.com.pk/products/haier-split-ac-inverter-1-5-ton-hsu-19hfs-t3-pro-white",
       "match_confidence": 70.6,
       "status": "matched",
-      "price_diff": -3000.0,
-      "cheaper": "us"
+      "price_diff": 0.0,
+      "cheaper": "same"
     },
     {
       "product_name": "Haier AC 1.5 Ton Inverter Hsu-19hfs (S) T3 Pro",
-      "my_price": 156000.0,
+      "my_price": 159000.0,
       "my_available": true,
       "my_url": "https://bismillahelectronics.pk/products/haier-ac-1-5-ton-inverter-hsu-19hfs-s-t3-pro",
       "competitor_name": null,
@@ -5510,7 +5496,7 @@
     },
     {
       "product_name": "Haier AC 1.5 Ton Inverter Hsu-19hfc",
-      "my_price": 126000.0,
+      "my_price": 127000.0,
       "my_available": true,
       "my_url": "https://bismillahelectronics.pk/products/haier-ac-1-5-ton-inverter-hsu-19hfc",
       "competitor_name": null,
@@ -5524,7 +5510,7 @@
     },
     {
       "product_name": "Haier AC 1.5 Ton Inverter Hsu-19hfab Grey T3",
-      "my_price": 156000.0,
+      "my_price": 159000.0,
       "my_available": true,
       "my_url": "https://bismillahelectronics.pk/products/haier-ac-1-5-ton-inverter-hsu-19hfab-grey-t3",
       "competitor_name": null,
@@ -5538,7 +5524,7 @@
     },
     {
       "product_name": "Haier AC 1.0 Ton Inverter Hsu-14hft (Dg) Grey",
-      "my_price": 137000.0,
+      "my_price": 139000.0,
       "my_available": true,
       "my_url": "https://bismillahelectronics.pk/products/haier-ac-1-0-ton-inverter-hsu-14hft-dg-grey",
       "competitor_name": null,
@@ -5552,7 +5538,7 @@
     },
     {
       "product_name": "Haier AC 1.0 Ton Inverter Hsu-13hfs (G) T3 Pro",
-      "my_price": 126000.0,
+      "my_price": 128000.0,
       "my_available": true,
       "my_url": "https://bismillahelectronics.pk/products/haier-ac-1-0-ton-inverter-hsu-13hfs-g-t3-pro",
       "competitor_name": null,
@@ -11781,22 +11767,8 @@
       "cheaper": "competitor"
     },
     {
-      "product_name": "Haier Floor Standing AC HPU-24CE (Cool Only)",
-      "my_price": 238000.0,
-      "my_available": true,
-      "my_url": "https://bismillahelectronics.pk/products/haier-floor-standing-ac-hpu-24ce-cool-only",
-      "competitor_name": "Haier Floor Standing AC 4.0 Ton HPU-48E/DC",
-      "competitor_price": 540000.0,
-      "competitor_available": false,
-      "competitor_url": "https://japanelectronics.com.pk/products/haier-floor-standing-ac-4-0-ton-hpu-48e-dc",
-      "match_confidence": 72.1,
-      "status": "matched",
-      "price_diff": -302000.0,
-      "cheaper": "us"
-    },
-    {
       "product_name": "Haier Floor Standing AC HPU-24HJ Purifier T3",
-      "my_price": 324000.0,
+      "my_price": 328000.0,
       "my_available": true,
       "my_url": "https://bismillahelectronics.pk/products/haier-floor-standing-ac-hpu-24hj-purifier-t3",
       "competitor_name": "Haier Floor Standing AC 4.0 Ton HPU-48E/DC",
@@ -11805,7 +11777,7 @@
       "competitor_url": "https://japanelectronics.com.pk/products/haier-floor-standing-ac-4-0-ton-hpu-48e-dc",
       "match_confidence": 72.1,
       "status": "matched",
-      "price_diff": -216000.0,
+      "price_diff": -212000.0,
       "cheaper": "us"
     },
     {
@@ -12636,7 +12608,7 @@
     },
     {
       "product_name": "Haier Refrigerator HRF-622 ICG (Side By Side)",
-      "my_price": 255000.0,
+      "my_price": 250000.0,
       "my_available": true,
       "my_url": "https://bismillahelectronics.pk/products/haier-refrigerator-hrf-622-icg-side-by-side",
       "competitor_name": "Haier Side By Side Refrigerator HRF-622ICG",
@@ -12645,8 +12617,8 @@
       "competitor_url": "https://japanelectronics.com.pk/products/haier-side-by-side-refrigerator-hrf-622icg",
       "match_confidence": 78.2,
       "status": "matched",
-      "price_diff": 5000.0,
-      "cheaper": "competitor"
+      "price_diff": 0.0,
+      "cheaper": "same"
     },
     {
       "product_name": "Haier Refrigerator HRF-622 IBS (Side By Side)",
@@ -15492,7 +15464,7 @@
     },
     {
       "product_name": "Haier AC Inverter 2.0 Ton HSU 24HFAB (Grey)",
-      "my_price": 209000.0,
+      "my_price": 212000.0,
       "my_available": true,
       "my_url": "https://bismillahelectronics.pk/products/haier-ac-inverter-2-0-ton-hsu-24hfab-grey",
       "competitor_name": "Haier Split AC Inverter 1.0 Ton HSU-12HJUV (Golden)",
@@ -15501,12 +15473,12 @@
       "competitor_url": "https://japanelectronics.com.pk/products/haier-split-ac-inverter-1-0-ton-hsu-12hjuv-golden-1",
       "match_confidence": 70.2,
       "status": "matched",
-      "price_diff": 73400.0,
+      "price_diff": 76400.0,
       "cheaper": "competitor"
     },
     {
       "product_name": "Haier AC Inverter 1.5 Ton HSU-19HFCA",
-      "my_price": 126000.0,
+      "my_price": 127000.0,
       "my_available": true,
       "my_url": "https://bismillahelectronics.pk/products/haier-ac-inverter-1-5-ton-hsu-19hfca",
       "competitor_name": "Haier Split AC Inverter 1.5 Ton HSU-19HFCA",
@@ -15515,12 +15487,12 @@
       "competitor_url": "https://japanelectronics.com.pk/products/haier-split-ac-inverter-1-5-ton-hsu-19hfca",
       "match_confidence": 92.3,
       "status": "matched",
-      "price_diff": -1000.0,
-      "cheaper": "us"
+      "price_diff": 0.0,
+      "cheaper": "same"
     },
     {
       "product_name": "Haier AC Inverter 1.5 Ton HSU-19HFCS",
-      "my_price": 126000.0,
+      "my_price": 127000.0,
       "my_available": true,
       "my_url": "https://bismillahelectronics.pk/products/haier-ac-inverter-1-5-ton-hsu-19hfcs",
       "competitor_name": "Haier Split AC Inverter 1.5 Ton HSU-19HFCA",
@@ -15529,12 +15501,12 @@
       "competitor_url": "https://japanelectronics.com.pk/products/haier-split-ac-inverter-1-5-ton-hsu-19hfca",
       "match_confidence": 89.7,
       "status": "matched",
-      "price_diff": -1000.0,
-      "cheaper": "us"
+      "price_diff": 0.0,
+      "cheaper": "same"
     },
     {
       "product_name": "Haier AC Inverter 1.5 Ton HSU-19HFCP",
-      "my_price": 126000.0,
+      "my_price": 127000.0,
       "my_available": true,
       "my_url": "https://bismillahelectronics.pk/products/haier-ac-inverter-1-5-ton-hsu-19hfcp",
       "competitor_name": "Haier Split AC Inverter 1.5 Ton HSU-19HFCA",
@@ -15543,12 +15515,12 @@
       "competitor_url": "https://japanelectronics.com.pk/products/haier-split-ac-inverter-1-5-ton-hsu-19hfca",
       "match_confidence": 89.7,
       "status": "matched",
-      "price_diff": -1000.0,
-      "cheaper": "us"
+      "price_diff": 0.0,
+      "cheaper": "same"
     },
     {
       "product_name": "Haier AC Inverter 1.5 Ton HSU-19HFAB (Grey)",
-      "my_price": 156000.0,
+      "my_price": 159000.0,
       "my_available": true,
       "my_url": "https://bismillahelectronics.pk/products/haier-ac-inverter-1-5-ton-hsu-19hfab-grey",
       "competitor_name": "Haier Split AC Inverter 1.5 Ton HSU-19HFCA",
@@ -15557,7 +15529,7 @@
       "competitor_url": "https://japanelectronics.com.pk/products/haier-split-ac-inverter-1-5-ton-hsu-19hfca",
       "match_confidence": 82.4,
       "status": "matched",
-      "price_diff": 29000.0,
+      "price_diff": 32000.0,
       "cheaper": "competitor"
     },
     {
@@ -15604,7 +15576,7 @@
     },
     {
       "product_name": "Haier AC Inverter 1.0 Ton HSU-13HFAB T3 (White)",
-      "my_price": 122000.0,
+      "my_price": 124000.0,
       "my_available": true,
       "my_url": "https://bismillahelectronics.pk/products/haier-ac-1-ton-hsu-13hfab-t3-inverter-white",
       "competitor_name": "Haier split AC Inverter 1.0 Ton HSU-13HFCA (White)",
@@ -15613,12 +15585,12 @@
       "competitor_url": "https://japanelectronics.com.pk/products/haier-split-ac-inverter-1-0-ton-hsu-13hfca-white",
       "match_confidence": 88.7,
       "status": "matched",
-      "price_diff": 10000.0,
+      "price_diff": 12000.0,
       "cheaper": "competitor"
     },
     {
       "product_name": "Haier AC Inverter 1.0 Ton HSU-13HFCS (White)",
-      "my_price": 111000.0,
+      "my_price": 112000.0,
       "my_available": true,
       "my_url": "https://bismillahelectronics.pk/products/haier-ac-1-0-ton-hsu-13hfcs-inverter-white",
       "competitor_name": "Haier split AC Inverter 1.0 Ton HSU-13HFCA (White)",
@@ -15627,12 +15599,12 @@
       "competitor_url": "https://japanelectronics.com.pk/products/haier-split-ac-inverter-1-0-ton-hsu-13hfca-white",
       "match_confidence": 91.5,
       "status": "matched",
-      "price_diff": -1000.0,
-      "cheaper": "us"
+      "price_diff": 0.0,
+      "cheaper": "same"
     },
     {
       "product_name": "Haier AC Inverter 1.0 Ton HSU-13HFCA (White)",
-      "my_price": 111000.0,
+      "my_price": 112000.0,
       "my_available": true,
       "my_url": "https://bismillahelectronics.pk/products/haier-split-ac-1-0-ton-hsu-13hfca-inverter-white",
       "competitor_name": "Haier split AC Inverter 1.0 Ton HSU-13HFCA (White)",
@@ -15641,8 +15613,8 @@
       "competitor_url": "https://japanelectronics.com.pk/products/haier-split-ac-inverter-1-0-ton-hsu-13hfca-white",
       "match_confidence": 93.6,
       "status": "matched",
-      "price_diff": -1000.0,
-      "cheaper": "us"
+      "price_diff": 0.0,
+      "cheaper": "same"
     },
     {
       "product_name": "Gree Floor Standing AC 2.0 Ton GF-24TFIH AA+ Inverter",
@@ -15884,7 +15856,7 @@
     },
     {
       "product_name": "Haier AC Inverter 2.0 Ton HSU 24HFAB (White)",
-      "my_price": 200000.0,
+      "my_price": 206000.0,
       "my_available": true,
       "my_url": "https://bismillahelectronics.pk/products/haier-ac-inverter-2-0-ton-hsu-24hfab",
       "competitor_name": "Haier split AC Inverter 1.0 Ton HSU-13HFCA (White)",
@@ -15893,12 +15865,12 @@
       "competitor_url": "https://japanelectronics.com.pk/products/haier-split-ac-inverter-1-0-ton-hsu-13hfca-white",
       "match_confidence": 76.6,
       "status": "matched",
-      "price_diff": 88000.0,
+      "price_diff": 94000.0,
       "cheaper": "competitor"
     },
     {
       "product_name": "Haier AC Inverter 1.0 Ton HSU-14HFTEX OW T3",
-      "my_price": 133000.0,
+      "my_price": 135000.0,
       "my_available": true,
       "my_url": "https://bismillahelectronics.pk/products/haier-ac-inverter-1-ton-hsu-14hftex-dg-t3",
       "competitor_name": "Haier Split AC Inverter 1.0 Ton HSU-14HFTEX OW (T3)",
@@ -15907,8 +15879,8 @@
       "competitor_url": "https://japanelectronics.com.pk/products/haier-split-ac-inverter-1-0-ton-hsu-14hftex-ow-t3",
       "match_confidence": 87.2,
       "status": "matched",
-      "price_diff": -2000.0,
-      "cheaper": "us"
+      "price_diff": 0.0,
+      "cheaper": "same"
     },
     {
       "product_name": "Haier AC Inverter 1.0 Ton HSU-13HFP Pearl Pro",
@@ -16682,7 +16654,7 @@
     },
     {
       "product_name": "Haier AC Inverter 1.5 Ton HSU-20HFTEX OW T3",
-      "my_price": 169000.0,
+      "my_price": 172000.0,
       "my_available": true,
       "my_url": "https://bismillahelectronics.pk/products/haier-ac-1-5-ton-hsu-20hftex-ow-t3-inverter",
       "competitor_name": "Haier Split AC Inverter 1.5 Ton HSU-20HFTEX OW",
@@ -16691,12 +16663,12 @@
       "competitor_url": "https://japanelectronics.com.pk/products/haier-split-ac-inverter-1-5-ton-hsu-20hftex-ow",
       "match_confidence": 92.1,
       "status": "matched",
-      "price_diff": -3000.0,
-      "cheaper": "us"
+      "price_diff": 0.0,
+      "cheaper": "same"
     },
     {
       "product_name": "Haier Floor Standing AC 2.0 Ton HPU-24HE/WSDC Inverter",
-      "my_price": 263000.0,
+      "my_price": 288000.0,
       "my_available": true,
       "my_url": "https://bismillahelectronics.pk/products/haier-cabinet-ac-2-ton-hpu-24he-dc-inverter",
       "competitor_name": "Haier Floor Standing AC Inverter 2.0 Ton HPU-24HE/WSDC (X-IK)",
@@ -16705,12 +16677,12 @@
       "competitor_url": "https://japanelectronics.com.pk/products/haier-floor-standing-ac-inverter-2-0-ton-hpu-24he-wsdc-x-ik",
       "match_confidence": 93.9,
       "status": "matched",
-      "price_diff": -1000.0,
-      "cheaper": "us"
+      "price_diff": 24000.0,
+      "cheaper": "competitor"
     },
     {
       "product_name": "Haier AC Floor Standing 2.0 Ton HPU-24HDZUV (Silver)",
-      "my_price": 294000.0,
+      "my_price": 298000.0,
       "my_available": true,
       "my_url": "https://bismillahelectronics.pk/products/haier-ac-floor-standing-2-0-ton-hpu-24hdzuv-s-dc-inverter",
       "competitor_name": "Haier Floor Standing AC 4.0 Ton HPU-48E/DC",
@@ -16719,12 +16691,12 @@
       "competitor_url": "https://japanelectronics.com.pk/products/haier-floor-standing-ac-4-0-ton-hpu-48e-dc",
       "match_confidence": 78.7,
       "status": "matched",
-      "price_diff": -246000.0,
+      "price_diff": -242000.0,
       "cheaper": "us"
     },
     {
       "product_name": "Haier AC Inverter 1.5 Ton HSU-19HFC Triple",
-      "my_price": 126000.0,
+      "my_price": 127000.0,
       "my_available": true,
       "my_url": "https://bismillahelectronics.pk/products/haier-ac-1-5-ton-hsu-19hfc-triple-inverter",
       "competitor_name": "Haier Split AC Inverter 1.5 Ton HSU-19HFCA",
@@ -16733,12 +16705,12 @@
       "competitor_url": "https://japanelectronics.com.pk/products/haier-split-ac-inverter-1-5-ton-hsu-19hfca",
       "match_confidence": 83.3,
       "status": "matched",
-      "price_diff": -1000.0,
-      "cheaper": "us"
+      "price_diff": 0.0,
+      "cheaper": "same"
     },
     {
       "product_name": "Haier AC Inverter 1.5 Ton HSU-19HFAB (White)",
-      "my_price": 151000.0,
+      "my_price": 154000.0,
       "my_available": true,
       "my_url": "https://bismillahelectronics.pk/products/haier-ac-1-5-ton-hsu-19hfab-t3-inverter",
       "competitor_name": "Haier AC Split Inverter 1.5 Ton HSU-19RFP (White)",
@@ -16747,7 +16719,7 @@
       "competitor_url": "https://japanelectronics.com.pk/products/haier-ac-split-inverter-1-5-ton-hsu-19rfp-white",
       "match_confidence": 88.2,
       "status": "matched",
-      "price_diff": 26000.0,
+      "price_diff": 29000.0,
       "cheaper": "competitor"
     },
     {
@@ -16822,7 +16794,7 @@
     },
     {
       "product_name": "Haier AC Inverter 1.0 Ton HSU-13HFAB T3 (Grey)",
-      "my_price": 126000.0,
+      "my_price": 128000.0,
       "my_available": true,
       "my_url": "https://bismillahelectronics.pk/products/haier-ac-hsu-13hfab-t3-inverter",
       "competitor_name": "Haier Split AC Inverter 1.0 Ton HSU-13HFAB (T3) Grey",
@@ -16831,8 +16803,8 @@
       "competitor_url": "https://japanelectronics.com.pk/products/haier-split-ac-inverter-1-0-ton-hsu-13hfab-t3-grey",
       "match_confidence": 81.6,
       "status": "matched",
-      "price_diff": -2000.0,
-      "cheaper": "us"
+      "price_diff": 0.0,
+      "cheaper": "same"
     },
     {
       "product_name": "Gree AC Inverter 1.0 Ton GS-12FITH6C AAA",
@@ -16864,7 +16836,7 @@
     },
     {
       "product_name": "Haier AC Inverter 1.5 Ton Solar Hybrid-III (White)",
-      "my_price": 180000.0,
+      "my_price": 183000.0,
       "my_available": true,
       "my_url": "https://bismillahelectronics.pk/products/haier-ac-1-5-ton-inverter-solar-hybrid-ii-heat-cool",
       "competitor_name": "Haier Split AC Inverter 1.5 Ton Solar Hybrid-III (OW)-T3",
@@ -16873,8 +16845,8 @@
       "competitor_url": "https://japanelectronics.com.pk/products/haier-split-ac-inverter-1-5-ton-solar-hybrid-iii-ow-t3",
       "match_confidence": 86.8,
       "status": "matched",
-      "price_diff": -3000.0,
-      "cheaper": "us"
+      "price_diff": 0.0,
+      "cheaper": "same"
     },
     {
       "product_name": "American General AC 1.5 Ton Royal 18K T3",
@@ -18684,7 +18656,7 @@
     },
     {
       "product_name": "Haier AC Triple Inverter 2.0 Ton  HSU-24HFCD",
-      "my_price": 196000.0,
+      "my_price": 198000.0,
       "my_available": true,
       "my_url": "https://bismillahelectronics.pk/products/haier-ac-triple-inverter-2-0-ton-hsu-24hfcd",
       "competitor_name": "Haier Split AC Inverter 2.0 Ton HSU-24HFCD",
@@ -18693,8 +18665,8 @@
       "competitor_url": "https://japanelectronics.com.pk/products/haier-split-ac-inverter-2-0-ton-hsu-24hfcd",
       "match_confidence": 84.7,
       "status": "matched",
-      "price_diff": -2000.0,
-      "cheaper": "us"
+      "price_diff": 0.0,
+      "cheaper": "same"
     },
     {
       "product_name": "Dawlance AC Inverter 1.5 Ton Chrome Pro 30",
@@ -19832,7 +19804,7 @@
     },
     {
       "product_name": "Haier AC Floor Standing 2.0 Ton HPU-24HDZCA (Golden)",
-      "my_price": 281000.0,
+      "my_price": 288000.0,
       "my_available": true,
       "my_url": "https://bismillahelectronics.pk/products/haier-ac-floor-standing-2-0-ton-hpu-24hdzuv-golden",
       "competitor_name": "Haier Floor Standing AC 4.0 Ton HPU-48E/DC",
@@ -19841,7 +19813,7 @@
       "competitor_url": "https://japanelectronics.com.pk/products/haier-floor-standing-ac-4-0-ton-hpu-48e-dc",
       "match_confidence": 80.9,
       "status": "matched",
-      "price_diff": -259000.0,
+      "price_diff": -252000.0,
       "cheaper": "us"
     },
     {

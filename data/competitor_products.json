@@ -193,7 +193,7 @@
   },
   {
     "name": "IFFALCON LED 40\" 40S55A (QLED)",
-    "price": 59500.0,
+    "price": 63900.0,
     "url": "https://japanelectronics.com.pk/products/iffalcon-led-40-40s55a-qled",
     "available": true
   },
@@ -285,7 +285,7 @@
     "name": "Hisense LED 40\" 40A4Q (FHD Google TV)",
     "price": 67200.0,
     "url": "https://japanelectronics.com.pk/products/hisense-led-40-40a4q-fhd-google-tv",
-    "available": true
+    "available": false
   },
   {
     "name": "HAIER LED 55\" 55S81GUX (Q LED)",
@@ -1041,7 +1041,7 @@
     "name": "KENWOOD REF KRF-26757/453-L (GD) SMART INVERTER BKG",
     "price": 125000.0,
     "url": "https://japanelectronics.com.pk/products/kenwood-ref-krf-26757-453-l-gd-smart-inverter-bkg",
-    "available": true
+    "available": false
   },
   {
     "name": "KENWOOD REF KRF-25657/453-L (GD) SMART INVERTER BKG",
@@ -1515,7 +1515,7 @@
     "name": "Generaltec Cooking Range GCTR-98DFF",
     "price": 269900.0,
     "url": "https://japanelectronics.com.pk/products/generaltec-cooking-range-gctr-98dff",
-    "available": true
+    "available": false
   },
   {
     "name": "DAWLANCE KITCHEN HOB (DHG 590 BI)",
@@ -1629,7 +1629,7 @@
     "name": "Samsung Dish Washer DW-60DG550FSG",
     "price": 199999.0,
     "url": "https://japanelectronics.com.pk/products/samsung-dish-washer-dw-60dg550fsg",
-    "available": true
+    "available": false
   },
   {
     "name": "LG DISH WASHER DFC435FP",
@@ -1791,7 +1791,7 @@
     "name": "PANASONIC HAIR DRYER EH-ND65",
     "price": 12900.0,
     "url": "https://japanelectronics.com.pk/products/panasonic-hair-dryer-eh-nd65",
-    "available": true
+    "available": false
   },
   {
     "name": "PANASONIC HAIR TRIMMER ER-GB37-K",
@@ -2331,7 +2331,7 @@
     "name": "Super Asia Electric & Gas Geyser 30 Gallon GEH-730 AI",
     "price": 52000.0,
     "url": "https://japanelectronics.com.pk/products/super-asia-electric-gas-geyser-30-gallon-geh-730-auto-ignition",
-    "available": true
+    "available": false
   },
   {
     "name": "Super Asia Electric Geyser 100 Ltr MEH-100 Mega Series",
@@ -2841,7 +2841,7 @@
     "name": "Waves D.Freezer (WDF-318 Regular Series)",
     "price": 124600.0,
     "url": "https://japanelectronics.com.pk/products/waves-d-freezer-wdf-318-regular-series",
-    "available": true
+    "available": false
   },
   {
     "name": "DAWLANCE C.FREEZER (CF-91998-H INVERTER GD WICKER CHAM)",
@@ -3963,7 +3963,7 @@
     "name": "Dawlance Refrigerator 91999 Avante + Cloud White (GD INV)",
     "price": 130000.0,
     "url": "https://japanelectronics.com.pk/products/best-inverter-refrigerator-of-dawlance-cloud-white",
-    "available": true
+    "available": false
   },
   {
     "name": "Kenwood Ref Krf-Inverter 24457/320-L (VCM) Pearl Blue",
@@ -4023,7 +4023,7 @@
     "name": "Dawlance REF 9191 Graze + Gem Black (GD INV)",
     "price": 110000.0,
     "url": "https://japanelectronics.com.pk/products/dawlance-ref-9191-graze-gem-black-gd-inv",
-    "available": true
+    "available": false
   },
   {
     "name": "Dawlance REF 9191 WB Avante + Midnight Green (GD INV)",
@@ -4233,7 +4233,7 @@
     "name": "TCL LED 50 50S51K (Q LED)",
     "price": 92000.0,
     "url": "https://japanelectronics.com.pk/products/tcl-led-50-50s51k-q-led",
-    "available": false
+    "available": true
   },
   {
     "name": "Samsung LED 55\" CY-55Q70DAUSMZ (4K + Smart)",
@@ -5169,7 +5169,7 @@
     "name": "DAWLANCE LED 43\" KORE FHD GOOGLE TV (SMART)",
     "price": 76900.0,
     "url": "https://japanelectronics.com.pk/products/dawlance-led-43-kore-fhd-google-tv-smart",
-    "available": false
+    "available": true
   },
   {
     "name": "Dawlance LED 40\" Kore FHD Google TV (SMART)",
@@ -5709,7 +5709,7 @@
     "name": "Dawlance Side By Side Refrigerator DW 9055 INOX",
     "price": 245000.0,
     "url": "https://japanelectronics.com.pk/products/dawlance-side-by-side-refrigerator-dw-9055-inox",
-    "available": true
+    "available": false
   },
   {
     "name": "LG Top Mount Refrigerator GN-H702HMHZ",
@@ -5847,7 +5847,7 @@
     "name": "Dawlance Deep Freezer CF-91998 Inverter (Grey)",
     "price": 102000.0,
     "url": "https://japanelectronics.com.pk/products/dawlance-deep-freezer-cf-91998-inverter-grey",
-    "available": true
+    "available": false
   },
   {
     "name": "Dawlance Refrigerator 9149 WB Avante Pearl Burgundy (GD)",
@@ -6049,9 +6049,9 @@
   },
   {
     "name": "Dawlance Spinner DS-9000",
-    "price": 26500.0,
+    "price": 27500.0,
     "url": "https://japanelectronics.com.pk/products/dawlance-spinner-ds-9000",
-    "available": true
+    "available": false
   },
   {
     "name": "Haier E-Star Refrigerator HRF-216 EPB-01 Black",
@@ -6703,7 +6703,7 @@
   },
   {
     "name": "Dawlance Washing Machine DW-6100 W",
-    "price": 26200.0,
+    "price": 24900.0,
     "url": "https://japanelectronics.com.pk/products/dawlance-washing-machine-dw-6100-w",
     "available": true
   },
@@ -6777,7 +6777,7 @@
     "name": "Super Asia Electric Geyser EH-650",
     "price": 26100.0,
     "url": "https://japanelectronics.com.pk/products/super-asia-electric-geyser-eh-650",
-    "available": true
+    "available": false
   },
   {
     "name": "Midea Electric Geyser (D100-20EFG)",
@@ -8775,7 +8775,7 @@
     "name": "Westpoint Hand Blender (WF-9715)",
     "price": 8900.0,
     "url": "https://japanelectronics.com.pk/products/westpoint-hand-blender-wf-9715",
-    "available": false
+    "available": true
   },
   {
     "name": "Westpoint Grinder (WF-9228)",
@@ -9819,7 +9819,7 @@
     "name": "TCL LED 43\" 43S59K (Q LED)",
     "price": 84500.0,
     "url": "https://japanelectronics.com.pk/products/tcl-led-43-43s59k-q-led",
-    "available": true
+    "available": false
   },
   {
     "name": "TCL LED 43\" 43S51K (Q LED)",
@@ -10533,7 +10533,7 @@
     "name": "Homage Microwave Oven (HDG-282 28Ltr) Grill",
     "price": 28000.0,
     "url": "https://japanelectronics.com.pk/products/homage-microwave-oven-hdg-282",
-    "available": true
+    "available": false
   },
   {
     "name": "Haier Microwave Oven HMW-30AFS",
@@ -11829,7 +11829,7 @@
     "name": "Beetro Electric & Gas Geyser 25 Gallon (FEG-25 9/10 Gauge)",
     "price": 66000.0,
     "url": "https://japanelectronics.com.pk/products/beetro-e-g-geyser-25-gallon-feg-25-9-10-gauge-auto-ignition",
-    "available": true
+    "available": false
   },
   {
     "name": "Beetro Kitchen Hood X-40 (MAS-3456 THS) 34\" Touch + Hand Sensor (Dual Motor)",
@@ -12129,7 +12129,7 @@
     "name": "Haier Floor Standing AC Inverter 2.0 Ton HPU-24HE/WSDC (X-IK)",
     "price": 264000.0,
     "url": "https://japanelectronics.com.pk/products/haier-floor-standing-ac-inverter-2-0-ton-hpu-24he-wsdc-x-ik",
-    "available": false
+    "available": true
   },
   {
     "name": "Gree AC Floor Standing Inverter 2.0 Ton GF-24ISH AA+",
@@ -12345,7 +12345,7 @@
     "name": "Dawlance Dry Iron DWDI-1020 Black",
     "price": 7500.0,
     "url": "https://japanelectronics.com.pk/products/dawlance-dry-iron-dwdi-1020-black",
-    "available": false
+    "available": true
   },
   {
     "name": "Panasonic Steam Iron NI-M300T Blue",
@@ -12447,7 +12447,7 @@
     "name": "Royal Washing Machine RW-1016FT",
     "price": 29800.0,
     "url": "https://japanelectronics.com.pk/products/royal-washing-machine-rw-1016ft",
-    "available": false
+    "available": true
   },
   {
     "name": "Royal Washing Machine RW-1014",
@@ -12537,7 +12537,7 @@
     "name": "Haier Deep Freezer HDF-545DD",
     "price": 125500.0,
     "url": "https://japanelectronics.com.pk/products/haier-deep-freezer-hdf-545dd",
-    "available": false
+    "available": true
   },
   {
     "name": "Haier AC Split Inverter 1.5 Ton HSU-18HFMCE (White)",

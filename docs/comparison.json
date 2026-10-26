@@ -1,8 +1,8 @@
 {
-  "last_updated": "2026-10-26T05:45:42.315165+00:00",
+  "last_updated": "2026-10-26T11:55:52.659674+00:00",
   "my_store_name": "Bismillah Electronics",
   "competitor_name": "Japan Electronics",
-  "total_my_products": 1420,
+  "total_my_products": 1419,
   "total_competitor_products": 2151,
   "matched_count": 1003,
   "results": [
@@ -2136,7 +2136,7 @@
     },
     {
       "product_name": "Kenwood Blender 8in1 KB-34G",
-      "my_price": 13900.0,
+      "my_price": 9300.0,
       "my_available": true,
       "my_url": "https://bismillahelectronics.pk/products/kenwood-blender-8in1-kb-34g",
       "competitor_name": null,
@@ -6140,7 +6140,7 @@
     },
     {
       "product_name": "Kenwood Food Factory 2287",
-      "my_price": 25000.0,
+      "my_price": 15500.0,
       "my_available": true,
       "my_url": "https://bismillahelectronics.pk/products/kenwood-food-factory-2287",
       "competitor_name": null,
@@ -8055,20 +8055,6 @@
       "status": "matched",
       "price_diff": 2700.0,
       "cheaper": "competitor"
-    },
-    {
-      "product_name": "Kenwood Refrigerator KRF-24457VCM Pearl Inverter",
-      "my_price": 88000.0,
-      "my_available": true,
-      "my_url": "https://bismillahelectronics.pk/products/kenwood-refrigerator-krf-24457vcm-pearl-inverter",
-      "competitor_name": null,
-      "competitor_price": null,
-      "competitor_available": null,
-      "competitor_url": null,
-      "match_confidence": 0,
-      "status": "only_us",
-      "price_diff": null,
-      "cheaper": null
     },
     {
       "product_name": "Kenwood Refrigerator Krf-Invertech 23357/280-L (GD)",
@@ -17074,7 +17060,7 @@
     },
     {
       "product_name": "Kenwood Double Washing Machine KWM-231159",
-      "my_price": 37000.0,
+      "my_price": 37100.0,
       "my_available": true,
       "my_url": "https://bismillahelectronics.pk/products/kenwood-double-washing-machine-kwm-231159",
       "competitor_name": "Kenwood Washing Machine KWM-899W",
@@ -17083,12 +17069,12 @@
       "competitor_url": "https://japanelectronics.com.pk/products/kenwood-washing-machine-kwm-899w",
       "match_confidence": 79.5,
       "status": "matched",
-      "price_diff": 14000.0,
+      "price_diff": 14100.0,
       "cheaper": "competitor"
     },
     {
       "product_name": "Kenwood Double Washing Machine KWM-21159 SAG",
-      "my_price": 36000.0,
+      "my_price": 37600.0,
       "my_available": true,
       "my_url": "https://bismillahelectronics.pk/products/kenwood-double-washing-machine-kwm-21159-sag",
       "competitor_name": "Kenwood Washing Machine KWM-899W",
@@ -17097,7 +17083,7 @@
       "competitor_url": "https://japanelectronics.com.pk/products/kenwood-washing-machine-kwm-899w",
       "match_confidence": 76.3,
       "status": "matched",
-      "price_diff": 13000.0,
+      "price_diff": 14600.0,
       "cheaper": "competitor"
     },
     {
@@ -17298,7 +17284,7 @@
     },
     {
       "product_name": "Kenwood Dry Iron DIM-40",
-      "my_price": 10900.0,
+      "my_price": 9500.0,
       "my_available": true,
       "my_url": "https://bismillahelectronics.pk/products/kenwood-dry-iron-dim-40",
       "competitor_name": null,
@@ -19286,7 +19272,7 @@
     },
     {
       "product_name": "Kenwood Single Washing Machine KWM-899W",
-      "my_price": 24000.0,
+      "my_price": 22300.0,
       "my_available": true,
       "my_url": "https://bismillahelectronics.pk/products/washing-machine-kenwood-kwm-899w",
       "competitor_name": "Kenwood Washing Machine KWM-899W",
@@ -19295,8 +19281,8 @@
       "competitor_url": "https://japanelectronics.com.pk/products/kenwood-washing-machine-kwm-899w",
       "match_confidence": 90.1,
       "status": "matched",
-      "price_diff": 1000.0,
-      "cheaper": "competitor"
+      "price_diff": -700.0,
+      "cheaper": "us"
     },
     {
       "product_name": "Haier Automatic Washing Machine HWM 150-1678 ES8",

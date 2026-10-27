@@ -31,19 +31,19 @@
   },
   {
     "name": "Beetro Fast Electric Geyser (WFE-80 Ltr) Solar Compatible",
-    "price": 50000.0,
+    "price": 53000.0,
     "url": "https://japanelectronics.com.pk/products/beetro-fast-electric-geyser-wfe-80-ltr-solar-compatible",
     "available": true
   },
   {
     "name": "Beetro Fast Electric Geyser (WFE-100 Ltr) Solar Compatible",
-    "price": 54000.0,
+    "price": 57000.0,
     "url": "https://japanelectronics.com.pk/products/beetro-fast-electric-geyser-wfe-100-ltr-solar-compatible",
     "available": true
   },
   {
     "name": "Beetro Fast Electric Geyser FFE-30 (30 Ltr) Solar Compatible",
-    "price": 44000.0,
+    "price": 43000.0,
     "url": "https://japanelectronics.com.pk/products/beetro-fast-electric-geyser-ffe-30-30-ltr-solar-compatible",
     "available": true
   },
@@ -133,13 +133,13 @@
   },
   {
     "name": "IFFALCON LED 43\" 43U65A Pro (QLED)",
-    "price": 86500.0,
+    "price": 91500.0,
     "url": "https://japanelectronics.com.pk/products/iffalcon-led-43-43u65a-pro-qled",
     "available": true
   },
   {
     "name": "IFFALCON LED 43\" 43S55A (QLED)",
-    "price": 68000.0,
+    "price": 70500.0,
     "url": "https://japanelectronics.com.pk/products/iffalcon-led-43-43s55a-qled",
     "available": true
   },
@@ -157,49 +157,49 @@
   },
   {
     "name": "IFFALCON LED 85\" 85U65A Pro (QLED)",
-    "price": 418000.0,
+    "price": 421000.0,
     "url": "https://japanelectronics.com.pk/products/iffalcon-led-85-85u65a-pro-qled",
     "available": true
   },
   {
     "name": "IFFALCON LED 75\" 75U65A Pro (QLED)",
-    "price": 260000.0,
+    "price": 261500.0,
     "url": "https://japanelectronics.com.pk/products/iffalcon-led-75-75u65a-pro-qled",
     "available": true
   },
   {
     "name": "IFFALCON LED 65\" 65U65A Pro (QLED)",
-    "price": 180500.0,
+    "price": 182000.0,
     "url": "https://japanelectronics.com.pk/products/iffalcon-led-65-65u65a-pro-qled",
     "available": true
   },
   {
     "name": "IFFALCON LED 55\" 55U65A Pro (QLED)",
-    "price": 123000.0,
+    "price": 124500.0,
     "url": "https://japanelectronics.com.pk/products/iffalcon-led-55-55u65a-pro-qled",
     "available": true
   },
   {
     "name": "IFFALCON LED 50\" 50U65A Pro (QLED)",
-    "price": 103500.0,
+    "price": 107500.0,
     "url": "https://japanelectronics.com.pk/products/iffalcon-led-50-50u65a-pro-qled",
     "available": true
   },
   {
     "name": "IFFALCON LED 50\" 50S55A (QLED)",
-    "price": 81000.0,
+    "price": 83000.0,
     "url": "https://japanelectronics.com.pk/products/iffalcon-led-50-50s55a-qled",
     "available": true
   },
   {
     "name": "IFFALCON LED 40\" 40S55A (QLED)",
-    "price": 63900.0,
+    "price": 62000.0,
     "url": "https://japanelectronics.com.pk/products/iffalcon-led-40-40s55a-qled",
     "available": true
   },
   {
     "name": "IFFALCON LED 32\" 32S55A (QLED)",
-    "price": 44500.0,
+    "price": 47000.0,
     "url": "https://japanelectronics.com.pk/products/iffalcon-led-32-32s55a-qled",
     "available": true
   },
@@ -309,7 +309,7 @@
     "name": "Haier LED 55\" 55S80GUX (QLED)",
     "price": 127000.0,
     "url": "https://japanelectronics.com.pk/products/haier-led-55-55s80gux-qled",
-    "available": true
+    "available": false
   },
   {
     "name": "Haier LED 50\" 50S81GFX (QLED)",
@@ -675,7 +675,7 @@
     "name": "DAWLANCE TAWM (DWT-1580 INV C GLOW)",
     "price": 120000.0,
     "url": "https://japanelectronics.com.pk/products/dawlance-tawm-dwt-1580-inv-c-glow",
-    "available": true
+    "available": false
   },
   {
     "name": "DAWLANCE TAWM (DWT-1776 FLT C GLOW)",
@@ -1215,7 +1215,7 @@
     "name": "Dawlance No Frost Ref DMD-7951 (Inverter INOX)",
     "price": 213000.0,
     "url": "https://japanelectronics.com.pk/products/dawlance-no-frost-ref-dmd-7951-inverter-inox",
-    "available": false
+    "available": true
   },
   {
     "name": "Dawlance REF 9178 LF Icemax Mist Green",
@@ -4023,7 +4023,7 @@
     "name": "Dawlance REF 9191 Graze + Gem Black (GD INV)",
     "price": 110000.0,
     "url": "https://japanelectronics.com.pk/products/dawlance-ref-9191-graze-gem-black-gd-inv",
-    "available": false
+    "available": true
   },
   {
     "name": "Dawlance REF 9191 WB Avante + Midnight Green (GD INV)",
@@ -5169,7 +5169,7 @@
     "name": "DAWLANCE LED 43\" KORE FHD GOOGLE TV (SMART)",
     "price": 76900.0,
     "url": "https://japanelectronics.com.pk/products/dawlance-led-43-kore-fhd-google-tv-smart",
-    "available": true
+    "available": false
   },
   {
     "name": "Dawlance LED 40\" Kore FHD Google TV (SMART)",
@@ -7305,7 +7305,7 @@
     "name": "Dawlance Refrigerator 9160 LF Chrome Pro Hairline Silver",
     "price": 80500.0,
     "url": "https://japanelectronics.com.pk/products/dawlance-refrigerator-9160-lf-chrome-pro-hairline-silver",
-    "available": false
+    "available": true
   },
   {
     "name": "Dawlance Refrigerator 9169 WB Avante Pearl Burgundy (GD)",
@@ -7591,7 +7591,7 @@
   },
   {
     "name": "Beetro Electric & Gas Geyser 35 Gallon (FEG-35 16/12 Gauge)",
-    "price": 68000.0,
+    "price": 67000.0,
     "url": "https://japanelectronics.com.pk/products/beetro-electric-gas-geyser-35-gallon-feg-35-16-12-gauge",
     "available": true
   },
@@ -7603,7 +7603,7 @@
   },
   {
     "name": "Beetro Electric & Gas Geyser 55 Gallon (FEG-55 16/12 Gauge)",
-    "price": 80000.0,
+    "price": 81000.0,
     "url": "https://japanelectronics.com.pk/products/beetro-electric-gas-geyser-55-gallon-feg-55-16-12-gauge",
     "available": true
   },
@@ -11791,7 +11791,7 @@
   },
   {
     "name": "Beetro Electric & Gas Geyser 55 Gallon (FEG-55 9/10 Gauge)",
-    "price": 99000.0,
+    "price": 96000.0,
     "url": "https://japanelectronics.com.pk/products/beetro-e-g-geyser-55-gallon-feg-55-9-10-gauge-auto-ignition",
     "available": true
   },

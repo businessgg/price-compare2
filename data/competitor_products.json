@@ -99,7 +99,7 @@
     "name": "TCL Party Speaker (TP200K)",
     "price": 74955.0,
     "url": "https://japanelectronics.com.pk/products/tcl-party-speaker-tp200k",
-    "available": true
+    "available": false
   },
   {
     "name": "TCL Sound Bar Q65H (Dolby Atmos & Ray Technology)",
@@ -309,7 +309,7 @@
     "name": "Haier LED 55\" 55S80GUX (QLED)",
     "price": 127000.0,
     "url": "https://japanelectronics.com.pk/products/haier-led-55-55s80gux-qled",
-    "available": false
+    "available": true
   },
   {
     "name": "Haier LED 50\" 50S81GFX (QLED)",
@@ -405,7 +405,7 @@
     "name": "Electrolux Water Dispenser (ELWD-BP3T-DD Digital Black)",
     "price": 50900.0,
     "url": "https://japanelectronics.com.pk/products/electrolux-water-dispenser-elwd-bp3t-dd-digital-black",
-    "available": false
+    "available": true
   },
   {
     "name": "ORIENT WATER DISPENSER (VELVET 3 SILK GREEN)",
@@ -675,7 +675,7 @@
     "name": "DAWLANCE TAWM (DWT-1580 INV C GLOW)",
     "price": 120000.0,
     "url": "https://japanelectronics.com.pk/products/dawlance-tawm-dwt-1580-inv-c-glow",
-    "available": false
+    "available": true
   },
   {
     "name": "DAWLANCE TAWM (DWT-1776 FLT C GLOW)",
@@ -709,7 +709,7 @@
   },
   {
     "name": "PEL REF (PRLR-1100 SD LIFE)",
-    "price": 41000.0,
+    "price": 45499.0,
     "url": "https://japanelectronics.com.pk/products/pel-ref-prlr-1100-sd-life",
     "available": false
   },
@@ -1215,7 +1215,7 @@
     "name": "Dawlance No Frost Ref DMD-7951 (Inverter INOX)",
     "price": 213000.0,
     "url": "https://japanelectronics.com.pk/products/dawlance-no-frost-ref-dmd-7951-inverter-inox",
-    "available": true
+    "available": false
   },
   {
     "name": "Dawlance REF 9178 LF Icemax Mist Green",
@@ -1413,7 +1413,7 @@
     "name": "NASGAS KITCHEN HOB (DG-1428 SS)",
     "price": 23050.0,
     "url": "https://japanelectronics.com.pk/products/nasgas-kitchen-hob-dg-1428-ss",
-    "available": true
+    "available": false
   },
   {
     "name": "NASGAS KITCHEN HOB (DG-1530 SS)",
@@ -2047,9 +2047,9 @@
   },
   {
     "name": "Crownline Dehumidifier MD-395",
-    "price": 95000.0,
+    "price": 124000.0,
     "url": "https://japanelectronics.com.pk/products/crownline-dehumidifier-md-395",
-    "available": false
+    "available": true
   },
   {
     "name": "SAMSUNG LED 50\" CY-50U8000FUSMM",
@@ -2073,7 +2073,7 @@
     "name": "LG Home Theater S65T 5.1",
     "price": 85000.0,
     "url": "https://japanelectronics.com.pk/products/lg-home-theater-s65t-5-1",
-    "available": true
+    "available": false
   },
   {
     "name": "LG HOME THEATER S75TR 5.1.1",
@@ -2319,7 +2319,7 @@
     "name": "Nasgas Electric & Gas Geyser 55 Gallon (DEG-55) Super HD",
     "price": 64500.0,
     "url": "https://japanelectronics.com.pk/products/nasgas-electric-gas-geyser-55-gallon-deg-55-super-hd",
-    "available": true
+    "available": false
   },
   {
     "name": "Super Asia Electric & Gas Geyser 35 Gallon (GEH-735) AI",
@@ -6669,13 +6669,13 @@
     "name": "Gree Oil Heater GEH22",
     "price": 34900.0,
     "url": "https://japanelectronics.com.pk/products/gree-oil-heater-geh22",
-    "available": false
+    "available": true
   },
   {
     "name": "Gree Oil Heater GEH18",
     "price": 34900.0,
     "url": "https://japanelectronics.com.pk/products/gree-oil-heater-geh18",
-    "available": false
+    "available": true
   },
   {
     "name": "Haier Washing Machine HWM-100BS",
@@ -7779,7 +7779,7 @@
     "name": "Samsung LED 55\" CY-55DU8000USMZ",
     "price": 189900.0,
     "url": "https://japanelectronics.com.pk/products/samsung-led-55-cy-55du8000usmz",
-    "available": true
+    "available": false
   },
   {
     "name": "Haier LED 40\" 40K85FFX",
@@ -7893,7 +7893,7 @@
     "name": "Cherry Air Purifier (CAP-400 Pro)",
     "price": 34900.0,
     "url": "https://japanelectronics.com.pk/products/cherry-air-purifier-cap-400-pro",
-    "available": true
+    "available": false
   },
   {
     "name": "Canon Air Purifier (CHA-AP-01-265)",
@@ -8179,7 +8179,7 @@
   },
   {
     "name": "LG Refrigerator Side By Side GM-V960NNME Mood-Up",
-    "price": 1250000.0,
+    "price": 998000.0,
     "url": "https://japanelectronics.com.pk/products/lg-refrigerator-side-by-side-gm-v960nnme-mood-up",
     "available": false
   },
@@ -8247,7 +8247,7 @@
     "name": "Beetro Fast Electric Geyser FFE-15 (15 Ltr)",
     "price": 26000.0,
     "url": "https://japanelectronics.com.pk/products/beetro-fast-electric-geyser-ffe-15-15-ltr",
-    "available": true
+    "available": false
   },
   {
     "name": "Philips Blender HR-2141",
@@ -9819,13 +9819,13 @@
     "name": "TCL LED 43\" 43S59K (Q LED)",
     "price": 84500.0,
     "url": "https://japanelectronics.com.pk/products/tcl-led-43-43s59k-q-led",
-    "available": false
+    "available": true
   },
   {
     "name": "TCL LED 43\" 43S51K (Q LED)",
     "price": 78000.0,
     "url": "https://japanelectronics.com.pk/products/tcl-led-43-43s51k-q-led",
-    "available": false
+    "available": true
   },
   {
     "name": "TCL LED 43\" 43P79K (Q LED)",
@@ -12381,7 +12381,7 @@
     "name": "Kenwood Washing Machine KWM-899W",
     "price": 23000.0,
     "url": "https://japanelectronics.com.pk/products/kenwood-washing-machine-kwm-899w",
-    "available": false
+    "available": true
   },
   {
     "name": "LG Automatic Washing Machine F4V5RGP2T",

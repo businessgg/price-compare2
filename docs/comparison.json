@@ -1,10 +1,10 @@
 {
-  "last_updated": "2026-10-28T10:11:31.399960+00:00",
+  "last_updated": "2026-10-28T16:54:36.670049+00:00",
   "my_store_name": "Bismillah Electronics",
   "competitor_name": "Japan Electronics",
-  "total_my_products": 1419,
+  "total_my_products": 1415,
   "total_competitor_products": 2151,
-  "matched_count": 1003,
+  "matched_count": 1000,
   "results": [
     {
       "product_name": "TCL LED TV 65 Inch 65P79K (Q LED)",
@@ -2598,7 +2598,7 @@
     },
     {
       "product_name": "Anex Vacum Cleaner 2199",
-      "my_price": 27000.0,
+      "my_price": 34675.0,
       "my_available": true,
       "my_url": "https://bismillahelectronics.pk/products/anex-vacum-cleaner-2199",
       "competitor_name": "ANEX Vacuum Cleaner 2093",
@@ -2607,12 +2607,12 @@
       "competitor_url": "https://japanelectronics.com.pk/products/anex-vacuum-cleaner-2093",
       "match_confidence": 76.6,
       "status": "matched",
-      "price_diff": 1100.0,
+      "price_diff": 8775.0,
       "cheaper": "competitor"
     },
     {
       "product_name": "Anex Sandwich Maker AG-2036",
-      "my_price": 8500.0,
+      "my_price": 9925.0,
       "my_available": true,
       "my_url": "https://bismillahelectronics.pk/products/anex-sandwich-maker-ag-2036",
       "competitor_name": "ANEX Sandwich Maker (AG-2046)",
@@ -2621,12 +2621,12 @@
       "competitor_url": "https://japanelectronics.com.pk/products/anex-sandwich-maker-ag-2046",
       "match_confidence": 82.1,
       "status": "matched",
-      "price_diff": 1000.0,
+      "price_diff": 2425.0,
       "cheaper": "competitor"
     },
     {
       "product_name": "Anex Hand Blender AG-140",
-      "my_price": 11500.0,
+      "my_price": 13745.0,
       "my_available": true,
       "my_url": "https://bismillahelectronics.pk/products/anex-hand-blender-ag-140",
       "competitor_name": "Anex Hand Blender 123",
@@ -2635,12 +2635,12 @@
       "competitor_url": "https://japanelectronics.com.pk/products/anex-hand-blender-123",
       "match_confidence": 84.4,
       "status": "matched",
-      "price_diff": 4330.0,
+      "price_diff": 6575.0,
       "cheaper": "competitor"
     },
     {
       "product_name": "Anex Hand Blender AG-126",
-      "my_price": 8300.0,
+      "my_price": 9850.0,
       "my_available": true,
       "my_url": "https://bismillahelectronics.pk/products/anex-hand-blender-ag-126",
       "competitor_name": "Anex Hand Blender 123",
@@ -2649,7 +2649,7 @@
       "competitor_url": "https://japanelectronics.com.pk/products/anex-hand-blender-123",
       "match_confidence": 88.9,
       "status": "matched",
-      "price_diff": 1130.0,
+      "price_diff": 2680.0,
       "cheaper": "competitor"
     },
     {
@@ -2668,7 +2668,7 @@
     },
     {
       "product_name": "Anex Food Processor AG-1141",
-      "my_price": 19000.0,
+      "my_price": 22760.0,
       "my_available": true,
       "my_url": "https://bismillahelectronics.pk/products/anex-food-processor-ag-1141",
       "competitor_name": "ANEX Food Processor (AG-1141)",
@@ -2677,12 +2677,12 @@
       "competitor_url": "https://japanelectronics.com.pk/products/anex-food-processor-ag-1141",
       "match_confidence": 85.7,
       "status": "matched",
-      "price_diff": 270.0,
+      "price_diff": 4030.0,
       "cheaper": "competitor"
     },
     {
       "product_name": "Anex Beater & Chopper AG-145",
-      "my_price": 7600.0,
+      "my_price": 9070.0,
       "my_available": true,
       "my_url": "https://bismillahelectronics.pk/products/anex-beater-chopper-ag-145",
       "competitor_name": "ANEX Chopper & Blender (AG-3146)",
@@ -2691,7 +2691,7 @@
       "competitor_url": "https://japanelectronics.com.pk/products/anex-chopper-blender-ag-3146",
       "match_confidence": 73.3,
       "status": "matched",
-      "price_diff": -13400.0,
+      "price_diff": -11930.0,
       "cheaper": "us"
     },
     {
@@ -5061,48 +5061,6 @@
       "cheaper": "competitor"
     },
     {
-      "product_name": "Anex Toaster AG 3008",
-      "my_price": 7600.0,
-      "my_available": true,
-      "my_url": "https://bismillahelectronics.pk/products/anex-toaster-ag-3008",
-      "competitor_name": "ANEX Oven Toaster 3070",
-      "competitor_price": 34850.0,
-      "competitor_available": true,
-      "competitor_url": "https://japanelectronics.com.pk/products/anex-oven-toaster-3070",
-      "match_confidence": 71.4,
-      "status": "matched",
-      "price_diff": -27250.0,
-      "cheaper": "us"
-    },
-    {
-      "product_name": "Anex Toaster AG-3007 SS",
-      "my_price": 10100.0,
-      "my_available": true,
-      "my_url": "https://bismillahelectronics.pk/products/anex-toaster-ag-3007-ss",
-      "competitor_name": "Anex Oven Toaster 3073",
-      "competitor_price": 31400.0,
-      "competitor_available": true,
-      "competitor_url": "https://japanelectronics.com.pk/products/anex-oven-toaster-3073",
-      "match_confidence": 75.6,
-      "status": "matched",
-      "price_diff": -21300.0,
-      "cheaper": "us"
-    },
-    {
-      "product_name": "Anex Toaster AG-3009",
-      "my_price": 12300.0,
-      "my_available": true,
-      "my_url": "https://bismillahelectronics.pk/products/anex-toaster-ag-3009",
-      "competitor_name": "ANEX Oven Toaster (AG-3070)",
-      "competitor_price": 34850.0,
-      "competitor_available": true,
-      "competitor_url": "https://japanelectronics.com.pk/products/anex-oven-toaster-ag-3070",
-      "match_confidence": 72.3,
-      "status": "matched",
-      "price_diff": -22550.0,
-      "cheaper": "us"
-    },
-    {
       "product_name": "Samsung Inverter AC AR18ASFZGWKYPM",
       "my_price": 255000.0,
       "my_available": true,
@@ -7260,7 +7218,7 @@
     },
     {
       "product_name": "Anex Steam Iron AG-1028",
-      "my_price": 8200.0,
+      "my_price": 9595.0,
       "my_available": true,
       "my_url": "https://bismillahelectronics.pk/products/anex-steam-iron-ag-1028",
       "competitor_name": null,
@@ -7274,7 +7232,7 @@
     },
     {
       "product_name": "Anex Steam Iron AG-1027",
-      "my_price": 8200.0,
+      "my_price": 9895.0,
       "my_available": true,
       "my_url": "https://bismillahelectronics.pk/products/anex-steam-iron-ag-1027",
       "competitor_name": null,
@@ -7288,7 +7246,7 @@
     },
     {
       "product_name": "Anex Stand Mixer AG-834",
-      "my_price": 27500.0,
+      "my_price": 27535.0,
       "my_available": true,
       "my_url": "https://bismillahelectronics.pk/products/anex-stand-mixer-ag-834",
       "competitor_name": null,
@@ -7302,7 +7260,7 @@
     },
     {
       "product_name": "Anex Stand Mixer AG-819",
-      "my_price": 27500.0,
+      "my_price": 27535.0,
       "my_available": true,
       "my_url": "https://bismillahelectronics.pk/products/anex-stand-mixer-ag-819",
       "competitor_name": null,
@@ -7316,7 +7274,7 @@
     },
     {
       "product_name": "Anex Dough Maker AG-2127",
-      "my_price": 14500.0,
+      "my_price": 19170.0,
       "my_available": true,
       "my_url": "https://bismillahelectronics.pk/products/anex-dough-maker-ag-2127",
       "competitor_name": "ANEX Dough Maker (AG-2127)",
@@ -7325,12 +7283,12 @@
       "competitor_url": "https://japanelectronics.com.pk/products/anex-dough-maker-ag-2127",
       "match_confidence": 84.0,
       "status": "matched",
-      "price_diff": -2440.0,
-      "cheaper": "us"
+      "price_diff": 2230.0,
+      "cheaper": "competitor"
     },
     {
       "product_name": "Anex Sandwich Maker AG-2047",
-      "my_price": 11100.0,
+      "my_price": 13065.0,
       "my_available": true,
       "my_url": "https://bismillahelectronics.pk/products/anex-sandwich-maker-ag-2047",
       "competitor_name": "ANEX Sandwich Maker (AG-2047)",
@@ -7339,12 +7297,12 @@
       "competitor_url": "https://japanelectronics.com.pk/products/anex-sandwich-maker-ag-2047",
       "match_confidence": 85.7,
       "status": "matched",
-      "price_diff": -950.0,
-      "cheaper": "us"
+      "price_diff": 1015.0,
+      "cheaper": "competitor"
     },
     {
       "product_name": "Anex Sandwich Maker AG-2046",
-      "my_price": 7000.0,
+      "my_price": 8190.0,
       "my_available": true,
       "my_url": "https://bismillahelectronics.pk/products/anex-sandwich-maker-ag-2046",
       "competitor_name": "ANEX Sandwich Maker (AG-2046)",
@@ -7353,12 +7311,12 @@
       "competitor_url": "https://japanelectronics.com.pk/products/anex-sandwich-maker-ag-2046",
       "match_confidence": 85.7,
       "status": "matched",
-      "price_diff": -500.0,
-      "cheaper": "us"
+      "price_diff": 690.0,
+      "cheaper": "competitor"
     },
     {
       "product_name": "Anex Sandwich Maker AG-2045",
-      "my_price": 7000.0,
+      "my_price": 8190.0,
       "my_available": true,
       "my_url": "https://bismillahelectronics.pk/products/anex-sandwich-maker-ag-2045",
       "competitor_name": "ANEX Sandwich Maker 2045",
@@ -7367,12 +7325,12 @@
       "competitor_url": "https://japanelectronics.com.pk/products/anex-sandwich-maker-2045",
       "match_confidence": 82.4,
       "status": "matched",
-      "price_diff": -730.0,
-      "cheaper": "us"
+      "price_diff": 460.0,
+      "cheaper": "competitor"
     },
     {
       "product_name": "Anex Sandwich Maker AG-2040",
-      "my_price": 6450.0,
+      "my_price": 8065.0,
       "my_available": true,
       "my_url": "https://bismillahelectronics.pk/products/anex-sandwich-maker-ag-2040",
       "competitor_name": "ANEX Sandwich Maker (AG-2047)",
@@ -7381,12 +7339,12 @@
       "competitor_url": "https://japanelectronics.com.pk/products/anex-sandwich-maker-ag-2047",
       "match_confidence": 82.1,
       "status": "matched",
-      "price_diff": -5600.0,
+      "price_diff": -3985.0,
       "cheaper": "us"
     },
     {
       "product_name": "Anex Sandwich Maker AG-1039",
-      "my_price": 11000.0,
+      "my_price": 12185.0,
       "my_available": true,
       "my_url": "https://bismillahelectronics.pk/products/anex-sandwich-maker-ag-1039",
       "competitor_name": "ANEX Sandwich Maker AG-1035",
@@ -7395,12 +7353,12 @@
       "competitor_url": "https://japanelectronics.com.pk/products/anex-sandwich-maker-ag-1035",
       "match_confidence": 85.2,
       "status": "matched",
-      "price_diff": 4200.0,
+      "price_diff": 5385.0,
       "cheaper": "competitor"
     },
     {
       "product_name": "Anex Sandwich Maker AG-1037",
-      "my_price": 6200.0,
+      "my_price": 7735.0,
       "my_available": true,
       "my_url": "https://bismillahelectronics.pk/products/anex-sandwich-maker-ag-1037",
       "competitor_name": "ANEX Sandwich Maker AG-1037C",
@@ -7409,12 +7367,12 @@
       "competitor_url": "https://japanelectronics.com.pk/products/indicator-lamp-sandwich-maker-anex",
       "match_confidence": 87.3,
       "status": "matched",
-      "price_diff": -870.0,
-      "cheaper": "us"
+      "price_diff": 665.0,
+      "cheaper": "competitor"
     },
     {
       "product_name": "Anex Roti Maker AG-2029",
-      "my_price": 13400.0,
+      "my_price": 16760.0,
       "my_available": false,
       "my_url": "https://bismillahelectronics.pk/products/anex-roti-maker-ag-2029",
       "competitor_name": "ANEX Roti Maker 2029",
@@ -7423,12 +7381,12 @@
       "competitor_url": "https://japanelectronics.com.pk/products/anex-roti-maker-2029",
       "match_confidence": 79.1,
       "status": "matched",
-      "price_diff": -500.0,
-      "cheaper": "us"
+      "price_diff": 2860.0,
+      "cheaper": "competitor"
     },
     {
       "product_name": "Anex Rice Cooker AG-2023",
-      "my_price": 9000.0,
+      "my_price": 11330.0,
       "my_available": true,
       "my_url": "https://bismillahelectronics.pk/products/anex-rice-cooker-ag-2023",
       "competitor_name": "ANEX Rice Cooker (AG-2023)",
@@ -7437,12 +7395,12 @@
       "competitor_url": "https://japanelectronics.com.pk/products/anex-rice-cooker-ag-2023",
       "match_confidence": 84.0,
       "status": "matched",
-      "price_diff": -80.0,
-      "cheaper": "us"
+      "price_diff": 2250.0,
+      "cheaper": "competitor"
     },
     {
       "product_name": "Anex Rice Cooker AG-2021",
-      "my_price": 9000.0,
+      "my_price": 10630.0,
       "my_available": true,
       "my_url": "https://bismillahelectronics.pk/products/anex-rice-cooker-ag-2021",
       "competitor_name": "ANEX Rice Cooker (AG-2021)",
@@ -7451,7 +7409,7 @@
       "competitor_url": "https://japanelectronics.com.pk/products/anex-rice-cooker-ag-2021",
       "match_confidence": 84.0,
       "status": "matched",
-      "price_diff": 480.0,
+      "price_diff": 2110.0,
       "cheaper": "competitor"
     },
     {
@@ -7484,7 +7442,7 @@
     },
     {
       "product_name": "Anex Juicer Blender Grinder AG-192",
-      "my_price": 14500.0,
+      "my_price": 18315.0,
       "my_available": true,
       "my_url": "https://bismillahelectronics.pk/products/anex-juicer-blender-grinder-ag-192",
       "competitor_name": "ANEX Juicer Blender Grinder (AG-192)",
@@ -7493,12 +7451,12 @@
       "competitor_url": "https://japanelectronics.com.pk/products/anex-juicer-blender-grinder-ag-192",
       "match_confidence": 88.6,
       "status": "matched",
-      "price_diff": -1700.0,
-      "cheaper": "us"
+      "price_diff": 2115.0,
+      "cheaper": "competitor"
     },
     {
       "product_name": "Anex Juicer AG-90",
-      "my_price": 13500.0,
+      "my_price": 16785.0,
       "my_available": true,
       "my_url": "https://bismillahelectronics.pk/products/anex-juicer-ag-90",
       "competitor_name": "Anex Deluxe Juicer AG-78",
@@ -7507,12 +7465,12 @@
       "competitor_url": "https://japanelectronics.com.pk/products/anex-deluxe-juicer-ag-78",
       "match_confidence": 73.2,
       "status": "matched",
-      "price_diff": 3000.0,
+      "price_diff": 6285.0,
       "cheaper": "competitor"
     },
     {
       "product_name": "Anex Juicer Blender Grinder AG-188",
-      "my_price": 17800.0,
+      "my_price": 23040.0,
       "my_available": true,
       "my_url": "https://bismillahelectronics.pk/products/anex-juicer-blender-grinder-ag-188",
       "competitor_name": "ANEX Juicer Blender Grinder (AG-192)",
@@ -7521,12 +7479,12 @@
       "competitor_url": "https://japanelectronics.com.pk/products/anex-juicer-blender-grinder-ag-192",
       "match_confidence": 82.9,
       "status": "matched",
-      "price_diff": 1600.0,
+      "price_diff": 6840.0,
       "cheaper": "competitor"
     },
     {
       "product_name": "Anex Egg Beater AG-390EX",
-      "my_price": 7000.0,
+      "my_price": 8115.0,
       "my_available": true,
       "my_url": "https://bismillahelectronics.pk/products/anex-egg-beater-ag-390ex",
       "competitor_name": "ANEX Egg Beater AG-399",
@@ -7535,12 +7493,12 @@
       "competitor_url": "https://japanelectronics.com.pk/products/anex-egg-beater-ag-399",
       "match_confidence": 78.3,
       "status": "matched",
-      "price_diff": -670.0,
-      "cheaper": "us"
+      "price_diff": 445.0,
+      "cheaper": "competitor"
     },
     {
       "product_name": "Anex Hand Blender AG-142",
-      "my_price": 7200.0,
+      "my_price": 8995.0,
       "my_available": true,
       "my_url": "https://bismillahelectronics.pk/products/anex-hand-blender-ag-142",
       "competitor_name": "Anex Hand Blender 123",
@@ -7549,12 +7507,12 @@
       "competitor_url": "https://japanelectronics.com.pk/products/anex-hand-blender-123",
       "match_confidence": 88.9,
       "status": "matched",
-      "price_diff": 30.0,
+      "price_diff": 1825.0,
       "cheaper": "competitor"
     },
     {
       "product_name": "Anex Hand Blender AG-130",
-      "my_price": 12100.0,
+      "my_price": 14895.0,
       "my_available": true,
       "my_url": "https://bismillahelectronics.pk/products/anex-hand-blender-ag-130",
       "competitor_name": "Anex Hand Blender 123",
@@ -7563,12 +7521,12 @@
       "competitor_url": "https://japanelectronics.com.pk/products/anex-hand-blender-123",
       "match_confidence": 88.9,
       "status": "matched",
-      "price_diff": 4930.0,
+      "price_diff": 7725.0,
       "cheaper": "competitor"
     },
     {
       "product_name": "Anex Hand Blender AG-128",
-      "my_price": 8000.0,
+      "my_price": 9370.0,
       "my_available": true,
       "my_url": "https://bismillahelectronics.pk/products/anex-hand-blender-ag-128",
       "competitor_name": "Anex Hand Blender 123",
@@ -7577,12 +7535,12 @@
       "competitor_url": "https://japanelectronics.com.pk/products/anex-hand-blender-123",
       "match_confidence": 88.9,
       "status": "matched",
-      "price_diff": 830.0,
+      "price_diff": 2200.0,
       "cheaper": "competitor"
     },
     {
       "product_name": "Anex Hand Blender AG-121",
-      "my_price": 4704.0,
+      "my_price": 9095.0,
       "my_available": true,
       "my_url": "https://bismillahelectronics.pk/products/anex-hand-blender-ag-121",
       "competitor_name": "Anex Hand Blender 123",
@@ -7591,12 +7549,12 @@
       "competitor_url": "https://japanelectronics.com.pk/products/anex-hand-blender-123",
       "match_confidence": 88.9,
       "status": "matched",
-      "price_diff": -2466.0,
-      "cheaper": "us"
+      "price_diff": 1925.0,
+      "cheaper": "competitor"
     },
     {
       "product_name": "Anex Hair Straightener AG-7039",
-      "my_price": 6350.0,
+      "my_price": 7865.0,
       "my_available": true,
       "my_url": "https://bismillahelectronics.pk/products/anex-hair-straightener-ag-7039",
       "competitor_name": "ANEX Hair Straightener 7038",
@@ -7605,12 +7563,12 @@
       "competitor_url": "https://japanelectronics.com.pk/products/anex-hair-straightener-7038",
       "match_confidence": 80.7,
       "status": "matched",
-      "price_diff": -410.0,
-      "cheaper": "us"
+      "price_diff": 1105.0,
+      "cheaper": "competitor"
     },
     {
       "product_name": "Anex Hair Straightener AG-7035",
-      "my_price": 5100.0,
+      "my_price": 6305.0,
       "my_available": true,
       "my_url": "https://bismillahelectronics.pk/products/anex-hair-straightener-ag-7035",
       "competitor_name": "ANEX Hair Straightener 7038",
@@ -7619,12 +7577,12 @@
       "competitor_url": "https://japanelectronics.com.pk/products/anex-hair-straightener-7038",
       "match_confidence": 80.7,
       "status": "matched",
-      "price_diff": -1660.0,
+      "price_diff": -455.0,
       "cheaper": "us"
     },
     {
       "product_name": "Anex Hair Dryer AG-7028",
-      "my_price": 5750.0,
+      "my_price": 7085.0,
       "my_available": true,
       "my_url": "https://bismillahelectronics.pk/products/anex-hair-dryer-ag-7028",
       "competitor_name": "ANEX Hair Dryer 7028",
@@ -7633,12 +7591,12 @@
       "competitor_url": "https://japanelectronics.com.pk/products/anex-hair-dryer-7028",
       "match_confidence": 79.1,
       "status": "matched",
-      "price_diff": -810.0,
-      "cheaper": "us"
+      "price_diff": 525.0,
+      "cheaper": "competitor"
     },
     {
       "product_name": "Anex Hair Dryer AG-7025",
-      "my_price": 6500.0,
+      "my_price": 8115.0,
       "my_available": true,
       "my_url": "https://bismillahelectronics.pk/products/anex-hair-dryer-ag-7025",
       "competitor_name": "ANEX Hair Dryer (AG-7005)",
@@ -7647,12 +7605,12 @@
       "competitor_url": "https://japanelectronics.com.pk/products/anex-hair-dryer-ag-7005",
       "match_confidence": 79.2,
       "status": "matched",
-      "price_diff": 350.0,
+      "price_diff": 1965.0,
       "cheaper": "competitor"
     },
     {
       "product_name": "Anex Garment Steamer AG-1121",
-      "my_price": 21800.0,
+      "my_price": 27410.0,
       "my_available": true,
       "my_url": "https://bismillahelectronics.pk/products/anex-garment-steamer-ag-1121",
       "competitor_name": "ANEX Garment Steamer (AG-1120)",
@@ -7661,12 +7619,12 @@
       "competitor_url": "https://japanelectronics.com.pk/products/anex-garment-steamer-ag-1120",
       "match_confidence": 82.8,
       "status": "matched",
-      "price_diff": -3210.0,
-      "cheaper": "us"
+      "price_diff": 2400.0,
+      "cheaper": "competitor"
     },
     {
       "product_name": "Anex Garment Steamer AG-1120",
-      "my_price": 22200.0,
+      "my_price": 27410.0,
       "my_available": true,
       "my_url": "https://bismillahelectronics.pk/products/anex-garment-steamer-ag-1120",
       "competitor_name": "ANEX Garment Steamer (AG-1120)",
@@ -7675,12 +7633,12 @@
       "competitor_url": "https://japanelectronics.com.pk/products/anex-garment-steamer-ag-1120",
       "match_confidence": 86.2,
       "status": "matched",
-      "price_diff": -2810.0,
-      "cheaper": "us"
+      "price_diff": 2400.0,
+      "cheaper": "competitor"
     },
     {
       "product_name": "Anex Juicer AG-95",
-      "my_price": 14500.0,
+      "my_price": 18540.0,
       "my_available": true,
       "my_url": "https://bismillahelectronics.pk/products/anex-juicer-ag-95",
       "competitor_name": "Anex Deluxe Juicer AG-78",
@@ -7689,12 +7647,12 @@
       "competitor_url": "https://japanelectronics.com.pk/products/anex-deluxe-juicer-ag-78",
       "match_confidence": 73.2,
       "status": "matched",
-      "price_diff": 4000.0,
+      "price_diff": 8040.0,
       "cheaper": "competitor"
     },
     {
       "product_name": "Anex Juicer Blender Grinder AG-180GL",
-      "my_price": 15300.0,
+      "my_price": 18540.0,
       "my_available": true,
       "my_url": "https://bismillahelectronics.pk/products/anex-juicer-blender-grinder-ag-180gl",
       "competitor_name": "ANEX Juicer Blender Grinder 190",
@@ -7703,12 +7661,12 @@
       "competitor_url": "https://japanelectronics.com.pk/products/anex-juicer-blender-grinder-190",
       "match_confidence": 80.6,
       "status": "matched",
-      "price_diff": -500.0,
-      "cheaper": "us"
+      "price_diff": 2740.0,
+      "cheaper": "competitor"
     },
     {
       "product_name": "Anex Juicer Blender Grinder AG-189EX",
-      "my_price": 16800.0,
+      "my_price": 20995.0,
       "my_available": true,
       "my_url": "https://bismillahelectronics.pk/products/anex-juicer-blender-grinder-ag-189ex",
       "competitor_name": "ANEX Juicer Blender Grinder (AG-192)",
@@ -7717,12 +7675,12 @@
       "competitor_url": "https://japanelectronics.com.pk/products/anex-juicer-blender-grinder-ag-192",
       "match_confidence": 83.3,
       "status": "matched",
-      "price_diff": 600.0,
+      "price_diff": 4795.0,
       "cheaper": "competitor"
     },
     {
       "product_name": "Anex Juicer AG-177GL 3-in-1",
-      "my_price": 13300.0,
+      "my_price": 15995.0,
       "my_available": true,
       "my_url": "https://bismillahelectronics.pk/products/anex-juicer-ag-177gl-3-in-1",
       "competitor_name": null,
@@ -7736,7 +7694,7 @@
     },
     {
       "product_name": "Anex Juicer AG-176GL 3-in-1",
-      "my_price": 13000.0,
+      "my_price": 15995.0,
       "my_available": true,
       "my_url": "https://bismillahelectronics.pk/products/anex-juicer-ag-176gl-3-in-1",
       "competitor_name": null,
@@ -7750,7 +7708,7 @@
     },
     {
       "product_name": "Anex Food Factory AG-3152",
-      "my_price": 21900.0,
+      "my_price": 26055.0,
       "my_available": true,
       "my_url": "https://bismillahelectronics.pk/products/anex-food-factory-ag-3152",
       "competitor_name": null,
@@ -7764,7 +7722,7 @@
     },
     {
       "product_name": "Anex Food Factory AG-3151EX",
-      "my_price": 20800.0,
+      "my_price": 26055.0,
       "my_available": true,
       "my_url": "https://bismillahelectronics.pk/products/anex-food-factory-ag-3151ex",
       "competitor_name": null,
@@ -7778,7 +7736,7 @@
     },
     {
       "product_name": "Anex Food Factory AG-3150EX",
-      "my_price": 21800.0,
+      "my_price": 25750.0,
       "my_available": true,
       "my_url": "https://bismillahelectronics.pk/products/anex-food-factory-ag-3150ex",
       "competitor_name": null,
@@ -7792,7 +7750,7 @@
     },
     {
       "product_name": "Anex Food Factory AG-2150EX",
-      "my_price": 19000.0,
+      "my_price": 22560.0,
       "my_available": true,
       "my_url": "https://bismillahelectronics.pk/products/anex-food-factory-ag-2150ex",
       "competitor_name": null,
@@ -7806,7 +7764,7 @@
     },
     {
       "product_name": "Anex Juicer Blender Grinder AG-190",
-      "my_price": 15800.0,
+      "my_price": 19795.0,
       "my_available": true,
       "my_url": "https://bismillahelectronics.pk/products/anex-juicer-blender-grinder-ag-190",
       "competitor_name": "ANEX Juicer Blender Grinder 190",
@@ -7815,12 +7773,12 @@
       "competitor_url": "https://japanelectronics.com.pk/products/anex-juicer-blender-grinder-190",
       "match_confidence": 86.2,
       "status": "matched",
-      "price_diff": 0.0,
-      "cheaper": "same"
+      "price_diff": 3995.0,
+      "cheaper": "competitor"
     },
     {
       "product_name": "Anex Egg Beater AG-822",
-      "my_price": 9800.0,
+      "my_price": 11735.0,
       "my_available": true,
       "my_url": "https://bismillahelectronics.pk/products/anex-egg-beater-ag-822",
       "competitor_name": "ANEX Egg Beater AG-399",
@@ -7829,12 +7787,12 @@
       "competitor_url": "https://japanelectronics.com.pk/products/anex-egg-beater-ag-399",
       "match_confidence": 72.7,
       "status": "matched",
-      "price_diff": 2130.0,
+      "price_diff": 4065.0,
       "cheaper": "competitor"
     },
     {
       "product_name": "Anex Dry Iron AG-662",
-      "my_price": 5100.0,
+      "my_price": 5980.0,
       "my_available": true,
       "my_url": "https://bismillahelectronics.pk/products/anex-dry-iron-ag-662",
       "competitor_name": null,
@@ -7848,7 +7806,7 @@
     },
     {
       "product_name": "Anex Deep Fryer AG-2014",
-      "my_price": 16800.0,
+      "my_price": 21505.0,
       "my_available": true,
       "my_url": "https://bismillahelectronics.pk/products/anex-deep-fryer-ag-2014",
       "competitor_name": "ANEX Deep Fryer AG-2012",
@@ -7857,12 +7815,12 @@
       "competitor_url": "https://japanelectronics.com.pk/products/anex-deep-fryer-ag-2012",
       "match_confidence": 82.6,
       "status": "matched",
-      "price_diff": -1100.0,
-      "cheaper": "us"
+      "price_diff": 3605.0,
+      "cheaper": "competitor"
     },
     {
       "product_name": "Anex Deep Fryer AG-2012",
-      "my_price": 21300.0,
+      "my_price": 21525.0,
       "my_available": true,
       "my_url": "https://bismillahelectronics.pk/products/anex-deep-fryer-ag-2012",
       "competitor_name": "ANEX Deep Fryer AG-2012",
@@ -7871,12 +7829,12 @@
       "competitor_url": "https://japanelectronics.com.pk/products/anex-deep-fryer-ag-2012",
       "match_confidence": 87.0,
       "status": "matched",
-      "price_diff": 3400.0,
+      "price_diff": 3625.0,
       "cheaper": "competitor"
     },
     {
       "product_name": "Anex Citrus Juicer AG-2054",
-      "my_price": 6200.0,
+      "my_price": 6885.0,
       "my_available": true,
       "my_url": "https://bismillahelectronics.pk/products/anex-citrus-juicer-ag-2054",
       "competitor_name": "Anex Citrus Juicer 2158",
@@ -7885,12 +7843,12 @@
       "competitor_url": "https://japanelectronics.com.pk/products/anex-citrus-juicer-2158",
       "match_confidence": 85.7,
       "status": "matched",
-      "price_diff": -2590.0,
+      "price_diff": -1905.0,
       "cheaper": "us"
     },
     {
       "product_name": "Anex Chopper AG-3144",
-      "my_price": 14900.0,
+      "my_price": 19145.0,
       "my_available": true,
       "my_url": "https://bismillahelectronics.pk/products/anex-chopper-ag-3144",
       "competitor_name": null,
@@ -7903,22 +7861,8 @@
       "cheaper": null
     },
     {
-      "product_name": "Anex Chopper AG-3040",
-      "my_price": 13700.0,
-      "my_available": true,
-      "my_url": "https://bismillahelectronics.pk/products/anex-chopper-ag-3040",
-      "competitor_name": null,
-      "competitor_price": null,
-      "competitor_available": null,
-      "competitor_url": null,
-      "match_confidence": 0,
-      "status": "only_us",
-      "price_diff": null,
-      "cheaper": null
-    },
-    {
       "product_name": "Anex Chopper AG-3049",
-      "my_price": 17000.0,
+      "my_price": 19245.0,
       "my_available": true,
       "my_url": "https://bismillahelectronics.pk/products/anex-chopper-ag-3049",
       "competitor_name": null,
@@ -7932,7 +7876,7 @@
     },
     {
       "product_name": "Anex Blender Grinder AG-697UB",
-      "my_price": 5800.0,
+      "my_price": 7035.0,
       "my_available": true,
       "my_url": "https://bismillahelectronics.pk/products/anex-blender-grinder-ag-697ub",
       "competitor_name": null,
@@ -7946,7 +7890,7 @@
     },
     {
       "product_name": "Anex Blender Grinder AG-6043",
-      "my_price": 9000.0,
+      "my_price": 11305.0,
       "my_available": true,
       "my_url": "https://bismillahelectronics.pk/products/anex-blender-grinder-ag-6043",
       "competitor_name": "ANEX Blender & Grinder (AG-6133 SS)",
@@ -7955,12 +7899,12 @@
       "competitor_url": "https://japanelectronics.com.pk/products/anex-blender-grinder-ag-6133-ss",
       "match_confidence": 73.0,
       "status": "matched",
-      "price_diff": -4920.0,
+      "price_diff": -2615.0,
       "cheaper": "us"
     },
     {
       "product_name": "Anex Blender Grinder AG-6137GL",
-      "my_price": 8400.0,
+      "my_price": 10855.0,
       "my_available": true,
       "my_url": "https://bismillahelectronics.pk/products/anex-blender-grinder-ag-6137gl",
       "competitor_name": "ANEX Blender & Grinder (AG-6133 SS)",
@@ -7969,12 +7913,12 @@
       "competitor_url": "https://japanelectronics.com.pk/products/anex-blender-grinder-ag-6133-ss",
       "match_confidence": 73.8,
       "status": "matched",
-      "price_diff": -5520.0,
+      "price_diff": -3065.0,
       "cheaper": "us"
     },
     {
       "product_name": "Anex Juicer Blender Grinder AG-175",
-      "my_price": 12700.0,
+      "my_price": 15995.0,
       "my_available": true,
       "my_url": "https://bismillahelectronics.pk/products/anex-juicer-blender-grinder-ag-175",
       "competitor_name": "ANEX Juicer Blender Grinder (AG-192)",
@@ -7983,12 +7927,12 @@
       "competitor_url": "https://japanelectronics.com.pk/products/anex-juicer-blender-grinder-ag-192",
       "match_confidence": 82.9,
       "status": "matched",
-      "price_diff": -3500.0,
+      "price_diff": -205.0,
       "cheaper": "us"
     },
     {
       "product_name": "Anex Blender Grinder AG-6045",
-      "my_price": 10800.0,
+      "my_price": 12690.0,
       "my_available": true,
       "my_url": "https://bismillahelectronics.pk/products/anex-blender-grinder-ag-6045",
       "competitor_name": "Beetro Blender & Grinder BGB-353",
@@ -7997,12 +7941,12 @@
       "competitor_url": "https://japanelectronics.com.pk/products/beetro-blender-grinder-bgb-353",
       "match_confidence": 70.0,
       "status": "matched",
-      "price_diff": 3300.0,
+      "price_diff": 5190.0,
       "cheaper": "competitor"
     },
     {
       "product_name": "Anex Blender Grinder AG-6044",
-      "my_price": 9900.0,
+      "my_price": 12135.0,
       "my_available": true,
       "my_url": "https://bismillahelectronics.pk/products/anex-blender-grinder-ag-6044",
       "competitor_name": null,
@@ -8016,7 +7960,7 @@
     },
     {
       "product_name": "Anex Blender Grinder AG-699",
-      "my_price": 7450.0,
+      "my_price": 7940.0,
       "my_available": true,
       "my_url": "https://bismillahelectronics.pk/products/anex-blender-grinder-ag-699",
       "competitor_name": "ANEX Blender & Grinder (3 in 1) AG-699",
@@ -8025,12 +7969,12 @@
       "competitor_url": "https://japanelectronics.com.pk/products/anex-blender-grinder-3-in-1-699",
       "match_confidence": 73.8,
       "status": "matched",
-      "price_diff": -70.0,
-      "cheaper": "us"
+      "price_diff": 420.0,
+      "cheaper": "competitor"
     },
     {
       "product_name": "Anex Blender Grinder AG-695UB",
-      "my_price": 5600.0,
+      "my_price": 7940.0,
       "my_available": true,
       "my_url": "https://bismillahelectronics.pk/products/anex-blender-grinder-ag-695ub",
       "competitor_name": null,
@@ -8044,7 +7988,7 @@
     },
     {
       "product_name": "Anex Air Fryer AG-2024",
-      "my_price": 31200.0,
+      "my_price": 39145.0,
       "my_available": true,
       "my_url": "https://bismillahelectronics.pk/products/anex-air-fryer-ag-2024",
       "competitor_name": "Anex Air Fryer (AG-2017)",
@@ -8053,7 +7997,7 @@
       "competitor_url": "https://japanelectronics.com.pk/products/anex-air-fryer-ag-2017",
       "match_confidence": 87.0,
       "status": "matched",
-      "price_diff": 2700.0,
+      "price_diff": 10645.0,
       "cheaper": "competitor"
     },
     {
@@ -8217,7 +8161,7 @@
       "my_url": "https://bismillahelectronics.pk/products/kenwood-double-washing-machine-kwm-21059-sag",
       "competitor_name": "Kenwood Washing Machine KWM-899W",
       "competitor_price": 23000.0,
-      "competitor_available": false,
+      "competitor_available": true,
       "competitor_url": "https://japanelectronics.com.pk/products/kenwood-washing-machine-kwm-899w",
       "match_confidence": 76.3,
       "status": "matched",
@@ -8287,7 +8231,7 @@
       "my_url": "https://bismillahelectronics.pk/products/kenwood-double-washing-machine-211059",
       "competitor_name": "Kenwood Washing Machine KWM-899W",
       "competitor_price": 23000.0,
-      "competitor_available": false,
+      "competitor_available": true,
       "competitor_url": "https://japanelectronics.com.pk/products/kenwood-washing-machine-kwm-899w",
       "match_confidence": 72.5,
       "status": "matched",
@@ -8595,7 +8539,7 @@
       "my_url": "https://bismillahelectronics.pk/products/kenwood-automatic-washing-machine-kwm-8005fat",
       "competitor_name": "Kenwood Washing Machine KWM-899W",
       "competitor_price": 23000.0,
-      "competitor_available": false,
+      "competitor_available": true,
       "competitor_url": "https://japanelectronics.com.pk/products/kenwood-washing-machine-kwm-899w",
       "match_confidence": 75.3,
       "status": "matched",
@@ -11012,7 +10956,7 @@
     },
     {
       "product_name": "Anex Electric Oven AG-1070",
-      "my_price": 22300.0,
+      "my_price": 28040.0,
       "my_available": true,
       "my_url": "https://bismillahelectronics.pk/products/anex-electric-oven-ag-1070",
       "competitor_name": "Anex Electric Kettle 4057",
@@ -11021,12 +10965,12 @@
       "competitor_url": "https://japanelectronics.com.pk/products/anex-electric-kettle-4057",
       "match_confidence": 70.6,
       "status": "matched",
-      "price_diff": 15800.0,
+      "price_diff": 21540.0,
       "cheaper": "competitor"
     },
     {
       "product_name": "Anex Electric Oven AG-3067",
-      "my_price": 24000.0,
+      "my_price": 29520.0,
       "my_available": true,
       "my_url": "https://bismillahelectronics.pk/products/anex-electric-oven-ag-3067",
       "competitor_name": "Anex Electric Kettle 4057",
@@ -11035,12 +10979,12 @@
       "competitor_url": "https://japanelectronics.com.pk/products/anex-electric-kettle-4057",
       "match_confidence": 70.6,
       "status": "matched",
-      "price_diff": 17500.0,
+      "price_diff": 23020.0,
       "cheaper": "competitor"
     },
     {
       "product_name": "Anex Electric Oven AG-3070",
-      "my_price": 37000.0,
+      "my_price": 28870.0,
       "my_available": true,
       "my_url": "https://bismillahelectronics.pk/products/anex-electric-oven-ag-3070",
       "competitor_name": "Anex Electric Kettle 4057",
@@ -11049,7 +10993,7 @@
       "competitor_url": "https://japanelectronics.com.pk/products/anex-electric-kettle-4057",
       "match_confidence": 70.6,
       "status": "matched",
-      "price_diff": 30500.0,
+      "price_diff": 22370.0,
       "cheaper": "competitor"
     },
     {
@@ -11978,7 +11922,7 @@
     },
     {
       "product_name": "Anex Dry Iron AG-2074",
-      "my_price": 5000.0,
+      "my_price": 6205.0,
       "my_available": true,
       "my_url": "https://bismillahelectronics.pk/products/anex-dry-iron-ag-2074",
       "competitor_name": "ANEX Dry Iron (AG-2074)",
@@ -11987,12 +11931,12 @@
       "competitor_url": "https://japanelectronics.com.pk/products/anex-dry-iron-ag-2074",
       "match_confidence": 81.8,
       "status": "matched",
-      "price_diff": 1.0,
+      "price_diff": 1206.0,
       "cheaper": "competitor"
     },
     {
       "product_name": "Anex Blender Grinder AG-6134",
-      "my_price": 6800.0,
+      "my_price": 8995.0,
       "my_available": true,
       "my_url": "https://bismillahelectronics.pk/products/anex-blender-grinder-ag-6134",
       "competitor_name": "ANEX Blender & Grinder (AG-6133 SS)",
@@ -12001,12 +11945,12 @@
       "competitor_url": "https://japanelectronics.com.pk/products/anex-blender-grinder-ag-6133-ss",
       "match_confidence": 76.2,
       "status": "matched",
-      "price_diff": -7120.0,
+      "price_diff": -4925.0,
       "cheaper": "us"
     },
     {
       "product_name": "Anex Blender Grinder AG-6133 SS",
-      "my_price": 13500.0,
+      "my_price": 17260.0,
       "my_available": true,
       "my_url": "https://bismillahelectronics.pk/products/anex-blender-grinder-ag-6133-ss",
       "competitor_name": "ANEX Blender & Grinder (AG-6133 SS)",
@@ -12015,12 +11959,12 @@
       "competitor_url": "https://japanelectronics.com.pk/products/anex-blender-grinder-ag-6133-ss",
       "match_confidence": 84.8,
       "status": "matched",
-      "price_diff": -420.0,
-      "cheaper": "us"
+      "price_diff": 3340.0,
+      "cheaper": "competitor"
     },
     {
       "product_name": "Anex Sandwich Maker AG-2137",
-      "my_price": 10400.0,
+      "my_price": 13065.0,
       "my_available": true,
       "my_url": "https://bismillahelectronics.pk/products/anex-sandwich-maker-ag-2137",
       "competitor_name": "ANEX Sandwich Maker (AG-2137)",
@@ -12029,12 +11973,12 @@
       "competitor_url": "https://japanelectronics.com.pk/products/anex-sandwich-maker-ag-2137",
       "match_confidence": 85.7,
       "status": "matched",
-      "price_diff": -100.0,
-      "cheaper": "us"
+      "price_diff": 2565.0,
+      "cheaper": "competitor"
     },
     {
       "product_name": "Anex Toaster AG 3005 SS",
-      "my_price": 10500.0,
+      "my_price": 13620.0,
       "my_available": true,
       "my_url": "https://bismillahelectronics.pk/products/anex-toaster-ag-3005-ss",
       "competitor_name": "Anex Oven Toaster 3073",
@@ -12043,12 +11987,12 @@
       "competitor_url": "https://japanelectronics.com.pk/products/anex-oven-toaster-3073",
       "match_confidence": 71.1,
       "status": "matched",
-      "price_diff": -20900.0,
+      "price_diff": -17780.0,
       "cheaper": "us"
     },
     {
       "product_name": "Anex Dry Iron AG 1076B",
-      "my_price": 7900.0,
+      "my_price": 8415.0,
       "my_available": true,
       "my_url": "https://bismillahelectronics.pk/products/anex-dry-iron-ag-1076b",
       "competitor_name": null,
@@ -12062,7 +12006,7 @@
     },
     {
       "product_name": "Anex Dry Iron 1072",
-      "my_price": 4600.0,
+      "my_price": 5630.0,
       "my_available": true,
       "my_url": "https://bismillahelectronics.pk/products/anex-dry-iron-1072",
       "competitor_name": null,
@@ -12076,7 +12020,7 @@
     },
     {
       "product_name": "Anex Dry Iron AG 1079B",
-      "my_price": 6900.0,
+      "my_price": 8415.0,
       "my_available": true,
       "my_url": "https://bismillahelectronics.pk/products/anex-dry-iron-ag-1079b",
       "competitor_name": null,
@@ -12090,7 +12034,7 @@
     },
     {
       "product_name": "Anex Vacuum Cleaner AG 2097",
-      "my_price": 24600.0,
+      "my_price": 30500.0,
       "my_available": true,
       "my_url": "https://bismillahelectronics.pk/products/anex-vacuum-cleaner-ag-2097",
       "competitor_name": "ANEX Vacuum Cleaner 2093",
@@ -12099,12 +12043,12 @@
       "competitor_url": "https://japanelectronics.com.pk/products/anex-vacuum-cleaner-2093",
       "match_confidence": 78.4,
       "status": "matched",
-      "price_diff": -1300.0,
-      "cheaper": "us"
+      "price_diff": 4600.0,
+      "cheaper": "competitor"
     },
     {
       "product_name": "Anex Vacuum Cleaner AG 2093",
-      "my_price": 23700.0,
+      "my_price": 28945.0,
       "my_available": true,
       "my_url": "https://bismillahelectronics.pk/products/anex-vacuum-cleaner-ag-2093",
       "competitor_name": "ANEX Vacuum Cleaner 2093",
@@ -12113,12 +12057,12 @@
       "competitor_url": "https://japanelectronics.com.pk/products/anex-vacuum-cleaner-2093",
       "match_confidence": 82.4,
       "status": "matched",
-      "price_diff": -2200.0,
-      "cheaper": "us"
+      "price_diff": 3045.0,
+      "cheaper": "competitor"
     },
     {
       "product_name": "Anex Vacuum Cleaner AG 2098",
-      "my_price": 2700.0,
+      "my_price": 34070.0,
       "my_available": true,
       "my_url": "https://bismillahelectronics.pk/products/anex-vacuum-cleaner-ag-2098",
       "competitor_name": "ANEX Vacuum Cleaner 2093",
@@ -12127,12 +12071,12 @@
       "competitor_url": "https://japanelectronics.com.pk/products/anex-vacuum-cleaner-2093",
       "match_confidence": 78.4,
       "status": "matched",
-      "price_diff": -23200.0,
-      "cheaper": "us"
+      "price_diff": 8170.0,
+      "cheaper": "competitor"
     },
     {
       "product_name": "Anex Vacuum Cleaner AG 2099",
-      "my_price": 31000.0,
+      "my_price": 39755.0,
       "my_available": true,
       "my_url": "https://bismillahelectronics.pk/products/anex-vacuum-cleaner-ag-2099",
       "competitor_name": "ANEX Vacuum Cleaner 2093",
@@ -12141,7 +12085,7 @@
       "competitor_url": "https://japanelectronics.com.pk/products/anex-vacuum-cleaner-2093",
       "match_confidence": 78.4,
       "status": "matched",
-      "price_diff": 5100.0,
+      "price_diff": 13855.0,
       "cheaper": "competitor"
     },
     {
@@ -12174,7 +12118,7 @@
     },
     {
       "product_name": "Anex Air Fryer AG-2025",
-      "my_price": 31500.0,
+      "my_price": 39145.0,
       "my_available": true,
       "my_url": "https://bismillahelectronics.pk/products/anex-air-fryer-ag-2025",
       "competitor_name": "Anex Air Fryer (AG-2017)",
@@ -12183,7 +12127,7 @@
       "competitor_url": "https://japanelectronics.com.pk/products/anex-air-fryer-ag-2017",
       "match_confidence": 87.0,
       "status": "matched",
-      "price_diff": 3000.0,
+      "price_diff": 10645.0,
       "cheaper": "competitor"
     },
     {
@@ -12272,7 +12216,7 @@
     },
     {
       "product_name": "Anex Air Fryer AG-2019",
-      "my_price": 28000.0,
+      "my_price": 30575.0,
       "my_available": true,
       "my_url": "https://bismillahelectronics.pk/products/anex-air-fryer-ag-2019",
       "competitor_name": "Anex Air Fryer (AG-2017)",
@@ -12281,12 +12225,12 @@
       "competitor_url": "https://japanelectronics.com.pk/products/anex-air-fryer-ag-2017",
       "match_confidence": 91.3,
       "status": "matched",
-      "price_diff": -500.0,
-      "cheaper": "us"
+      "price_diff": 2075.0,
+      "cheaper": "competitor"
     },
     {
       "product_name": "Anex Air Fryer AG-2017",
-      "my_price": 27600.0,
+      "my_price": 36105.0,
       "my_available": true,
       "my_url": "https://bismillahelectronics.pk/products/anex-air-fryer-ag-2017",
       "competitor_name": "Anex Air Fryer (AG-2017)",
@@ -12295,8 +12239,8 @@
       "competitor_url": "https://japanelectronics.com.pk/products/anex-air-fryer-ag-2017",
       "match_confidence": 95.7,
       "status": "matched",
-      "price_diff": -900.0,
-      "cheaper": "us"
+      "price_diff": 7605.0,
+      "cheaper": "competitor"
     },
     {
       "product_name": "Panasonic LED TV 75 Inch TH75MX740M (4K Google)",
@@ -13957,7 +13901,7 @@
       "my_url": "https://bismillahelectronics.pk/products/tcl-led-tv-43-inch-43s51k-q-led",
       "competitor_name": "TCL LED 43\" 43S51K (Q LED)",
       "competitor_price": 78000.0,
-      "competitor_available": false,
+      "competitor_available": true,
       "competitor_url": "https://japanelectronics.com.pk/products/tcl-led-43-43s51k-q-led",
       "match_confidence": 84.7,
       "status": "matched",
@@ -15030,7 +14974,7 @@
     },
     {
       "product_name": "Anex Electric Oven AG-3072",
-      "my_price": 37200.0,
+      "my_price": 37870.0,
       "my_available": true,
       "my_url": "https://bismillahelectronics.pk/products/anex-electric-oven-ag-3072",
       "competitor_name": "Anex Electric Kettle 4057",
@@ -15039,12 +14983,12 @@
       "competitor_url": "https://japanelectronics.com.pk/products/anex-electric-kettle-4057",
       "match_confidence": 70.6,
       "status": "matched",
-      "price_diff": 30700.0,
+      "price_diff": 31370.0,
       "cheaper": "competitor"
     },
     {
       "product_name": "Anex Electric Oven AG-3073",
-      "my_price": 28600.0,
+      "my_price": 34995.0,
       "my_available": true,
       "my_url": "https://bismillahelectronics.pk/products/anex-electric-oven-toaster-3073",
       "competitor_name": "Anex Electric Kettle 4057",
@@ -15053,7 +14997,7 @@
       "competitor_url": "https://japanelectronics.com.pk/products/anex-electric-kettle-4057",
       "match_confidence": 70.6,
       "status": "matched",
-      "price_diff": 22100.0,
+      "price_diff": 28495.0,
       "cheaper": "competitor"
     },
     {
@@ -15282,7 +15226,7 @@
     },
     {
       "product_name": "TCL AC Inverter 1.5 Ton TAC-18Freshin 3.0 (T5)",
-      "my_price": 225000.0,
+      "my_price": 219500.0,
       "my_available": true,
       "my_url": "https://bismillahelectronics.pk/products/tcl-ac-inverter-1-5-ton-tac-18freshin-3-0-t5",
       "competitor_name": "TCL Split AC Inverter 1.5 Ton TAC-18Freshin 3.0 (T5)",
@@ -15291,8 +15235,8 @@
       "competitor_url": "https://japanelectronics.com.pk/products/tcl-split-ac-inverter-1-5-ton-tac-18freshin-3-0-t5",
       "match_confidence": 93.9,
       "status": "matched",
-      "price_diff": 0.0,
-      "cheaper": "same"
+      "price_diff": -5500.0,
+      "cheaper": "us"
     },
     {
       "product_name": "TCL AC Inverter 1.5 Ton TAC-18T3B",
@@ -17065,7 +17009,7 @@
       "my_url": "https://bismillahelectronics.pk/products/kenwood-double-washing-machine-kwm-231159",
       "competitor_name": "Kenwood Washing Machine KWM-899W",
       "competitor_price": 23000.0,
-      "competitor_available": false,
+      "competitor_available": true,
       "competitor_url": "https://japanelectronics.com.pk/products/kenwood-washing-machine-kwm-899w",
       "match_confidence": 79.5,
       "status": "matched",
@@ -17079,7 +17023,7 @@
       "my_url": "https://bismillahelectronics.pk/products/kenwood-double-washing-machine-kwm-21159-sag",
       "competitor_name": "Kenwood Washing Machine KWM-899W",
       "competitor_price": 23000.0,
-      "competitor_available": false,
+      "competitor_available": true,
       "competitor_url": "https://japanelectronics.com.pk/products/kenwood-washing-machine-kwm-899w",
       "match_confidence": 76.3,
       "status": "matched",
@@ -17788,7 +17732,7 @@
     },
     {
       "product_name": "Abdullah Dough Kneader AE-221",
-      "my_price": 13000.0,
+      "my_price": 13500.0,
       "my_available": true,
       "my_url": "https://bismillahelectronics.pk/products/abdullah-dough-kneader-ae-221",
       "competitor_name": null,
@@ -19277,7 +19221,7 @@
       "my_url": "https://bismillahelectronics.pk/products/washing-machine-kenwood-kwm-899w",
       "competitor_name": "Kenwood Washing Machine KWM-899W",
       "competitor_price": 23000.0,
-      "competitor_available": false,
+      "competitor_available": true,
       "competitor_url": "https://japanelectronics.com.pk/products/kenwood-washing-machine-kwm-899w",
       "match_confidence": 90.1,
       "status": "matched",
@@ -20061,7 +20005,7 @@
       "my_url": null,
       "competitor_name": "TCL Party Speaker (TP200K)",
       "competitor_price": 74955.0,
-      "competitor_available": true,
+      "competitor_available": false,
       "competitor_url": "https://japanelectronics.com.pk/products/tcl-party-speaker-tp200k",
       "match_confidence": 0,
       "status": "only_competitor",
@@ -20537,7 +20481,7 @@
       "my_url": null,
       "competitor_name": "Haier LED 55\" 55S80GUX (QLED)",
       "competitor_price": 127000.0,
-      "competitor_available": false,
+      "competitor_available": true,
       "competitor_url": "https://japanelectronics.com.pk/products/haier-led-55-55s80gux-qled",
       "match_confidence": 0,
       "status": "only_competitor",
@@ -20705,7 +20649,7 @@
       "my_url": null,
       "competitor_name": "Electrolux Water Dispenser (ELWD-BP3T-DD Digital Black)",
       "competitor_price": 50900.0,
-      "competitor_available": false,
+      "competitor_available": true,
       "competitor_url": "https://japanelectronics.com.pk/products/electrolux-water-dispenser-elwd-bp3t-dd-digital-black",
       "match_confidence": 0,
       "status": "only_competitor",
@@ -21265,7 +21209,7 @@
       "my_url": null,
       "competitor_name": "DAWLANCE TAWM (DWT-1580 INV C GLOW)",
       "competitor_price": 120000.0,
-      "competitor_available": false,
+      "competitor_available": true,
       "competitor_url": "https://japanelectronics.com.pk/products/dawlance-tawm-dwt-1580-inv-c-glow",
       "match_confidence": 0,
       "status": "only_competitor",
@@ -21348,7 +21292,7 @@
       "my_available": null,
       "my_url": null,
       "competitor_name": "PEL REF (PRLR-1100 SD LIFE)",
-      "competitor_price": 41000.0,
+      "competitor_price": 45499.0,
       "competitor_available": false,
       "competitor_url": "https://japanelectronics.com.pk/products/pel-ref-prlr-1100-sd-life",
       "match_confidence": 0,
@@ -22455,7 +22399,7 @@
       "my_url": null,
       "competitor_name": "Dawlance No Frost Ref DMD-7951 (Inverter INOX)",
       "competitor_price": 213000.0,
-      "competitor_available": true,
+      "competitor_available": false,
       "competitor_url": "https://japanelectronics.com.pk/products/dawlance-no-frost-ref-dmd-7951-inverter-inox",
       "match_confidence": 0,
       "status": "only_competitor",
@@ -22861,7 +22805,7 @@
       "my_url": null,
       "competitor_name": "NASGAS KITCHEN HOB (DG-1428 SS)",
       "competitor_price": 23050.0,
-      "competitor_available": true,
+      "competitor_available": false,
       "competitor_url": "https://japanelectronics.com.pk/products/nasgas-kitchen-hob-dg-1428-ss",
       "match_confidence": 0,
       "status": "only_competitor",
@@ -24288,8 +24232,8 @@
       "my_available": null,
       "my_url": null,
       "competitor_name": "Crownline Dehumidifier MD-395",
-      "competitor_price": 95000.0,
-      "competitor_available": false,
+      "competitor_price": 124000.0,
+      "competitor_available": true,
       "competitor_url": "https://japanelectronics.com.pk/products/crownline-dehumidifier-md-395",
       "match_confidence": 0,
       "status": "only_competitor",
@@ -24345,7 +24289,7 @@
       "my_url": null,
       "competitor_name": "LG Home Theater S65T 5.1",
       "competitor_price": 85000.0,
-      "competitor_available": true,
+      "competitor_available": false,
       "competitor_url": "https://japanelectronics.com.pk/products/lg-home-theater-s65t-5-1",
       "match_confidence": 0,
       "status": "only_competitor",
@@ -24821,7 +24765,7 @@
       "my_url": null,
       "competitor_name": "Nasgas Electric & Gas Geyser 55 Gallon (DEG-55) Super HD",
       "competitor_price": 64500.0,
-      "competitor_available": true,
+      "competitor_available": false,
       "competitor_url": "https://japanelectronics.com.pk/products/nasgas-electric-gas-geyser-55-gallon-deg-55-super-hd",
       "match_confidence": 0,
       "status": "only_competitor",
@@ -29603,6 +29547,20 @@
       "cheaper": null
     },
     {
+      "product_name": "ANEX Oven Toaster 3070",
+      "my_price": null,
+      "my_available": null,
+      "my_url": null,
+      "competitor_name": "ANEX Oven Toaster 3070",
+      "competitor_price": 34850.0,
+      "competitor_available": true,
+      "competitor_url": "https://japanelectronics.com.pk/products/anex-oven-toaster-3070",
+      "match_confidence": 0,
+      "status": "only_competitor",
+      "price_diff": null,
+      "cheaper": null
+    },
+    {
       "product_name": "Anex Air Fryer With Oven AG-2123",
       "my_price": null,
       "my_available": null,
@@ -32787,7 +32745,7 @@
       "my_url": null,
       "competitor_name": "Gree Oil Heater GEH22",
       "competitor_price": 34900.0,
-      "competitor_available": false,
+      "competitor_available": true,
       "competitor_url": "https://japanelectronics.com.pk/products/gree-oil-heater-geh22",
       "match_confidence": 0,
       "status": "only_competitor",
@@ -32801,7 +32759,7 @@
       "my_url": null,
       "competitor_name": "Gree Oil Heater GEH18",
       "competitor_price": 34900.0,
-      "competitor_available": false,
+      "competitor_available": true,
       "competitor_url": "https://japanelectronics.com.pk/products/gree-oil-heater-geh18",
       "match_confidence": 0,
       "status": "only_competitor",
@@ -34299,7 +34257,7 @@
       "my_url": null,
       "competitor_name": "Samsung LED 55\" CY-55DU8000USMZ",
       "competitor_price": 189900.0,
-      "competitor_available": true,
+      "competitor_available": false,
       "competitor_url": "https://japanelectronics.com.pk/products/samsung-led-55-cy-55du8000usmz",
       "match_confidence": 0,
       "status": "only_competitor",
@@ -34509,7 +34467,7 @@
       "my_url": null,
       "competitor_name": "Cherry Air Purifier (CAP-400 Pro)",
       "competitor_price": 34900.0,
-      "competitor_available": true,
+      "competitor_available": false,
       "competitor_url": "https://japanelectronics.com.pk/products/cherry-air-purifier-cap-400-pro",
       "match_confidence": 0,
       "status": "only_competitor",
@@ -35068,7 +35026,7 @@
       "my_available": null,
       "my_url": null,
       "competitor_name": "LG Refrigerator Side By Side GM-V960NNME Mood-Up",
-      "competitor_price": 1250000.0,
+      "competitor_price": 998000.0,
       "competitor_available": false,
       "competitor_url": "https://japanelectronics.com.pk/products/lg-refrigerator-side-by-side-gm-v960nnme-mood-up",
       "match_confidence": 0,
@@ -35195,7 +35153,7 @@
       "my_url": null,
       "competitor_name": "Beetro Fast Electric Geyser FFE-15 (15 Ltr)",
       "competitor_price": 26000.0,
-      "competitor_available": true,
+      "competitor_available": false,
       "competitor_url": "https://japanelectronics.com.pk/products/beetro-fast-electric-geyser-ffe-15-15-ltr",
       "match_confidence": 0,
       "status": "only_competitor",
@@ -36673,6 +36631,20 @@
       "cheaper": null
     },
     {
+      "product_name": "ANEX Oven Toaster (AG-3070)",
+      "my_price": null,
+      "my_available": null,
+      "my_url": null,
+      "competitor_name": "ANEX Oven Toaster (AG-3070)",
+      "competitor_price": 34850.0,
+      "competitor_available": true,
+      "competitor_url": "https://japanelectronics.com.pk/products/anex-oven-toaster-ag-3070",
+      "match_confidence": 0,
+      "status": "only_competitor",
+      "price_diff": null,
+      "cheaper": null
+    },
+    {
       "product_name": "Homage 2 SliceToaster (HTT-902B0)",
       "my_price": null,
       "my_available": null,
@@ -37743,7 +37715,7 @@
       "my_url": null,
       "competitor_name": "TCL LED 43\" 43S59K (Q LED)",
       "competitor_price": 84500.0,
-      "competitor_available": false,
+      "competitor_available": true,
       "competitor_url": "https://japanelectronics.com.pk/products/tcl-led-43-43s59k-q-led",
       "match_confidence": 0,
       "status": "only_competitor",

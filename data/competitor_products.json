@@ -675,7 +675,7 @@
     "name": "DAWLANCE TAWM (DWT-1580 INV C GLOW)",
     "price": 120000.0,
     "url": "https://japanelectronics.com.pk/products/dawlance-tawm-dwt-1580-inv-c-glow",
-    "available": true
+    "available": false
   },
   {
     "name": "DAWLANCE TAWM (DWT-1776 FLT C GLOW)",
@@ -1879,7 +1879,7 @@
   },
   {
     "name": "LG LED 65\" 65QNED82ASA (4K UHD)",
-    "price": 365000.0,
+    "price": 320900.0,
     "url": "https://japanelectronics.com.pk/products/lg-led-65-65qned82asa-4k-uhd",
     "available": false
   },
@@ -1915,7 +1915,7 @@
   },
   {
     "name": "HISENSE LED 85\" 85Q6N (Q LED)",
-    "price": 459000.0,
+    "price": 419900.0,
     "url": "https://japanelectronics.com.pk/products/hisense-led-85-85q6n-q-led",
     "available": false
   },
@@ -2043,7 +2043,7 @@
     "name": "Gabba National Baby Washer (GNWM-95023)",
     "price": 20500.0,
     "url": "https://japanelectronics.com.pk/products/gabba-national-baby-washer-gnwm-95023",
-    "available": false
+    "available": true
   },
   {
     "name": "Crownline Dehumidifier MD-395",
@@ -3025,7 +3025,7 @@
   },
   {
     "name": "LG LED 65\" 65QNED86ASA (4K UHD)",
-    "price": 390000.0,
+    "price": 365000.0,
     "url": "https://japanelectronics.com.pk/products/lg-led-65-65qned86asa-4k-uhd",
     "available": true
   },
@@ -3139,7 +3139,7 @@
   },
   {
     "name": "LG LED 75\" 75UA8450PSA (4K UHD)",
-    "price": 380000.0,
+    "price": 370900.0,
     "url": "https://japanelectronics.com.pk/products/lg-led-75-75ua8450psa-4k-uhd",
     "available": true
   },
@@ -3159,7 +3159,7 @@
     "name": "DAWLANCE LED 65\" CANVAS (4K UHD)",
     "price": 159900.0,
     "url": "https://japanelectronics.com.pk/products/dawlance-led-65-canvas-4k-uhd",
-    "available": true
+    "available": false
   },
   {
     "name": "ECOSTAR SPLIT AC INVERTER 1.5 TON ES-18DU02WG",
@@ -3963,7 +3963,7 @@
     "name": "Dawlance Refrigerator 91999 Avante + Cloud White (GD INV)",
     "price": 130000.0,
     "url": "https://japanelectronics.com.pk/products/best-inverter-refrigerator-of-dawlance-cloud-white",
-    "available": false
+    "available": true
   },
   {
     "name": "Kenwood Ref Krf-Inverter 24457/320-L (VCM) Pearl Blue",
@@ -5065,7 +5065,7 @@
   },
   {
     "name": "MultyNet LED 65\" 65IQ50 (Q LED)",
-    "price": 199000.0,
+    "price": 142500.0,
     "url": "https://japanelectronics.com.pk/products/multynet-led-65-65iq50-q-led",
     "available": true
   },
@@ -5169,7 +5169,7 @@
     "name": "DAWLANCE LED 43\" KORE FHD GOOGLE TV (SMART)",
     "price": 76900.0,
     "url": "https://japanelectronics.com.pk/products/dawlance-led-43-kore-fhd-google-tv-smart",
-    "available": false
+    "available": true
   },
   {
     "name": "Dawlance LED 40\" Kore FHD Google TV (SMART)",
@@ -5535,7 +5535,7 @@
     "name": "Haier D.Freezer (HDF-285 IG Inverter Grey)",
     "price": 83000.0,
     "url": "https://japanelectronics.com.pk/products/haier-deep-freezer-hdf-285ig-inverter",
-    "available": true
+    "available": false
   },
   {
     "name": "Dawlance D.Freezer (DF-400 Commercial White)",
@@ -5859,7 +5859,7 @@
     "name": "Dawlance Refrigerator 9149 WB Avante Pearl Red (GD)",
     "price": 72000.0,
     "url": "https://japanelectronics.com.pk/products/dawlance-refrigerator-9149-wb-avante-pearl-red-gd",
-    "available": true
+    "available": false
   },
   {
     "name": "TCL FAWM (C512WDG)",
@@ -6051,7 +6051,7 @@
     "name": "Dawlance Spinner DS-9000",
     "price": 27500.0,
     "url": "https://japanelectronics.com.pk/products/dawlance-spinner-ds-9000",
-    "available": false
+    "available": true
   },
   {
     "name": "Haier E-Star Refrigerator HRF-216 EPB-01 Black",
@@ -6121,7 +6121,7 @@
   },
   {
     "name": "Gree Water Dispenser GW-JL500FS",
-    "price": 45900.0,
+    "price": 48900.0,
     "url": "https://japanelectronics.com.pk/products/gree-water-dispenser-gw-jl500fs",
     "available": true
   },
@@ -6667,13 +6667,13 @@
   },
   {
     "name": "Gree Oil Heater GEH22",
-    "price": 34900.0,
+    "price": 32900.0,
     "url": "https://japanelectronics.com.pk/products/gree-oil-heater-geh22",
     "available": true
   },
   {
     "name": "Gree Oil Heater GEH18",
-    "price": 34900.0,
+    "price": 32500.0,
     "url": "https://japanelectronics.com.pk/products/gree-oil-heater-geh18",
     "available": true
   },
@@ -8197,7 +8197,7 @@
   },
   {
     "name": "Homage Air Purifier HAP-403DWB",
-    "price": 35800.0,
+    "price": 45900.0,
     "url": "https://japanelectronics.com.pk/products/homage-air-purifier-hap-403dwb",
     "available": true
   },
@@ -8661,7 +8661,7 @@
     "name": "Westpoint Vacuum Cleaner (WF-3469)",
     "price": 28500.0,
     "url": "https://japanelectronics.com.pk/products/westpoint-vacuum-cleaner-wf-3469",
-    "available": false
+    "available": true
   },
   {
     "name": "Westpoint Vacuum Cleaner (WF-104)",
@@ -8835,7 +8835,7 @@
     "name": "Westpoint Electric Oven WF-4500",
     "price": 28900.0,
     "url": "https://japanelectronics.com.pk/products/westpoint-electric-oven-wf-4500",
-    "available": false
+    "available": true
   },
   {
     "name": "Westpoint Electric Kettle WF-6173",
@@ -8899,9 +8899,9 @@
   },
   {
     "name": "Westpoint Blender & Grinder (WF-308 Black)",
-    "price": 8000.0,
+    "price": 9000.0,
     "url": "https://japanelectronics.com.pk/products/westpoint-blender-grinder-wf-308-black",
-    "available": false
+    "available": true
   },
   {
     "name": "Westpoint Blender & Grinder (WF-307 White)",
@@ -10479,7 +10479,7 @@
     "name": "Canon Kitchen Hob (HB-CA-2421 M/W)",
     "price": 24200.0,
     "url": "https://japanelectronics.com.pk/products/canon-kitchen-hob-hb-ca-2421-m-w",
-    "available": true
+    "available": false
   },
   {
     "name": "Japanese Heater 2.4 KW (Flat Panel)",
@@ -11145,7 +11145,7 @@
     "name": "Haier Washing Machine HWM 80-1217 (Grey)",
     "price": 20500.0,
     "url": "https://japanelectronics.com.pk/products/haier-washing-machine-hwm-80-1217",
-    "available": true
+    "available": false
   },
   {
     "name": "ANEX Juicer 76",
@@ -11283,7 +11283,7 @@
     "name": "Super Asia Washing Machine Big Wash SA-290",
     "price": 29600.0,
     "url": "https://japanelectronics.com.pk/products/super-asia-washing-machine-big-wash-sa-290",
-    "available": false
+    "available": true
   },
   {
     "name": "ANEX Vacuum Cleaner 2097 1600 Watts",
@@ -11967,7 +11967,7 @@
     "name": "Beetro Gas Geyser 55 Gallon (FG-55 9/10 Gauge) Auto Ignition",
     "price": 86700.0,
     "url": "https://japanelectronics.com.pk/products/beetro-gas-geyser-55-gallon-fg-55-9-10-gauge-auto-ignition",
-    "available": true
+    "available": false
   },
   {
     "name": "Beetro Instant Gas Geyser RD-07 (LPG) 7.0 Ltr",
@@ -12597,7 +12597,7 @@
     "name": "NASGAS Hob Three Burner DG-GN3 Glass Top",
     "price": 20750.0,
     "url": "https://japanelectronics.com.pk/products/nasgas-hob-three-burner-dg-gn3-glass-top",
-    "available": true
+    "available": false
   },
   {
     "name": "NASGAS COOKING RANGE NG-786 MERCURY GLASS 5 BURNERS",

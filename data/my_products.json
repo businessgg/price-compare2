@@ -1,5 +1,71 @@
 [
   {
+    "name": "Candy AC 0.8 Ton Inverter CSU-10HF/013DC",
+    "price": 85000.0,
+    "url": "https://bismillahelectronics.pk/products/candy-ac-0-8-ton-inverter-csu-10hf-013dc",
+    "available": true
+  },
+  {
+    "name": "Candy AC 1.5 Ton Inverter CSU-18HF/013USDC",
+    "price": 132500.0,
+    "url": "https://bismillahelectronics.pk/products/candy-ac-1-5-ton-inverter-csu-18hf-013usdc",
+    "available": true
+  },
+  {
+    "name": "Candy AC Inverter 1.5 Ton CSU-19HF",
+    "price": 119000.0,
+    "url": "https://bismillahelectronics.pk/products/candy-ac-inverter-1-5-ton-csu-19hf",
+    "available": true
+  },
+  {
+    "name": "Boss Room Air Cooler ECM-5200",
+    "price": 18800.0,
+    "url": "https://bismillahelectronics.pk/products/boss-air-cooler-ecm-5200",
+    "available": true
+  },
+  {
+    "name": "Boss Room Air Cooler ECM 10000 Tower",
+    "price": 48000.0,
+    "url": "https://bismillahelectronics.pk/products/boss-air-cooler-ecm-10000",
+    "available": true
+  },
+  {
+    "name": "Boss Room Air Cooler ECM 6000 IB",
+    "price": 24500.0,
+    "url": "https://bismillahelectronics.pk/products/boss-air-cooler-ecm-6000-ib",
+    "available": true
+  },
+  {
+    "name": "Boss Room Air Cooler ECM 6000 IB Solar",
+    "price": 22900.0,
+    "url": "https://bismillahelectronics.pk/products/boss-air-cooler-ecm-6000-ib-solar",
+    "available": true
+  },
+  {
+    "name": "Boss Room Air Cooler ECM 5200 XL +",
+    "price": 22500.0,
+    "url": "https://bismillahelectronics.pk/products/boss-room-air-cooler-ecm-5200-xl",
+    "available": true
+  },
+  {
+    "name": "Boss Room Air Cooler ECTR 10000 Tower Touch",
+    "price": 42950.0,
+    "url": "https://bismillahelectronics.pk/products/boss-air-cooler-ectr-10000",
+    "available": true
+  },
+  {
+    "name": "Boss Room Air Cooler ECM 8000 IB Solar",
+    "price": 30000.0,
+    "url": "https://bismillahelectronics.pk/products/boss-air-cooler-ecm-8000-ib-solar",
+    "available": true
+  },
+  {
+    "name": "Boss Room Air Cooler ECM 6500 IB Solar",
+    "price": 23500.0,
+    "url": "https://bismillahelectronics.pk/products/boss-air-cooler-ecm-6500-ib-solar",
+    "available": true
+  },
+  {
     "name": "TCL LED TV 65 Inch 65P79K (Q LED)",
     "price": 242900.0,
     "url": "https://bismillahelectronics.pk/products/tcl-led-tv-65-inch-65p79k-q-led",
@@ -241,7 +307,7 @@
   },
   {
     "name": "Binbazz Instant Geyser CH-706 IMPORTED (1+6MONTHS YEARS HEAT EXCH+SERV)",
-    "price": 25500.0,
+    "price": 22500.0,
     "url": "https://bismillahelectronics.pk/products/binbazz-instant-geyser-ch-706-imported-1-6months-years-heat-exch-serv",
     "available": true
   },
@@ -253,7 +319,7 @@
   },
   {
     "name": "Binbazz E+G Geyser ME-925 (2+5 YEARS THERMOSTAE+TANK LEAKAGE)",
-    "price": 50500.0,
+    "price": 45500.0,
     "url": "https://bismillahelectronics.pk/products/binbazz-e-g-geyser-me-925-2-5-years-thermostae-tank-leakage",
     "available": true
   },
@@ -289,25 +355,25 @@
   },
   {
     "name": "Binbazz Electric Geyser YAS-40L (2+5 YEARS) ELEMENT+TANK LEAKAG",
-    "price": 30000.0,
+    "price": 25000.0,
     "url": "https://bismillahelectronics.pk/products/binbazz-electric-geyser-yas-40l-2-5-years-element-tank-leakag",
     "available": true
   },
   {
     "name": "Binbazz Electric Geyser YAS-35L AQUA SERIES",
-    "price": 26500.0,
+    "price": 21500.0,
     "url": "https://bismillahelectronics.pk/products/binbazz-electric-geyser-yas-35l-aqua-series",
     "available": true
   },
   {
     "name": "Binbazz Electric Geyser OT-728 (2+5 YEARS) ELEMENT+TANK LEAKAGE",
-    "price": 31000.0,
+    "price": 26000.0,
     "url": "https://bismillahelectronics.pk/products/binbazz-electric-geyser-ot-728-wood-2-5-years-element-tank-leakage",
     "available": true
   },
   {
     "name": "Binbazz Electric Geyser OT-715(2+5 YEARS) ELEMENT+TANK LEAKAGE",
-    "price": 28000.0,
+    "price": 23000.0,
     "url": "https://bismillahelectronics.pk/products/binbazz-electric-geyser-ot-715-wood-2-5-years-element-tank-leakage",
     "available": true
   },
@@ -445,13 +511,13 @@
   },
   {
     "name": "Binbazz Instant Geyser WL-08 LPG (1+6MONTHS YEARS HEAT EXCH+SERV)",
-    "price": 30500.0,
+    "price": 25500.0,
     "url": "https://bismillahelectronics.pk/products/binbazz-instant-geyser-wl-08-lpg-1-6months-years-heat-exch-serv",
     "available": true
   },
   {
     "name": "Binbazz Instant Geyser WL-06 (1+6MONTHS YEARS HEAT EXCH+SERV)",
-    "price": 25000.0,
+    "price": 22000.0,
     "url": "https://bismillahelectronics.pk/products/binbazz-instant-geyser-wl-06-1-6months-years-heat-exch-serv",
     "available": true
   },
@@ -463,7 +529,7 @@
   },
   {
     "name": "Binbazz Instant Geyser CH-708 IMPORTED SS (STAINLES STEEL)",
-    "price": 28500.0,
+    "price": 27500.0,
     "url": "https://bismillahelectronics.pk/products/binbazz-instant-geyser-ch-708-imported-ss-stainles-steel",
     "available": true
   },
@@ -475,13 +541,13 @@
   },
   {
     "name": "Binbazz Hybrid E+G Geyser WL-20 GL ENERGY SAVER",
-    "price": 46000.0,
+    "price": 41500.0,
     "url": "https://bismillahelectronics.pk/products/binbazz-hybrid-e-g-geyser-wl-20-gl-energy-saver",
     "available": true
   },
   {
     "name": "Binbazz Geyser YAS-15G (E+G TWIN) (2+5 YEARS) ELEMENT+TANK LEAKAG",
-    "price": 47000.0,
+    "price": 42000.0,
     "url": "https://bismillahelectronics.pk/products/binbazz-geyser-yas-15g-e-g-twin-2-5-years-element-tank-leakag",
     "available": true
   },
@@ -499,7 +565,7 @@
   },
   {
     "name": "Binbazz E+G Fast Geyser ME-915 (2+5 YEARS THERMOSTAE+TANK LEAKAGE)",
-    "price": 48000.0,
+    "price": 43000.0,
     "url": "https://bismillahelectronics.pk/products/binbazz-e-g-fast-geyser-me-915-2-5-years-thermostae-tank-leakage",
     "available": true
   },
@@ -4861,13 +4927,13 @@
   },
   {
     "name": "BinBazz LED TV 32 Inch 32S9",
-    "price": 32000.0,
+    "price": 35000.0,
     "url": "https://bismillahelectronics.pk/products/binbazz-led-tv-32-inch-32s9",
     "available": true
   },
   {
     "name": "BinBazz LED TV 40 Inch 40S9X",
-    "price": 48500.0,
+    "price": 50000.0,
     "url": "https://bismillahelectronics.pk/products/binbazz-led-tv-40-inch-40s9x",
     "available": true
   },
@@ -6931,13 +6997,13 @@
   },
   {
     "name": "BinBazz Room Air Cooler 7300",
-    "price": 34600.0,
+    "price": 28500.0,
     "url": "https://bismillahelectronics.pk/products/binbazz-room-air-cooler-7300",
     "available": true
   },
   {
     "name": "BinBazz Room Air Cooler 7200",
-    "price": 31200.0,
+    "price": 28500.0,
     "url": "https://bismillahelectronics.pk/products/binbazz-room-air-cooler-7200",
     "available": true
   },
@@ -7243,7 +7309,7 @@
   },
   {
     "name": "Boss Spinner Dryer KE-2000",
-    "price": 22500.0,
+    "price": 24300.0,
     "url": "https://bismillahelectronics.pk/products/boss-spinner-dryer-ke-2000",
     "available": true
   },
@@ -7795,7 +7861,7 @@
   },
   {
     "name": "Boss Single Washing Machine KE 4000 BS",
-    "price": 26800.0,
+    "price": 25000.0,
     "url": "https://bismillahelectronics.pk/products/boss-single-washing-machine-ke-4000-bs",
     "available": true
   },

@@ -1,5 +1,11 @@
 [
   {
+    "name": "test",
+    "price": 0.0,
+    "url": "https://japanelectronics.com.pk/products/test",
+    "available": true
+  },
+  {
     "name": "Royal Wedding Package",
     "price": 959900.0,
     "url": "https://japanelectronics.com.pk/products/royal-wedding-package",
@@ -8263,7 +8269,7 @@
   },
   {
     "name": "Kenwood Garment Steamer GSP-65 (IN) Black",
-    "price": 17900.0,
+    "price": 20500.0,
     "url": "https://japanelectronics.com.pk/products/kenwood-garment-steamer-gsp-65-in-black",
     "available": true
   },

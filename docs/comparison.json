@@ -1,9 +1,9 @@
 {
-  "last_updated": "2026-10-30T03:40:48.776695+00:00",
+  "last_updated": "2026-10-30T10:37:06.865727+00:00",
   "my_store_name": "Bismillah Electronics",
   "competitor_name": "Japan Electronics",
   "total_my_products": 1426,
-  "total_competitor_products": 2151,
+  "total_competitor_products": 2152,
   "matched_count": 1003,
   "results": [
     {
@@ -19971,6 +19971,20 @@
       "cheaper": "competitor"
     },
     {
+      "product_name": "test",
+      "my_price": null,
+      "my_available": null,
+      "my_url": null,
+      "competitor_name": "test",
+      "competitor_price": 0.0,
+      "competitor_available": true,
+      "competitor_url": "https://japanelectronics.com.pk/products/test",
+      "match_confidence": 0,
+      "status": "only_competitor",
+      "price_diff": null,
+      "cheaper": null
+    },
+    {
       "product_name": "Luxury Wedding Package",
       "my_price": null,
       "my_available": null,
@@ -35320,7 +35334,7 @@
       "my_available": null,
       "my_url": null,
       "competitor_name": "Kenwood Garment Steamer GSP-65 (IN) Black",
-      "competitor_price": 17900.0,
+      "competitor_price": 20500.0,
       "competitor_available": true,
       "competitor_url": "https://japanelectronics.com.pk/products/kenwood-garment-steamer-gsp-65-in-black",
       "match_confidence": 0,

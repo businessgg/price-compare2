@@ -1,5 +1,23 @@
 [
   {
+    "name": "Canon Room Air Cooler CA-5500",
+    "price": 31500.0,
+    "url": "https://bismillahelectronics.pk/products/canon-air-cooler-ca-5500",
+    "available": true
+  },
+  {
+    "name": "Canon Room Air Cooler CA-4500",
+    "price": 31000.0,
+    "url": "https://bismillahelectronics.pk/products/canon-air-cooler-ca-4500",
+    "available": true
+  },
+  {
+    "name": "Canon Room Air Cooler CA-7800i",
+    "price": 47000.0,
+    "url": "https://bismillahelectronics.pk/products/canon-room-air-cooler-ca-7800i",
+    "available": true
+  },
+  {
     "name": "Candy AC 0.8 Ton Inverter CSU-10HF/013DC",
     "price": 85000.0,
     "url": "https://bismillahelectronics.pk/products/candy-ac-0-8-ton-inverter-csu-10hf-013dc",
@@ -3787,7 +3805,7 @@
   },
   {
     "name": "Canon Kitchen Hob CA-9-19",
-    "price": 22200.0,
+    "price": 19500.0,
     "url": "https://bismillahelectronics.pk/products/canon-kitchen-hob-ca-9-19",
     "available": true
   },
@@ -3828,24 +3846,6 @@
     "available": true
   },
   {
-    "name": "Canon Electric Heater FEWH-LY100",
-    "price": 53400.0,
-    "url": "https://bismillahelectronics.pk/products/canon-electric-heater-fewh-ly100",
-    "available": true
-  },
-  {
-    "name": "Canon Electric Heater FEWH-LY80",
-    "price": 47400.0,
-    "url": "https://bismillahelectronics.pk/products/canon-electric-heater-fewh-ly80",
-    "available": true
-  },
-  {
-    "name": "Canon Electric Heater FEWH-LY40",
-    "price": 28900.0,
-    "url": "https://bismillahelectronics.pk/products/canon-electric-heater-fewh-ly40",
-    "available": true
-  },
-  {
     "name": "Canon Electric Heater EWT-4021",
     "price": 26400.0,
     "url": "https://bismillahelectronics.pk/products/canon-electric-heater-ewt-4021",
@@ -3871,7 +3871,7 @@
   },
   {
     "name": "Canon Electric Heater EWH-25 LCF",
-    "price": 32000.0,
+    "price": 33400.0,
     "url": "https://bismillahelectronics.pk/products/canon-electric-heater-ewh-25-lcf",
     "available": true
   },
@@ -3879,12 +3879,6 @@
     "name": "Canon Electric Heater EWH-30 LCM",
     "price": 34000.0,
     "url": "https://bismillahelectronics.pk/products/canon-electric-heater-ewh-30-lcm",
-    "available": true
-  },
-  {
-    "name": "Canon Electric Heater EWT-3021",
-    "price": 24500.0,
-    "url": "https://bismillahelectronics.pk/products/canon-electric-heater-ewt-3021",
     "available": true
   },
   {
@@ -4159,37 +4153,37 @@
   },
   {
     "name": "Canon Kitchen Hob CA-2-19",
-    "price": 25500.0,
+    "price": 24500.0,
     "url": "https://bismillahelectronics.pk/products/canon-kitchen-hob-ca-2-19",
     "available": true
   },
   {
     "name": "Canon Kitchen Hob CA-2421 M/W",
-    "price": 27360.0,
+    "price": 22800.0,
     "url": "https://bismillahelectronics.pk/products/canon-kitchen-hob-ca-2421-m-w",
     "available": true
   },
   {
     "name": "Canon Kitchen Hob CA-6-19",
-    "price": 27000.0,
+    "price": 24500.0,
     "url": "https://bismillahelectronics.pk/products/canon-kitchen-hob-ca-6-19",
     "available": true
   },
   {
     "name": "Canon Kitchen Hob HB-CA-01",
-    "price": 19200.0,
+    "price": 16700.0,
     "url": "https://bismillahelectronics.pk/products/canon-kitchen-hob-hb-ca-01",
     "available": true
   },
   {
     "name": "Canon Kitchen Hob HB-CA-05",
-    "price": 19000.0,
+    "price": 18500.0,
     "url": "https://bismillahelectronics.pk/products/canon-kitchen-hob-hb-ca-05",
     "available": true
   },
   {
     "name": "Canon Kitchen Hob HB-CA-09",
-    "price": 21600.0,
+    "price": 16000.0,
     "url": "https://bismillahelectronics.pk/products/canon-kitchen-hob-hb-ca-09",
     "available": true
   },
@@ -4201,13 +4195,13 @@
   },
   {
     "name": "Canon Kitchen Hob HB-945-S2",
-    "price": 38900.0,
+    "price": 40700.0,
     "url": "https://bismillahelectronics.pk/products/canon-kitchen-hob-hb-945-s2",
     "available": true
   },
   {
     "name": "Canon Kitchen Hob HG-01-19",
-    "price": 28500.0,
+    "price": 27000.0,
     "url": "https://bismillahelectronics.pk/products/canon-kitchen-hob-hg-01-19",
     "available": true
   },
@@ -4453,7 +4447,7 @@
   },
   {
     "name": "NasGas Cooking Range NG-786",
-    "price": 78300.0,
+    "price": 83540.0,
     "url": "https://bismillahelectronics.pk/products/nasgas-cooking-range-ng-786",
     "available": true
   },
@@ -4495,7 +4489,7 @@
   },
   {
     "name": "Canon Room Air Cooler CA-4700",
-    "price": 29500.0,
+    "price": 31000.0,
     "url": "https://bismillahelectronics.pk/products/canon-room-air-cooler-ca-4700",
     "available": true
   },
@@ -4537,43 +4531,43 @@
   },
   {
     "name": "Canon Kitchen Hood CHA-KRHBB30",
-    "price": 28500.0,
+    "price": 33500.0,
     "url": "https://bismillahelectronics.pk/products/canon-kitchen-hood-cha-krhbb30",
     "available": true
   },
   {
     "name": "Canon Kitchen Hood CHA-KRHBB29",
-    "price": 29900.0,
+    "price": 33500.0,
     "url": "https://bismillahelectronics.pk/products/canon-kitchen-hood-cha-krhbb29",
     "available": true
   },
   {
     "name": "Canon Kitchen Hood CHA-KRHBB24",
-    "price": 32500.0,
+    "price": 36000.0,
     "url": "https://bismillahelectronics.pk/products/canon-kitchen-hood-cha-krhbb24",
     "available": true
   },
   {
     "name": "Canon Kitchen Hood CHA-KRHBB23",
-    "price": 28000.0,
+    "price": 31000.0,
     "url": "https://bismillahelectronics.pk/products/canon-kitchen-hood-cha-krhbb23",
     "available": true
   },
   {
     "name": "Canon Kitchen Hood CHA-KRHBB10",
-    "price": 42500.0,
+    "price": 46000.0,
     "url": "https://bismillahelectronics.pk/products/canon-kitchen-hood-cha-krhbb10",
     "available": true
   },
   {
     "name": "Canon Kitchen Hood CHA-KRHBB22",
-    "price": 25500.0,
+    "price": 29500.0,
     "url": "https://bismillahelectronics.pk/products/canon-kitchen-hood-cha-krhbb22",
     "available": true
   },
   {
     "name": "Canon Kitchen Hood CHA-SB23",
-    "price": 29900.0,
+    "price": 32000.0,
     "url": "https://bismillahelectronics.pk/products/canon-kitchen-hood-cha-sb23",
     "available": true
   },
@@ -4699,7 +4693,7 @@
   },
   {
     "name": "Canon Built-In Oven BOV-24",
-    "price": 117900.0,
+    "price": 124500.0,
     "url": "https://bismillahelectronics.pk/products/canon-built-in-oven-bov-24",
     "available": true
   },
@@ -7123,7 +7117,7 @@
   },
   {
     "name": "Canon Room Air Cooler CS-7500",
-    "price": 39000.0,
+    "price": 42600.0,
     "url": "https://bismillahelectronics.pk/products/canon-air-cooler-cs-7500",
     "available": true
   },
@@ -7135,7 +7129,7 @@
   },
   {
     "name": "Canon Room Air Cooler CA-6500",
-    "price": 33800.0,
+    "price": 35800.0,
     "url": "https://bismillahelectronics.pk/products/canon-air-cooler-ca-6500",
     "available": true
   },

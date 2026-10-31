@@ -681,7 +681,7 @@
     "name": "DAWLANCE TAWM (DWT-1580 INV C GLOW)",
     "price": 120000.0,
     "url": "https://japanelectronics.com.pk/products/dawlance-tawm-dwt-1580-inv-c-glow",
-    "available": false
+    "available": true
   },
   {
     "name": "DAWLANCE TAWM (DWT-1776 FLT C GLOW)",
@@ -2403,7 +2403,7 @@
     "name": "Dawlance Fully Automatic Washing Machine DWT 1470 PL",
     "price": 90000.0,
     "url": "https://japanelectronics.com.pk/products/dawlance-fully-automatic-washing-machine-dwt-1470-pl",
-    "available": true
+    "available": false
   },
   {
     "name": "Orient Split AC Inverter 1.5 Ton Super 20S Mirror Black T3+",
@@ -2563,13 +2563,13 @@
   },
   {
     "name": "Dawlance REF 9149 WB E-Chrome (Metallic Grey)",
-    "price": 61500.0,
+    "price": 62000.0,
     "url": "https://japanelectronics.com.pk/products/dawlance-ref-9149-wb-e-chrome-metallic-grey",
     "available": true
   },
   {
     "name": "Dawlance REF 9140 WB E-Chrome Metallic Grey",
-    "price": 54000.0,
+    "price": 55000.0,
     "url": "https://japanelectronics.com.pk/products/dawlance-ref-9140-wb-e-chrome-metallic-grey",
     "available": true
   },
@@ -3063,7 +3063,7 @@
     "name": "Haier Air Fryer (HAF-50MB)",
     "price": 18500.0,
     "url": "https://japanelectronics.com.pk/products/haier-air-fryer-haf-50mb",
-    "available": false
+    "available": true
   },
   {
     "name": "Haier D.Freezer (HDF-345 IG Star Inverter Grey)",
@@ -4117,7 +4117,7 @@
   },
   {
     "name": "Dawlance REF 9178 LF E-Chrome Metallic Grey",
-    "price": 85000.0,
+    "price": 85500.0,
     "url": "https://japanelectronics.com.pk/products/dawlance-ref-9178-lf-e-chrome-metallic-grey",
     "available": true
   },
@@ -5409,7 +5409,7 @@
     "name": "Gree AC Floor Standing Inverter 3.0 Ton GF-36TFIH AA+",
     "price": 449000.0,
     "url": "https://japanelectronics.com.pk/products/gree-ac-floor-standing-inverter-3-0-ton-gf-36tfih-aa",
-    "available": true
+    "available": false
   },
   {
     "name": "Gree AC Split Inverter 1.5 Ton GS-18FITH6C AAA",
@@ -5659,7 +5659,7 @@
   },
   {
     "name": "Dawlance Refrigerator 9178 LF E-Chrome Hairline Golden",
-    "price": 85000.0,
+    "price": 85500.0,
     "url": "https://japanelectronics.com.pk/products/dawlance-refrigerator-9178-lf-e-chrome-hairline-golden",
     "available": true
   },
@@ -5761,7 +5761,7 @@
   },
   {
     "name": "Dawlance Refrigerator 9149 WB E-Chrome (Hairline Golden)",
-    "price": 61500.0,
+    "price": 62000.0,
     "url": "https://japanelectronics.com.pk/products/dawlance-refrigerator-9149-wb-e-chrome-hairline-golden",
     "available": true
   },
@@ -5973,7 +5973,7 @@
     "name": "Homage Water Dispenser HWD-49332 Black",
     "price": 32900.0,
     "url": "https://japanelectronics.com.pk/products/homage-water-dispenser-hwd-49332-black",
-    "available": false
+    "available": true
   },
   {
     "name": "Kenwood Hand Mixer HMP-20WH",
@@ -6165,7 +6165,7 @@
     "name": "BEETRO AIR FRYER (BOAF-401WD)",
     "price": 20500.0,
     "url": "https://japanelectronics.com.pk/products/beetro-air-fryer-boaf-401wd",
-    "available": true
+    "available": false
   },
   {
     "name": "Haier Ceiling Cassette Inverter 2.0 Ton HBU-24HE/DC",
@@ -6895,7 +6895,7 @@
   },
   {
     "name": "Dawlance Refrigerator 9140 WB E-Chrome Hairline Golden",
-    "price": 54000.0,
+    "price": 55000.0,
     "url": "https://japanelectronics.com.pk/products/dawlance-ref-9140-wb-e-chrome-hairline-golden",
     "available": true
   },
@@ -8253,7 +8253,7 @@
     "name": "Beetro Fast Electric Geyser FFE-15 (15 Ltr)",
     "price": 26000.0,
     "url": "https://japanelectronics.com.pk/products/beetro-fast-electric-geyser-ffe-15-15-ltr",
-    "available": true
+    "available": false
   },
   {
     "name": "Philips Blender HR-2141",
@@ -8419,7 +8419,7 @@
   },
   {
     "name": "Dawlance Spinner (DS 6080 CB)",
-    "price": 19000.0,
+    "price": 19500.0,
     "url": "https://japanelectronics.com.pk/products/dawlance-spinner-ds-6080-cb",
     "available": true
   },
@@ -8431,7 +8431,7 @@
   },
   {
     "name": "Dawlance REF 9173 WB E-Chrome Metallic Grey",
-    "price": 80000.0,
+    "price": 80500.0,
     "url": "https://japanelectronics.com.pk/products/dawlance-ref-9173-wb-e-chrome-metallic-grey",
     "available": true
   },
@@ -8751,7 +8751,7 @@
     "name": "Westpoint Hand Mixer (WF-9801)",
     "price": 6900.0,
     "url": "https://japanelectronics.com.pk/products/westpoint-hand-mixer-wf-9801",
-    "available": true
+    "available": false
   },
   {
     "name": "Westpoint Hand Blender WF-9916",
@@ -8961,7 +8961,7 @@
     "name": "Haier Microwave Oven (HMW-20DSS)",
     "price": 18000.0,
     "url": "https://japanelectronics.com.pk/products/haier-microwave-oven-hmw-20dss",
-    "available": true
+    "available": false
   },
   {
     "name": "Dawlance Microwave Oven (DW-395 HCG)",
@@ -10023,7 +10023,7 @@
     "name": "Haier Split AC Inverter 1.5 Ton HSU-19HFAB  White",
     "price": 154000.0,
     "url": "https://japanelectronics.com.pk/products/haier-split-ac-inverter-1-5-ton-hsu-19hfab-white",
-    "available": false
+    "available": true
   },
   {
     "name": "Haier Split AC Inverter 1.5 Ton HSU-19HFAB Grey",
@@ -10381,7 +10381,7 @@
   },
   {
     "name": "Dawlance REF 9173 WB E-Chrome Hairline Golden",
-    "price": 80000.0,
+    "price": 80500.0,
     "url": "https://japanelectronics.com.pk/products/dawlance-ref-9173-wb-e-chrome-hairline-golden",
     "available": true
   },
@@ -11325,7 +11325,7 @@
     "name": "Dawlance Microwave Oven DW-210 S Pro",
     "price": 17100.0,
     "url": "https://japanelectronics.com.pk/products/dawlance-microwave-oven-dw-210-s-pro",
-    "available": true
+    "available": false
   },
   {
     "name": "Dawlance Washing Machine DW 9200 CFL",
@@ -11389,7 +11389,7 @@
   },
   {
     "name": "Dawlance Dish Washer DDW-868 CTB",
-    "price": 80200.0,
+    "price": 90000.0,
     "url": "https://japanelectronics.com.pk/products/dawlance-dish-washer-ddw-868-ctb",
     "available": true
   },
@@ -11517,7 +11517,7 @@
     "name": "Dawlance Water Dispenser WD-1051 Silver",
     "price": 42000.0,
     "url": "https://japanelectronics.com.pk/products/dawlance-water-dispenser-wd-1051-silver",
-    "available": true
+    "available": false
   },
   {
     "name": "Dawlance Water Dispenser WD-1051 Cloud White",

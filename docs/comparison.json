@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-31T14:05:02.824706+00:00",
+  "last_updated": "2026-10-31T18:56:29.680526+00:00",
   "my_store_name": "Bismillah Electronics",
   "competitor_name": "Japan Electronics",
   "total_my_products": 1422,
@@ -15576,7 +15576,7 @@
     },
     {
       "product_name": "Haier AC Inverter 1.5 Ton HSU-20HFTEX DG",
-      "my_price": 175000.0,
+      "my_price": 178000.0,
       "my_available": true,
       "my_url": "https://bismillahelectronics.pk/products/haier-ac-inverter-1-5-ton-hsu-20hftex-dg",
       "competitor_name": "Haier Split AC Inverter 1.5 Ton HSU-20HFTEX DG",
@@ -15585,8 +15585,8 @@
       "competitor_url": "https://japanelectronics.com.pk/products/haier-split-ac-inverter-1-5-ton-hsu-20hftex-dg",
       "match_confidence": 93.0,
       "status": "matched",
-      "price_diff": -3000.0,
-      "cheaper": "us"
+      "price_diff": 0.0,
+      "cheaper": "same"
     },
     {
       "product_name": "Haier AC Inverter 1.5 Ton HSU-18HFPAA (Silver)",

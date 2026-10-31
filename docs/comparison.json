@@ -1,10 +1,10 @@
 {
-  "last_updated": "2026-10-31T18:56:29.680526+00:00",
+  "last_updated": "2026-10-31T22:07:51.234887+00:00",
   "my_store_name": "Bismillah Electronics",
   "competitor_name": "Japan Electronics",
-  "total_my_products": 1422,
+  "total_my_products": 1417,
   "total_competitor_products": 2152,
-  "matched_count": 999,
+  "matched_count": 994,
   "results": [
     {
       "product_name": "Dawlance LED TV 65 Inch - Apollo",
@@ -5622,7 +5622,7 @@
     },
     {
       "product_name": "Haier AC 1.5 Ton Inverter Hsu-19hfs (G) T3 Pro",
-      "my_price": 156000.0,
+      "my_price": 159000.0,
       "my_available": true,
       "my_url": "https://bismillahelectronics.pk/products/haier-ac-1-5-ton-inverter-hsu-19hfs-g-t3-pro",
       "competitor_name": null,
@@ -9794,7 +9794,7 @@
     },
     {
       "product_name": "Haier Kitchen Hob HCC-529 DGG",
-      "my_price": 85000.0,
+      "my_price": 88000.0,
       "my_available": true,
       "my_url": "https://bismillahelectronics.pk/products/haier-kitchen-hob-hcc-529-dgg",
       "competitor_name": "Haier Kitchen Hob (HCC-529DGS)",
@@ -9803,12 +9803,12 @@
       "competitor_url": "https://japanelectronics.com.pk/products/haier-kitchen-hob-hcc-529dgs",
       "match_confidence": 84.7,
       "status": "matched",
-      "price_diff": -1000.0,
-      "cheaper": "us"
+      "price_diff": 2000.0,
+      "cheaper": "competitor"
     },
     {
       "product_name": "Haier Kitchen Hob HCC-6321 DGG",
-      "my_price": 29500.0,
+      "my_price": 29600.0,
       "my_available": true,
       "my_url": "https://bismillahelectronics.pk/products/haier-kitchen-hob-hcc-6321-dgg",
       "competitor_name": "Haier Kitchen Hob (HCC-632DGG)",
@@ -9817,12 +9817,12 @@
       "competitor_url": "https://japanelectronics.com.pk/products/haier-kitchen-hob-hcc-632dgg",
       "match_confidence": 83.3,
       "status": "matched",
-      "price_diff": 0.0,
-      "cheaper": "same"
+      "price_diff": 100.0,
+      "cheaper": "competitor"
     },
     {
       "product_name": "Haier Kitchen Hob HCC-Q57326",
-      "my_price": 38000.0,
+      "my_price": 38500.0,
       "my_available": true,
       "my_url": "https://bismillahelectronics.pk/products/haier-kitchen-hob-hcc-q57326",
       "competitor_name": "Haier Kitchen Hob (HCC-Q57328)",
@@ -9831,12 +9831,12 @@
       "competitor_url": "https://japanelectronics.com.pk/products/haier-kitchen-hob-hcc-q57328",
       "match_confidence": 93.1,
       "status": "matched",
-      "price_diff": -500.0,
-      "cheaper": "us"
+      "price_diff": 0.0,
+      "cheaper": "same"
     },
     {
       "product_name": "Haier Kitchen Hob HCC-Q57328",
-      "my_price": 38000.0,
+      "my_price": 38500.0,
       "my_available": true,
       "my_url": "https://bismillahelectronics.pk/products/haier-kitchen-hob-hcc-q57328",
       "competitor_name": "Haier Kitchen Hob (HCC-Q57328)",
@@ -9845,12 +9845,12 @@
       "competitor_url": "https://japanelectronics.com.pk/products/haier-kitchen-hob-hcc-q57328",
       "match_confidence": 96.6,
       "status": "matched",
-      "price_diff": -500.0,
-      "cheaper": "us"
+      "price_diff": 0.0,
+      "cheaper": "same"
     },
     {
       "product_name": "Haier Kitchen Hob HCC-Q67366",
-      "my_price": 38000.0,
+      "my_price": 47000.0,
       "my_available": true,
       "my_url": "https://bismillahelectronics.pk/products/haier-kitchen-hob-hcc-q67366",
       "competitor_name": "Haier Kitchen Hob (HCC-Q57328)",
@@ -9859,8 +9859,8 @@
       "competitor_url": "https://japanelectronics.com.pk/products/haier-kitchen-hob-hcc-q57328",
       "match_confidence": 86.2,
       "status": "matched",
-      "price_diff": -500.0,
-      "cheaper": "us"
+      "price_diff": 8500.0,
+      "cheaper": "competitor"
     },
     {
       "product_name": "Haier Kitchen Hob HCC-Q87388",
@@ -9906,7 +9906,7 @@
     },
     {
       "product_name": "Haier Kitchen Hob HCC-Q67366",
-      "my_price": 38000.0,
+      "my_price": 47000.0,
       "my_available": true,
       "my_url": "https://bismillahelectronics.pk/products/haier-kitchen-hob-hcc-q67366-1",
       "competitor_name": "Haier Kitchen Hob (HCC-Q57328)",
@@ -9915,8 +9915,8 @@
       "competitor_url": "https://japanelectronics.com.pk/products/haier-kitchen-hob-hcc-q57328",
       "match_confidence": 86.2,
       "status": "matched",
-      "price_diff": -500.0,
-      "cheaper": "us"
+      "price_diff": 8500.0,
+      "cheaper": "competitor"
     },
     {
       "product_name": "Haier Kitchen Hob HCC-632 DGS",
@@ -9934,7 +9934,7 @@
     },
     {
       "product_name": "Haier Kitchen Hob HCC-832 DGG",
-      "my_price": 45900.0,
+      "my_price": 51000.0,
       "my_available": true,
       "my_url": "https://bismillahelectronics.pk/products/haier-kitchen-hob-hcc-832-dgg",
       "competitor_name": "Haier Kitchen Hob HCC-832DGG",
@@ -9943,7 +9943,7 @@
       "competitor_url": "https://japanelectronics.com.pk/products/haier-kitchen-hob-hcc-832dgg",
       "match_confidence": 87.7,
       "status": "matched",
-      "price_diff": -9100.0,
+      "price_diff": -4000.0,
       "cheaper": "us"
     },
     {
@@ -10256,7 +10256,7 @@
     },
     {
       "product_name": "Haier Deep Freezer HDF-175 Inverter",
-      "my_price": 65000.0,
+      "my_price": 59000.0,
       "my_available": true,
       "my_url": "https://bismillahelectronics.pk/products/haier-deep-freezer-hdf-175-inverter",
       "competitor_name": "Haier Deep Freezer HDF-245 Inverter",
@@ -10265,12 +10265,12 @@
       "competitor_url": "https://japanelectronics.com.pk/products/haier-deep-freezer-hdf-245-inverter",
       "match_confidence": 94.3,
       "status": "matched",
-      "price_diff": -15000.0,
+      "price_diff": -21000.0,
       "cheaper": "us"
     },
     {
       "product_name": "Haier Depp Freezer HDF-385H",
-      "my_price": 93000.0,
+      "my_price": 98000.0,
       "my_available": true,
       "my_url": "https://bismillahelectronics.pk/products/haier-depp-freezer-hdf-385h",
       "competitor_name": "Haier Deep Freezer HDF-405SD",
@@ -10279,8 +10279,8 @@
       "competitor_url": "https://japanelectronics.com.pk/products/haier-deep-freezer-hdf-405sd",
       "match_confidence": 83.6,
       "status": "matched",
-      "price_diff": -5000.0,
-      "cheaper": "us"
+      "price_diff": 0.0,
+      "cheaper": "same"
     },
     {
       "product_name": "Haier Depp FreezerHDF-320 Inverter",
@@ -10718,7 +10718,7 @@
     },
     {
       "product_name": "Haier Kitchen Hood HCH-CT5905",
-      "my_price": 103500.0,
+      "my_price": 115000.0,
       "my_available": true,
       "my_url": "https://bismillahelectronics.pk/products/haier-kitchen-hood-hch-ct5905",
       "competitor_name": "Haier Kitchen Hood HCH-9022G",
@@ -10727,40 +10727,12 @@
       "competitor_url": "https://japanelectronics.com.pk/products/haier-kitchen-hood-hch-9022g",
       "match_confidence": 87.7,
       "status": "matched",
-      "price_diff": 65000.0,
-      "cheaper": "competitor"
-    },
-    {
-      "product_name": "Haier Kitchen Hood HCH-T3903",
-      "my_price": 65000.0,
-      "my_available": true,
-      "my_url": "https://bismillahelectronics.pk/products/haier-kitchen-hood-hch-t3903",
-      "competitor_name": "Haier Kitchen Hood HCH-9022G",
-      "competitor_price": 38500.0,
-      "competitor_available": false,
-      "competitor_url": "https://japanelectronics.com.pk/products/haier-kitchen-hood-hch-9022g",
-      "match_confidence": 89.3,
-      "status": "matched",
-      "price_diff": 26500.0,
-      "cheaper": "competitor"
-    },
-    {
-      "product_name": "Haier Kitchen Hood HCH-T3907S",
-      "my_price": 95000.0,
-      "my_available": true,
-      "my_url": "https://bismillahelectronics.pk/products/haier-kitchen-hood-hch-t3907s",
-      "competitor_name": "Haier Kitchen Hood HCH9501S",
-      "competitor_price": 49200.0,
-      "competitor_available": false,
-      "competitor_url": "https://japanelectronics.com.pk/products/haier-kitchen-hood-hch9501s",
-      "match_confidence": 89.3,
-      "status": "matched",
-      "price_diff": 45800.0,
+      "price_diff": 76500.0,
       "cheaper": "competitor"
     },
     {
       "product_name": "Haier Kitchen Hood HCH-9004T",
-      "my_price": 49500.0,
+      "my_price": 50000.0,
       "my_available": true,
       "my_url": "https://bismillahelectronics.pk/products/haier-kitchen-hood-hch-9004t",
       "competitor_name": "Haier Kitchen Hood HCH-9022G",
@@ -10769,7 +10741,7 @@
       "competitor_url": "https://japanelectronics.com.pk/products/haier-kitchen-hood-hch-9022g",
       "match_confidence": 89.3,
       "status": "matched",
-      "price_diff": 11000.0,
+      "price_diff": 11500.0,
       "cheaper": "competitor"
     },
     {
@@ -11040,7 +11012,7 @@
     },
     {
       "product_name": "Haier Built-In Oven HOX-FP3AGBX-PK",
-      "my_price": 127000.0,
+      "my_price": 128500.0,
       "my_available": true,
       "my_url": "https://bismillahelectronics.pk/products/haier-built-in-oven-hox-fp3agbx-pk",
       "competitor_name": null,
@@ -11054,7 +11026,7 @@
     },
     {
       "product_name": "Haier Built-In Oven HOX-P09HGB-PK",
-      "my_price": 115000.0,
+      "my_price": 116500.0,
       "my_available": true,
       "my_url": "https://bismillahelectronics.pk/products/haier-built-in-oven-hox-p09hgb-pk",
       "competitor_name": null,
@@ -12901,20 +12873,6 @@
       "cheaper": "competitor"
     },
     {
-      "product_name": "Haier Refrigerator HR-66B SD (Black)",
-      "my_price": 36000.0,
-      "my_available": true,
-      "my_url": "https://bismillahelectronics.pk/products/haier-refrigerator-hr-66b-sd-black",
-      "competitor_name": "Haier Refrigerator HRF-276 EPB Black",
-      "competitor_price": 74000.0,
-      "competitor_available": true,
-      "competitor_url": "https://japanelectronics.com.pk/products/haier-refrigerator-hrf-276-epb-black",
-      "match_confidence": 80.6,
-      "status": "matched",
-      "price_diff": -38000.0,
-      "cheaper": "us"
-    },
-    {
       "product_name": "Haier Refrigerator E-Star HRF-246 EPR (Red)",
       "my_price": 69000.0,
       "my_available": true,
@@ -14568,7 +14526,7 @@
     },
     {
       "product_name": "Haier Front Load Washing Machine HW 100-BP14929S6",
-      "my_price": 180000.0,
+      "my_price": 165000.0,
       "my_available": true,
       "my_url": "https://bismillahelectronics.pk/products/haier-front-load-washing-machine-hw-100-bp14929s6",
       "competitor_name": "Haier Washing Machine HWM 130-1217",
@@ -14577,7 +14535,7 @@
       "competitor_url": "https://japanelectronics.com.pk/products/haier-washing-machine-hwm-130-1217",
       "match_confidence": 72.3,
       "status": "matched",
-      "price_diff": 153000.0,
+      "price_diff": 138000.0,
       "cheaper": "competitor"
     },
     {
@@ -14761,20 +14719,6 @@
       "status": "matched",
       "price_diff": 1500.0,
       "cheaper": "competitor"
-    },
-    {
-      "product_name": "Haier Double Washing Machine HWM-100CS",
-      "my_price": 32000.0,
-      "my_available": true,
-      "my_url": "https://bismillahelectronics.pk/products/haier-double-washing-machine-hwm-100cs",
-      "competitor_name": "Haier Washing Machine HWM-100BS",
-      "competitor_price": 32900.0,
-      "competitor_available": false,
-      "competitor_url": "https://japanelectronics.com.pk/products/haier-washing-machine-hwm-100bs",
-      "match_confidence": 87.0,
-      "status": "matched",
-      "price_diff": -900.0,
-      "cheaper": "us"
     },
     {
       "product_name": "Samsung Automatic Washing Machine 90CK4545",
@@ -16696,7 +16640,7 @@
     },
     {
       "product_name": "Haier Floor Standing AC 2.0 Ton HPU-24HE/WSDC Inverter",
-      "my_price": 288000.0,
+      "my_price": 262000.0,
       "my_available": true,
       "my_url": "https://bismillahelectronics.pk/products/haier-cabinet-ac-2-ton-hpu-24he-dc-inverter",
       "competitor_name": "Haier Floor Standing AC Inverter 2.0 Ton HPU-24HE/WSDC (X-IK)",
@@ -16705,8 +16649,8 @@
       "competitor_url": "https://japanelectronics.com.pk/products/haier-floor-standing-ac-inverter-2-0-ton-hpu-24he-wsdc-x-ik",
       "match_confidence": 93.9,
       "status": "matched",
-      "price_diff": 24000.0,
-      "cheaper": "competitor"
+      "price_diff": -2000.0,
+      "cheaper": "us"
     },
     {
       "product_name": "Haier AC Floor Standing 2.0 Ton HPU-24HDZUV (Silver)",
@@ -16861,20 +16805,6 @@
       "status": "matched",
       "price_diff": 19100.0,
       "cheaper": "competitor"
-    },
-    {
-      "product_name": "Haier AC Inverter 1.5 Ton Solar Hybrid-III (White)",
-      "my_price": 183000.0,
-      "my_available": true,
-      "my_url": "https://bismillahelectronics.pk/products/haier-ac-1-5-ton-inverter-solar-hybrid-ii-heat-cool",
-      "competitor_name": "Haier Split AC Inverter 1.5 Ton Solar Hybrid-III (OW)-T3",
-      "competitor_price": 183000.0,
-      "competitor_available": false,
-      "competitor_url": "https://japanelectronics.com.pk/products/haier-split-ac-inverter-1-5-ton-solar-hybrid-iii-ow-t3",
-      "match_confidence": 86.8,
-      "status": "matched",
-      "price_diff": 0.0,
-      "cheaper": "same"
     },
     {
       "product_name": "American General AC 1.5 Ton Royal 18K T3",
@@ -27483,6 +27413,20 @@
       "competitor_price": 131000.0,
       "competitor_available": true,
       "competitor_url": "https://japanelectronics.com.pk/products/haier-ref-hrf-538tifg1u1-iot",
+      "match_confidence": 0,
+      "status": "only_competitor",
+      "price_diff": null,
+      "cheaper": null
+    },
+    {
+      "product_name": "Haier Split AC Inverter 1.5 Ton Solar Hybrid-III (OW)-T3",
+      "my_price": null,
+      "my_available": null,
+      "my_url": null,
+      "competitor_name": "Haier Split AC Inverter 1.5 Ton Solar Hybrid-III (OW)-T3",
+      "competitor_price": 183000.0,
+      "competitor_available": false,
+      "competitor_url": "https://japanelectronics.com.pk/products/haier-split-ac-inverter-1-5-ton-solar-hybrid-iii-ow-t3",
       "match_confidence": 0,
       "status": "only_competitor",
       "price_diff": null,

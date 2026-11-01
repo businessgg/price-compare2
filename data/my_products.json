@@ -1,5 +1,29 @@
 [
   {
+    "name": "Hisense AC 1.5 Ton 18TG75HC T3 Inverter (White)",
+    "price": 165000.0,
+    "url": "https://bismillahelectronics.pk/products/hisense-ac-1-5-ton-18tg75hc-t3-inverter-white",
+    "available": true
+  },
+  {
+    "name": "Hisense AC Inverter 1.5 Ton HDB-18TQ60HC",
+    "price": 135000.0,
+    "url": "https://bismillahelectronics.pk/products/hisense-ac-inverter-1-5-ton-hdb-18tq60hc",
+    "available": true
+  },
+  {
+    "name": "Hanco Room Air Cooler HRC-1000 AC/DC",
+    "price": 41000.0,
+    "url": "https://bismillahelectronics.pk/products/hanco-room-air-cooler-hrc-1000-ac-dc",
+    "available": true
+  },
+  {
+    "name": "Hanco Room Air Cooler HRC-1100 Inverter",
+    "price": 30000.0,
+    "url": "https://bismillahelectronics.pk/products/hanco-room-air-cooler-hrc-1100-inverter",
+    "available": true
+  },
+  {
     "name": "Dawlance LED TV 65 Inch - Apollo",
     "price": 197000.0,
     "url": "https://bismillahelectronics.pk/products/dawlance-led-tv-65-inch-apollo",
@@ -2085,12 +2109,6 @@
     "name": "Hisense LED TV 43 Inch 43A4N (FHD Google TV)",
     "price": 65000.0,
     "url": "https://bismillahelectronics.pk/products/hisense-led-tv-43-inch-43a4n-fhd-google-tv",
-    "available": true
-  },
-  {
-    "name": "Hisense LED TV 50 Inch 50A6K (4K UHD Google TV)",
-    "price": 125000.0,
-    "url": "https://bismillahelectronics.pk/products/hisense-led-tv-50-inch-50a6k-4k-uhd-google-tv",
     "available": true
   },
   {
@@ -4483,7 +4501,7 @@
   },
   {
     "name": "Hanco Room Air Cooler HRC -1200 AC",
-    "price": 41000.0,
+    "price": 41300.0,
     "url": "https://bismillahelectronics.pk/products/hanco-room-air-cooler-hrc-1200-ac",
     "available": true
   },

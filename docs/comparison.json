@@ -1,11 +1,53 @@
 {
-  "last_updated": "2026-11-01T08:27:35.575534+00:00",
+  "last_updated": "2026-11-01T15:37:21.324360+00:00",
   "my_store_name": "Bismillah Electronics",
   "competitor_name": "Japan Electronics",
-  "total_my_products": 1420,
+  "total_my_products": 1422,
   "total_competitor_products": 2152,
-  "matched_count": 995,
+  "matched_count": 997,
   "results": [
+    {
+      "product_name": "NasGas Room Air cooler NAC-9800 DC",
+      "my_price": 23700.0,
+      "my_available": true,
+      "my_url": "https://bismillahelectronics.pk/products/nasgas-air-cooler-nac-9800-dc",
+      "competitor_name": "Nasgas Room Air Cooler NAC-9824",
+      "competitor_price": 31500.0,
+      "competitor_available": true,
+      "competitor_url": "https://japanelectronics.com.pk/products/nasgas-room-air-cooler-nac-9824",
+      "match_confidence": 70.8,
+      "status": "matched",
+      "price_diff": -7800.0,
+      "cheaper": "us"
+    },
+    {
+      "product_name": "Midea AC 2.0 Ton 24HRFN8-INV Breeze Inverter",
+      "my_price": 225000.0,
+      "my_available": true,
+      "my_url": "https://bismillahelectronics.pk/products/midea-ac-2-0-ton-24hrfn8-inv-breeze-inverter",
+      "competitor_name": "Midea Split AC Inverter 2.0 Ton Breeze",
+      "competitor_price": 225000.0,
+      "competitor_available": false,
+      "competitor_url": "https://japanelectronics.com.pk/products/midea-split-ac-inverter-2-0-ton-breeze",
+      "match_confidence": 78.0,
+      "status": "matched",
+      "price_diff": 0.0,
+      "cheaper": "same"
+    },
+    {
+      "product_name": "Midas Water Dispenser MI-1090 (Silver)",
+      "my_price": 38500.0,
+      "my_available": true,
+      "my_url": "https://bismillahelectronics.pk/products/midas-water-dispenser-mi-1090-silver",
+      "competitor_name": "Nasgas Water Dispenser NWD-190 (Black)",
+      "competitor_price": 34500.0,
+      "competitor_available": true,
+      "competitor_url": "https://japanelectronics.com.pk/products/nasgas-water-dispenser-nwd-190-black",
+      "match_confidence": 71.1,
+      "status": "matched",
+      "price_diff": 4000.0,
+      "cheaper": "competitor"
+    },
     {
       "product_name": "Hisense AC 1.5 Ton 18TG75HC T3 Inverter (White)",
       "my_price": 165000.0,
@@ -4362,7 +4404,7 @@
     },
     {
       "product_name": "Midas Dishwasher MI-DW-121",
-      "my_price": 140000.0,
+      "my_price": 110000.0,
       "my_available": true,
       "my_url": "https://bismillahelectronics.pk/products/midas-dishwasher-mi-dw-121",
       "competitor_name": null,
@@ -4376,7 +4418,7 @@
     },
     {
       "product_name": "Midas Dishwasher 151 Touch",
-      "my_price": 162900.0,
+      "my_price": 163000.0,
       "my_available": true,
       "my_url": "https://bismillahelectronics.pk/products/midas-dishwasher-151-touch",
       "competitor_name": null,
@@ -4446,7 +4488,7 @@
     },
     {
       "product_name": "MIDEA AUTO WASH FRONT LOAD MF200-W90-G PK 9 KG",
-      "my_price": 169900.0,
+      "my_price": 140000.0,
       "my_available": true,
       "my_url": "https://bismillahelectronics.pk/products/midea-auto-wash-front-load-mf200-w90-g-9-kg",
       "competitor_name": null,
@@ -5468,7 +5510,7 @@
     },
     {
       "product_name": "Midea AC 1.5 Ton Inverter  18HRFN1 TITAN",
-      "my_price": 210000.0,
+      "my_price": 195000.0,
       "my_available": true,
       "my_url": "https://bismillahelectronics.pk/products/midea-ac-1-5-ton-inverter-18hrfn1-titan",
       "competitor_name": null,
@@ -5510,7 +5552,7 @@
     },
     {
       "product_name": "Midea AC 2.0 Ton Inverter 24HRFN1 XTREME PLUS WHITE",
-      "my_price": 225000.0,
+      "my_price": 220000.0,
       "my_available": true,
       "my_url": "https://bismillahelectronics.pk/products/midea-ac-2-0-ton-inverter-24hrfn1-xtreme-plus-white",
       "competitor_name": null,
@@ -5762,7 +5804,7 @@
     },
     {
       "product_name": "Midea AC 1.0 Ton Inverter 12HRFN1 TITAN",
-      "my_price": 155000.0,
+      "my_price": 145000.0,
       "my_available": true,
       "my_url": "https://bismillahelectronics.pk/products/midea-ac-1-0-ton-inverter-12hrfn1-titan",
       "competitor_name": null,
@@ -9150,7 +9192,7 @@
     },
     {
       "product_name": "Midea Electric Geyser D30-20FEG",
-      "my_price": 38900.0,
+      "my_price": 40500.0,
       "my_available": true,
       "my_url": "https://bismillahelectronics.pk/products/midea-electric-geyser-d30-20feg",
       "competitor_name": "Midea Electric Geyser (D30-20EFG)",
@@ -9159,12 +9201,12 @@
       "competitor_url": "https://japanelectronics.com.pk/products/midea-electric-geyser-d30-20efg",
       "match_confidence": 93.8,
       "status": "matched",
-      "price_diff": -100.0,
-      "cheaper": "us"
+      "price_diff": 1500.0,
+      "cheaper": "competitor"
     },
     {
       "product_name": "Midea Electric Geyser D50-20FEG",
-      "my_price": 43900.0,
+      "my_price": 46500.0,
       "my_available": true,
       "my_url": "https://bismillahelectronics.pk/products/midea-50l-electric-geyser-d50-20feg",
       "competitor_name": "Midea Electric Geyser (D50-20EFG)",
@@ -9173,12 +9215,12 @@
       "competitor_url": "https://japanelectronics.com.pk/products/midea-electric-geyser-d50-20efg",
       "match_confidence": 93.8,
       "status": "matched",
-      "price_diff": -2000.0,
-      "cheaper": "us"
+      "price_diff": 600.0,
+      "cheaper": "competitor"
     },
     {
       "product_name": "NasGas Electric Geyser NEG-30",
-      "my_price": 20200.0,
+      "my_price": 22200.0,
       "my_available": true,
       "my_url": "https://bismillahelectronics.pk/products/nasgas-electric-geyser-neg-31",
       "competitor_name": "Nasgas Electric Geyser NEG-30",
@@ -9187,8 +9229,8 @@
       "competitor_url": "https://japanelectronics.com.pk/products/nasgas-electric-geyser-neg-30",
       "match_confidence": 96.6,
       "status": "matched",
-      "price_diff": -2000.0,
-      "cheaper": "us"
+      "price_diff": 0.0,
+      "cheaper": "same"
     },
     {
       "product_name": "NasGas Electric Geyser NEG-40",
@@ -9220,7 +9262,7 @@
     },
     {
       "product_name": "NasGas Electric Geyser NEG-60",
-      "my_price": 26200.0,
+      "my_price": 26500.0,
       "my_available": true,
       "my_url": "https://bismillahelectronics.pk/products/nasgas-electric-geyser-neg-60",
       "competitor_name": "Nasgas Electric Geyser NEG-60",
@@ -9229,8 +9271,8 @@
       "competitor_url": "https://japanelectronics.com.pk/products/nasgas-electric-geyser-neg-60",
       "match_confidence": 96.6,
       "status": "matched",
-      "price_diff": -300.0,
-      "cheaper": "us"
+      "price_diff": 0.0,
+      "cheaper": "same"
     },
     {
       "product_name": "NasGas Electric Geyser NEG-80",
@@ -9542,7 +9584,7 @@
     },
     {
       "product_name": "NasGas Electric & Gas Geyser DEG-2020 Super Fast",
-      "my_price": 46500.0,
+      "my_price": 46450.0,
       "my_available": true,
       "my_url": "https://bismillahelectronics.pk/products/nasgas-electric-gas-geyser-deg-2020",
       "competitor_name": "Nasgas Electric & Gas Geyser 35 Gallon DEG-35 Super Dlx",
@@ -9551,7 +9593,7 @@
       "competitor_url": "https://japanelectronics.com.pk/products/nasgas-electric-gas-geyser-35-gallon-deg-35-super-dlx",
       "match_confidence": 77.7,
       "status": "matched",
-      "price_diff": -6000.0,
+      "price_diff": -6050.0,
       "cheaper": "us"
     },
     {
@@ -9570,7 +9612,7 @@
     },
     {
       "product_name": "NasGas Electric & Gas Geyser DGE-35 Super Dlx",
-      "my_price": 48000.0,
+      "my_price": 48500.0,
       "my_available": true,
       "my_url": "https://bismillahelectronics.pk/products/nasgas-electric-gas-geyser-dge-35-super-dlx",
       "competitor_name": "Nasgas Electric & Gas Geyser 35 Gallon DEG-35 Super Dlx",
@@ -9579,7 +9621,7 @@
       "competitor_url": "https://japanelectronics.com.pk/products/nasgas-electric-gas-geyser-35-gallon-deg-35-super-dlx",
       "match_confidence": 86.0,
       "status": "matched",
-      "price_diff": -4500.0,
+      "price_diff": -4000.0,
       "cheaper": "us"
     },
     {
@@ -9679,20 +9721,6 @@
       "status": "matched",
       "price_diff": 0.0,
       "cheaper": "same"
-    },
-    {
-      "product_name": "NasGas Instant Gas Geyser DG-9L",
-      "my_price": 31400.0,
-      "my_available": true,
-      "my_url": "https://bismillahelectronics.pk/products/nasgas-instant-gas-geyser-dg-9l",
-      "competitor_name": "Nasgas Instant Gas Geyser DG-09 Dlx (Executive)",
-      "competitor_price": 29600.0,
-      "competitor_available": true,
-      "competitor_url": "https://japanelectronics.com.pk/products/nasgas-instant-gas-geyser-dg-09-dlx-executive",
-      "match_confidence": 74.4,
-      "status": "matched",
-      "price_diff": 1800.0,
-      "cheaper": "competitor"
     },
     {
       "product_name": "LG Heater LG-020 Electric + Gas",
@@ -9990,7 +10018,7 @@
     },
     {
       "product_name": "NasGas Kitchen Hob DG-117 GT",
-      "my_price": 9800.0,
+      "my_price": 8750.0,
       "my_available": true,
       "my_url": "https://bismillahelectronics.pk/products/nasgas-kitchen-hob-dg-117-gt",
       "competitor_name": "Nasgas Kitchen Hob (DG-111)",
@@ -9999,12 +10027,12 @@
       "competitor_url": "https://japanelectronics.com.pk/products/nasgas-kitchen-hob-dg-112",
       "match_confidence": 83.6,
       "status": "matched",
-      "price_diff": -6480.0,
+      "price_diff": -7530.0,
       "cheaper": "us"
     },
     {
       "product_name": "NasGas Kitchen Hob DG-111 BK",
-      "my_price": 16500.0,
+      "my_price": 18000.0,
       "my_available": true,
       "my_url": "https://bismillahelectronics.pk/products/nasgas-kitchen-hob-dg-111-bk",
       "competitor_name": "Nasgas Kitchen Hob (DG-111)",
@@ -10013,12 +10041,12 @@
       "competitor_url": "https://japanelectronics.com.pk/products/nasgas-kitchen-hob-dg-112",
       "match_confidence": 87.3,
       "status": "matched",
-      "price_diff": 220.0,
+      "price_diff": 1720.0,
       "cheaper": "competitor"
     },
     {
       "product_name": "NasGas Kitchen Hob DG-222 BK",
-      "my_price": 18900.0,
+      "my_price": 20510.0,
       "my_available": true,
       "my_url": "https://bismillahelectronics.pk/products/nasgas-kitchen-hob-dg-222-bk",
       "competitor_name": "Nasgas Kitchen Hob DG-345",
@@ -10027,12 +10055,12 @@
       "competitor_url": "https://japanelectronics.com.pk/products/nasgas-kitchen-hob-dg-345",
       "match_confidence": 79.2,
       "status": "matched",
-      "price_diff": -4850.0,
+      "price_diff": -3240.0,
       "cheaper": "us"
     },
     {
       "product_name": "NasGas Kitchen Hob DG-227 G",
-      "my_price": 27300.0,
+      "my_price": 29450.0,
       "my_available": true,
       "my_url": "https://bismillahelectronics.pk/products/nasgas-kitchen-hob-dg-227-g",
       "competitor_name": "Nasgas Kitchen Hob DG-345",
@@ -10041,12 +10069,12 @@
       "competitor_url": "https://japanelectronics.com.pk/products/nasgas-kitchen-hob-dg-345",
       "match_confidence": 80.8,
       "status": "matched",
-      "price_diff": 3550.0,
+      "price_diff": 5700.0,
       "cheaper": "competitor"
     },
     {
       "product_name": "NasGas Kitchen Hob DG-227 S",
-      "my_price": 23000.0,
+      "my_price": 27400.0,
       "my_available": true,
       "my_url": "https://bismillahelectronics.pk/products/nasgas-kitchen-hob-dg-227-s",
       "competitor_name": "Nasgas Kitchen Hob DG-345",
@@ -10055,8 +10083,8 @@
       "competitor_url": "https://japanelectronics.com.pk/products/nasgas-kitchen-hob-dg-345",
       "match_confidence": 80.8,
       "status": "matched",
-      "price_diff": -750.0,
-      "cheaper": "us"
+      "price_diff": 3650.0,
+      "cheaper": "competitor"
     },
     {
       "product_name": "NasGas Kitchen Hob DG-444",
@@ -10074,7 +10102,7 @@
     },
     {
       "product_name": "NasGas Kitchen Hob DG-931 BK",
-      "my_price": 17300.0,
+      "my_price": 18900.0,
       "my_available": true,
       "my_url": "https://bismillahelectronics.pk/products/nasgas-kitchen-hob-dg-931-bk",
       "competitor_name": "Nasgas Kitchen Hob DG-345",
@@ -10083,12 +10111,12 @@
       "competitor_url": "https://japanelectronics.com.pk/products/nasgas-kitchen-hob-dg-345",
       "match_confidence": 83.0,
       "status": "matched",
-      "price_diff": -6450.0,
+      "price_diff": -4850.0,
       "cheaper": "us"
     },
     {
       "product_name": "NasGas Kitchen Hob DG-932 BK",
-      "my_price": 21500.0,
+      "my_price": 23450.0,
       "my_available": true,
       "my_url": "https://bismillahelectronics.pk/products/nasgas-kitchen-hob-dg-932-bk",
       "competitor_name": "Nasgas Kitchen Hob DG-345",
@@ -10097,12 +10125,12 @@
       "competitor_url": "https://japanelectronics.com.pk/products/nasgas-kitchen-hob-dg-345",
       "match_confidence": 83.0,
       "status": "matched",
-      "price_diff": -2250.0,
+      "price_diff": -300.0,
       "cheaper": "us"
     },
     {
       "product_name": "NasGas Kitchen Hob DG-933 BK",
-      "my_price": 23000.0,
+      "my_price": 24700.0,
       "my_available": true,
       "my_url": "https://bismillahelectronics.pk/products/nasgas-kitchen-hob-dg-933-bk",
       "competitor_name": "Nasgas Kitchen Hob DG-345",
@@ -10111,12 +10139,12 @@
       "competitor_url": "https://japanelectronics.com.pk/products/nasgas-kitchen-hob-dg-345",
       "match_confidence": 83.0,
       "status": "matched",
-      "price_diff": -750.0,
-      "cheaper": "us"
+      "price_diff": 950.0,
+      "cheaper": "competitor"
     },
     {
       "product_name": "NasGas Kitchen Hob DG-GN2",
-      "my_price": 15700.0,
+      "my_price": 17015.0,
       "my_available": true,
       "my_url": "https://bismillahelectronics.pk/products/nasgas-kitchen-hob-dg-gn2",
       "competitor_name": "Nasgas Kitchen Hob (DG-GN30)",
@@ -10125,12 +10153,12 @@
       "competitor_url": "https://japanelectronics.com.pk/products/nasgas-kitchen-hob-dg-gn30",
       "match_confidence": 86.8,
       "status": "matched",
-      "price_diff": -6850.0,
+      "price_diff": -5535.0,
       "cheaper": "us"
     },
     {
       "product_name": "NasGas Kitchen Hob DG-GN3",
-      "my_price": 19800.0,
+      "my_price": 22550.0,
       "my_available": true,
       "my_url": "https://bismillahelectronics.pk/products/nasgas-kitchen-hob-dg-gn3",
       "competitor_name": "Nasgas Kitchen Hob (DG-GN30)",
@@ -10139,12 +10167,12 @@
       "competitor_url": "https://japanelectronics.com.pk/products/nasgas-kitchen-hob-dg-gn30",
       "match_confidence": 90.6,
       "status": "matched",
-      "price_diff": -2750.0,
-      "cheaper": "us"
+      "price_diff": 0.0,
+      "cheaper": "same"
     },
     {
       "product_name": "NasGas Kitchen Hob DG-GN5",
-      "my_price": 25300.0,
+      "my_price": 27500.0,
       "my_available": true,
       "my_url": "https://bismillahelectronics.pk/products/nasgas-kitchen-hob-dg-gn5",
       "competitor_name": "Nasgas Kitchen Hob DG-345",
@@ -10153,12 +10181,12 @@
       "competitor_url": "https://japanelectronics.com.pk/products/nasgas-kitchen-hob-dg-345",
       "match_confidence": 88.0,
       "status": "matched",
-      "price_diff": 1550.0,
+      "price_diff": 3750.0,
       "cheaper": "competitor"
     },
     {
       "product_name": "NasGas Kitchen HobDG-226 (Glass)",
-      "my_price": 18800.0,
+      "my_price": 21880.0,
       "my_available": true,
       "my_url": "https://bismillahelectronics.pk/products/nasgas-kitchen-hobdg-226-glass",
       "competitor_name": "Nasgas Kitchen Hob (DG-111)",
@@ -10167,7 +10195,7 @@
       "competitor_url": "https://japanelectronics.com.pk/products/nasgas-kitchen-hob-dg-112",
       "match_confidence": 71.2,
       "status": "matched",
-      "price_diff": 2520.0,
+      "price_diff": 5600.0,
       "cheaper": "competitor"
     },
     {
@@ -10424,7 +10452,7 @@
     },
     {
       "product_name": "Nasgas Cooking Range ECM-334",
-      "my_price": 33500.0,
+      "my_price": 39210.0,
       "my_available": true,
       "my_url": "https://bismillahelectronics.pk/products/nasgas-cooking-range-ecm-334",
       "competitor_name": "NASGAS Cooking Range ECO-534",
@@ -10433,7 +10461,7 @@
       "competitor_url": "https://japanelectronics.com.pk/products/nasgas-cooking-range-eco-534",
       "match_confidence": 75.0,
       "status": "matched",
-      "price_diff": -7550.0,
+      "price_diff": -1840.0,
       "cheaper": "us"
     },
     {
@@ -10788,7 +10816,7 @@
     },
     {
       "product_name": "NasGas Kitchen Hood KHD-260",
-      "my_price": 31900.0,
+      "my_price": 32570.0,
       "my_available": true,
       "my_url": "https://bismillahelectronics.pk/products/nasgas-kitchen-hood-khd-260",
       "competitor_name": "Nasgas Kitchen Hood KHD-320",
@@ -10797,12 +10825,12 @@
       "competitor_url": "https://japanelectronics.com.pk/products/nasgas-kitchen-hood-khd-320",
       "match_confidence": 92.6,
       "status": "matched",
-      "price_diff": -3100.0,
+      "price_diff": -2430.0,
       "cheaper": "us"
     },
     {
       "product_name": "NasGas Kitchen Hood KHD-330 (Smart)",
-      "my_price": 34200.0,
+      "my_price": 34600.0,
       "my_available": true,
       "my_url": "https://bismillahelectronics.pk/products/nasgas-kitchen-hood-khd-330-smart",
       "competitor_name": "Nasgas Kitchen Hood KHD-330",
@@ -10811,12 +10839,12 @@
       "competitor_url": "https://japanelectronics.com.pk/products/nasgas-kitchen-hood-khd-330",
       "match_confidence": 83.9,
       "status": "matched",
-      "price_diff": -400.0,
-      "cheaper": "us"
+      "price_diff": 0.0,
+      "cheaper": "same"
     },
     {
       "product_name": "NasGas Kitchen Hood KHD-320 (Smart)",
-      "my_price": 32500.0,
+      "my_price": 32520.0,
       "my_available": true,
       "my_url": "https://bismillahelectronics.pk/products/nasgas-kitchen-hood-khd-320-smart",
       "competitor_name": "Nasgas Kitchen Hood KHD-320",
@@ -10825,7 +10853,7 @@
       "competitor_url": "https://japanelectronics.com.pk/products/nasgas-kitchen-hood-khd-320",
       "match_confidence": 83.9,
       "status": "matched",
-      "price_diff": -2500.0,
+      "price_diff": -2480.0,
       "cheaper": "us"
     },
     {
@@ -11012,7 +11040,7 @@
     },
     {
       "product_name": "NasGas Built-In Oven NG-551",
-      "my_price": 57400.0,
+      "my_price": 56250.0,
       "my_available": true,
       "my_url": "https://bismillahelectronics.pk/products/nasgas-built-in-oven-ng-551",
       "competitor_name": "Nasgas Built in Oven NG-551",
@@ -11021,12 +11049,12 @@
       "competitor_url": "https://japanelectronics.com.pk/products/nasgas-built-in-oven-ng-551",
       "match_confidence": 85.2,
       "status": "matched",
-      "price_diff": -5.0,
+      "price_diff": -1155.0,
       "cheaper": "us"
     },
     {
       "product_name": "NasGas Built-In Microwave Oven NG-E90E",
-      "my_price": 81500.0,
+      "my_price": 85000.0,
       "my_available": true,
       "my_url": "https://bismillahelectronics.pk/products/nasgas-built-in-microwave-oven-ng-e90e",
       "competitor_name": null,
@@ -11040,7 +11068,7 @@
     },
     {
       "product_name": "NasGas Built-In Oven NG-552",
-      "my_price": 75000.0,
+      "my_price": 68750.0,
       "my_available": true,
       "my_url": "https://bismillahelectronics.pk/products/nasgas-built-in-oven-ng-552",
       "competitor_name": "Nasgas Built in Oven NG-550",
@@ -11049,7 +11077,7 @@
       "competitor_url": "https://japanelectronics.com.pk/products/nasgas-built-in-oven-ng-550",
       "match_confidence": 81.5,
       "status": "matched",
-      "price_diff": 17595.0,
+      "price_diff": 11345.0,
       "cheaper": "competitor"
     },
     {
@@ -15240,7 +15268,7 @@
     },
     {
       "product_name": "Midas Water Dispenser MI-1080 (Black)",
-      "my_price": 37900.0,
+      "my_price": 39500.0,
       "my_available": true,
       "my_url": "https://bismillahelectronics.pk/products/midas-water-dispenser-mi-1080-black",
       "competitor_name": "Nasgas Water Dispenser NWD-190 (Black)",
@@ -15249,7 +15277,7 @@
       "competitor_url": "https://japanelectronics.com.pk/products/nasgas-water-dispenser-nwd-190-black",
       "match_confidence": 80.0,
       "status": "matched",
-      "price_diff": 3400.0,
+      "price_diff": 5000.0,
       "cheaper": "competitor"
     },
     {
@@ -15954,7 +15982,7 @@
     },
     {
       "product_name": "Nasgas Built in Oven NG-550",
-      "my_price": 57500.0,
+      "my_price": 56250.0,
       "my_available": true,
       "my_url": "https://bismillahelectronics.pk/products/nasgas-built-in-oven-ng-553",
       "competitor_name": "Nasgas Built in Oven NG-550",
@@ -15963,8 +15991,8 @@
       "competitor_url": "https://japanelectronics.com.pk/products/nasgas-built-in-oven-ng-550",
       "match_confidence": 100.0,
       "status": "matched",
-      "price_diff": 95.0,
-      "cheaper": "competitor"
+      "price_diff": -1155.0,
+      "cheaper": "us"
     },
     {
       "product_name": "Haier Microwave Oven HMW-30AFS",
@@ -16415,8 +16443,8 @@
       "cheaper": null
     },
     {
-      "product_name": "NasGas Room Air cooler NAC-9800 Hybrid",
-      "my_price": 30700.0,
+      "product_name": "NasGas Room Air cooler NAC-9800 HYBRID",
+      "my_price": 31300.0,
       "my_available": true,
       "my_url": "https://bismillahelectronics.pk/products/nasgas-air-cooler-nac-9800-hybrid",
       "competitor_name": null,
@@ -33349,20 +33377,6 @@
       "competitor_price": 199900.0,
       "competitor_available": false,
       "competitor_url": "https://japanelectronics.com.pk/products/orient-split-ac-inverter-2-0-ton-24x-divine-pristine",
-      "match_confidence": 0,
-      "status": "only_competitor",
-      "price_diff": null,
-      "cheaper": null
-    },
-    {
-      "product_name": "Midea Split AC Inverter 2.0 Ton Breeze",
-      "my_price": null,
-      "my_available": null,
-      "my_url": null,
-      "competitor_name": "Midea Split AC Inverter 2.0 Ton Breeze",
-      "competitor_price": 225000.0,
-      "competitor_available": false,
-      "competitor_url": "https://japanelectronics.com.pk/products/midea-split-ac-inverter-2-0-ton-breeze",
       "match_confidence": 0,
       "status": "only_competitor",
       "price_diff": null,

@@ -1,5 +1,23 @@
 [
   {
+    "name": "NasGas Room Air cooler NAC-9800 DC",
+    "price": 23700.0,
+    "url": "https://bismillahelectronics.pk/products/nasgas-air-cooler-nac-9800-dc",
+    "available": true
+  },
+  {
+    "name": "Midea AC 2.0 Ton 24HRFN8-INV Breeze Inverter",
+    "price": 225000.0,
+    "url": "https://bismillahelectronics.pk/products/midea-ac-2-0-ton-24hrfn8-inv-breeze-inverter",
+    "available": true
+  },
+  {
+    "name": "Midas Water Dispenser MI-1090 (Silver)",
+    "price": 38500.0,
+    "url": "https://bismillahelectronics.pk/products/midas-water-dispenser-mi-1090-silver",
+    "available": true
+  },
+  {
     "name": "Hisense AC 1.5 Ton 18TG75HC T3 Inverter (White)",
     "price": 165000.0,
     "url": "https://bismillahelectronics.pk/products/hisense-ac-1-5-ton-18tg75hc-t3-inverter-white",
@@ -1867,13 +1885,13 @@
   },
   {
     "name": "Midas Dishwasher MI-DW-121",
-    "price": 140000.0,
+    "price": 110000.0,
     "url": "https://bismillahelectronics.pk/products/midas-dishwasher-mi-dw-121",
     "available": true
   },
   {
     "name": "Midas Dishwasher 151 Touch",
-    "price": 162900.0,
+    "price": 163000.0,
     "url": "https://bismillahelectronics.pk/products/midas-dishwasher-151-touch",
     "available": true
   },
@@ -1903,7 +1921,7 @@
   },
   {
     "name": "MIDEA AUTO WASH FRONT LOAD MF200-W90-G PK 9 KG",
-    "price": 169900.0,
+    "price": 140000.0,
     "url": "https://bismillahelectronics.pk/products/midea-auto-wash-front-load-mf200-w90-g-9-kg",
     "available": true
   },
@@ -2341,7 +2359,7 @@
   },
   {
     "name": "Midea AC 1.5 Ton Inverter  18HRFN1 TITAN",
-    "price": 210000.0,
+    "price": 195000.0,
     "url": "https://bismillahelectronics.pk/products/midea-ac-1-5-ton-inverter-18hrfn1-titan",
     "available": true
   },
@@ -2359,7 +2377,7 @@
   },
   {
     "name": "Midea AC 2.0 Ton Inverter 24HRFN1 XTREME PLUS WHITE",
-    "price": 225000.0,
+    "price": 220000.0,
     "url": "https://bismillahelectronics.pk/products/midea-ac-2-0-ton-inverter-24hrfn1-xtreme-plus-white",
     "available": true
   },
@@ -2467,7 +2485,7 @@
   },
   {
     "name": "Midea AC 1.0 Ton Inverter 12HRFN1 TITAN",
-    "price": 155000.0,
+    "price": 145000.0,
     "url": "https://bismillahelectronics.pk/products/midea-ac-1-0-ton-inverter-12hrfn1-titan",
     "available": true
   },
@@ -3919,19 +3937,19 @@
   },
   {
     "name": "Midea Electric Geyser D30-20FEG",
-    "price": 38900.0,
+    "price": 40500.0,
     "url": "https://bismillahelectronics.pk/products/midea-electric-geyser-d30-20feg",
     "available": true
   },
   {
     "name": "Midea Electric Geyser D50-20FEG",
-    "price": 43900.0,
+    "price": 46500.0,
     "url": "https://bismillahelectronics.pk/products/midea-50l-electric-geyser-d50-20feg",
     "available": true
   },
   {
     "name": "NasGas Electric Geyser NEG-30",
-    "price": 20200.0,
+    "price": 22200.0,
     "url": "https://bismillahelectronics.pk/products/nasgas-electric-geyser-neg-31",
     "available": true
   },
@@ -3949,7 +3967,7 @@
   },
   {
     "name": "NasGas Electric Geyser NEG-60",
-    "price": 26200.0,
+    "price": 26500.0,
     "url": "https://bismillahelectronics.pk/products/nasgas-electric-geyser-neg-60",
     "available": true
   },
@@ -4087,7 +4105,7 @@
   },
   {
     "name": "NasGas Electric & Gas Geyser DEG-2020 Super Fast",
-    "price": 46500.0,
+    "price": 46450.0,
     "url": "https://bismillahelectronics.pk/products/nasgas-electric-gas-geyser-deg-2020",
     "available": true
   },
@@ -4099,7 +4117,7 @@
   },
   {
     "name": "NasGas Electric & Gas Geyser DGE-35 Super Dlx",
-    "price": 48000.0,
+    "price": 48500.0,
     "url": "https://bismillahelectronics.pk/products/nasgas-electric-gas-geyser-dge-35-super-dlx",
     "available": true
   },
@@ -4143,12 +4161,6 @@
     "name": "NasGas Instant Gas Geyser DG-08L",
     "price": 29600.0,
     "url": "https://bismillahelectronics.pk/products/nasgas-instant-gas-geyser-dg-08l",
-    "available": true
-  },
-  {
-    "name": "NasGas Instant Gas Geyser DG-9L",
-    "price": 31400.0,
-    "url": "https://bismillahelectronics.pk/products/nasgas-instant-gas-geyser-dg-9l",
     "available": true
   },
   {
@@ -4279,31 +4291,31 @@
   },
   {
     "name": "NasGas Kitchen Hob DG-117 GT",
-    "price": 9800.0,
+    "price": 8750.0,
     "url": "https://bismillahelectronics.pk/products/nasgas-kitchen-hob-dg-117-gt",
     "available": true
   },
   {
     "name": "NasGas Kitchen Hob DG-111 BK",
-    "price": 16500.0,
+    "price": 18000.0,
     "url": "https://bismillahelectronics.pk/products/nasgas-kitchen-hob-dg-111-bk",
     "available": true
   },
   {
     "name": "NasGas Kitchen Hob DG-222 BK",
-    "price": 18900.0,
+    "price": 20510.0,
     "url": "https://bismillahelectronics.pk/products/nasgas-kitchen-hob-dg-222-bk",
     "available": true
   },
   {
     "name": "NasGas Kitchen Hob DG-227 G",
-    "price": 27300.0,
+    "price": 29450.0,
     "url": "https://bismillahelectronics.pk/products/nasgas-kitchen-hob-dg-227-g",
     "available": true
   },
   {
     "name": "NasGas Kitchen Hob DG-227 S",
-    "price": 23000.0,
+    "price": 27400.0,
     "url": "https://bismillahelectronics.pk/products/nasgas-kitchen-hob-dg-227-s",
     "available": true
   },
@@ -4315,43 +4327,43 @@
   },
   {
     "name": "NasGas Kitchen Hob DG-931 BK",
-    "price": 17300.0,
+    "price": 18900.0,
     "url": "https://bismillahelectronics.pk/products/nasgas-kitchen-hob-dg-931-bk",
     "available": true
   },
   {
     "name": "NasGas Kitchen Hob DG-932 BK",
-    "price": 21500.0,
+    "price": 23450.0,
     "url": "https://bismillahelectronics.pk/products/nasgas-kitchen-hob-dg-932-bk",
     "available": true
   },
   {
     "name": "NasGas Kitchen Hob DG-933 BK",
-    "price": 23000.0,
+    "price": 24700.0,
     "url": "https://bismillahelectronics.pk/products/nasgas-kitchen-hob-dg-933-bk",
     "available": true
   },
   {
     "name": "NasGas Kitchen Hob DG-GN2",
-    "price": 15700.0,
+    "price": 17015.0,
     "url": "https://bismillahelectronics.pk/products/nasgas-kitchen-hob-dg-gn2",
     "available": true
   },
   {
     "name": "NasGas Kitchen Hob DG-GN3",
-    "price": 19800.0,
+    "price": 22550.0,
     "url": "https://bismillahelectronics.pk/products/nasgas-kitchen-hob-dg-gn3",
     "available": true
   },
   {
     "name": "NasGas Kitchen Hob DG-GN5",
-    "price": 25300.0,
+    "price": 27500.0,
     "url": "https://bismillahelectronics.pk/products/nasgas-kitchen-hob-dg-gn5",
     "available": true
   },
   {
     "name": "NasGas Kitchen HobDG-226 (Glass)",
-    "price": 18800.0,
+    "price": 21880.0,
     "url": "https://bismillahelectronics.pk/products/nasgas-kitchen-hobdg-226-glass",
     "available": true
   },
@@ -4465,7 +4477,7 @@
   },
   {
     "name": "Nasgas Cooking Range ECM-334",
-    "price": 33500.0,
+    "price": 39210.0,
     "url": "https://bismillahelectronics.pk/products/nasgas-cooking-range-ecm-334",
     "available": true
   },
@@ -4621,19 +4633,19 @@
   },
   {
     "name": "NasGas Kitchen Hood KHD-260",
-    "price": 31900.0,
+    "price": 32570.0,
     "url": "https://bismillahelectronics.pk/products/nasgas-kitchen-hood-khd-260",
     "available": true
   },
   {
     "name": "NasGas Kitchen Hood KHD-330 (Smart)",
-    "price": 34200.0,
+    "price": 34600.0,
     "url": "https://bismillahelectronics.pk/products/nasgas-kitchen-hood-khd-330-smart",
     "available": true
   },
   {
     "name": "NasGas Kitchen Hood KHD-320 (Smart)",
-    "price": 32500.0,
+    "price": 32520.0,
     "url": "https://bismillahelectronics.pk/products/nasgas-kitchen-hood-khd-320-smart",
     "available": true
   },
@@ -4717,19 +4729,19 @@
   },
   {
     "name": "NasGas Built-In Oven NG-551",
-    "price": 57400.0,
+    "price": 56250.0,
     "url": "https://bismillahelectronics.pk/products/nasgas-built-in-oven-ng-551",
     "available": true
   },
   {
     "name": "NasGas Built-In Microwave Oven NG-E90E",
-    "price": 81500.0,
+    "price": 85000.0,
     "url": "https://bismillahelectronics.pk/products/nasgas-built-in-microwave-oven-ng-e90e",
     "available": true
   },
   {
     "name": "NasGas Built-In Oven NG-552",
-    "price": 75000.0,
+    "price": 68750.0,
     "url": "https://bismillahelectronics.pk/products/nasgas-built-in-oven-ng-552",
     "available": true
   },
@@ -6529,7 +6541,7 @@
   },
   {
     "name": "Midas Water Dispenser MI-1080 (Black)",
-    "price": 37900.0,
+    "price": 39500.0,
     "url": "https://bismillahelectronics.pk/products/midas-water-dispenser-mi-1080-black",
     "available": true
   },
@@ -6835,7 +6847,7 @@
   },
   {
     "name": "Nasgas Built in Oven NG-550",
-    "price": 57500.0,
+    "price": 56250.0,
     "url": "https://bismillahelectronics.pk/products/nasgas-built-in-oven-ng-553",
     "available": true
   },
@@ -7032,8 +7044,8 @@
     "available": true
   },
   {
-    "name": "NasGas Room Air cooler NAC-9800 Hybrid",
-    "price": 30700.0,
+    "name": "NasGas Room Air cooler NAC-9800 HYBRID",
+    "price": 31300.0,
     "url": "https://bismillahelectronics.pk/products/nasgas-air-cooler-nac-9800-hybrid",
     "available": true
   },

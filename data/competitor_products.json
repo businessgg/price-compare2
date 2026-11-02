@@ -267,7 +267,7 @@
     "name": "Hisense LED 65\" 65Q7Q (4K Q LED)",
     "price": 216800.0,
     "url": "https://japanelectronics.com.pk/products/hisense-led-65-65q7q-4k-q-led",
-    "available": true
+    "available": false
   },
   {
     "name": "Hisense LED 55\" 55Q7Q (4K UHD Q LED)",
@@ -315,7 +315,7 @@
     "name": "Haier LED 55\" 55S80GUX (QLED)",
     "price": 127000.0,
     "url": "https://japanelectronics.com.pk/products/haier-led-55-55s80gux-qled",
-    "available": true
+    "available": false
   },
   {
     "name": "Haier LED 50\" 50S81GFX (QLED)",
@@ -667,7 +667,7 @@
   },
   {
     "name": "Dawlance W.M (DW-6570) Twin Tub",
-    "price": 30000.0,
+    "price": 30500.0,
     "url": "https://japanelectronics.com.pk/products/dawlance-w-m-dw-6570-twin-tub",
     "available": true
   },
@@ -681,7 +681,7 @@
     "name": "DAWLANCE TAWM (DWT-1580 INV C GLOW)",
     "price": 120000.0,
     "url": "https://japanelectronics.com.pk/products/dawlance-tawm-dwt-1580-inv-c-glow",
-    "available": true
+    "available": false
   },
   {
     "name": "DAWLANCE TAWM (DWT-1776 FLT C GLOW)",
@@ -1207,7 +1207,7 @@
   },
   {
     "name": "DAWLANCE REF 9193 LF AVANTE DIAMOND PURPLE",
-    "price": 106000.0,
+    "price": 108000.0,
     "url": "https://japanelectronics.com.pk/products/dawlance-ref-9193-lf-avante-diamond-purple",
     "available": false
   },
@@ -1227,7 +1227,7 @@
     "name": "Dawlance REF 9178 LF Icemax Mist Green",
     "price": 95000.0,
     "url": "https://japanelectronics.com.pk/products/dawlance-ref-9178-lf-icemax-mist-green",
-    "available": false
+    "available": true
   },
   {
     "name": "Dawlance REF 9173 WB Icemax Mist Green",
@@ -1261,13 +1261,13 @@
   },
   {
     "name": "Dawlance REF 9169 WB Icemax Mist Green",
-    "price": 83000.0,
+    "price": 84500.0,
     "url": "https://japanelectronics.com.pk/products/dawlance-ref-9169-wb-icemax-mist-green",
     "available": true
   },
   {
     "name": "Dawlance REF 9160 WB Icemax Mist Green",
-    "price": 78500.0,
+    "price": 79500.0,
     "url": "https://japanelectronics.com.pk/products/dawlance-ref-9160-wb-icemax-mist-green",
     "available": true
   },
@@ -1503,7 +1503,7 @@
     "name": "HAIER KITCHEN HOB (HCC-Q57328)",
     "price": 38500.0,
     "url": "https://japanelectronics.com.pk/products/haier-kitchen-hob-hcc-q57328-1",
-    "available": true
+    "available": false
   },
   {
     "name": "HAIER KITCHEN HOB (HCC-Q67358 SS)",
@@ -2563,9 +2563,9 @@
   },
   {
     "name": "Dawlance REF 9149 WB E-Chrome (Metallic Grey)",
-    "price": 62000.0,
+    "price": 62500.0,
     "url": "https://japanelectronics.com.pk/products/dawlance-ref-9149-wb-e-chrome-metallic-grey",
-    "available": true
+    "available": false
   },
   {
     "name": "Dawlance REF 9140 WB E-Chrome Metallic Grey",
@@ -3109,13 +3109,13 @@
   },
   {
     "name": "Dawlance REF 9169 WB Icemax Midnight Blue",
-    "price": 83000.0,
+    "price": 84500.0,
     "url": "https://japanelectronics.com.pk/products/dawlance-ref-9169-wb-icemax-midnight-blue",
     "available": true
   },
   {
     "name": "Dawlance REF 9160 WB Icemax Midnight Blue",
-    "price": 78500.0,
+    "price": 79500.0,
     "url": "https://japanelectronics.com.pk/products/dawlance-ref-9160-wb-icemax-midnight-blue",
     "available": true
   },
@@ -3451,7 +3451,7 @@
   },
   {
     "name": "Dawlance REF 9178 LF Avante + Cloud White",
-    "price": 103000.0,
+    "price": 105000.0,
     "url": "https://japanelectronics.com.pk/products/dawlance-ref-9178-lf-avante-cloud-white",
     "available": false
   },
@@ -3475,7 +3475,7 @@
   },
   {
     "name": "Dawlance REF 9173 WB Avante + Cloud White",
-    "price": 96000.0,
+    "price": 97500.0,
     "url": "https://japanelectronics.com.pk/products/dawlance-ref-9173-wb-avante-cloud-white",
     "available": true
   },
@@ -3919,25 +3919,25 @@
   },
   {
     "name": "Dawlance Refrigerator 9178 LF Chrome PRO Hairline Silver",
-    "price": 91000.0,
+    "price": 92500.0,
     "url": "https://japanelectronics.com.pk/products/dawlance-refrigerator-9178-chrome-silver",
     "available": false
   },
   {
     "name": "Dawlance Refrigerator 9101 SD (Silver & Black)",
-    "price": 42000.0,
+    "price": 43000.0,
     "url": "https://japanelectronics.com.pk/products/dawlance-refrigerator-9101-sd-silver-black",
     "available": false
   },
   {
     "name": "Dawlance Refrigerator 9193 LF Chrome",
-    "price": 99900.0,
+    "price": 101500.0,
     "url": "https://japanelectronics.com.pk/products/dawlance-refrigerator-9193-lf-chrome",
     "available": false
   },
   {
     "name": "Dawlance Refrigerator 9178 LF Chrome",
-    "price": 86500.0,
+    "price": 87500.0,
     "url": "https://japanelectronics.com.pk/products/dawlance-refrigerator-9178-lf-chrome",
     "available": true
   },
@@ -3961,7 +3961,7 @@
   },
   {
     "name": "Dawlance Refrigerator 9160 LF Chrome Hairline Black",
-    "price": 71000.0,
+    "price": 72000.0,
     "url": "https://japanelectronics.com.pk/products/dawlance-ref-9160-lf-chrome-hairline-black",
     "available": true
   },
@@ -3979,7 +3979,7 @@
   },
   {
     "name": "Dawlance Refrigerator 9106 SD (Black & Silver)",
-    "price": 47500.0,
+    "price": 48000.0,
     "url": "https://japanelectronics.com.pk/products/dawlance-ref-9106-sd-black-silver",
     "available": false
   },
@@ -3991,7 +3991,7 @@
   },
   {
     "name": "Dawlance REF 9149 Chrome Pro (Inverter)",
-    "price": 73000.0,
+    "price": 74000.0,
     "url": "https://japanelectronics.com.pk/products/dawlance-ref-9149-chrome-pro-inverter",
     "available": true
   },
@@ -4041,7 +4041,7 @@
     "name": "Dawlance REF 9193 Graze + Gem Black (GD INV)",
     "price": 115000.0,
     "url": "https://japanelectronics.com.pk/products/dawlance-ref-9193-graze-gem-black-gd-inv",
-    "available": true
+    "available": false
   },
   {
     "name": "Haier Ref HRF-538 IARA+ (Red)",
@@ -4081,7 +4081,7 @@
   },
   {
     "name": "Dawlance Ref 9140 WB D-Solar Line Hairline Silver",
-    "price": 76000.0,
+    "price": 77000.0,
     "url": "https://japanelectronics.com.pk/products/dawlance-ref-9140-wb-d-solar-line-hairline-silver",
     "available": false
   },
@@ -4117,7 +4117,7 @@
   },
   {
     "name": "Dawlance REF 9178 LF E-Chrome Metallic Grey",
-    "price": 85500.0,
+    "price": 86500.0,
     "url": "https://japanelectronics.com.pk/products/dawlance-ref-9178-lf-e-chrome-metallic-grey",
     "available": true
   },
@@ -5659,7 +5659,7 @@
   },
   {
     "name": "Dawlance Refrigerator 9178 LF E-Chrome Hairline Golden",
-    "price": 85500.0,
+    "price": 86500.0,
     "url": "https://japanelectronics.com.pk/products/dawlance-refrigerator-9178-lf-e-chrome-hairline-golden",
     "available": true
   },
@@ -5725,7 +5725,7 @@
   },
   {
     "name": "Dawlance Refrigerator 9193 LF Avante Diamond Red (GD)",
-    "price": 106000.0,
+    "price": 108000.0,
     "url": "https://japanelectronics.com.pk/products/dawlance-refrigerator-9193-lf-avante-diamond-red-gd",
     "available": false
   },
@@ -5761,13 +5761,13 @@
   },
   {
     "name": "Dawlance Refrigerator 9149 WB E-Chrome (Hairline Golden)",
-    "price": 62000.0,
+    "price": 62500.0,
     "url": "https://japanelectronics.com.pk/products/dawlance-refrigerator-9149-wb-e-chrome-hairline-golden",
     "available": true
   },
   {
     "name": "Dawlance Refrigerator 9173 WB Avante Diamond Purple (GD)",
-    "price": 89500.0,
+    "price": 91000.0,
     "url": "https://japanelectronics.com.pk/products/dawlance-refrigerator-9173-wb-avante-diamond-purple-gd",
     "available": false
   },
@@ -5857,13 +5857,13 @@
   },
   {
     "name": "Dawlance Refrigerator 9149 WB Avante Pearl Burgundy (GD)",
-    "price": 72000.0,
+    "price": 73000.0,
     "url": "https://japanelectronics.com.pk/products/dawlance-refrigerator-9149-wb-avante-pearl-burgundy-gd",
     "available": false
   },
   {
     "name": "Dawlance Refrigerator 9149 WB Avante Pearl Red (GD)",
-    "price": 72000.0,
+    "price": 73000.0,
     "url": "https://japanelectronics.com.pk/products/dawlance-refrigerator-9149-wb-avante-pearl-red-gd",
     "available": false
   },
@@ -5875,7 +5875,7 @@
   },
   {
     "name": "Dawlance Refrigerator 9160 LF Avante Pearl Red",
-    "price": 78000.0,
+    "price": 78500.0,
     "url": "https://japanelectronics.com.pk/products/dawlance-refrigerator-9160-lf-avante-pearl-red",
     "available": false
   },
@@ -5893,7 +5893,7 @@
   },
   {
     "name": "Dawlance Refrigerator 9193 LF Chrome Pro Hairline Silver",
-    "price": 104000.0,
+    "price": 106000.0,
     "url": "https://japanelectronics.com.pk/products/dawlance-refrigerator-9193-lf-chrome-pro-hairline-silver",
     "available": false
   },
@@ -5923,7 +5923,7 @@
   },
   {
     "name": "Dawlance Refrigerator 9173 WB Chrome Pro Hairline Silver",
-    "price": 86500.0,
+    "price": 87500.0,
     "url": "https://japanelectronics.com.pk/products/dawlance-refrigerator-9173-wb-chrome-pro-hairline-silver",
     "available": false
   },
@@ -5953,7 +5953,7 @@
   },
   {
     "name": "Dawlance Refrigerator 9191 WB Chrome Pro Hairline Silver",
-    "price": 96000.0,
+    "price": 97500.0,
     "url": "https://japanelectronics.com.pk/products/dawlance-refrigerator-9191-wb-chrome-pro-hairline-silver",
     "available": false
   },
@@ -6007,19 +6007,19 @@
   },
   {
     "name": "Dawlance Refrigerator 91999 Chrome Hairline Black",
-    "price": 104500.0,
+    "price": 106500.0,
     "url": "https://japanelectronics.com.pk/products/dawlance-refrigerator-91999-chrome-hairline-black",
     "available": false
   },
   {
     "name": "Dawlance Refrigerator 91999 Chrome Pearl Copper",
-    "price": 104500.0,
+    "price": 106500.0,
     "url": "https://japanelectronics.com.pk/products/dawlance-refrigerator-91999-chrome-pearl-copper",
     "available": false
   },
   {
     "name": "Dawlance Refrigerator 9193 LF Chrome Pearl Copper",
-    "price": 99900.0,
+    "price": 101500.0,
     "url": "https://japanelectronics.com.pk/products/dawlance-ref-9193-lf-chrome-pearl-copper",
     "available": true
   },
@@ -6031,19 +6031,19 @@
   },
   {
     "name": "Dawlance Refrigerator 9178 LF Chrome Pearl Copper",
-    "price": 86500.0,
+    "price": 87500.0,
     "url": "https://japanelectronics.com.pk/products/dawlance-refrigerator-9178-lf-chrome-pearl-copper",
     "available": true
   },
   {
     "name": "Dawlance Refrigerator 9191 WB Chrome Hairline Black",
-    "price": 91000.0,
+    "price": 92500.0,
     "url": "https://japanelectronics.com.pk/products/dawlance-refrigerator-9191-wb-chrome-hairline-black",
     "available": false
   },
   {
     "name": "Dawlance Refrigerator 9191 WB Chrome Pearl Copper",
-    "price": 91000.0,
+    "price": 92500.0,
     "url": "https://japanelectronics.com.pk/products/dawlance-refrigerator-9191-wb-chrome-pearl-copper",
     "available": true
   },
@@ -6057,7 +6057,7 @@
     "name": "Dawlance Spinner DS-9000",
     "price": 27500.0,
     "url": "https://japanelectronics.com.pk/products/dawlance-spinner-ds-9000",
-    "available": true
+    "available": false
   },
   {
     "name": "Haier E-Star Refrigerator HRF-216 EPB-01 Black",
@@ -6319,7 +6319,7 @@
   },
   {
     "name": "DAWLANCE REF 9101 SD (METALLIC GREY)",
-    "price": 42000.0,
+    "price": 43000.0,
     "url": "https://japanelectronics.com.pk/products/dawlance-ref-9101-sd-metallic-grey",
     "available": true
   },
@@ -6379,7 +6379,7 @@
   },
   {
     "name": "Dawlance Refrigerator 9169 WB Chrome Pro Hairline Silver",
-    "price": 82000.0,
+    "price": 83500.0,
     "url": "https://japanelectronics.com.pk/products/dawlance-ref-9169-wb-chrome-pro-hairline-silver",
     "available": true
   },
@@ -6541,7 +6541,7 @@
   },
   {
     "name": "Dawlance TAWM (DWT-11467 ES)",
-    "price": 63900.0,
+    "price": 65000.0,
     "url": "https://japanelectronics.com.pk/products/dawlance-tawm-dwt-11467-es",
     "available": false
   },
@@ -6553,7 +6553,7 @@
   },
   {
     "name": "Dawlance TAWM (DWT-255 White)",
-    "price": 57900.0,
+    "price": 58500.0,
     "url": "https://japanelectronics.com.pk/products/dawlance-tawm-dwt-255-white",
     "available": true
   },
@@ -6565,67 +6565,67 @@
   },
   {
     "name": "Dawlance REF 9178 LF M-Chrome Metallic Silver",
-    "price": 85000.0,
+    "price": 86500.0,
     "url": "https://japanelectronics.com.pk/products/dawlance-ref-9178-lf-m-chrome-metallic-silver",
     "available": false
   },
   {
     "name": "Dawlance Refrigerator 9169 WB Chrome Hairline Black",
-    "price": 76500.0,
+    "price": 77500.0,
     "url": "https://japanelectronics.com.pk/products/dawlance-ref-9169-wb-chrome-hairline-black",
     "available": true
   },
   {
     "name": "Dawlance Refrigerator 9169 WB Avante + Sapphire Purple (GD INV)",
-    "price": 88500.0,
+    "price": 90000.0,
     "url": "https://japanelectronics.com.pk/products/dawlance-ref-9169-wb-avante-sapphire-purple-gd-inv",
     "available": false
   },
   {
     "name": "Dawlance Refrigerator 9169 WB Avante + Ruby Red (GD INV)",
-    "price": 88500.0,
+    "price": 90000.0,
     "url": "https://japanelectronics.com.pk/products/dawlance-ref-9169-wb-avante-ruby-red-gd-inv",
     "available": false
   },
   {
     "name": "Dawlance REF 9169 WB Avante + Cloud White (GD INV)",
-    "price": 92500.0,
+    "price": 93500.0,
     "url": "https://japanelectronics.com.pk/products/dawlance-ref-9169-wb-avante-cloud-white-gd-inv",
     "available": true
   },
   {
     "name": "Dawlance Refrigerator 9160 LF Chrome Pearl Copper",
-    "price": 71000.0,
+    "price": 72000.0,
     "url": "https://japanelectronics.com.pk/products/dawlance-ref-9160-lf-chrome-pearl-copper",
     "available": true
   },
   {
     "name": "Dawlance Refrigerator 9160 LF Avante Pearl Burgundy",
-    "price": 78000.0,
+    "price": 78500.0,
     "url": "https://japanelectronics.com.pk/products/dawlance-ref-9160-lf-avante-pearl-burgundy",
     "available": false
   },
   {
     "name": "Dawlance Refrigerator 9160 LF Avante + Ruby Red (GD INV)",
-    "price": 81500.0,
+    "price": 83000.0,
     "url": "https://japanelectronics.com.pk/products/dawlance-ref-9160-lf-avante-ruby-red-gd-inv",
     "available": false
   },
   {
     "name": "Dawlance REF 9160 LF Avante + Cloud White (GD INV)",
-    "price": 87500.0,
+    "price": 89000.0,
     "url": "https://japanelectronics.com.pk/products/dawlance-ref-9160-lf-avante-cloud-white-gd-inv",
     "available": true
   },
   {
     "name": "Dawlance Ref 9149 WB D-Solar Line Hairline Silver",
-    "price": 81500.0,
+    "price": 83000.0,
     "url": "https://japanelectronics.com.pk/products/dawlance-ref-9149-wb-d-solar-line-hairline-silver",
     "available": false
   },
   {
     "name": "Dawlance Refrigerator 9149 WB Chrome Hairline Black",
-    "price": 65000.0,
+    "price": 66000.0,
     "url": "https://japanelectronics.com.pk/products/dawlance-ref-9149-wb-chrome-hairline-black",
     "available": false
   },
@@ -6691,13 +6691,13 @@
   },
   {
     "name": "Dawlance W.M (DW-9100 GL)",
-    "price": 32500.0,
+    "price": 33000.0,
     "url": "https://japanelectronics.com.pk/products/dawlance-w-m-dw-9100-gl",
     "available": false
   },
   {
     "name": "Dawlance Washing Machine DW-9100 C",
-    "price": 30500.0,
+    "price": 31000.0,
     "url": "https://japanelectronics.com.pk/products/dawlance-washing-machine-dw-9100-c",
     "available": false
   },
@@ -6799,7 +6799,7 @@
   },
   {
     "name": "Midea Electric Geyser (D50-20EFG)",
-    "price": 45900.0,
+    "price": 49000.0,
     "url": "https://japanelectronics.com.pk/products/midea-electric-geyser-d50-20efg",
     "available": false
   },
@@ -6901,43 +6901,43 @@
   },
   {
     "name": "Dawlance Refrigerator 9140 WB Chrome Pearl Copper",
-    "price": 60000.0,
+    "price": 61000.0,
     "url": "https://japanelectronics.com.pk/products/dawlance-ref-9140-wb-chrome-pearl-copper",
     "available": false
   },
   {
     "name": "Dawlance Refrigerator 9140 WB Chrome Hairline Black",
-    "price": 60000.0,
+    "price": 61000.0,
     "url": "https://japanelectronics.com.pk/products/dawlance-ref-9140-wb-chrome-hairline-black",
     "available": false
   },
   {
     "name": "Dawlance Refrigerator 9140 WB Avante Pearl Red (GD)",
-    "price": 66500.0,
+    "price": 67500.0,
     "url": "https://japanelectronics.com.pk/products/dawlance-ref-9140-wb-avante-pearl-red-gd",
     "available": true
   },
   {
     "name": "Dawlance Refrigerator 9140 WB Avante Pearl Burgundy (GD)",
-    "price": 66500.0,
+    "price": 67500.0,
     "url": "https://japanelectronics.com.pk/products/dawlance-ref-9140-wb-avante-pearl-burgundy-gd",
     "available": true
   },
   {
     "name": "Dawlance REF 9140 Chrome Pro",
-    "price": 65000.0,
+    "price": 66000.0,
     "url": "https://japanelectronics.com.pk/products/dawlance-ref-9140-chrome-pro",
     "available": false
   },
   {
     "name": "Dawlance Refrigerator 9106 SD (White)",
-    "price": 47500.0,
+    "price": 48000.0,
     "url": "https://japanelectronics.com.pk/products/dawlance-ref-9106-sd-white",
     "available": true
   },
   {
     "name": "Dawlance Refrigerator 9101 SD (WHITE)",
-    "price": 42000.0,
+    "price": 43000.0,
     "url": "https://japanelectronics.com.pk/products/dawlance-ref-9101-sd-white",
     "available": true
   },
@@ -7303,31 +7303,31 @@
   },
   {
     "name": "Dawlance Refrigerator 9160 LF Avante + Sapphire Purple",
-    "price": 81500.0,
+    "price": 83000.0,
     "url": "https://japanelectronics.com.pk/products/dawlance-refrigerator-9160-lf-avante-sapphire-purple",
     "available": false
   },
   {
     "name": "Dawlance Refrigerator 9160 LF Chrome Pro Hairline Silver",
-    "price": 80500.0,
+    "price": 82000.0,
     "url": "https://japanelectronics.com.pk/products/dawlance-refrigerator-9160-lf-chrome-pro-hairline-silver",
     "available": true
   },
   {
     "name": "Dawlance Refrigerator 9169 WB Avante Pearl Burgundy (GD)",
-    "price": 84500.0,
+    "price": 86000.0,
     "url": "https://japanelectronics.com.pk/products/dawlance-refrigerator-9169-wb-avante-pearl-burgundy-gd",
     "available": false
   },
   {
     "name": "Dawlance Refrigerator 9169 WB Avante Pearl Red (GD)",
-    "price": 84500.0,
+    "price": 86000.0,
     "url": "https://japanelectronics.com.pk/products/dawlance-refrigerator-9169-wb-avante-pearl-red-gd",
     "available": false
   },
   {
     "name": "Dawlance Refrigerator 9169 WB Chrome Pearl Copper",
-    "price": 76500.0,
+    "price": 77500.0,
     "url": "https://japanelectronics.com.pk/products/dawlance-refrigerator-9169-wb-chrome-pearl-copper",
     "available": true
   },
@@ -7425,7 +7425,7 @@
     "name": "Dawlance Refrigerator 9193 LF Avante + Silky Red (GD INV) IOT WIFI",
     "price": 125000.0,
     "url": "https://japanelectronics.com.pk/products/dawlance-refrigerator-9193-lf-avante-silky-red-gd-inv-iot-wifi",
-    "available": false
+    "available": true
   },
   {
     "name": "Ecostar AC 1.0 Ton Split Inverter ES-12DU01WG SA+",
@@ -7657,7 +7657,7 @@
   },
   {
     "name": "Dawlance Refrigerator 9173 WB Avante Diamond Red (GD)",
-    "price": 89500.0,
+    "price": 91000.0,
     "url": "https://japanelectronics.com.pk/products/dawlance-refrigerator-9173-wb-avante-diamond-red-gd",
     "available": false
   },
@@ -7669,7 +7669,7 @@
   },
   {
     "name": "Dawlance Refrigerator 91999 Avante Diamond Purple (GD)",
-    "price": 115000.0,
+    "price": 117000.0,
     "url": "https://japanelectronics.com.pk/products/dawlance-refrigerator-91999-avante-diamond-purple-gd",
     "available": false
   },
@@ -8253,7 +8253,7 @@
     "name": "Beetro Fast Electric Geyser FFE-15 (15 Ltr)",
     "price": 26000.0,
     "url": "https://japanelectronics.com.pk/products/beetro-fast-electric-geyser-ffe-15-15-ltr",
-    "available": false
+    "available": true
   },
   {
     "name": "Philips Blender HR-2141",
@@ -8419,7 +8419,7 @@
   },
   {
     "name": "Dawlance Spinner (DS 6080 CB)",
-    "price": 19500.0,
+    "price": 20000.0,
     "url": "https://japanelectronics.com.pk/products/dawlance-spinner-ds-6080-cb",
     "available": true
   },
@@ -8431,7 +8431,7 @@
   },
   {
     "name": "Dawlance REF 9173 WB E-Chrome Metallic Grey",
-    "price": 80500.0,
+    "price": 81500.0,
     "url": "https://japanelectronics.com.pk/products/dawlance-ref-9173-wb-e-chrome-metallic-grey",
     "available": true
   },
@@ -9439,7 +9439,7 @@
   },
   {
     "name": "Dawlance TAWM (DWT-9560 Mystic Grey)",
-    "price": 65900.0,
+    "price": 67000.0,
     "url": "https://japanelectronics.com.pk/products/dawlance-tawm-dwt-9560-mystic-grey",
     "available": true
   },
@@ -9537,7 +9537,7 @@
     "name": "Gree Floor Standing AC Inverter 2.0 Ton GF-24VTIH AA+",
     "price": 399000.0,
     "url": "https://japanelectronics.com.pk/products/gree-floor-standing-ac-inverter-2-0-ton-gf-24vtih-aa",
-    "available": true
+    "available": false
   },
   {
     "name": "Homage Split AC Inverter 1.5 Ton HSC-1820S",
@@ -9547,13 +9547,13 @@
   },
   {
     "name": "Dawlance REF DSD-4890",
-    "price": 43500.0,
+    "price": 44500.0,
     "url": "https://japanelectronics.com.pk/products/dawlance-ref-dsd-4890",
     "available": true
   },
   {
     "name": "Dawlance REF DMB-4467 (MiniBar)",
-    "price": 36500.0,
+    "price": 37500.0,
     "url": "https://japanelectronics.com.pk/products/dawlance-ref-dmb-4467-minibar",
     "available": true
   },
@@ -9565,7 +9565,7 @@
   },
   {
     "name": "Dawlance REF 91999 Avante Diamond Red (GD)",
-    "price": 115000.0,
+    "price": 117000.0,
     "url": "https://japanelectronics.com.pk/products/dawlance-ref-91999-avante-diamond-red-gd",
     "available": false
   },
@@ -9619,13 +9619,13 @@
   },
   {
     "name": "Dawlance REF 9178 LF Avante Diamond Red (GD)",
-    "price": 95500.0,
+    "price": 97000.0,
     "url": "https://japanelectronics.com.pk/products/dawlance-ref-9178-lf-avante-diamond-red-gd",
     "available": true
   },
   {
     "name": "Dawlance REF 9178 LF Avante Diamond Purple (GD)",
-    "price": 95500.0,
+    "price": 97000.0,
     "url": "https://japanelectronics.com.pk/products/dawlance-ref-9178-lf-avante-diamond-purple-gd",
     "available": true
   },
@@ -10023,7 +10023,7 @@
     "name": "Haier Split AC Inverter 1.5 Ton HSU-19HFAB  White",
     "price": 154000.0,
     "url": "https://japanelectronics.com.pk/products/haier-split-ac-inverter-1-5-ton-hsu-19hfab-white",
-    "available": true
+    "available": false
   },
   {
     "name": "Haier Split AC Inverter 1.5 Ton HSU-19HFAB Grey",
@@ -10381,7 +10381,7 @@
   },
   {
     "name": "Dawlance REF 9173 WB E-Chrome Hairline Golden",
-    "price": 80500.0,
+    "price": 81500.0,
     "url": "https://japanelectronics.com.pk/products/dawlance-ref-9173-wb-e-chrome-hairline-golden",
     "available": true
   },
@@ -11325,7 +11325,7 @@
     "name": "Dawlance Microwave Oven DW-210 S Pro",
     "price": 17100.0,
     "url": "https://japanelectronics.com.pk/products/dawlance-microwave-oven-dw-210-s-pro",
-    "available": false
+    "available": true
   },
   {
     "name": "Dawlance Washing Machine DW 9200 CFL",
@@ -11557,7 +11557,7 @@
   },
   {
     "name": "Dawlance REF 9173 WB Chrome Hairline Black",
-    "price": 81500.0,
+    "price": 83000.0,
     "url": "https://japanelectronics.com.pk/products/dawlance-ref-9173-wb-chrome-hairline-black",
     "available": false
   },
@@ -11659,7 +11659,7 @@
   },
   {
     "name": "Dawlance Refrigerator 9173 WB Chrome Pearl Copper",
-    "price": 81500.0,
+    "price": 83000.0,
     "url": "https://japanelectronics.com.pk/products/dawlance-ref-9173-wb-chrome-pearl-copper",
     "available": false
   },
@@ -11697,7 +11697,7 @@
     "name": "Super Asia A.W.M SA-809 G White",
     "price": 60000.0,
     "url": "https://japanelectronics.com.pk/products/super-asia-a-w-m-sa-809-g-white",
-    "available": true
+    "available": false
   },
   {
     "name": "Dawlance Built in Microwave Oven DBMO 25 BG Series",
@@ -12229,7 +12229,7 @@
   },
   {
     "name": "Dawlance REF 9149 WB Chrome Pearl Copper",
-    "price": 65000.0,
+    "price": 66000.0,
     "url": "https://japanelectronics.com.pk/products/dawlance-ref-9149-wb-chrome-pearl-copper",
     "available": false
   },

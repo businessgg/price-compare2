@@ -139,7 +139,7 @@
   },
   {
     "name": "IFFALCON LED 43\" 43U65A Pro (QLED)",
-    "price": 91500.0,
+    "price": 89500.0,
     "url": "https://japanelectronics.com.pk/products/iffalcon-led-43-43u65a-pro-qled",
     "available": true
   },
@@ -265,7 +265,7 @@
   },
   {
     "name": "Hisense LED 65\" 65Q7Q (4K Q LED)",
-    "price": 216800.0,
+    "price": 202900.0,
     "url": "https://japanelectronics.com.pk/products/hisense-led-65-65q7q-4k-q-led",
     "available": false
   },
@@ -277,19 +277,19 @@
   },
   {
     "name": "Hisense LED 55\" 55Q6Q (4K Q LED)",
-    "price": 136600.0,
+    "price": 130000.0,
     "url": "https://japanelectronics.com.pk/products/hisense-led-55-55q6q-4k-q-led",
     "available": true
   },
   {
     "name": "Hisense LED 43\" 43Q6Q (4K Q LED)",
-    "price": 98000.0,
+    "price": 92900.0,
     "url": "https://japanelectronics.com.pk/products/hisense-led-43-43q6q-4k-q-led",
     "available": true
   },
   {
     "name": "Hisense LED 40\" 40A4Q (FHD Google TV)",
-    "price": 67200.0,
+    "price": 62900.0,
     "url": "https://japanelectronics.com.pk/products/hisense-led-40-40a4q-fhd-google-tv",
     "available": false
   },
@@ -315,7 +315,7 @@
     "name": "Haier LED 55\" 55S80GUX (QLED)",
     "price": 127000.0,
     "url": "https://japanelectronics.com.pk/products/haier-led-55-55s80gux-qled",
-    "available": false
+    "available": true
   },
   {
     "name": "Haier LED 50\" 50S81GFX (QLED)",
@@ -897,7 +897,7 @@
     "name": "PEL REF (PRGD-2550 MAROON BLAZE)",
     "price": 86900.0,
     "url": "https://japanelectronics.com.pk/products/pel-ref-prgd-2550-maroon-blaze",
-    "available": true
+    "available": false
   },
   {
     "name": "PEL REF (PRINVO-2000 SILVER MOONLIGHT) VCM INVERTER",
@@ -1921,7 +1921,7 @@
   },
   {
     "name": "HISENSE LED 85\" 85Q6N (Q LED)",
-    "price": 419900.0,
+    "price": 399900.0,
     "url": "https://japanelectronics.com.pk/products/hisense-led-85-85q6n-q-led",
     "available": false
   },
@@ -2625,7 +2625,7 @@
     "name": "Haier D.Freezer (HDF-405 Inverter)",
     "price": 103500.0,
     "url": "https://japanelectronics.com.pk/products/haier-d-freezer-hdf-405-inverter",
-    "available": true
+    "available": false
   },
   {
     "name": "Kenwood food processor FDP 05.50GY",
@@ -2671,7 +2671,7 @@
   },
   {
     "name": "Midas Water Dispenser (MI-1090 White)",
-    "price": 38900.0,
+    "price": 37900.0,
     "url": "https://japanelectronics.com.pk/products/midas-water-dispenser-mi-1090-white",
     "available": false
   },
@@ -2827,7 +2827,7 @@
   },
   {
     "name": "Gree Split AC Inverter 1.0 Ton GS-12AITH24S-T3",
-    "price": 192900.0,
+    "price": 194900.0,
     "url": "https://japanelectronics.com.pk/products/gree-split-ac-inverter-1-0-ton-gs-12aith24s-t3",
     "available": true
   },
@@ -2895,7 +2895,7 @@
     "name": "TCL LED 85\" 85C7L (MINI Q LED)",
     "price": 865000.0,
     "url": "https://japanelectronics.com.pk/products/tcl-led-85-85c7l-mini-q-led",
-    "available": true
+    "available": false
   },
   {
     "name": "Philips Hair Dryer (BHD-003/03)",
@@ -6787,7 +6787,7 @@
   },
   {
     "name": "Midea Electric Geyser (D100-20EFG)",
-    "price": 74900.0,
+    "price": 79000.0,
     "url": "https://japanelectronics.com.pk/products/midea-electric-geyser-d100-20efg",
     "available": true
   },
@@ -7117,7 +7117,7 @@
   },
   {
     "name": "ANEX Oven Toaster 3079",
-    "price": 36700.0,
+    "price": 37800.0,
     "url": "https://japanelectronics.com.pk/products/anex-oven-toaster-3079",
     "available": true
   },
@@ -7587,7 +7587,7 @@
     "name": "Beetro Electric & Gas Geyser 25 Gallon (FEG-25 16/12 Gauge)",
     "price": 59000.0,
     "url": "https://japanelectronics.com.pk/products/beetro-electric-gas-geyser-25-gallon-feg-25-16-12-gauge",
-    "available": true
+    "available": false
   },
   {
     "name": "Beetro Electric & Gas Geyser 35 Gallon (FEG-35 14/12 Gauge)",
@@ -7801,7 +7801,7 @@
   },
   {
     "name": "Hisense LED 65\" 65A6N",
-    "price": 185900.0,
+    "price": 174900.0,
     "url": "https://japanelectronics.com.pk/products/hisense-led-65-65a6n",
     "available": true
   },
@@ -7993,7 +7993,7 @@
   },
   {
     "name": "Hisense LED 75\" 75Q6N",
-    "price": 285300.0,
+    "price": 272900.0,
     "url": "https://japanelectronics.com.pk/products/hisense-led-75-75q6n",
     "available": true
   },
@@ -8253,7 +8253,7 @@
     "name": "Beetro Fast Electric Geyser FFE-15 (15 Ltr)",
     "price": 26000.0,
     "url": "https://japanelectronics.com.pk/products/beetro-fast-electric-geyser-ffe-15-15-ltr",
-    "available": true
+    "available": false
   },
   {
     "name": "Philips Blender HR-2141",
@@ -8617,7 +8617,7 @@
   },
   {
     "name": "ANEX Garment Steamer (AG-1019)",
-    "price": 9370.0,
+    "price": 9600.0,
     "url": "https://japanelectronics.com.pk/products/anex-garment-steamer-ag-1019",
     "available": true
   },
@@ -8635,9 +8635,9 @@
   },
   {
     "name": "ANEX Dry Iron (AG-2074)",
-    "price": 4999.0,
+    "price": 6000.0,
     "url": "https://japanelectronics.com.pk/products/anex-dry-iron-ag-2074",
-    "available": false
+    "available": true
   },
   {
     "name": "ANEX Dough Maker (AG-2127)",
@@ -9193,9 +9193,9 @@
   },
   {
     "name": "ANEX 4 Slice Toaster (AG-3005 SS)",
-    "price": 10900.0,
+    "price": 12500.0,
     "url": "https://japanelectronics.com.pk/products/anex-4-slice-toaster-ag-3005-ss",
-    "available": false
+    "available": true
   },
   {
     "name": "ANEX 2 Slice Toaster (AG-3008)",
@@ -9229,13 +9229,13 @@
   },
   {
     "name": "Midas Water Dispenser (MI-1090 Silver)",
-    "price": 38900.0,
+    "price": 37900.0,
     "url": "https://japanelectronics.com.pk/products/midas-water-dispenser-mi-1090-silver",
     "available": true
   },
   {
     "name": "Midas Water Dispenser (MI-1090 Black)",
-    "price": 38900.0,
+    "price": 37900.0,
     "url": "https://japanelectronics.com.pk/products/midas-water-dispenser-mi-1090-black",
     "available": true
   },
@@ -9243,7 +9243,7 @@
     "name": "Panasonic Vacuum Cleaner (MC-YL635)",
     "price": 47499.0,
     "url": "https://japanelectronics.com.pk/products/panasonic-vacuum-cleaner-mc-yl635",
-    "available": false
+    "available": true
   },
   {
     "name": "Panasonic Vacuum Cleaner (MC-YL633)",
@@ -9537,7 +9537,7 @@
     "name": "Gree Floor Standing AC Inverter 2.0 Ton GF-24VTIH AA+",
     "price": 399000.0,
     "url": "https://japanelectronics.com.pk/products/gree-floor-standing-ac-inverter-2-0-ton-gf-24vtih-aa",
-    "available": false
+    "available": true
   },
   {
     "name": "Homage Split AC Inverter 1.5 Ton HSC-1820S",
@@ -10033,7 +10033,7 @@
   },
   {
     "name": "Gree Split AC Inverter 1.5 Ton GS-18AITH23W-T3",
-    "price": 244900.0,
+    "price": 242900.0,
     "url": "https://japanelectronics.com.pk/products/gree-split-ac-inverter-1-5-ton-gs-18aith23w-t3",
     "available": false
   },
@@ -11245,7 +11245,7 @@
   },
   {
     "name": "ANEX Juicer Blender Grinder 176 GL",
-    "price": 14230.0,
+    "price": 14600.0,
     "url": "https://japanelectronics.com.pk/products/anex-juicer-blender-grinder-176-gl",
     "available": true
   },
@@ -12847,13 +12847,13 @@
   },
   {
     "name": "ANEX Vacuum Cleaner 2098 1800 Watts",
-    "price": 29710.0,
+    "price": 30600.0,
     "url": "https://japanelectronics.com.pk/products/anex-vacuum-cleaner-2098-1800-watts",
     "available": true
   },
   {
     "name": "ANEX Vacuum Cleaner 2099 1500 Watts",
-    "price": 34590.0,
+    "price": 35660.0,
     "url": "https://japanelectronics.com.pk/products/anex-vacuum-cleaner-2099-1500-watts",
     "available": true
   },

@@ -1,10 +1,10 @@
 {
-  "last_updated": "2026-11-03T03:12:20.682082+00:00",
+  "last_updated": "2026-11-03T11:29:45.781935+00:00",
   "my_store_name": "Bismillah Electronics",
   "competitor_name": "Japan Electronics",
-  "total_my_products": 1416,
+  "total_my_products": 1409,
   "total_competitor_products": 2152,
-  "matched_count": 995,
+  "matched_count": 993,
   "results": [
     {
       "product_name": "NasGas Room Air cooler NAC-9800 DC",
@@ -414,7 +414,7 @@
     },
     {
       "product_name": "Tcl Led 65\" 65P6L",
-      "my_price": 199900.0,
+      "my_price": 199910.0,
       "my_available": true,
       "my_url": "https://bismillahelectronics.pk/products/tcl-led-65-65p6l",
       "competitor_name": null,
@@ -708,7 +708,7 @@
     },
     {
       "product_name": "Pel Microwave Oven MWO PMO-26 Chef",
-      "my_price": 33900.0,
+      "my_price": 47900.0,
       "my_available": true,
       "my_url": "https://bismillahelectronics.pk/products/pel-microwave-oven-mwo-pmo-26-chef",
       "competitor_name": null,
@@ -2518,12 +2518,12 @@
       "my_available": true,
       "my_url": "https://bismillahelectronics.pk/products/homage-sandwich-maker-hsm-704c0",
       "competitor_name": "Homage Sandwich Maker (HSM-704C0)",
-      "competitor_price": 9500.0,
+      "competitor_price": 12200.0,
       "competitor_available": true,
       "competitor_url": "https://japanelectronics.com.pk/products/homage-sandwich-maker-hsm-704c0",
       "match_confidence": 96.9,
       "status": "matched",
-      "price_diff": 4000.0,
+      "price_diff": 1300.0,
       "cheaper": "competitor"
     },
     {
@@ -2784,12 +2784,12 @@
       "my_available": true,
       "my_url": "https://bismillahelectronics.pk/products/homage-air-purifier-hap-403dwb",
       "competitor_name": "Homage Air Purifier HAP-403DWB",
-      "competitor_price": 45900.0,
+      "competitor_price": 45000.0,
       "competitor_available": true,
       "competitor_url": "https://japanelectronics.com.pk/products/homage-air-purifier-hap-403dwb",
       "match_confidence": 100.0,
       "status": "matched",
-      "price_diff": 1900.0,
+      "price_diff": 2800.0,
       "cheaper": "competitor"
     },
     {
@@ -2798,12 +2798,12 @@
       "my_available": true,
       "my_url": "https://bismillahelectronics.pk/products/homage-air-purifier-hap-251dwb",
       "competitor_name": "Homage Air Purifier HAP-403DWB",
-      "competitor_price": 45900.0,
+      "competitor_price": 45000.0,
       "competitor_available": true,
       "competitor_url": "https://japanelectronics.com.pk/products/homage-air-purifier-hap-403dwb",
       "match_confidence": 90.0,
       "status": "matched",
-      "price_diff": -15400.0,
+      "price_diff": -14500.0,
       "cheaper": "us"
     },
     {
@@ -4599,20 +4599,6 @@
       "cheaper": null
     },
     {
-      "product_name": "Pel Deep Freezer PDF-135 APR",
-      "my_price": 81500.0,
-      "my_available": true,
-      "my_url": "https://bismillahelectronics.pk/products/pel-deep-freezer-pdf-135-apr",
-      "competitor_name": null,
-      "competitor_price": null,
-      "competitor_available": null,
-      "competitor_url": null,
-      "match_confidence": 0,
-      "status": "only_us",
-      "price_diff": null,
-      "cheaper": null
-    },
-    {
       "product_name": "Dawlance Microwave DW 136 Grill",
       "my_price": 36200.0,
       "my_available": true,
@@ -4624,20 +4610,6 @@
       "match_confidence": 76.2,
       "status": "matched",
       "price_diff": 2400.0,
-      "cheaper": "competitor"
-    },
-    {
-      "product_name": "Orient Water Dispenser Flare 3",
-      "my_price": 38000.0,
-      "my_available": true,
-      "my_url": "https://bismillahelectronics.pk/products/orient-water-dispenser-flare-3",
-      "competitor_name": "Orient Water Dispenser (Marvel 3 Blaze Grey)",
-      "competitor_price": 36900.0,
-      "competitor_available": false,
-      "competitor_url": "https://japanelectronics.com.pk/products/orient-water-dispenser-marvel-3-blaze-grey",
-      "match_confidence": 73.0,
-      "status": "matched",
-      "price_diff": 1100.0,
       "cheaper": "competitor"
     },
     {
@@ -4670,7 +4642,7 @@
     },
     {
       "product_name": "NasGas Single Washing Machine NWM-110 SD",
-      "my_price": 18700.0,
+      "my_price": 20700.0,
       "my_available": true,
       "my_url": "https://bismillahelectronics.pk/products/nasgas-single-washing-machine-nwm-110-sd",
       "competitor_name": "Royal Washing Machine RWM-1010",
@@ -4679,7 +4651,7 @@
       "competitor_url": "https://japanelectronics.com.pk/products/royal-washing-machine-rwm-1010",
       "match_confidence": 71.4,
       "status": "matched",
-      "price_diff": -7200.0,
+      "price_diff": -5200.0,
       "cheaper": "us"
     },
     {
@@ -5286,7 +5258,7 @@
     },
     {
       "product_name": "Philips Air Fryer 9280",
-      "my_price": 49900.0,
+      "my_price": 24000.0,
       "my_available": true,
       "my_url": "https://bismillahelectronics.pk/products/philips-air-fryer-9280",
       "competitor_name": "Philips Air Fryer 9200",
@@ -5295,12 +5267,12 @@
       "competitor_url": "https://japanelectronics.com.pk/products/philips-air-fryer-9200",
       "match_confidence": 95.5,
       "status": "matched",
-      "price_diff": 25000.0,
-      "cheaper": "competitor"
+      "price_diff": -900.0,
+      "cheaper": "us"
     },
     {
       "product_name": "Philips Air Fryer NA-120",
-      "my_price": 26000.0,
+      "my_price": 28000.0,
       "my_available": true,
       "my_url": "https://bismillahelectronics.pk/products/philips-air-fryer-na-120",
       "competitor_name": "Philips Air Fryer 9200",
@@ -5309,7 +5281,7 @@
       "competitor_url": "https://japanelectronics.com.pk/products/philips-air-fryer-9200",
       "match_confidence": 73.9,
       "status": "matched",
-      "price_diff": 1100.0,
+      "price_diff": 3100.0,
       "cheaper": "competitor"
     },
     {
@@ -6364,7 +6336,7 @@
     },
     {
       "product_name": "Remington Hair Straightner S5527 PRO Wide Plate",
-      "my_price": 15000.0,
+      "my_price": 15300.0,
       "my_available": true,
       "my_url": "https://bismillahelectronics.pk/products/remington-hair-straightner-s5527-pro-wide-plate",
       "competitor_name": "Remington Hair Straightener S8500",
@@ -6373,7 +6345,7 @@
       "competitor_url": "https://japanelectronics.com.pk/products/remington-hair-straightener-s8500",
       "match_confidence": 72.5,
       "status": "matched",
-      "price_diff": 1700.0,
+      "price_diff": 2000.0,
       "cheaper": "competitor"
     },
     {
@@ -8884,7 +8856,7 @@
     },
     {
       "product_name": "National Kitchen Hob 606",
-      "my_price": 15900.0,
+      "my_price": 12000.0,
       "my_available": true,
       "my_url": "https://bismillahelectronics.pk/products/natural-kitchen-hob-606",
       "competitor_name": null,
@@ -10144,7 +10116,7 @@
     },
     {
       "product_name": "Pel Deep Freezer PDIN70-180 Arctic InverterOn",
-      "my_price": 111900.0,
+      "my_price": 109900.0,
       "my_available": true,
       "my_url": "https://bismillahelectronics.pk/products/pel-deep-freezer-pdin70-180-arctic-inverteron",
       "competitor_name": null,
@@ -10158,7 +10130,7 @@
     },
     {
       "product_name": "Pel Deep Freezer PDIN70-155 Arctic InverterOn",
-      "my_price": 103900.0,
+      "my_price": 101900.0,
       "my_available": true,
       "my_url": "https://bismillahelectronics.pk/products/pel-deep-freezer-pdin70-155-arctic-inverteron",
       "competitor_name": null,
@@ -10172,7 +10144,7 @@
     },
     {
       "product_name": "Pel Deep Freezer PDIN70-150 Arctic InverterOn",
-      "my_price": 101900.0,
+      "my_price": 99900.0,
       "my_available": true,
       "my_url": "https://bismillahelectronics.pk/products/pel-deep-freezer-pdin70-150-arctic-inverteron",
       "competitor_name": null,
@@ -10186,7 +10158,7 @@
     },
     {
       "product_name": "Pel Deep Freezer PDIN70-130 Arctic InverterOn",
-      "my_price": 92900.0,
+      "my_price": 90900.0,
       "my_available": true,
       "my_url": "https://bismillahelectronics.pk/products/pel-deep-freezer-pdin70-130-arctic-inverteron",
       "competitor_name": "Waves Deep Freezer WINDF-313 Inverter",
@@ -10195,12 +10167,12 @@
       "competitor_url": "https://japanelectronics.com.pk/products/waves-deep-freezer-windf-313-inverter",
       "match_confidence": 70.7,
       "status": "matched",
-      "price_diff": 1000.0,
-      "cheaper": "competitor"
+      "price_diff": -1000.0,
+      "cheaper": "us"
     },
     {
       "product_name": "Pel Deep Freezer PDIN70-100 Arctic InverterOn",
-      "my_price": 84900.0,
+      "my_price": 82900.0,
       "my_available": true,
       "my_url": "https://bismillahelectronics.pk/products/pel-deep-freezer-pdin70-100-arctic-inverteron",
       "competitor_name": null,
@@ -10214,7 +10186,7 @@
     },
     {
       "product_name": "Pel Deep Freezer PDF-150 APF",
-      "my_price": 85000.0,
+      "my_price": 93900.0,
       "my_available": true,
       "my_url": "https://bismillahelectronics.pk/products/pel-deep-freezer-pdf-150-apf",
       "competitor_name": null,
@@ -10228,7 +10200,7 @@
     },
     {
       "product_name": "Pel Deep Freezer PDF-100 Arctic Pro",
-      "my_price": 78900.0,
+      "my_price": 76900.0,
       "my_available": true,
       "my_url": "https://bismillahelectronics.pk/products/pel-deep-freezer-pdf-100-arctic-pro",
       "competitor_name": null,
@@ -11193,20 +11165,6 @@
       "cheaper": "competitor"
     },
     {
-      "product_name": "Pel Microwave Oven PMO-25 Convection",
-      "my_price": 36900.0,
-      "my_available": true,
-      "my_url": "https://bismillahelectronics.pk/products/pel-microwave-oven-pmo-25-convection",
-      "competitor_name": null,
-      "competitor_price": null,
-      "competitor_available": null,
-      "competitor_url": null,
-      "match_confidence": 0,
-      "status": "only_us",
-      "price_diff": null,
-      "cheaper": null
-    },
-    {
       "product_name": "Pel Microwave Oven PMO-26 CAF Convection + Air Fryer",
       "my_price": 47900.0,
       "my_available": true,
@@ -11222,7 +11180,7 @@
     },
     {
       "product_name": "Pel Microwave Oven PMO-30 ICAF Inverter Convection + Air Fryer",
-      "my_price": 57900.0,
+      "my_price": 62900.0,
       "my_available": true,
       "my_url": "https://bismillahelectronics.pk/products/pel-microwave-oven-pmo-30-icaf-inverter-convection-air-fryer",
       "competitor_name": null,
@@ -11880,7 +11838,7 @@
     },
     {
       "product_name": "Orient AC Inverter 1.5 Ton Lunar eComfort 18G (Golden)",
-      "my_price": 162000.0,
+      "my_price": 162500.0,
       "my_available": true,
       "my_url": "https://bismillahelectronics.pk/products/orient-ac-inverter-1-5-ton-lunar-ecomfort-18g-golden",
       "competitor_name": null,
@@ -12216,7 +12174,7 @@
     },
     {
       "product_name": "Philips Air Fryer 9270",
-      "my_price": 44400.0,
+      "my_price": 45500.0,
       "my_available": true,
       "my_url": "https://bismillahelectronics.pk/products/philips-air-fryer-9270",
       "competitor_name": "Philips Air Fryer 9200",
@@ -12225,7 +12183,7 @@
       "competitor_url": "https://japanelectronics.com.pk/products/philips-air-fryer-9200",
       "match_confidence": 95.5,
       "status": "matched",
-      "price_diff": 19500.0,
+      "price_diff": 20600.0,
       "cheaper": "competitor"
     },
     {
@@ -12328,7 +12286,7 @@
     },
     {
       "product_name": "Panasonic LED TV 55 Inch TH55MX740M (4K Google)",
-      "my_price": 155000.0,
+      "my_price": 134999.0,
       "my_available": true,
       "my_url": "https://bismillahelectronics.pk/products/panasonic-led-tv-55-inch-th55mx740m-4k-google",
       "competitor_name": null,
@@ -12941,34 +12899,6 @@
       "status": "matched",
       "price_diff": 25100.0,
       "cheaper": "competitor"
-    },
-    {
-      "product_name": "Pel Refrigerator PRINVOGD-22260 Red Blaze",
-      "my_price": 125900.0,
-      "my_available": true,
-      "my_url": "https://bismillahelectronics.pk/products/pel-refrigerator-prinvogd-22260-red-blaze",
-      "competitor_name": null,
-      "competitor_price": null,
-      "competitor_available": null,
-      "competitor_url": null,
-      "match_confidence": 0,
-      "status": "only_us",
-      "price_diff": null,
-      "cheaper": null
-    },
-    {
-      "product_name": "Pel Refrigerator PRINVOGD-22260 Purle Blaze",
-      "my_price": 125900.0,
-      "my_available": true,
-      "my_url": "https://bismillahelectronics.pk/products/pel-refrigerator-prinvogd-22260-purle-blaze",
-      "competitor_name": null,
-      "competitor_price": null,
-      "competitor_available": null,
-      "competitor_url": null,
-      "match_confidence": 0,
-      "status": "only_us",
-      "price_diff": null,
-      "cheaper": null
     },
     {
       "product_name": "Pel Refrigerator PRLR-1400 SD Life Pro Room Series",
@@ -15954,7 +15884,7 @@
     },
     {
       "product_name": "Orient Water Dispenser Crystal 3",
-      "my_price": 39500.0,
+      "my_price": 40500.0,
       "my_available": true,
       "my_url": "https://bismillahelectronics.pk/products/orient-water-dispenser-owd-crystal-3",
       "competitor_name": "Orient Water Dispenser (Crystal 3 Triangle Black)",
@@ -15963,7 +15893,7 @@
       "competitor_url": "https://japanelectronics.com.pk/products/orient-water-dispenser-crystal-3-triangle-black",
       "match_confidence": 74.1,
       "status": "matched",
-      "price_diff": 2600.0,
+      "price_diff": 3600.0,
       "cheaper": "competitor"
     },
     {
@@ -15982,7 +15912,7 @@
     },
     {
       "product_name": "Pel Water Dispenser 115 TT (Table Top)",
-      "my_price": 28900.0,
+      "my_price": 29500.0,
       "my_available": true,
       "my_url": "https://bismillahelectronics.pk/products/pel-water-dispenser-115-tt-table-top",
       "competitor_name": null,
@@ -16402,7 +16332,7 @@
     },
     {
       "product_name": "NasGas Room Air Cooler NAC-2300",
-      "my_price": 34500.0,
+      "my_price": 33500.0,
       "my_available": true,
       "my_url": "https://bismillahelectronics.pk/products/nasgas-air-cooler-nac-2300",
       "competitor_name": "Nasgas Room Air Cooler NAC-9824",
@@ -16411,7 +16341,7 @@
       "competitor_url": "https://japanelectronics.com.pk/products/nasgas-room-air-cooler-nac-9824",
       "match_confidence": 87.1,
       "status": "matched",
-      "price_diff": 3000.0,
+      "price_diff": 2000.0,
       "cheaper": "competitor"
     },
     {
@@ -16819,20 +16749,6 @@
       "status": "matched",
       "price_diff": -25099.0,
       "cheaper": "us"
-    },
-    {
-      "product_name": "Panasonic AC 1.5 Ton-CS-UE18WKF-9 T3",
-      "my_price": 175000.0,
-      "my_available": true,
-      "my_url": "https://bismillahelectronics.pk/products/panasonic-ac-1-5-ton-cs-ue18wkf-9-t3",
-      "competitor_name": "Panasonic Split AC Inverter 1.5 Ton UE18XKF-9",
-      "competitor_price": 159900.0,
-      "competitor_available": true,
-      "competitor_url": "https://japanelectronics.com.pk/products/panasonic-split-ac-inverter-1-5-ton-ue18xkf-9",
-      "match_confidence": 71.6,
-      "status": "matched",
-      "price_diff": 15100.0,
-      "cheaper": "competitor"
     },
     {
       "product_name": "Dawlance AC Inverter 1.5 Ton DAC-Magna 30 (Plain Silver)",
@@ -17326,7 +17242,7 @@
     },
     {
       "product_name": "Pel Single Washing Machine PWMS-8050",
-      "my_price": 22500.0,
+      "my_price": 26500.0,
       "my_available": true,
       "my_url": "https://bismillahelectronics.pk/products/pel-single-washing-machine-pwms-8050",
       "competitor_name": "Royal Washing Machine RWM-8010",
@@ -17335,7 +17251,7 @@
       "competitor_url": "https://japanelectronics.com.pk/products/royal-washing-machine-rwm-8010",
       "match_confidence": 72.7,
       "status": "matched",
-      "price_diff": -11400.0,
+      "price_diff": -7400.0,
       "cheaper": "us"
     },
     {
@@ -17466,7 +17382,7 @@
     },
     {
       "product_name": "Nasgas Spinner NGD-201",
-      "my_price": 17000.0,
+      "my_price": 18250.0,
       "my_available": true,
       "my_url": "https://bismillahelectronics.pk/products/nasgas-201-glass-dryer-ngd-201",
       "competitor_name": null,
@@ -17494,7 +17410,7 @@
     },
     {
       "product_name": "Nasgas Double Washing Machine NWM-501",
-      "my_price": 32400.0,
+      "my_price": 35000.0,
       "my_available": true,
       "my_url": "https://bismillahelectronics.pk/products/nasgas-501-washing-machine-double-glass-nwm-501",
       "competitor_name": null,
@@ -17746,7 +17662,7 @@
     },
     {
       "product_name": "Abdullah Dough Kneader AE-221",
-      "my_price": 13500.0,
+      "my_price": 14000.0,
       "my_available": true,
       "my_url": "https://bismillahelectronics.pk/products/abdullah-dough-kneader-ae-221",
       "competitor_name": null,
@@ -17774,7 +17690,7 @@
     },
     {
       "product_name": "NasGas Cooking Range NG-785",
-      "my_price": 76000.0,
+      "my_price": 72300.0,
       "my_available": true,
       "my_url": "https://bismillahelectronics.pk/products/nasgas-cooking-range-ng-785",
       "competitor_name": null,
@@ -17788,7 +17704,7 @@
     },
     {
       "product_name": "NasGas Water Cooler NC-65",
-      "my_price": 68500.0,
+      "my_price": 65000.0,
       "my_available": true,
       "my_url": "https://bismillahelectronics.pk/products/nasgas-water-cooler-price-in-pakistan-nc-65",
       "competitor_name": "Nasgas Water Cooler NC-35 Ltr Super Dlx",
@@ -17797,12 +17713,12 @@
       "competitor_url": "https://japanelectronics.com.pk/products/nasgas-water-cooler-nc-35-ltr-super-dlx",
       "match_confidence": 71.9,
       "status": "matched",
-      "price_diff": 13500.0,
+      "price_diff": 10000.0,
       "cheaper": "competitor"
     },
     {
       "product_name": "NasGas Water Cooler NC-35",
-      "my_price": 56900.0,
+      "my_price": 55000.0,
       "my_available": true,
       "my_url": "https://bismillahelectronics.pk/products/nasgas-water-cooler-nc-35",
       "competitor_name": "Nasgas Water Cooler NC-35 Ltr Super Dlx",
@@ -17811,12 +17727,12 @@
       "competitor_url": "https://japanelectronics.com.pk/products/nasgas-water-cooler-nc-35-ltr-super-dlx",
       "match_confidence": 75.0,
       "status": "matched",
-      "price_diff": 1900.0,
-      "cheaper": "competitor"
+      "price_diff": 0.0,
+      "cheaper": "same"
     },
     {
       "product_name": "NasGas Kitchen Hood KHP-270",
-      "my_price": 25500.0,
+      "my_price": 27520.0,
       "my_available": true,
       "my_url": "https://bismillahelectronics.pk/products/nasgas-kitchen-hood-khp-270",
       "competitor_name": "Nasgas Kitchen Hood KHP-270",
@@ -17825,12 +17741,12 @@
       "competitor_url": "https://japanelectronics.com.pk/products/nasgas-kitchen-hood-khp-270-manual-89-cm",
       "match_confidence": 96.3,
       "status": "matched",
-      "price_diff": -2020.0,
-      "cheaper": "us"
+      "price_diff": 0.0,
+      "cheaper": "same"
     },
     {
       "product_name": "NasGas Kitchen Hood KHD-300",
-      "my_price": 31000.0,
+      "my_price": 32520.0,
       "my_available": true,
       "my_url": "https://bismillahelectronics.pk/products/nasgas-kitchen-hood-khd-300",
       "competitor_name": "Nasgas Kitchen Hoods KHD-300",
@@ -17839,12 +17755,12 @@
       "competitor_url": "https://japanelectronics.com.pk/products/nasgas-kitchen-hoods-khd-300",
       "match_confidence": 94.5,
       "status": "matched",
-      "price_diff": -1110.0,
-      "cheaper": "us"
+      "price_diff": 410.0,
+      "cheaper": "competitor"
     },
     {
       "product_name": "NasGas Kitchen Hood KHD-280",
-      "my_price": 26400.0,
+      "my_price": 27780.0,
       "my_available": true,
       "my_url": "https://bismillahelectronics.pk/products/nasgas-kitchen-hood-khd-280",
       "competitor_name": "Nasgas Kitchen Hood KHD-280",
@@ -17853,12 +17769,12 @@
       "competitor_url": "https://japanelectronics.com.pk/products/nasgas-kitchen-hood-khd-280-digital-89cm",
       "match_confidence": 96.3,
       "status": "matched",
-      "price_diff": -1380.0,
-      "cheaper": "us"
+      "price_diff": 0.0,
+      "cheaper": "same"
     },
     {
       "product_name": "NasGas Kitchen Hood KHD-275",
-      "my_price": 27500.0,
+      "my_price": 27520.0,
       "my_available": true,
       "my_url": "https://bismillahelectronics.pk/products/nasgas-kitchen-hood-khd-275",
       "competitor_name": "Nasgas Kitchen Hood KHD-275",
@@ -17867,12 +17783,12 @@
       "competitor_url": "https://japanelectronics.com.pk/products/nasgas-kitchen-hood-khd-275-digital-75cm",
       "match_confidence": 96.3,
       "status": "matched",
-      "price_diff": 200.0,
+      "price_diff": 220.0,
       "cheaper": "competitor"
     },
     {
       "product_name": "NasGas Kitchen Hood KHD-265",
-      "my_price": 29100.0,
+      "my_price": 30790.0,
       "my_available": true,
       "my_url": "https://bismillahelectronics.pk/products/nasgas-kitchen-hood-khd-265",
       "competitor_name": "Nasgas Kitchen Hood KHD-265",
@@ -17881,12 +17797,12 @@
       "competitor_url": "https://japanelectronics.com.pk/products/nasgas-kitchen-hood-khd-266",
       "match_confidence": 96.3,
       "status": "matched",
-      "price_diff": -1390.0,
-      "cheaper": "us"
+      "price_diff": 300.0,
+      "cheaper": "competitor"
     },
     {
       "product_name": "NasGas Kitchen Hood KHD-250",
-      "my_price": 25900.0,
+      "my_price": 26100.0,
       "my_available": true,
       "my_url": "https://bismillahelectronics.pk/products/nasgas-kitchen-hood-khd-250",
       "competitor_name": "Nasgas Kitchen Hood KHD-320",
@@ -17895,12 +17811,12 @@
       "competitor_url": "https://japanelectronics.com.pk/products/nasgas-kitchen-hood-khd-320",
       "match_confidence": 92.6,
       "status": "matched",
-      "price_diff": -9100.0,
+      "price_diff": -8900.0,
       "cheaper": "us"
     },
     {
       "product_name": "Nasgas Water Dispenser NWD-200",
-      "my_price": 36000.0,
+      "my_price": 37000.0,
       "my_available": true,
       "my_url": "https://bismillahelectronics.pk/products/nasgas-water-dispenser-nwd-200",
       "competitor_name": "Nasgas Water Dispenser NWD-200 Black",
@@ -17909,12 +17825,12 @@
       "competitor_url": "https://japanelectronics.com.pk/products/water-dispenser-of-top-quality-by-nasgas",
       "match_confidence": 90.9,
       "status": "matched",
-      "price_diff": -1000.0,
-      "cheaper": "us"
+      "price_diff": 0.0,
+      "cheaper": "same"
     },
     {
       "product_name": "NasGas Water Dispenser NWD-190",
-      "my_price": 31000.0,
+      "my_price": 34500.0,
       "my_available": true,
       "my_url": "https://bismillahelectronics.pk/products/nasgas-water-dispenser-nwd-190",
       "competitor_name": "Nasgas Water Dispenser NWD-190 (Black)",
@@ -17923,12 +17839,12 @@
       "competitor_url": "https://japanelectronics.com.pk/products/nasgas-water-dispenser-nwd-190-black",
       "match_confidence": 85.3,
       "status": "matched",
-      "price_diff": -3500.0,
-      "cheaper": "us"
+      "price_diff": 0.0,
+      "cheaper": "same"
     },
     {
       "product_name": "NasGas Cooking Range SG-327",
-      "my_price": 36500.0,
+      "my_price": 37050.0,
       "my_available": true,
       "my_url": "https://bismillahelectronics.pk/products/nasgas-cooking-range-sg-327",
       "competitor_name": null,
@@ -17942,7 +17858,7 @@
     },
     {
       "product_name": "NasGas Cooking Range SG-334",
-      "my_price": 44800.0,
+      "my_price": 48710.0,
       "my_available": true,
       "my_url": "https://bismillahelectronics.pk/products/nasgas-cooking-range-sg-334",
       "competitor_name": null,
@@ -17956,7 +17872,7 @@
     },
     {
       "product_name": "NasGas Cooking Range EXM-334 Glass",
-      "my_price": 56800.0,
+      "my_price": 62896.0,
       "my_available": true,
       "my_url": "https://bismillahelectronics.pk/products/nasgas-cooking-range-exm-334-glass",
       "competitor_name": null,
@@ -17970,7 +17886,7 @@
     },
     {
       "product_name": "Nasgas Cooking Range EXC-534",
-      "my_price": 53400.0,
+      "my_price": 58110.0,
       "my_available": true,
       "my_url": "https://bismillahelectronics.pk/products/nasgas-cooking-range-exc-534",
       "competitor_name": "NASGAS Cooking Range ECO-534",
@@ -17979,12 +17895,12 @@
       "competitor_url": "https://japanelectronics.com.pk/products/nasgas-cooking-range-eco-534",
       "match_confidence": 78.6,
       "status": "matched",
-      "price_diff": 12350.0,
+      "price_diff": 17060.0,
       "cheaper": "competitor"
     },
     {
       "product_name": "Nasgas Cooking Range ECO-534",
-      "my_price": 37300.0,
+      "my_price": 41050.0,
       "my_available": true,
       "my_url": "https://bismillahelectronics.pk/products/nasgas-cooking-range-eco-534",
       "competitor_name": "NASGAS Cooking Range ECO-534",
@@ -17993,12 +17909,12 @@
       "competitor_url": "https://japanelectronics.com.pk/products/nasgas-cooking-range-eco-534",
       "match_confidence": 82.1,
       "status": "matched",
-      "price_diff": -3750.0,
-      "cheaper": "us"
+      "price_diff": 0.0,
+      "cheaper": "same"
     },
     {
       "product_name": "Nasgas Cooking Range DG-534",
-      "my_price": 52355.0,
+      "my_price": 57450.0,
       "my_available": true,
       "my_url": "https://bismillahelectronics.pk/products/nasgas-cooking-range-dg-534",
       "competitor_name": "NASGAS Cooking Range ECO-534",
@@ -18007,12 +17923,12 @@
       "competitor_url": "https://japanelectronics.com.pk/products/nasgas-cooking-range-eco-534",
       "match_confidence": 72.7,
       "status": "matched",
-      "price_diff": 11305.0,
+      "price_diff": 16400.0,
       "cheaper": "competitor"
     },
     {
       "product_name": "Nasgas Cooking Range DG-430",
-      "my_price": 51700.0,
+      "my_price": 56615.0,
       "my_available": true,
       "my_url": "https://bismillahelectronics.pk/products/nasgas-cooking-range-dg-430",
       "competitor_name": null,
@@ -18026,7 +17942,7 @@
     },
     {
       "product_name": "Nasgas Cooking Range DG-327",
-      "my_price": 39200.0,
+      "my_price": 45325.0,
       "my_available": true,
       "my_url": "https://bismillahelectronics.pk/products/nasgas-cooking-range-dg-327",
       "competitor_name": null,
@@ -18306,7 +18222,7 @@
     },
     {
       "product_name": "NasGas Single Washing Machine NWM-112 SD",
-      "my_price": 21900.0,
+      "my_price": 25900.0,
       "my_available": true,
       "my_url": "https://bismillahelectronics.pk/products/nasgas-single-washing-machine-nwm-112-sd",
       "competitor_name": "Royal Washing Machine RWM-1012",
@@ -18315,8 +18231,8 @@
       "competitor_url": "https://japanelectronics.com.pk/products/royal-washing-machine-rwm-1012",
       "match_confidence": 71.4,
       "status": "matched",
-      "price_diff": -4000.0,
-      "cheaper": "us"
+      "price_diff": 0.0,
+      "cheaper": "same"
     },
     {
       "product_name": "Haier Automatic Washing Machine HWM 150-1978",
@@ -18936,7 +18852,7 @@
     },
     {
       "product_name": "Pel Deep Freezer PDF-130 APF",
-      "my_price": 85000.0,
+      "my_price": 84900.0,
       "my_available": true,
       "my_url": "https://bismillahelectronics.pk/products/pel-deep-freezer-pdf-130-apf",
       "competitor_name": null,
@@ -19006,7 +18922,7 @@
     },
     {
       "product_name": "Nasgas Water Cooler NC-45",
-      "my_price": 58500.0,
+      "my_price": 58000.0,
       "my_available": true,
       "my_url": "https://bismillahelectronics.pk/products/nasgas-water-cooler-nc-45",
       "competitor_name": "Nasgas Water Cooler NC-35 Ltr Super Dlx",
@@ -19015,7 +18931,7 @@
       "competitor_url": "https://japanelectronics.com.pk/products/nasgas-water-cooler-nc-35-ltr-super-dlx",
       "match_confidence": 75.0,
       "status": "matched",
-      "price_diff": 3500.0,
+      "price_diff": 3000.0,
       "cheaper": "competitor"
     },
     {
@@ -19118,7 +19034,7 @@
     },
     {
       "product_name": "Pel Automatic Washing Machine PAWM-900i",
-      "my_price": 88000.0,
+      "my_price": 72900.0,
       "my_available": true,
       "my_url": "https://bismillahelectronics.pk/products/pel-automatic-washing-machine-pawm-900i",
       "competitor_name": "Samsung Automatic Washing Machine WA90H4200SW",
@@ -19127,12 +19043,12 @@
       "competitor_url": "https://japanelectronics.com.pk/products/samsung-automatic-washing-machine-wa90h4200sw",
       "match_confidence": 71.4,
       "status": "matched",
-      "price_diff": -16900.0,
+      "price_diff": -32000.0,
       "cheaper": "us"
     },
     {
       "product_name": "Pel Double Washing Machine PWM-1050 T",
-      "my_price": 40900.0,
+      "my_price": 49500.0,
       "my_available": true,
       "my_url": "https://bismillahelectronics.pk/products/pel-double-washing-machine-pwm-1050-t",
       "competitor_name": "Royal Washing Machine RWM-1010",
@@ -19141,7 +19057,7 @@
       "competitor_url": "https://japanelectronics.com.pk/products/royal-washing-machine-rwm-1010",
       "match_confidence": 71.6,
       "status": "matched",
-      "price_diff": 15000.0,
+      "price_diff": 23600.0,
       "cheaper": "competitor"
     },
     {
@@ -19159,22 +19075,8 @@
       "cheaper": null
     },
     {
-      "product_name": "Pel Water Dispenser PWD-316 Premier",
-      "my_price": 37900.0,
-      "my_available": true,
-      "my_url": "https://bismillahelectronics.pk/products/pel-water-dispenser-pwd-316-premier",
-      "competitor_name": null,
-      "competitor_price": null,
-      "competitor_available": null,
-      "competitor_url": null,
-      "match_confidence": 0,
-      "status": "only_us",
-      "price_diff": null,
-      "cheaper": null
-    },
-    {
       "product_name": "Pel Water Dispenser 315 Smart",
-      "my_price": 36200.0,
+      "my_price": 36500.0,
       "my_available": true,
       "my_url": "https://bismillahelectronics.pk/products/pel-water-dispenser-315-smart",
       "competitor_name": null,
@@ -19188,7 +19090,7 @@
     },
     {
       "product_name": "Pel Water Dispenser 215 (Pearl White)",
-      "my_price": 31900.0,
+      "my_price": 35500.0,
       "my_available": true,
       "my_url": "https://bismillahelectronics.pk/products/pel-water-dispenser-215-pearl-white",
       "competitor_name": "Midea Water Dispenser (YL-2037S White)",
@@ -19197,8 +19099,8 @@
       "competitor_url": "https://japanelectronics.com.pk/products/midea-water-dispenser-yl-2037s-white",
       "match_confidence": 72.0,
       "status": "matched",
-      "price_diff": -2000.0,
-      "cheaper": "us"
+      "price_diff": 1600.0,
+      "cheaper": "competitor"
     },
     {
       "product_name": "Dawlance Meat mincer DWM 6001",
@@ -36034,7 +35936,7 @@
       "my_available": null,
       "my_url": null,
       "competitor_name": "Westpoint Hand Blender WF-9915",
-      "competitor_price": 9600.0,
+      "competitor_price": 9999.0,
       "competitor_available": true,
       "competitor_url": "https://japanelectronics.com.pk/products/westpoint-hand-blender-wf-9915",
       "match_confidence": 0,
@@ -36751,6 +36653,20 @@
       "competitor_price": 36900.0,
       "competitor_available": true,
       "competitor_url": "https://japanelectronics.com.pk/products/orient-water-dispenser-marvel-3-blaze-red",
+      "match_confidence": 0,
+      "status": "only_competitor",
+      "price_diff": null,
+      "cheaper": null
+    },
+    {
+      "product_name": "Orient Water Dispenser (Marvel 3 Blaze Grey)",
+      "my_price": null,
+      "my_available": null,
+      "my_url": null,
+      "competitor_name": "Orient Water Dispenser (Marvel 3 Blaze Grey)",
+      "competitor_price": 36900.0,
+      "competitor_available": false,
+      "competitor_url": "https://japanelectronics.com.pk/products/orient-water-dispenser-marvel-3-blaze-grey",
       "match_confidence": 0,
       "status": "only_competitor",
       "price_diff": null,
@@ -38907,6 +38823,20 @@
       "competitor_price": 27000.0,
       "competitor_available": false,
       "competitor_url": "https://japanelectronics.com.pk/products/super-asia-electric-geyser-reh-10",
+      "match_confidence": 0,
+      "status": "only_competitor",
+      "price_diff": null,
+      "cheaper": null
+    },
+    {
+      "product_name": "Panasonic Split AC Inverter 1.5 Ton UE18XKF-9",
+      "my_price": null,
+      "my_available": null,
+      "my_url": null,
+      "competitor_name": "Panasonic Split AC Inverter 1.5 Ton UE18XKF-9",
+      "competitor_price": 159900.0,
+      "competitor_available": true,
+      "competitor_url": "https://japanelectronics.com.pk/products/panasonic-split-ac-inverter-1-5-ton-ue18xkf-9",
       "match_confidence": 0,
       "status": "only_competitor",
       "price_diff": null,

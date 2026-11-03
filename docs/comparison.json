@@ -1,10 +1,10 @@
 {
-  "last_updated": "2026-11-03T18:52:09.880076+00:00",
+  "last_updated": "2026-11-03T23:49:07.207502+00:00",
   "my_store_name": "Bismillah Electronics",
   "competitor_name": "Japan Electronics",
-  "total_my_products": 1401,
+  "total_my_products": 1399,
   "total_competitor_products": 2152,
-  "matched_count": 987,
+  "matched_count": 986,
   "results": [
     {
       "product_name": "NasGas Room Air cooler NAC-9800 DC",
@@ -4964,7 +4964,7 @@
     },
     {
       "product_name": "Xiaomi LED TV 65 Inch 65APRO (Q LED)",
-      "my_price": 180900.0,
+      "my_price": 197000.0,
       "my_available": true,
       "my_url": "https://bismillahelectronics.pk/products/xiaomi-led-tv-65-inch-65apro-q-led",
       "competitor_name": null,
@@ -5212,20 +5212,6 @@
       "match_confidence": 73.9,
       "status": "matched",
       "price_diff": 3100.0,
-      "cheaper": "competitor"
-    },
-    {
-      "product_name": "Westpoint Air Fryer WF-5253",
-      "my_price": 24600.0,
-      "my_available": true,
-      "my_url": "https://bismillahelectronics.pk/products/westpoint-air-fryer-wf-5253",
-      "competitor_name": "Westpoint Juicer WF-5161",
-      "competitor_price": 14499.0,
-      "competitor_available": true,
-      "competitor_url": "https://japanelectronics.com.pk/products/westpoint-juicer-wf-5161",
-      "match_confidence": 70.6,
-      "status": "matched",
-      "price_diff": 10101.0,
       "cheaper": "competitor"
     },
     {
@@ -6462,7 +6448,7 @@
     },
     {
       "product_name": "Westpoint Vacuum Cleaner WF-3602",
-      "my_price": 23500.0,
+      "my_price": 22200.0,
       "my_available": true,
       "my_url": "https://bismillahelectronics.pk/products/westpoint-vacuum-cleaner-wf-3602",
       "competitor_name": "Westpoint Vacuum Cleaner (WF-960)",
@@ -6471,12 +6457,12 @@
       "competitor_url": "https://japanelectronics.com.pk/products/westpoint-vacuum-cleaner-wf-960",
       "match_confidence": 73.8,
       "status": "matched",
-      "price_diff": -2000.0,
+      "price_diff": -3300.0,
       "cheaper": "us"
     },
     {
       "product_name": "Westpoint Vacuum Cleaner WF-3469",
-      "my_price": 28500.0,
+      "my_price": 25300.0,
       "my_available": true,
       "my_url": "https://bismillahelectronics.pk/products/westpoint-vacuum-cleaner-wf-3469",
       "competitor_name": "Westpoint Vacuum Cleaner (WF-960)",
@@ -6485,12 +6471,12 @@
       "competitor_url": "https://japanelectronics.com.pk/products/westpoint-vacuum-cleaner-wf-960",
       "match_confidence": 73.8,
       "status": "matched",
-      "price_diff": 3000.0,
-      "cheaper": "competitor"
+      "price_diff": -200.0,
+      "cheaper": "us"
     },
     {
       "product_name": "Westpoint Vacuum Cleaner WF-104",
-      "my_price": 21900.0,
+      "my_price": 21200.0,
       "my_available": true,
       "my_url": "https://bismillahelectronics.pk/products/westpoint-vacuum-cleaner-wf-104",
       "competitor_name": "Westpoint Hand Blender WF-9914",
@@ -6499,12 +6485,12 @@
       "competitor_url": "https://japanelectronics.com.pk/products/westpoint-hand-blender-wf-9914",
       "match_confidence": 75.4,
       "status": "matched",
-      "price_diff": 14301.0,
+      "price_diff": 13601.0,
       "cheaper": "competitor"
     },
     {
       "product_name": "Westpoint Vacuum Cleaner WF-103",
-      "my_price": 25000.0,
+      "my_price": 21200.0,
       "my_available": true,
       "my_url": "https://bismillahelectronics.pk/products/westpoint-vacuum-cleaner-wf-103",
       "competitor_name": "Westpoint Vacuum Cleaner (WF-960)",
@@ -6513,12 +6499,12 @@
       "competitor_url": "https://japanelectronics.com.pk/products/westpoint-vacuum-cleaner-wf-960",
       "match_confidence": 75.0,
       "status": "matched",
-      "price_diff": -500.0,
+      "price_diff": -4300.0,
       "cheaper": "us"
     },
     {
       "product_name": "Westpoint Vacuum Cleaner WF-102",
-      "my_price": 25000.0,
+      "my_price": 21200.0,
       "my_available": true,
       "my_url": "https://bismillahelectronics.pk/products/westpoint-vacuum-cleaner-wf-102",
       "competitor_name": "Westpoint Vacuum Cleaner (WF-960)",
@@ -6527,12 +6513,12 @@
       "competitor_url": "https://japanelectronics.com.pk/products/westpoint-vacuum-cleaner-wf-960",
       "match_confidence": 75.0,
       "status": "matched",
-      "price_diff": -500.0,
+      "price_diff": -4300.0,
       "cheaper": "us"
     },
     {
       "product_name": "Westpoint Vacuum Cleaner WF-960",
-      "my_price": 25500.0,
+      "my_price": 23100.0,
       "my_available": true,
       "my_url": "https://bismillahelectronics.pk/products/westpoint-vacuum-cleaner-wf-960",
       "competitor_name": "Westpoint Hand Blender WF-9916",
@@ -6541,12 +6527,12 @@
       "competitor_url": "https://japanelectronics.com.pk/products/westpoint-hand-blender-wf-9916",
       "match_confidence": 75.4,
       "status": "matched",
-      "price_diff": 13400.0,
+      "price_diff": 11000.0,
       "cheaper": "competitor"
     },
     {
       "product_name": "Westpoint Toaster WF-2589",
-      "my_price": 8000.0,
+      "my_price": 6700.0,
       "my_available": true,
       "my_url": "https://bismillahelectronics.pk/products/westpoint-toaster-wf-2589",
       "competitor_name": "Westpoint Toaster WF-2542",
@@ -6555,12 +6541,12 @@
       "competitor_url": "https://japanelectronics.com.pk/products/westpoint-toaster-wf-2542",
       "match_confidence": 92.0,
       "status": "matched",
-      "price_diff": -500.0,
+      "price_diff": -1800.0,
       "cheaper": "us"
     },
     {
       "product_name": "Westpoint Toaster WF-2550",
-      "my_price": 8500.0,
+      "my_price": 6206.0,
       "my_available": true,
       "my_url": "https://bismillahelectronics.pk/products/westpoint-toaster-wf-2550",
       "competitor_name": "Westpoint Toaster WF-2542",
@@ -6569,12 +6555,12 @@
       "competitor_url": "https://japanelectronics.com.pk/products/westpoint-toaster-wf-2542",
       "match_confidence": 92.0,
       "status": "matched",
-      "price_diff": 0.0,
-      "cheaper": "same"
+      "price_diff": -2294.0,
+      "cheaper": "us"
     },
     {
       "product_name": "Westpoint Toaster WF-2542",
-      "my_price": 9500.0,
+      "my_price": 7100.0,
       "my_available": true,
       "my_url": "https://bismillahelectronics.pk/products/westpoint-toaster-wf-2542",
       "competitor_name": "Westpoint Toaster WF-2542",
@@ -6583,12 +6569,12 @@
       "competitor_url": "https://japanelectronics.com.pk/products/westpoint-toaster-wf-2542",
       "match_confidence": 100.0,
       "status": "matched",
-      "price_diff": 1000.0,
-      "cheaper": "competitor"
+      "price_diff": -1400.0,
+      "cheaper": "us"
     },
     {
       "product_name": "Westpoint Toaster WF-2538",
-      "my_price": 8900.0,
+      "my_price": 6500.0,
       "my_available": true,
       "my_url": "https://bismillahelectronics.pk/products/westpoint-toaster-wf-2538",
       "competitor_name": "Westpoint Toaster WF-2542",
@@ -6597,12 +6583,12 @@
       "competitor_url": "https://japanelectronics.com.pk/products/westpoint-toaster-wf-2542",
       "match_confidence": 92.0,
       "status": "matched",
-      "price_diff": 400.0,
-      "cheaper": "competitor"
+      "price_diff": -2000.0,
+      "cheaper": "us"
     },
     {
       "product_name": "Westpoint Toaster WF-2528",
-      "my_price": 8900.0,
+      "my_price": 7700.0,
       "my_available": true,
       "my_url": "https://bismillahelectronics.pk/products/westpoint-toaster-wf-2528",
       "competitor_name": "Westpoint Toaster WF-2542",
@@ -6611,12 +6597,12 @@
       "competitor_url": "https://japanelectronics.com.pk/products/westpoint-toaster-wf-2542",
       "match_confidence": 96.0,
       "status": "matched",
-      "price_diff": 400.0,
-      "cheaper": "competitor"
+      "price_diff": -800.0,
+      "cheaper": "us"
     },
     {
       "product_name": "Westpoint Steam Iron WF-2432",
-      "my_price": 4900.0,
+      "my_price": 4300.0,
       "my_available": true,
       "my_url": "https://bismillahelectronics.pk/products/westpoint-steam-iron-wf-2432",
       "competitor_name": "Westpoint Steam Iron WF-2063",
@@ -6625,12 +6611,12 @@
       "competitor_url": "https://japanelectronics.com.pk/products/westpoint-steam-iron-wf-2063",
       "match_confidence": 92.9,
       "status": "matched",
-      "price_diff": -4900.0,
+      "price_diff": -5500.0,
       "cheaper": "us"
     },
     {
       "product_name": "Westpoint Steam Iron WF-2065",
-      "my_price": 11000.0,
+      "my_price": 9500.0,
       "my_available": true,
       "my_url": "https://bismillahelectronics.pk/products/westpoint-steam-iron-wf-2065",
       "competitor_name": "Westpoint Steam Iron WF-2065",
@@ -6639,12 +6625,12 @@
       "competitor_url": "https://japanelectronics.com.pk/products/westpoint-steam-iron-wf-2065",
       "match_confidence": 100.0,
       "status": "matched",
-      "price_diff": 1400.0,
-      "cheaper": "competitor"
+      "price_diff": -100.0,
+      "cheaper": "us"
     },
     {
       "product_name": "Westpoint Stand Mixer WF-3616",
-      "my_price": 18000.0,
+      "my_price": 14000.0,
       "my_available": true,
       "my_url": "https://bismillahelectronics.pk/products/westpoint-stand-mixer-wf-3616",
       "competitor_name": "Westpoint Sandwich Maker WF-6686",
@@ -6653,12 +6639,12 @@
       "competitor_url": "https://japanelectronics.com.pk/products/westpoint-sandwich-maker-wf-6686",
       "match_confidence": 78.7,
       "status": "matched",
-      "price_diff": 11500.0,
+      "price_diff": 7500.0,
       "cheaper": "competitor"
     },
     {
       "product_name": "Westpoint Sandwich Maker WF-6093",
-      "my_price": 9900.0,
+      "my_price": 8800.0,
       "my_available": true,
       "my_url": "https://bismillahelectronics.pk/products/westpoint-sandwich-maker-wf-6093",
       "competitor_name": "Westpoint Sandwich Maker WF-6686",
@@ -6667,12 +6653,12 @@
       "competitor_url": "https://japanelectronics.com.pk/products/westpoint-sandwich-maker-wf-6686",
       "match_confidence": 90.6,
       "status": "matched",
-      "price_diff": 3400.0,
+      "price_diff": 2300.0,
       "cheaper": "competitor"
     },
     {
       "product_name": "Westpoint Meat Mincer WF-3050",
-      "my_price": 23900.0,
+      "my_price": 20300.0,
       "my_available": true,
       "my_url": "https://bismillahelectronics.pk/products/westpoint-meat-mincer-wf-3050",
       "competitor_name": "Westpoint Rice Cooker WF-5350",
@@ -6681,12 +6667,12 @@
       "competitor_url": "https://japanelectronics.com.pk/products/westpoint-rice-cooker-wf-5350",
       "match_confidence": 75.9,
       "status": "matched",
-      "price_diff": 11400.0,
+      "price_diff": 7800.0,
       "cheaper": "competitor"
     },
     {
       "product_name": "Westpoint Juicer Blender Grinder WF-7501GL",
-      "my_price": 12500.0,
+      "my_price": 11420.0,
       "my_available": true,
       "my_url": "https://bismillahelectronics.pk/products/westpoint-juicer-blender-grinder-wf-7501gl",
       "competitor_name": "Westpoint Blender & Grinder WF-367",
@@ -6695,12 +6681,12 @@
       "competitor_url": "https://japanelectronics.com.pk/products/westpoint-blender-grinder-wf-367",
       "match_confidence": 78.9,
       "status": "matched",
-      "price_diff": -6000.0,
+      "price_diff": -7080.0,
       "cheaper": "us"
     },
     {
       "product_name": "Westpoint Food Processor WF-1844",
-      "my_price": 17500.0,
+      "my_price": 15500.0,
       "my_available": true,
       "my_url": "https://bismillahelectronics.pk/products/westpoint-food-processor-wf-1844",
       "competitor_name": "Westpoint Food Processor WF-1844",
@@ -6709,12 +6695,12 @@
       "competitor_url": "https://japanelectronics.com.pk/products/westpoint-food-processor-wf-1844",
       "match_confidence": 100.0,
       "status": "matched",
-      "price_diff": -2400.0,
+      "price_diff": -4400.0,
       "cheaper": "us"
     },
     {
       "product_name": "Westpoint Blender Grinder WF-7181",
-      "my_price": 6900.0,
+      "my_price": 5200.0,
       "my_available": true,
       "my_url": "https://bismillahelectronics.pk/products/westpoint-blender-grinder-wf-7181",
       "competitor_name": "Westpoint Blender & Grinder WF-367",
@@ -6723,12 +6709,12 @@
       "competitor_url": "https://japanelectronics.com.pk/products/westpoint-blender-grinder-wf-367",
       "match_confidence": 89.6,
       "status": "matched",
-      "price_diff": -11600.0,
+      "price_diff": -13300.0,
       "cheaper": "us"
     },
     {
       "product_name": "Westpoint Juicer Blender Grinder WF-2409",
-      "my_price": 14500.0,
+      "my_price": 11700.0,
       "my_available": true,
       "my_url": "https://bismillahelectronics.pk/products/westpoint-juicer-blender-grinder-wf-2409",
       "competitor_name": "Westpoint Juicer Blender WF-2409",
@@ -6737,12 +6723,12 @@
       "competitor_url": "https://japanelectronics.com.pk/products/westpoint-juicer-blender-wf-2409",
       "match_confidence": 88.9,
       "status": "matched",
-      "price_diff": 0.0,
-      "cheaper": "same"
+      "price_diff": -2800.0,
+      "cheaper": "us"
     },
     {
       "product_name": "Westpoint Dry Iron WF-90B",
-      "my_price": 6900.0,
+      "my_price": 5800.0,
       "my_available": true,
       "my_url": "https://bismillahelectronics.pk/products/westpoint-dry-iron-wf-90b",
       "competitor_name": "Westpoint Steam Iron WF-2063",
@@ -6751,12 +6737,12 @@
       "competitor_url": "https://japanelectronics.com.pk/products/westpoint-steam-iron-wf-2063",
       "match_confidence": 71.7,
       "status": "matched",
-      "price_diff": -2900.0,
+      "price_diff": -4000.0,
       "cheaper": "us"
     },
     {
       "product_name": "Westpoint Induction Cooker WF-142",
-      "my_price": 14500.0,
+      "my_price": 13800.0,
       "my_available": true,
       "my_url": "https://bismillahelectronics.pk/products/westpoint-induction-cooker-wf-142",
       "competitor_name": "WestPoint Induction Cooker WF-142",
@@ -6765,12 +6751,12 @@
       "competitor_url": "https://japanelectronics.com.pk/products/westpoint-induction-cooker-wf-142",
       "match_confidence": 97.0,
       "status": "matched",
-      "price_diff": 0.0,
-      "cheaper": "same"
+      "price_diff": -700.0,
+      "cheaper": "us"
     },
     {
       "product_name": "Westpoint Hot Plate WF-271",
-      "my_price": 8900.0,
+      "my_price": 7100.0,
       "my_available": true,
       "my_url": "https://bismillahelectronics.pk/products/westpoint-hot-plate-wf-271",
       "competitor_name": "WestPoint Hot Plate WF-281",
@@ -6779,8 +6765,8 @@
       "competitor_url": "https://japanelectronics.com.pk/products/westpoint-hot-plate-wf-281",
       "match_confidence": 92.3,
       "status": "matched",
-      "price_diff": 400.0,
-      "cheaper": "competitor"
+      "price_diff": -1400.0,
+      "cheaper": "us"
     },
     {
       "product_name": "Westpoint Hot Plate WF-162",
@@ -6812,7 +6798,7 @@
     },
     {
       "product_name": "Westpoint Hand Blender WF-9914",
-      "my_price": 7600.0,
+      "my_price": 7300.0,
       "my_available": true,
       "my_url": "https://bismillahelectronics.pk/products/westpoint-hand-blender-wf-9914",
       "competitor_name": "Westpoint Hand Blender WF-9914",
@@ -6821,8 +6807,8 @@
       "competitor_url": "https://japanelectronics.com.pk/products/westpoint-hand-blender-wf-9914",
       "match_confidence": 100.0,
       "status": "matched",
-      "price_diff": 1.0,
-      "cheaper": "competitor"
+      "price_diff": -299.0,
+      "cheaper": "us"
     },
     {
       "product_name": "Westpoint Hair Dryer WF-6260",
@@ -6868,7 +6854,7 @@
     },
     {
       "product_name": "Westpoint Garment Steamer WF-1156",
-      "my_price": 17800.0,
+      "my_price": 18900.0,
       "my_available": true,
       "my_url": "https://bismillahelectronics.pk/products/westpoint-garment-steamer-wf-1156",
       "competitor_name": "Westpoint Garment Steamer WF-1353",
@@ -6877,7 +6863,7 @@
       "competitor_url": "https://japanelectronics.com.pk/products/westpoint-garment-steamer-wf-1353",
       "match_confidence": 93.9,
       "status": "matched",
-      "price_diff": 8300.0,
+      "price_diff": 9400.0,
       "cheaper": "competitor"
     },
     {
@@ -6896,7 +6882,7 @@
     },
     {
       "product_name": "Westpoint Food Factory WF-2804",
-      "my_price": 14600.0,
+      "my_price": 15300.0,
       "my_available": true,
       "my_url": "https://bismillahelectronics.pk/products/westpoint-food-factory-wf-2804",
       "competitor_name": null,
@@ -6910,7 +6896,7 @@
     },
     {
       "product_name": "Westpoint Food Factory WF-2805",
-      "my_price": 14600.0,
+      "my_price": 14800.0,
       "my_available": true,
       "my_url": "https://bismillahelectronics.pk/products/westpoint-food-factory-wf-2805",
       "competitor_name": null,
@@ -6980,7 +6966,7 @@
     },
     {
       "product_name": "Westpoint Chopper WF-1099",
-      "my_price": 10300.0,
+      "my_price": 10400.0,
       "my_available": true,
       "my_url": "https://bismillahelectronics.pk/products/westpoint-chopper-wf-1099",
       "competitor_name": "Westpoint Chopper WF-1097",
@@ -6989,7 +6975,7 @@
       "competitor_url": "https://japanelectronics.com.pk/products/westpoint-chopper-wf-1097",
       "match_confidence": 96.0,
       "status": "matched",
-      "price_diff": -600.0,
+      "price_diff": -500.0,
       "cheaper": "us"
     },
     {
@@ -11571,20 +11557,6 @@
       "cheaper": "competitor"
     },
     {
-      "product_name": "Xiaomi LED TV 55 Inch 55A2026 (Q LED)",
-      "my_price": 141900.0,
-      "my_available": true,
-      "my_url": "https://bismillahelectronics.pk/products/xiaomi-led-tv-55-inch-55a2026-q-led",
-      "competitor_name": null,
-      "competitor_price": null,
-      "competitor_available": null,
-      "competitor_url": null,
-      "match_confidence": 0,
-      "status": "only_us",
-      "price_diff": null,
-      "cheaper": null
-    },
-    {
       "product_name": "Electrolux AC Inverter 1.5 Ton ELSAC-18K LUX (Black)",
       "my_price": 192900.0,
       "my_available": true,
@@ -12034,7 +12006,7 @@
     },
     {
       "product_name": "Westpoint Air Fryer WF-5255",
-      "my_price": 25000.0,
+      "my_price": 24900.0,
       "my_available": true,
       "my_url": "https://bismillahelectronics.pk/products/westpoint-air-fryer-wf-5255",
       "competitor_name": "Westpoint Juicer WF-5161",
@@ -12043,7 +12015,7 @@
       "competitor_url": "https://japanelectronics.com.pk/products/westpoint-juicer-wf-5161",
       "match_confidence": 70.6,
       "status": "matched",
-      "price_diff": 10501.0,
+      "price_diff": 10401.0,
       "cheaper": "competitor"
     },
     {
@@ -12090,7 +12062,7 @@
     },
     {
       "product_name": "Westpoint Air Fryer WF-5256",
-      "my_price": 24600.0,
+      "my_price": 19800.0,
       "my_available": true,
       "my_url": "https://bismillahelectronics.pk/products/westpoint-air-fryer-wf-5256",
       "competitor_name": "Westpoint Juicer WF-5161",
@@ -12099,12 +12071,12 @@
       "competitor_url": "https://japanelectronics.com.pk/products/westpoint-juicer-wf-5161",
       "match_confidence": 74.5,
       "status": "matched",
-      "price_diff": 10101.0,
+      "price_diff": 5301.0,
       "cheaper": "competitor"
     },
     {
       "product_name": "Westpoint Air Fryer WF-4257",
-      "my_price": 28000.0,
+      "my_price": 33500.0,
       "my_available": true,
       "my_url": "https://bismillahelectronics.pk/products/westpoint-air-fryer-wf-4257",
       "competitor_name": "Westpoint Citrus Juicer WF-547",
@@ -12113,7 +12085,7 @@
       "competitor_url": "https://japanelectronics.com.pk/products/westpoint-citrus-juicer-wf-547",
       "match_confidence": 73.7,
       "status": "matched",
-      "price_diff": 20500.0,
+      "price_diff": 26000.0,
       "cheaper": "competitor"
     },
     {
@@ -16878,7 +16850,7 @@
     },
     {
       "product_name": "Westpoint Steam Iron WF 2063",
-      "my_price": 8500.0,
+      "my_price": 7500.0,
       "my_available": true,
       "my_url": "https://bismillahelectronics.pk/products/westpoint-steam-iron-wf-2063",
       "competitor_name": "Westpoint Steam Iron WF-2063",
@@ -16887,7 +16859,7 @@
       "competitor_url": "https://japanelectronics.com.pk/products/westpoint-steam-iron-wf-2063",
       "match_confidence": 82.1,
       "status": "matched",
-      "price_diff": -1300.0,
+      "price_diff": -2300.0,
       "cheaper": "us"
     },
     {
@@ -17060,7 +17032,7 @@
     },
     {
       "product_name": "Westpoint Dry iron WF-80B",
-      "my_price": 9750.0,
+      "my_price": 8800.0,
       "my_available": true,
       "my_url": "https://bismillahelectronics.pk/products/westpoint-dry-iron-wf-80b",
       "competitor_name": null,
@@ -17900,7 +17872,7 @@
     },
     {
       "product_name": "Westpoint Sandwich Maker WF-694",
-      "my_price": 6900.0,
+      "my_price": 5300.0,
       "my_available": true,
       "my_url": "https://bismillahelectronics.pk/products/westpoint-sandwich-toaster-wf-694",
       "competitor_name": "Westpoint Sandwich Maker WF-6686",
@@ -17909,12 +17881,12 @@
       "competitor_url": "https://japanelectronics.com.pk/products/westpoint-sandwich-maker-wf-6686",
       "match_confidence": 92.1,
       "status": "matched",
-      "price_diff": 400.0,
-      "cheaper": "competitor"
+      "price_diff": -1200.0,
+      "cheaper": "us"
     },
     {
       "product_name": "Westpoint Juicer Blender Grinder WF-8823",
-      "my_price": 15625.0,
+      "my_price": 11700.0,
       "my_available": true,
       "my_url": "https://bismillahelectronics.pk/products/westpoint-juicer-with-blender-and-grinder-wf-8923",
       "competitor_name": "Westpoint Blender & Grinder WF-367",
@@ -17923,7 +17895,7 @@
       "competitor_url": "https://japanelectronics.com.pk/products/westpoint-blender-grinder-wf-367",
       "match_confidence": 81.1,
       "status": "matched",
-      "price_diff": -2875.0,
+      "price_diff": -6800.0,
       "cheaper": "us"
     },
     {

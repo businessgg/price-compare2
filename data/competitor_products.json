@@ -2031,7 +2031,7 @@
     "name": "Dawlance Floor Standing Inverter 2.0 Ton Glacier Pro 45 T3 (Round Shape)",
     "price": 249500.0,
     "url": "https://japanelectronics.com.pk/products/dawlance-floor-standing-inverter-2-0-ton-glacier-pro-45-t3-round-shape",
-    "available": true
+    "available": false
   },
   {
     "name": "DAWLANCE SPLIT AC INVERTER 1.5 TON DAC-MAGNA T3 30 (PLAIN SILVER)",
@@ -2325,7 +2325,7 @@
     "name": "Nasgas Electric & Gas Geyser 55 Gallon (DEG-55) Super HD",
     "price": 64500.0,
     "url": "https://japanelectronics.com.pk/products/nasgas-electric-gas-geyser-55-gallon-deg-55-super-hd",
-    "available": false
+    "available": true
   },
   {
     "name": "Super Asia Electric & Gas Geyser 35 Gallon (GEH-735) AI",
@@ -2565,7 +2565,7 @@
     "name": "Dawlance REF 9149 WB E-Chrome (Metallic Grey)",
     "price": 62500.0,
     "url": "https://japanelectronics.com.pk/products/dawlance-ref-9149-wb-e-chrome-metallic-grey",
-    "available": false
+    "available": true
   },
   {
     "name": "Dawlance REF 9140 WB E-Chrome Metallic Grey",
@@ -7401,7 +7401,7 @@
     "name": "Kenwood Refrigerator Krf-Invertech-25557/400-L (GD) Mirror",
     "price": 116000.0,
     "url": "https://japanelectronics.com.pk/products/kenwood-refrigerator-krf-invertech-25557-400-l-gd-mirror",
-    "available": true
+    "available": false
   },
   {
     "name": "Kenwood Refrigerator Krf-Invertech-25557/400-L (GD) MRG",
@@ -11325,7 +11325,7 @@
     "name": "Dawlance Microwave Oven DW-210 S Pro",
     "price": 17100.0,
     "url": "https://japanelectronics.com.pk/products/dawlance-microwave-oven-dw-210-s-pro",
-    "available": true
+    "available": false
   },
   {
     "name": "Dawlance Washing Machine DW 9200 CFL",
@@ -11835,7 +11835,7 @@
     "name": "Beetro Electric & Gas Geyser 25 Gallon (FEG-25 9/10 Gauge)",
     "price": 66000.0,
     "url": "https://japanelectronics.com.pk/products/beetro-e-g-geyser-25-gallon-feg-25-9-10-gauge-auto-ignition",
-    "available": false
+    "available": true
   },
   {
     "name": "Beetro Kitchen Hood X-40 (MAS-3456 THS) 34\" Touch + Hand Sensor (Dual Motor)",

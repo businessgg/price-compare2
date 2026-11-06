@@ -91,7 +91,7 @@
   },
   {
     "name": "Enviro Microwave Oven (ENR-20XM20 20Ltr) Warmer",
-    "price": 16500.0,
+    "price": 10900.0,
     "url": "https://japanelectronics.com.pk/products/enviro-microwave-oven-enr-20xm20-20ltr-warmer",
     "available": true
   },
@@ -315,7 +315,7 @@
     "name": "Haier LED 55\" 55S80GUX (QLED)",
     "price": 127000.0,
     "url": "https://japanelectronics.com.pk/products/haier-led-55-55s80gux-qled",
-    "available": true
+    "available": false
   },
   {
     "name": "Haier LED 50\" 50S81GFX (QLED)",
@@ -481,7 +481,7 @@
   },
   {
     "name": "ROYAL W.M (RWM-8016T)",
-    "price": 36900.0,
+    "price": 38300.0,
     "url": "https://japanelectronics.com.pk/products/royal-w-m-rwm-8016t",
     "available": true
   },
@@ -553,7 +553,7 @@
   },
   {
     "name": "Haier TAWM (HWM 100-1269S6 Grey)",
-    "price": 52000.0,
+    "price": 58500.0,
     "url": "https://japanelectronics.com.pk/products/haier-tawm-hwm-100-1269s6-grey",
     "available": true
   },
@@ -1981,7 +1981,7 @@
   },
   {
     "name": "Orient Split AC Inverter 1.5 Ton 19R Classic White NEO T3 (Ecotron)",
-    "price": 124900.0,
+    "price": 119900.0,
     "url": "https://japanelectronics.com.pk/products/orient-split-ac-inverter-1-5-ton-19r-classic-white-neo-t3-ecotron",
     "available": true
   },
@@ -3673,7 +3673,7 @@
   },
   {
     "name": "Kenwood Split AC Inverter 1.5 Ton KES-1875S",
-    "price": 128000.0,
+    "price": 116900.0,
     "url": "https://japanelectronics.com.pk/products/kenwood-split-ac-inverter-1-5-ton-kes-1875s",
     "available": true
   },
@@ -5409,7 +5409,7 @@
     "name": "Gree AC Floor Standing Inverter 3.0 Ton GF-36TFIH AA+",
     "price": 449000.0,
     "url": "https://japanelectronics.com.pk/products/gree-ac-floor-standing-inverter-3-0-ton-gf-36tfih-aa",
-    "available": false
+    "available": true
   },
   {
     "name": "Gree AC Split Inverter 1.5 Ton GS-18FITH6C AAA",
@@ -5463,7 +5463,7 @@
     "name": "Dawlance Split AC Inverter 1.5 Ton DAC-Hyper T3 White Home Whiz",
     "price": 160000.0,
     "url": "https://japanelectronics.com.pk/products/dawlance-split-ac-inverter-1-5-ton-dac-hyper-t3-white-home-whiz",
-    "available": true
+    "available": false
   },
   {
     "name": "Dawlance Split AC Inverter 1.5 Ton Cruise+ 30",
@@ -6187,7 +6187,7 @@
   },
   {
     "name": "Midea Dish Washer (WQP15-W7633D)",
-    "price": 125000.0,
+    "price": 139900.0,
     "url": "https://japanelectronics.com.pk/products/midea-dish-washer-wqp15-w7633d",
     "available": false
   },
@@ -6735,7 +6735,7 @@
     "name": "Nasgas E+G Geyser 30 Gallon (DEG-3030) Super Fast Heating Dlx",
     "price": 49450.0,
     "url": "https://japanelectronics.com.pk/products/nasgas-e-g-geyser-30-gallon-deg-3030-super-fast-heating-dlx",
-    "available": false
+    "available": true
   },
   {
     "name": "Nasgas E+G Geyser 20 Gallon (DEG-2020)",
@@ -6789,7 +6789,7 @@
     "name": "Midea Electric Geyser (D100-20EFG)",
     "price": 79000.0,
     "url": "https://japanelectronics.com.pk/products/midea-electric-geyser-d100-20efg",
-    "available": false
+    "available": true
   },
   {
     "name": "Midea Electric Geyser (D30-20EFG)",
@@ -6843,7 +6843,7 @@
     "name": "Nasgas Electric Geyser (NEG-505 Plus)",
     "price": 26550.0,
     "url": "https://japanelectronics.com.pk/products/nasgas-electric-geyser-neg-505-plus",
-    "available": false
+    "available": true
   },
   {
     "name": "Nasgas Electric Geyser (NEG-404 Plus)",
@@ -7135,7 +7135,7 @@
   },
   {
     "name": "ANEX Kitchen Robot (AG-3159)",
-    "price": 39430.0,
+    "price": 36500.0,
     "url": "https://japanelectronics.com.pk/products/anex-kitchen-robot-ag-3159",
     "available": true
   },
@@ -8257,7 +8257,7 @@
   },
   {
     "name": "Philips Blender HR-2141",
-    "price": 15000.0,
+    "price": 14500.0,
     "url": "https://japanelectronics.com.pk/products/philips-blender-hr-2141",
     "available": true
   },
@@ -8659,7 +8659,7 @@
   },
   {
     "name": "Westpoint Vacuum Cleaner (WF-3669)",
-    "price": 29900.0,
+    "price": 28900.0,
     "url": "https://japanelectronics.com.pk/products/westpoint-vacuum-cleaner-wf-3669",
     "available": true
   },
@@ -8791,7 +8791,7 @@
   },
   {
     "name": "Westpoint Garment Steamer WF-1253",
-    "price": 9900.0,
+    "price": 8900.0,
     "url": "https://japanelectronics.com.pk/products/westpoint-garment-steamer-wf-1253",
     "available": true
   },
@@ -10461,7 +10461,7 @@
     "name": "Seco Fan Heater SG-016",
     "price": 5000.0,
     "url": "https://japanelectronics.com.pk/products/seco-fan-heater-sg-016",
-    "available": false
+    "available": true
   },
   {
     "name": "Seco Fan Heater SG-012",
@@ -10507,7 +10507,7 @@
   },
   {
     "name": "Royal Air Purifier RAP-5000",
-    "price": 28900.0,
+    "price": 26900.0,
     "url": "https://japanelectronics.com.pk/products/royal-air-purifier-rap-5000",
     "available": true
   },
@@ -10765,7 +10765,7 @@
   },
   {
     "name": "WestPoint Chopper WF-503",
-    "price": 16900.0,
+    "price": 13900.0,
     "url": "https://japanelectronics.com.pk/products/westpoint-chopper-wf-503",
     "available": true
   },
@@ -11497,7 +11497,7 @@
   },
   {
     "name": "Philips Hair Dryer BHC-010",
-    "price": 6900.0,
+    "price": 5900.0,
     "url": "https://japanelectronics.com.pk/products/super-quality-hair-dryer-by-philips",
     "available": true
   },
@@ -12307,7 +12307,7 @@
   },
   {
     "name": "Panasonic Steam Iron M-250T (Green)",
-    "price": 8000.0,
+    "price": 7900.0,
     "url": "https://japanelectronics.com.pk/products/panasonic-steam-iron-m-250t-green",
     "available": true
   },
@@ -12319,7 +12319,7 @@
   },
   {
     "name": "Panasonic Hand Blender MX-GS1W",
-    "price": 13900.0,
+    "price": 15900.0,
     "url": "https://japanelectronics.com.pk/products/panasonic-hand-blender-mx-gs1w",
     "available": true
   },
@@ -12499,7 +12499,7 @@
   },
   {
     "name": "Philips Iron 1172",
-    "price": 6500.0,
+    "price": 5600.0,
     "url": "https://japanelectronics.com.pk/products/philips-iron-1172",
     "available": true
   },
@@ -12511,7 +12511,7 @@
   },
   {
     "name": "Remington Hair Straightener S3500",
-    "price": 8400.0,
+    "price": 8200.0,
     "url": "https://japanelectronics.com.pk/products/remington-hair-straightener-s3500",
     "available": true
   },

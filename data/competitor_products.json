@@ -565,7 +565,7 @@
   },
   {
     "name": "KENWOOD W.M (KWM-21159 ROSE PINK OPAL)",
-    "price": 37000.0,
+    "price": 40000.0,
     "url": "https://japanelectronics.com.pk/products/kenwood-w-m-kwm-21159-rose-pink-opal",
     "available": true
   },
@@ -1035,7 +1035,7 @@
     "name": "PEL REF (PRINVO-2200 SILVER MOONLIGHT) VCM INVERTER",
     "price": 75900.0,
     "url": "https://japanelectronics.com.pk/products/pel-ref-prinvo-2200-silver-moonlight-vcm-inverter",
-    "available": true
+    "available": false
   },
   {
     "name": "PEL REF (PRINVO-2200 GOLD SILK) VCM INVERTER",
@@ -1069,43 +1069,43 @@
   },
   {
     "name": "KENWOOD REF KRF-INVERTECH 23357/280-L (GD) MIRROR",
-    "price": 93000.0,
+    "price": 95000.0,
     "url": "https://japanelectronics.com.pk/products/kenwood-ref-krf-invertech-23357-280-l-gd-mirror",
     "available": true
   },
   {
     "name": "KENWOOD REF KRF-24557/368-L (GD) SMART INVERTER MRG",
-    "price": 110000.0,
+    "price": 122000.0,
     "url": "https://japanelectronics.com.pk/products/kenwood-ref-krf-24557-368-l-gd-smart-inverter-mrg",
     "available": true
   },
   {
     "name": "KENWOOD REF KRF-24557/368-L (GD) SMART INVERTER BKG",
-    "price": 110000.0,
+    "price": 112000.0,
     "url": "https://japanelectronics.com.pk/products/kenwood-ref-krf-24557-368-l-gd-smart-inverter-bkg",
     "available": false
   },
   {
     "name": "KENWOOD REF KRF-26757/453-L (GD) SMART INVERTER BKG",
-    "price": 125000.0,
+    "price": 128000.0,
     "url": "https://japanelectronics.com.pk/products/kenwood-ref-krf-26757-453-l-gd-smart-inverter-bkg",
     "available": false
   },
   {
     "name": "KENWOOD REF KRF-25657/453-L (GD) SMART INVERTER BKG",
-    "price": 120000.0,
+    "price": 122000.0,
     "url": "https://japanelectronics.com.pk/products/kenwood-ref-krf-25657-453-l-gd-smart-inverter-bkg",
     "available": true
   },
   {
     "name": "KENWOOD REF KRF-26757/453-L (GD) SMART INVERTER MRG",
-    "price": 125000.0,
+    "price": 128000.0,
     "url": "https://japanelectronics.com.pk/products/kenwood-ref-krf-26757-453-l-gd-smart-inverter-mrg",
     "available": true
   },
   {
     "name": "Kenwood Ref KRF-25657/453-L (GD) Smart Inverter MRG",
-    "price": 120000.0,
+    "price": 122000.0,
     "url": "https://japanelectronics.com.pk/products/kenwood-ref-krf-25657-453-l-gd-smart-inverter-mrg",
     "available": true
   },
@@ -4015,7 +4015,7 @@
   },
   {
     "name": "Kenwood Ref Krf-Inverter 24457/320-L (VCM) Pearl Blue",
-    "price": 88000.0,
+    "price": 90000.0,
     "url": "https://japanelectronics.com.pk/products/kenwood-ref-krf-inverter-24457-320-l-vcm-pearl-blue",
     "available": false
   },
@@ -6831,7 +6831,7 @@
     "name": "Midea Electric Geyser (D100-20EFG)",
     "price": 79000.0,
     "url": "https://japanelectronics.com.pk/products/midea-electric-geyser-d100-20efg",
-    "available": true
+    "available": false
   },
   {
     "name": "Midea Electric Geyser (D30-20EFG)",
@@ -7435,19 +7435,19 @@
   },
   {
     "name": "Kenwood Refrigerator Krf-Invertech-24457/320-L (GD) MRG",
-    "price": 103000.0,
+    "price": 105000.0,
     "url": "https://japanelectronics.com.pk/products/kenwood-refrigerator-krf-invertech-24457-320-l-gd-mrg",
     "available": true
   },
   {
     "name": "Kenwood Refrigerator Krf-Invertech-25557/400-L (GD) Mirror",
-    "price": 116000.0,
+    "price": 118000.0,
     "url": "https://japanelectronics.com.pk/products/kenwood-refrigerator-krf-invertech-25557-400-l-gd-mirror",
     "available": false
   },
   {
     "name": "Kenwood Refrigerator Krf-Invertech-25557/400-L (GD) MRG",
-    "price": 116000.0,
+    "price": 118000.0,
     "url": "https://japanelectronics.com.pk/products/kenwood-refrigerator-krf-invertech-25557-400-l-gd-mrg",
     "available": true
   },
@@ -7845,7 +7845,7 @@
     "name": "Hisense LED 65\" 65A6N",
     "price": 174900.0,
     "url": "https://japanelectronics.com.pk/products/hisense-led-65-65a6n",
-    "available": true
+    "available": false
   },
   {
     "name": "Xiaomi LED 55\" 55A2025",
@@ -9225,7 +9225,7 @@
     "name": "ANEX 4 Slice Toaster (AG-3009)",
     "price": 12300.0,
     "url": "https://japanelectronics.com.pk/products/anex-4-slice-toaster-ag-3009",
-    "available": true
+    "available": false
   },
   {
     "name": "ANEX 4 Slice Toaster (AG-3007 SS & Plastic)",
@@ -9433,7 +9433,7 @@
   },
   {
     "name": "Samsung TAWM (WA80CK4240BWRT)",
-    "price": 80900.0,
+    "price": 100000.0,
     "url": "https://japanelectronics.com.pk/products/samsung-tawm-wa80ck4240bwrt",
     "available": true
   },
@@ -9649,13 +9649,13 @@
   },
   {
     "name": "Kenwood Ref Krf-Invertech 23357/280-L (GD) MRG",
-    "price": 93000.0,
+    "price": 95000.0,
     "url": "https://japanelectronics.com.pk/products/kenwood-ref-krf-invertech-23357-280-l-gd-mrg",
     "available": true
   },
   {
     "name": "Kenwood Ref Krf-Inverter 25557/400-L (VCM) Pearl Blue",
-    "price": 98000.0,
+    "price": 99900.0,
     "url": "https://japanelectronics.com.pk/products/kenwood-ref-krf-inverter-25557-400-l-vcm-pearl-blue",
     "available": false
   },
@@ -11653,7 +11653,7 @@
   },
   {
     "name": "Kenwood Refrigerator Krf-Invertech-24457/320-L (GD) Mirror",
-    "price": 103000.0,
+    "price": 105000.0,
     "url": "https://japanelectronics.com.pk/products/kenwood-ref-krf-invertech-24457-320-l-gd-mirror",
     "available": true
   },

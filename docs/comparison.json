@@ -1,11 +1,39 @@
 {
-  "last_updated": "2026-11-08T10:55:15.199433+00:00",
+  "last_updated": "2026-11-08T16:52:39.317564+00:00",
   "my_store_name": "Bismillah Electronics",
   "competitor_name": "Japan Electronics",
-  "total_my_products": 1399,
+  "total_my_products": 1401,
   "total_competitor_products": 2159,
   "matched_count": 986,
   "results": [
+    {
+      "product_name": "Kenwood Refrigerator KRF-24457VCM Pearl Inverter",
+      "my_price": 90000.0,
+      "my_available": true,
+      "my_url": "https://bismillahelectronics.pk/products/kenwood-refrigerator-krf-24457vcm-pearl-inverter",
+      "competitor_name": null,
+      "competitor_price": null,
+      "competitor_available": null,
+      "competitor_url": null,
+      "match_confidence": 0,
+      "status": "only_us",
+      "price_diff": null,
+      "cheaper": null
+    },
+    {
+      "product_name": "Pel Water Dispenser PWD-316 Premier",
+      "my_price": 37500.0,
+      "my_available": true,
+      "my_url": "https://bismillahelectronics.pk/products/pel-water-dispenser-pwd-316-premier",
+      "competitor_name": null,
+      "competitor_price": null,
+      "competitor_available": null,
+      "competitor_url": null,
+      "match_confidence": 0,
+      "status": "only_us",
+      "price_diff": null,
+      "cheaper": null
+    },
     {
       "product_name": "Pel Microwave Oven PMO-25 Convection",
       "my_price": 39900.0,
@@ -1310,7 +1338,7 @@
     },
     {
       "product_name": "Kenwood Ref KRFI-26657/480-L INVERTER VCM GREEN TEXTURE",
-      "my_price": 108000.0,
+      "my_price": 110000.0,
       "my_available": true,
       "my_url": "https://bismillahelectronics.pk/products/kenwood-ref-krfi-26657-480-l-inverter-vcm-green-texture",
       "competitor_name": null,
@@ -1324,7 +1352,7 @@
     },
     {
       "product_name": "Kenwood Ref KRF-27857 SMART INVERTER R-550 BKG",
-      "my_price": 133000.0,
+      "my_price": 135000.0,
       "my_available": true,
       "my_url": "https://bismillahelectronics.pk/products/kenwood-ref-krf-27857-smart-inverter-r-550-bkg",
       "competitor_name": null,
@@ -1338,7 +1366,7 @@
     },
     {
       "product_name": "Kenwood Ref KRF-27857 SMART INVERTER R-550 MRG",
-      "my_price": 133000.0,
+      "my_price": 135000.0,
       "my_available": true,
       "my_url": "https://bismillahelectronics.pk/products/kenwood-ref-krf-27857-smart-inverter-r-550-mrg",
       "competitor_name": null,
@@ -1352,7 +1380,7 @@
     },
     {
       "product_name": "Kenwood Ref KRF-26757 SMART INVERTER R-450 BKG",
-      "my_price": 125000.0,
+      "my_price": 128000.0,
       "my_available": true,
       "my_url": "https://bismillahelectronics.pk/products/kenwood-ref-krf-26757-smart-inverter-r-450-bkg",
       "competitor_name": null,
@@ -1422,7 +1450,7 @@
     },
     {
       "product_name": "Kenwood Ref KRF-24557 SMART INVERTER R-310 MRG",
-      "my_price": 110000.0,
+      "my_price": 112000.0,
       "my_available": true,
       "my_url": "https://bismillahelectronics.pk/products/kenwood-ref-krf-24557-smart-inverter-r-310-mrg",
       "competitor_name": null,
@@ -1450,7 +1478,7 @@
     },
     {
       "product_name": "Kenwood Ref KRF-24557 SMART INVERTER R-310 BKG",
-      "my_price": 110000.0,
+      "my_price": 112000.0,
       "my_available": true,
       "my_url": "https://bismillahelectronics.pk/products/kenwood-ref-krf-24557-smart-inverter-r-310-bkg",
       "competitor_name": null,
@@ -2486,7 +2514,7 @@
     },
     {
       "product_name": "Kenwood Blender 8in1 KB-34G",
-      "my_price": 11300.0,
+      "my_price": 9300.0,
       "my_available": true,
       "my_url": "https://bismillahelectronics.pk/products/kenwood-blender-8in1-kb-34g",
       "competitor_name": null,
@@ -3998,7 +4026,7 @@
     },
     {
       "product_name": "Kenwood Ac 1.5 Ton Inverter KLP-18B01S LUXURY PLUS",
-      "my_price": 164500.0,
+      "my_price": 180500.0,
       "my_available": true,
       "my_url": "https://bismillahelectronics.pk/products/kenwood-ac-1-5-ton-inverter-klp-18b01s-luxury-plus",
       "competitor_name": "Kenwood Split AC Inverter 1.5 Ton KES-1875S",
@@ -4007,7 +4035,7 @@
       "competitor_url": "https://japanelectronics.com.pk/products/kenwood-split-ac-inverter-1-5-ton-kes-1875s",
       "match_confidence": 73.1,
       "status": "matched",
-      "price_diff": 47600.0,
+      "price_diff": 63600.0,
       "cheaper": "competitor"
     },
     {
@@ -4978,7 +5006,7 @@
     },
     {
       "product_name": "Xiaomi LED TV 65 Inch 65APRO (Q LED)",
-      "my_price": 197000.0,
+      "my_price": 207900.0,
       "my_available": true,
       "my_url": "https://bismillahelectronics.pk/products/xiaomi-led-tv-65-inch-65apro-q-led",
       "competitor_name": null,
@@ -6126,7 +6154,7 @@
     },
     {
       "product_name": "Kenwood Refrigerator KRF-25657GD Smart Inverter (Red)",
-      "my_price": 120000.0,
+      "my_price": 122000.0,
       "my_available": true,
       "my_url": "https://bismillahelectronics.pk/products/kenwood-refrigerator-smart-inverter-red",
       "competitor_name": "Kenwood Ref KRF-25657/453-L (GD) Smart Inverter MRG",
@@ -6135,8 +6163,8 @@
       "competitor_url": "https://japanelectronics.com.pk/products/kenwood-ref-krf-25657-453-l-gd-smart-inverter-mrg",
       "match_confidence": 75.0,
       "status": "matched",
-      "price_diff": -2000.0,
-      "cheaper": "us"
+      "price_diff": 0.0,
+      "cheaper": "same"
     },
     {
       "product_name": "Dawlance Vertical Freezer VF-1035 GD (Burgundy)",
@@ -6462,7 +6490,7 @@
     },
     {
       "product_name": "Westpoint Vacuum Cleaner WF-3602",
-      "my_price": 22200.0,
+      "my_price": 24200.0,
       "my_available": true,
       "my_url": "https://bismillahelectronics.pk/products/westpoint-vacuum-cleaner-wf-3602",
       "competitor_name": "Westpoint Vacuum Cleaner (WF-960)",
@@ -6471,12 +6499,12 @@
       "competitor_url": "https://japanelectronics.com.pk/products/westpoint-vacuum-cleaner-wf-960",
       "match_confidence": 73.8,
       "status": "matched",
-      "price_diff": -3300.0,
+      "price_diff": -1300.0,
       "cheaper": "us"
     },
     {
       "product_name": "Westpoint Vacuum Cleaner WF-3469",
-      "my_price": 25300.0,
+      "my_price": 27300.0,
       "my_available": true,
       "my_url": "https://bismillahelectronics.pk/products/westpoint-vacuum-cleaner-wf-3469",
       "competitor_name": "Westpoint Vacuum Cleaner (WF-960)",
@@ -6485,12 +6513,12 @@
       "competitor_url": "https://japanelectronics.com.pk/products/westpoint-vacuum-cleaner-wf-960",
       "match_confidence": 73.8,
       "status": "matched",
-      "price_diff": -200.0,
-      "cheaper": "us"
+      "price_diff": 1800.0,
+      "cheaper": "competitor"
     },
     {
       "product_name": "Westpoint Vacuum Cleaner WF-104",
-      "my_price": 21200.0,
+      "my_price": 23500.0,
       "my_available": true,
       "my_url": "https://bismillahelectronics.pk/products/westpoint-vacuum-cleaner-wf-104",
       "competitor_name": "Westpoint Hand Blender WF-9914",
@@ -6499,12 +6527,12 @@
       "competitor_url": "https://japanelectronics.com.pk/products/westpoint-hand-blender-wf-9914",
       "match_confidence": 75.4,
       "status": "matched",
-      "price_diff": 13601.0,
+      "price_diff": 15901.0,
       "cheaper": "competitor"
     },
     {
       "product_name": "Westpoint Vacuum Cleaner WF-103",
-      "my_price": 21200.0,
+      "my_price": 23200.0,
       "my_available": true,
       "my_url": "https://bismillahelectronics.pk/products/westpoint-vacuum-cleaner-wf-103",
       "competitor_name": "Westpoint Vacuum Cleaner (WF-960)",
@@ -6513,12 +6541,12 @@
       "competitor_url": "https://japanelectronics.com.pk/products/westpoint-vacuum-cleaner-wf-960",
       "match_confidence": 75.0,
       "status": "matched",
-      "price_diff": -4300.0,
+      "price_diff": -2300.0,
       "cheaper": "us"
     },
     {
       "product_name": "Westpoint Vacuum Cleaner WF-102",
-      "my_price": 21200.0,
+      "my_price": 23200.0,
       "my_available": true,
       "my_url": "https://bismillahelectronics.pk/products/westpoint-vacuum-cleaner-wf-102",
       "competitor_name": "Westpoint Vacuum Cleaner (WF-960)",
@@ -6527,7 +6555,7 @@
       "competitor_url": "https://japanelectronics.com.pk/products/westpoint-vacuum-cleaner-wf-960",
       "match_confidence": 75.0,
       "status": "matched",
-      "price_diff": -4300.0,
+      "price_diff": -2300.0,
       "cheaper": "us"
     },
     {
@@ -6546,7 +6574,7 @@
     },
     {
       "product_name": "Westpoint Toaster WF-2589",
-      "my_price": 6700.0,
+      "my_price": 8700.0,
       "my_available": true,
       "my_url": "https://bismillahelectronics.pk/products/westpoint-toaster-wf-2589",
       "competitor_name": "Westpoint Toaster WF-2542",
@@ -6555,12 +6583,12 @@
       "competitor_url": "https://japanelectronics.com.pk/products/westpoint-toaster-wf-2542",
       "match_confidence": 92.0,
       "status": "matched",
-      "price_diff": -1800.0,
-      "cheaper": "us"
+      "price_diff": 200.0,
+      "cheaper": "competitor"
     },
     {
       "product_name": "Westpoint Toaster WF-2550",
-      "my_price": 6206.0,
+      "my_price": 8206.0,
       "my_available": true,
       "my_url": "https://bismillahelectronics.pk/products/westpoint-toaster-wf-2550",
       "competitor_name": "Westpoint Toaster WF-2542",
@@ -6569,12 +6597,12 @@
       "competitor_url": "https://japanelectronics.com.pk/products/westpoint-toaster-wf-2542",
       "match_confidence": 92.0,
       "status": "matched",
-      "price_diff": -2294.0,
+      "price_diff": -294.0,
       "cheaper": "us"
     },
     {
       "product_name": "Westpoint Toaster WF-2542",
-      "my_price": 7100.0,
+      "my_price": 9100.0,
       "my_available": true,
       "my_url": "https://bismillahelectronics.pk/products/westpoint-toaster-wf-2542",
       "competitor_name": "Westpoint Toaster WF-2542",
@@ -6583,12 +6611,12 @@
       "competitor_url": "https://japanelectronics.com.pk/products/westpoint-toaster-wf-2542",
       "match_confidence": 100.0,
       "status": "matched",
-      "price_diff": -1400.0,
-      "cheaper": "us"
+      "price_diff": 600.0,
+      "cheaper": "competitor"
     },
     {
       "product_name": "Westpoint Toaster WF-2538",
-      "my_price": 6500.0,
+      "my_price": 8500.0,
       "my_available": true,
       "my_url": "https://bismillahelectronics.pk/products/westpoint-toaster-wf-2538",
       "competitor_name": "Westpoint Toaster WF-2542",
@@ -6597,12 +6625,12 @@
       "competitor_url": "https://japanelectronics.com.pk/products/westpoint-toaster-wf-2542",
       "match_confidence": 92.0,
       "status": "matched",
-      "price_diff": -2000.0,
-      "cheaper": "us"
+      "price_diff": 0.0,
+      "cheaper": "same"
     },
     {
       "product_name": "Westpoint Toaster WF-2528",
-      "my_price": 7700.0,
+      "my_price": 9700.0,
       "my_available": true,
       "my_url": "https://bismillahelectronics.pk/products/westpoint-toaster-wf-2528",
       "competitor_name": "Westpoint Toaster WF-2542",
@@ -6611,12 +6639,12 @@
       "competitor_url": "https://japanelectronics.com.pk/products/westpoint-toaster-wf-2542",
       "match_confidence": 96.0,
       "status": "matched",
-      "price_diff": -800.0,
-      "cheaper": "us"
+      "price_diff": 1200.0,
+      "cheaper": "competitor"
     },
     {
       "product_name": "Westpoint Steam Iron WF-2432",
-      "my_price": 4300.0,
+      "my_price": 6300.0,
       "my_available": true,
       "my_url": "https://bismillahelectronics.pk/products/westpoint-steam-iron-wf-2432",
       "competitor_name": "Westpoint Steam Iron WF-2063",
@@ -6625,12 +6653,12 @@
       "competitor_url": "https://japanelectronics.com.pk/products/westpoint-steam-iron-wf-2063",
       "match_confidence": 92.9,
       "status": "matched",
-      "price_diff": -5500.0,
+      "price_diff": -3500.0,
       "cheaper": "us"
     },
     {
       "product_name": "Westpoint Steam Iron WF-2065",
-      "my_price": 9500.0,
+      "my_price": 11500.0,
       "my_available": true,
       "my_url": "https://bismillahelectronics.pk/products/westpoint-steam-iron-wf-2065",
       "competitor_name": "Westpoint Steam Iron WF-2065",
@@ -6639,12 +6667,12 @@
       "competitor_url": "https://japanelectronics.com.pk/products/westpoint-steam-iron-wf-2065",
       "match_confidence": 100.0,
       "status": "matched",
-      "price_diff": -100.0,
-      "cheaper": "us"
+      "price_diff": 1900.0,
+      "cheaper": "competitor"
     },
     {
       "product_name": "Westpoint Stand Mixer WF-3616",
-      "my_price": 14000.0,
+      "my_price": 16000.0,
       "my_available": true,
       "my_url": "https://bismillahelectronics.pk/products/westpoint-stand-mixer-wf-3616",
       "competitor_name": "Westpoint Sandwich Maker WF-6686",
@@ -6653,12 +6681,12 @@
       "competitor_url": "https://japanelectronics.com.pk/products/westpoint-sandwich-maker-wf-6686",
       "match_confidence": 78.7,
       "status": "matched",
-      "price_diff": 7500.0,
+      "price_diff": 9500.0,
       "cheaper": "competitor"
     },
     {
       "product_name": "Westpoint Sandwich Maker WF-6093",
-      "my_price": 8800.0,
+      "my_price": 10800.0,
       "my_available": true,
       "my_url": "https://bismillahelectronics.pk/products/westpoint-sandwich-maker-wf-6093",
       "competitor_name": "Westpoint Sandwich Maker WF-6686",
@@ -6667,12 +6695,12 @@
       "competitor_url": "https://japanelectronics.com.pk/products/westpoint-sandwich-maker-wf-6686",
       "match_confidence": 90.6,
       "status": "matched",
-      "price_diff": 2300.0,
+      "price_diff": 4300.0,
       "cheaper": "competitor"
     },
     {
       "product_name": "Westpoint Meat Mincer WF-3050",
-      "my_price": 20300.0,
+      "my_price": 22300.0,
       "my_available": true,
       "my_url": "https://bismillahelectronics.pk/products/westpoint-meat-mincer-wf-3050",
       "competitor_name": "Westpoint Rice Cooker WF-5350",
@@ -6681,12 +6709,12 @@
       "competitor_url": "https://japanelectronics.com.pk/products/westpoint-rice-cooker-wf-5350",
       "match_confidence": 75.9,
       "status": "matched",
-      "price_diff": 7800.0,
+      "price_diff": 9800.0,
       "cheaper": "competitor"
     },
     {
       "product_name": "Westpoint Juicer Blender Grinder WF-7501GL",
-      "my_price": 11420.0,
+      "my_price": 13420.0,
       "my_available": true,
       "my_url": "https://bismillahelectronics.pk/products/westpoint-juicer-blender-grinder-wf-7501gl",
       "competitor_name": "Westpoint Blender & Grinder WF-367",
@@ -6695,12 +6723,12 @@
       "competitor_url": "https://japanelectronics.com.pk/products/westpoint-blender-grinder-wf-367",
       "match_confidence": 78.9,
       "status": "matched",
-      "price_diff": -7080.0,
+      "price_diff": -5080.0,
       "cheaper": "us"
     },
     {
       "product_name": "Westpoint Food Processor WF-1844",
-      "my_price": 15500.0,
+      "my_price": 17500.0,
       "my_available": true,
       "my_url": "https://bismillahelectronics.pk/products/westpoint-food-processor-wf-1844",
       "competitor_name": "Westpoint Food Processor WF-1844",
@@ -6709,12 +6737,12 @@
       "competitor_url": "https://japanelectronics.com.pk/products/westpoint-food-processor-wf-1844",
       "match_confidence": 100.0,
       "status": "matched",
-      "price_diff": -4400.0,
+      "price_diff": -2400.0,
       "cheaper": "us"
     },
     {
       "product_name": "Westpoint Blender Grinder WF-7181",
-      "my_price": 5200.0,
+      "my_price": 7200.0,
       "my_available": true,
       "my_url": "https://bismillahelectronics.pk/products/westpoint-blender-grinder-wf-7181",
       "competitor_name": "Westpoint Blender & Grinder WF-367",
@@ -6723,12 +6751,12 @@
       "competitor_url": "https://japanelectronics.com.pk/products/westpoint-blender-grinder-wf-367",
       "match_confidence": 89.6,
       "status": "matched",
-      "price_diff": -13300.0,
+      "price_diff": -11300.0,
       "cheaper": "us"
     },
     {
       "product_name": "Westpoint Juicer Blender Grinder WF-2409",
-      "my_price": 11700.0,
+      "my_price": 13700.0,
       "my_available": true,
       "my_url": "https://bismillahelectronics.pk/products/westpoint-juicer-blender-grinder-wf-2409",
       "competitor_name": "Westpoint Juicer Blender WF-2409",
@@ -6737,12 +6765,12 @@
       "competitor_url": "https://japanelectronics.com.pk/products/westpoint-juicer-blender-wf-2409",
       "match_confidence": 88.9,
       "status": "matched",
-      "price_diff": -2800.0,
+      "price_diff": -800.0,
       "cheaper": "us"
     },
     {
       "product_name": "Westpoint Dry Iron WF-90B",
-      "my_price": 5800.0,
+      "my_price": 7800.0,
       "my_available": true,
       "my_url": "https://bismillahelectronics.pk/products/westpoint-dry-iron-wf-90b",
       "competitor_name": "Westpoint Steam Iron WF-2063",
@@ -6751,12 +6779,12 @@
       "competitor_url": "https://japanelectronics.com.pk/products/westpoint-steam-iron-wf-2063",
       "match_confidence": 71.7,
       "status": "matched",
-      "price_diff": -4000.0,
+      "price_diff": -2000.0,
       "cheaper": "us"
     },
     {
       "product_name": "Westpoint Induction Cooker WF-142",
-      "my_price": 13800.0,
+      "my_price": 15400.0,
       "my_available": true,
       "my_url": "https://bismillahelectronics.pk/products/westpoint-induction-cooker-wf-142",
       "competitor_name": "WestPoint Induction Cooker WF-142",
@@ -6765,12 +6793,12 @@
       "competitor_url": "https://japanelectronics.com.pk/products/westpoint-induction-cooker-wf-142",
       "match_confidence": 97.0,
       "status": "matched",
-      "price_diff": -700.0,
-      "cheaper": "us"
+      "price_diff": 900.0,
+      "cheaper": "competitor"
     },
     {
       "product_name": "Westpoint Hot Plate WF-271",
-      "my_price": 7100.0,
+      "my_price": 9100.0,
       "my_available": true,
       "my_url": "https://bismillahelectronics.pk/products/westpoint-hot-plate-wf-271",
       "competitor_name": "WestPoint Hot Plate WF-281",
@@ -6779,12 +6807,12 @@
       "competitor_url": "https://japanelectronics.com.pk/products/westpoint-hot-plate-wf-281",
       "match_confidence": 92.3,
       "status": "matched",
-      "price_diff": -1400.0,
-      "cheaper": "us"
+      "price_diff": 600.0,
+      "cheaper": "competitor"
     },
     {
       "product_name": "Westpoint Hot Plate WF-162",
-      "my_price": 14200.0,
+      "my_price": 16200.0,
       "my_available": true,
       "my_url": "https://bismillahelectronics.pk/products/westpoint-hot-plate-wf-162",
       "competitor_name": "WestPoint Hot Plate WF-262",
@@ -6793,12 +6821,12 @@
       "competitor_url": "https://japanelectronics.com.pk/products/westpoint-hot-plate-wf-262",
       "match_confidence": 92.3,
       "status": "matched",
-      "price_diff": 2700.0,
+      "price_diff": 4700.0,
       "cheaper": "competitor"
     },
     {
       "product_name": "Westpoint Hand Mixer WF-9805",
-      "my_price": 5700.0,
+      "my_price": 7700.0,
       "my_available": true,
       "my_url": "https://bismillahelectronics.pk/products/westpoint-hand-mixer-wf-9805",
       "competitor_name": "Westpoint Juicer Blender WF-2409",
@@ -6807,12 +6835,12 @@
       "competitor_url": "https://japanelectronics.com.pk/products/westpoint-juicer-blender-wf-2409",
       "match_confidence": 70.0,
       "status": "matched",
-      "price_diff": -8800.0,
+      "price_diff": -6800.0,
       "cheaper": "us"
     },
     {
       "product_name": "Westpoint Hand Blender WF-9914",
-      "my_price": 7300.0,
+      "my_price": 9300.0,
       "my_available": true,
       "my_url": "https://bismillahelectronics.pk/products/westpoint-hand-blender-wf-9914",
       "competitor_name": "Westpoint Hand Blender WF-9914",
@@ -6821,8 +6849,8 @@
       "competitor_url": "https://japanelectronics.com.pk/products/westpoint-hand-blender-wf-9914",
       "match_confidence": 100.0,
       "status": "matched",
-      "price_diff": -299.0,
-      "cheaper": "us"
+      "price_diff": 1701.0,
+      "cheaper": "competitor"
     },
     {
       "product_name": "Westpoint Hair Dryer WF-6260",
@@ -6868,7 +6896,7 @@
     },
     {
       "product_name": "Westpoint Garment Steamer WF-1156",
-      "my_price": 18900.0,
+      "my_price": 21900.0,
       "my_available": true,
       "my_url": "https://bismillahelectronics.pk/products/westpoint-garment-steamer-wf-1156",
       "competitor_name": "Westpoint Garment Steamer WF-1353",
@@ -6877,12 +6905,12 @@
       "competitor_url": "https://japanelectronics.com.pk/products/westpoint-garment-steamer-wf-1353",
       "match_confidence": 93.9,
       "status": "matched",
-      "price_diff": 9400.0,
+      "price_diff": 12400.0,
       "cheaper": "competitor"
     },
     {
       "product_name": "Westpoint Food Factory WF-8818",
-      "my_price": 38500.0,
+      "my_price": 40500.0,
       "my_available": true,
       "my_url": "https://bismillahelectronics.pk/products/westpoint-food-factory-wf-8818",
       "competitor_name": null,
@@ -6896,7 +6924,7 @@
     },
     {
       "product_name": "Westpoint Food Factory WF-2804",
-      "my_price": 15300.0,
+      "my_price": 17300.0,
       "my_available": true,
       "my_url": "https://bismillahelectronics.pk/products/westpoint-food-factory-wf-2804",
       "competitor_name": null,
@@ -6910,7 +6938,7 @@
     },
     {
       "product_name": "Westpoint Food Factory WF-2805",
-      "my_price": 14800.0,
+      "my_price": 16800.0,
       "my_available": true,
       "my_url": "https://bismillahelectronics.pk/products/westpoint-food-factory-wf-2805",
       "competitor_name": null,
@@ -6924,7 +6952,7 @@
     },
     {
       "product_name": "Westpoint Food Factory WF-1853",
-      "my_price": 21500.0,
+      "my_price": 22500.0,
       "my_available": true,
       "my_url": "https://bismillahelectronics.pk/products/westpoint-food-factory-wf-1853",
       "competitor_name": "Westpoint Food Processor WF-1853",
@@ -6933,12 +6961,12 @@
       "competitor_url": "https://japanelectronics.com.pk/products/westpoint-food-processor-wf-1853",
       "match_confidence": 74.2,
       "status": "matched",
-      "price_diff": 4000.0,
+      "price_diff": 5000.0,
       "cheaper": "competitor"
     },
     {
       "product_name": "Westpoint Kettle WF-6174",
-      "my_price": 6900.0,
+      "my_price": 7900.0,
       "my_available": true,
       "my_url": "https://bismillahelectronics.pk/products/westpoint-kettle-wf-6174",
       "competitor_name": "Westpoint Electric Kettle WF-6173",
@@ -6947,12 +6975,12 @@
       "competitor_url": "https://japanelectronics.com.pk/products/westpoint-electric-kettle-wf-6173",
       "match_confidence": 80.7,
       "status": "matched",
-      "price_diff": 100.0,
+      "price_diff": 1100.0,
       "cheaper": "competitor"
     },
     {
       "product_name": "Westpoint Kettle WF-6173",
-      "my_price": 6800.0,
+      "my_price": 7800.0,
       "my_available": true,
       "my_url": "https://bismillahelectronics.pk/products/westpoint-kettle-wf-6173",
       "competitor_name": "Westpoint Electric Kettle WF-6173",
@@ -6961,12 +6989,12 @@
       "competitor_url": "https://japanelectronics.com.pk/products/westpoint-electric-kettle-wf-6173",
       "match_confidence": 84.2,
       "status": "matched",
-      "price_diff": 0.0,
-      "cheaper": "same"
+      "price_diff": 1000.0,
+      "cheaper": "competitor"
     },
     {
       "product_name": "Westpoint Citrus Juicer WF-545",
-      "my_price": 5500.0,
+      "my_price": 7500.0,
       "my_available": true,
       "my_url": "https://bismillahelectronics.pk/products/westpoint-citrus-juicer-wf-545",
       "competitor_name": "Westpoint Citrus Juicer WF-547",
@@ -6975,12 +7003,12 @@
       "competitor_url": "https://japanelectronics.com.pk/products/westpoint-citrus-juicer-wf-547",
       "match_confidence": 96.7,
       "status": "matched",
-      "price_diff": -2000.0,
-      "cheaper": "us"
+      "price_diff": 0.0,
+      "cheaper": "same"
     },
     {
       "product_name": "Westpoint Chopper WF-1099",
-      "my_price": 10400.0,
+      "my_price": 12400.0,
       "my_available": true,
       "my_url": "https://bismillahelectronics.pk/products/westpoint-chopper-wf-1099",
       "competitor_name": "Westpoint Chopper WF-1097",
@@ -6989,12 +7017,12 @@
       "competitor_url": "https://japanelectronics.com.pk/products/westpoint-chopper-wf-1097",
       "match_confidence": 96.0,
       "status": "matched",
-      "price_diff": -500.0,
-      "cheaper": "us"
+      "price_diff": 1500.0,
+      "cheaper": "competitor"
     },
     {
       "product_name": "Westpoint Blender Grinder WF-308",
-      "my_price": 8000.0,
+      "my_price": 10000.0,
       "my_available": true,
       "my_url": "https://bismillahelectronics.pk/products/westpoint-blender-grinder-wf-308",
       "competitor_name": "Westpoint Blender & Grinder WF-367",
@@ -7003,12 +7031,12 @@
       "competitor_url": "https://japanelectronics.com.pk/products/westpoint-blender-grinder-wf-367",
       "match_confidence": 90.9,
       "status": "matched",
-      "price_diff": -10500.0,
+      "price_diff": -8500.0,
       "cheaper": "us"
     },
     {
       "product_name": "Westpoint Blender Grinder WF-332",
-      "my_price": 5600.0,
+      "my_price": 7600.0,
       "my_available": true,
       "my_url": "https://bismillahelectronics.pk/products/westpoint-blender-grinder-wf-332",
       "competitor_name": "Westpoint Blender & Grinder WF-367",
@@ -7017,12 +7045,12 @@
       "competitor_url": "https://japanelectronics.com.pk/products/westpoint-blender-grinder-wf-367",
       "match_confidence": 90.9,
       "status": "matched",
-      "price_diff": -12900.0,
+      "price_diff": -10900.0,
       "cheaper": "us"
     },
     {
       "product_name": "Westpoint Blender Grinder WF-302",
-      "my_price": 7700.0,
+      "my_price": 9700.0,
       "my_available": true,
       "my_url": "https://bismillahelectronics.pk/products/westpoint-blender-grinder-wf-302",
       "competitor_name": "Westpoint Blender & Grinder WF-367",
@@ -7031,12 +7059,12 @@
       "competitor_url": "https://japanelectronics.com.pk/products/westpoint-blender-grinder-wf-367",
       "match_confidence": 90.9,
       "status": "matched",
-      "price_diff": -10800.0,
+      "price_diff": -8800.0,
       "cheaper": "us"
     },
     {
       "product_name": "Westpoint Digital Scale WF-7008",
-      "my_price": 4200.0,
+      "my_price": 6200.0,
       "my_available": true,
       "my_url": "https://bismillahelectronics.pk/products/westpoint-digital-scale-wf-7008",
       "competitor_name": null,
@@ -7078,7 +7106,7 @@
     },
     {
       "product_name": "Eco Star Juicer Blender Grinder JBG-311",
-      "my_price": 12500.0,
+      "my_price": 14500.0,
       "my_available": true,
       "my_url": "https://bismillahelectronics.pk/products/eco-star-juicer-blender-grinder-jbg-311",
       "competitor_name": null,
@@ -7456,7 +7484,7 @@
     },
     {
       "product_name": "Anex Sandwich Maker AG-1037",
-      "my_price": 7735.0,
+      "my_price": 7435.0,
       "my_available": true,
       "my_url": "https://bismillahelectronics.pk/products/anex-sandwich-maker-ag-1037",
       "competitor_name": "ANEX Sandwich Maker AG-1037C",
@@ -7465,7 +7493,7 @@
       "competitor_url": "https://japanelectronics.com.pk/products/indicator-lamp-sandwich-maker-anex",
       "match_confidence": 87.3,
       "status": "matched",
-      "price_diff": 665.0,
+      "price_diff": 365.0,
       "cheaper": "competitor"
     },
     {
@@ -7512,7 +7540,7 @@
     },
     {
       "product_name": "Anex Meat Mincer AG-2049",
-      "my_price": 23000.0,
+      "my_price": 25000.0,
       "my_available": true,
       "my_url": "https://bismillahelectronics.pk/products/anex-meat-mincer-ag-2049",
       "competitor_name": null,
@@ -7526,7 +7554,7 @@
     },
     {
       "product_name": "Anex Meat Mincer AG-2048",
-      "my_price": 20800.0,
+      "my_price": 22800.0,
       "my_available": true,
       "my_url": "https://bismillahelectronics.pk/products/anex-meat-mincer-ag-2048",
       "competitor_name": null,
@@ -7918,7 +7946,7 @@
     },
     {
       "product_name": "Anex Deep Fryer AG-2012",
-      "my_price": 21525.0,
+      "my_price": 20525.0,
       "my_available": true,
       "my_url": "https://bismillahelectronics.pk/products/anex-deep-fryer-ag-2012",
       "competitor_name": "ANEX Deep Fryer AG-2012",
@@ -7927,7 +7955,7 @@
       "competitor_url": "https://japanelectronics.com.pk/products/anex-deep-fryer-ag-2012",
       "match_confidence": 87.0,
       "status": "matched",
-      "price_diff": 3625.0,
+      "price_diff": 2625.0,
       "cheaper": "competitor"
     },
     {
@@ -8100,7 +8128,7 @@
     },
     {
       "product_name": "Kenwood Refrigerator Krf-Invertech 23357/280-L (GD)",
-      "my_price": 93000.0,
+      "my_price": 95000.0,
       "my_available": true,
       "my_url": "https://bismillahelectronics.pk/products/kenwood-refrigerator-krf-invertech-23357-280-l-gd",
       "competitor_name": "Kenwood Ref Krf-Invertech 23357/280-L (GD) MRG",
@@ -8109,8 +8137,8 @@
       "competitor_url": "https://japanelectronics.com.pk/products/kenwood-ref-krf-invertech-23357-280-l-gd-mrg",
       "match_confidence": 86.6,
       "status": "matched",
-      "price_diff": -2000.0,
-      "cheaper": "us"
+      "price_diff": 0.0,
+      "cheaper": "same"
     },
     {
       "product_name": "Haier Refrigerator HRF-418 IFR",
@@ -10928,7 +10956,7 @@
     },
     {
       "product_name": "Anex Electric Oven AG-3070",
-      "my_price": 28870.0,
+      "my_price": 38870.0,
       "my_available": true,
       "my_url": "https://bismillahelectronics.pk/products/anex-electric-oven-ag-3070",
       "competitor_name": "Anex Electric Kettle 4057",
@@ -10937,7 +10965,7 @@
       "competitor_url": "https://japanelectronics.com.pk/products/anex-electric-kettle-4057",
       "match_confidence": 70.6,
       "status": "matched",
-      "price_diff": 22370.0,
+      "price_diff": 32370.0,
       "cheaper": "competitor"
     },
     {
@@ -12832,7 +12860,7 @@
     },
     {
       "product_name": "Kenwood Refrigerator KRF-25557/400-L Invertech (GD)",
-      "my_price": 116000.0,
+      "my_price": 118000.0,
       "my_available": true,
       "my_url": "https://bismillahelectronics.pk/products/kenwood-refrigerator-krf-25557-400-l-invertech-gd",
       "competitor_name": "Kenwood Ref KRF-25657/453-L (GD) Smart Inverter MRG",
@@ -12841,7 +12869,7 @@
       "competitor_url": "https://japanelectronics.com.pk/products/kenwood-ref-krf-25657-453-l-gd-smart-inverter-mrg",
       "match_confidence": 76.5,
       "status": "matched",
-      "price_diff": -6000.0,
+      "price_diff": -4000.0,
       "cheaper": "us"
     },
     {
@@ -16668,7 +16696,7 @@
     },
     {
       "product_name": "Dawlance Blender DWTB-510 W",
-      "my_price": 11500.0,
+      "my_price": 13500.0,
       "my_available": true,
       "my_url": "https://bismillahelectronics.pk/products/dawlance-table-top-blender-dwtb-510-w",
       "competitor_name": "Dawlance Blender DWTB-510 W",
@@ -16677,7 +16705,7 @@
       "competitor_url": "https://japanelectronics.com.pk/products/dawlance-blender-dwtb-510-w",
       "match_confidence": 100.0,
       "status": "matched",
-      "price_diff": 400.0,
+      "price_diff": 2400.0,
       "cheaper": "competitor"
     },
     {
@@ -16794,7 +16822,7 @@
     },
     {
       "product_name": "Kenwood Double Washing Machine KWM-231159",
-      "my_price": 37100.0,
+      "my_price": 40000.0,
       "my_available": true,
       "my_url": "https://bismillahelectronics.pk/products/kenwood-double-washing-machine-kwm-231159",
       "competitor_name": "Kenwood Washing Machine KWM-899W",
@@ -16803,12 +16831,12 @@
       "competitor_url": "https://japanelectronics.com.pk/products/kenwood-washing-machine-kwm-899w",
       "match_confidence": 79.5,
       "status": "matched",
-      "price_diff": 14100.0,
+      "price_diff": 17000.0,
       "cheaper": "competitor"
     },
     {
       "product_name": "Kenwood Double Washing Machine KWM-21159 SAG",
-      "my_price": 37600.0,
+      "my_price": 40000.0,
       "my_available": true,
       "my_url": "https://bismillahelectronics.pk/products/kenwood-double-washing-machine-kwm-21159-sag",
       "competitor_name": "Kenwood Washing Machine KWM-899W",
@@ -16817,7 +16845,7 @@
       "competitor_url": "https://japanelectronics.com.pk/products/kenwood-washing-machine-kwm-899w",
       "match_confidence": 76.3,
       "status": "matched",
-      "price_diff": 14600.0,
+      "price_diff": 17000.0,
       "cheaper": "competitor"
     },
     {
@@ -17886,7 +17914,7 @@
     },
     {
       "product_name": "Westpoint Juicer Blender Grinder WF-8823",
-      "my_price": 11700.0,
+      "my_price": 13700.0,
       "my_available": true,
       "my_url": "https://bismillahelectronics.pk/products/westpoint-juicer-with-blender-and-grinder-wf-8923",
       "competitor_name": "Westpoint Blender & Grinder WF-367",
@@ -17895,7 +17923,7 @@
       "competitor_url": "https://japanelectronics.com.pk/products/westpoint-blender-grinder-wf-367",
       "match_confidence": 81.1,
       "status": "matched",
-      "price_diff": -6800.0,
+      "price_diff": -4800.0,
       "cheaper": "us"
     },
     {
@@ -18698,7 +18726,7 @@
     },
     {
       "product_name": "Pel Deep Freezer PDF-155 APF",
-      "my_price": 93500.0,
+      "my_price": 95900.0,
       "my_available": true,
       "my_url": "https://bismillahelectronics.pk/products/pel-deep-freezer-pdf-155-apf",
       "competitor_name": "Haier Deep Freezer HDF-545DD",
@@ -18707,7 +18735,7 @@
       "competitor_url": "https://japanelectronics.com.pk/products/haier-deep-freezer-hdf-545dd",
       "match_confidence": 71.4,
       "status": "matched",
-      "price_diff": -32000.0,
+      "price_diff": -29600.0,
       "cheaper": "us"
     },
     {
@@ -18908,7 +18936,7 @@
     },
     {
       "product_name": "Pel Double Washing Machine PWM-1050 T",
-      "my_price": 49500.0,
+      "my_price": 40900.0,
       "my_available": true,
       "my_url": "https://bismillahelectronics.pk/products/pel-double-washing-machine-pwm-1050-t",
       "competitor_name": "Royal Washing Machine RWM-1010",
@@ -18917,7 +18945,7 @@
       "competitor_url": "https://japanelectronics.com.pk/products/royal-washing-machine-rwm-1010",
       "match_confidence": 71.6,
       "status": "matched",
-      "price_diff": 23600.0,
+      "price_diff": 15000.0,
       "cheaper": "competitor"
     },
     {

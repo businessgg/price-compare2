@@ -1,5 +1,89 @@
 [
   {
+    "name": "LG Auto Wash T65S1TDDT2 Top Load",
+    "price": 106000.0,
+    "url": "https://bismillahelectronics.pk/products/lg-auto-wash-t65s1tddt2-top-load",
+    "available": true
+  },
+  {
+    "name": "LG Auto Wash F4V5RGP2T Front Load",
+    "price": 246000.0,
+    "url": "https://bismillahelectronics.pk/products/lg-auto-wash-f4v5rgp2t-front-load",
+    "available": true
+  },
+  {
+    "name": "LG Auto Wash F0Z9DFPK4 Front Load 20/10 KG",
+    "price": 410000.0,
+    "url": "https://bismillahelectronics.pk/products/lg-auto-wash-f0z9dfpk4-front-load-20-10-kg",
+    "available": true
+  },
+  {
+    "name": "LG Auto Wash F0Z6DRPK4 Front Load",
+    "price": 375000.0,
+    "url": "https://bismillahelectronics.pk/products/lg-auto-wash-f0z6drpk4-front-load",
+    "available": true
+  },
+  {
+    "name": "Black Rock Slice Toaster BR-TP201",
+    "price": 6500.0,
+    "url": "https://bismillahelectronics.pk/products/black-rock-slice-toaster-br-tp201",
+    "available": true
+  },
+  {
+    "name": "Samford Sandwich Maker SG 612",
+    "price": 6500.0,
+    "url": "https://bismillahelectronics.pk/products/samford-sandwich-maker-sg-612",
+    "available": true
+  },
+  {
+    "name": "Phlips Dry Iron GC-160/07",
+    "price": 10900.0,
+    "url": "https://bismillahelectronics.pk/products/phlips-dry-iron-gc-160-07",
+    "available": true
+  },
+  {
+    "name": "Binbazz Electric Sun Heater SG-777",
+    "price": 7900.0,
+    "url": "https://bismillahelectronics.pk/products/binbazz-electric-sun-heater-sg-777",
+    "available": true
+  },
+  {
+    "name": "Binbazz Chopper Bin-1005",
+    "price": 8500.0,
+    "url": "https://bismillahelectronics.pk/products/binbazz-chopper-bin-1005",
+    "available": true
+  },
+  {
+    "name": "Samford Coffee Machine SG 2027",
+    "price": 10500.0,
+    "url": "https://bismillahelectronics.pk/products/samford-coffee-machine-sg-2027",
+    "available": true
+  },
+  {
+    "name": "Silver Crest Garment Handheld Steamer SC-2950",
+    "price": 6900.0,
+    "url": "https://bismillahelectronics.pk/products/silver-crest-garment-handheld-steamer-sc-2950",
+    "available": true
+  },
+  {
+    "name": "LG 9kg Front Load Washing Machine F4Y2VYPYJ",
+    "price": 194900.0,
+    "url": "https://bismillahelectronics.pk/products/lg-9kg-front-load-washing-machine-f4y2vypyj",
+    "available": true
+  },
+  {
+    "name": "Green Heater 888 2 IN 1",
+    "price": 14300.0,
+    "url": "https://bismillahelectronics.pk/products/green-heater-888-2-in-1",
+    "available": true
+  },
+  {
+    "name": "Xiaomi LED TV 55 Inch 55A2026 (Q LED)",
+    "price": 141900.0,
+    "url": "https://bismillahelectronics.pk/products/xiaomi-led-tv-55-inch-55a2026-q-led",
+    "available": true
+  },
+  {
     "name": "Kenwood Refrigerator KRF-24457VCM Pearl Inverter",
     "price": 90000.0,
     "url": "https://bismillahelectronics.pk/products/kenwood-refrigerator-krf-24457vcm-pearl-inverter",
@@ -991,7 +1075,7 @@
   },
   {
     "name": "Dawlance Ref 9160 WB AVANTE PEARL RED (GD)",
-    "price": 82700.0,
+    "price": 70900.0,
     "url": "https://bismillahelectronics.pk/products/dawlance-ref-9160-wb-avante-pearl-red-gd",
     "available": true
   },
@@ -1045,7 +1129,7 @@
   },
   {
     "name": "Westpoint Electric Heater WF 4307",
-    "price": 10500.0,
+    "price": 13500.0,
     "url": "https://bismillahelectronics.pk/products/westpoint-electric-heater-wf-4307",
     "available": true
   },
@@ -1471,7 +1555,7 @@
   },
   {
     "name": "Haier Washing Machiing HWM 80-1217E",
-    "price": 21500.0,
+    "price": 21000.0,
     "url": "https://bismillahelectronics.pk/products/haier-washing-machiing-hwm-80-1217e",
     "available": true
   },
@@ -3937,7 +4021,7 @@
   },
   {
     "name": "NasGas Semi Instant Electric Geyser SEM-100",
-    "price": 18500.0,
+    "price": 13900.0,
     "url": "https://bismillahelectronics.pk/products/nasgas-semi-instant-electric-geyser-sem-100",
     "available": true
   },
@@ -6019,7 +6103,7 @@
   },
   {
     "name": "EcoStar LED TV 40 Inch CX-40Q874 (Q LED)",
-    "price": 64900.0,
+    "price": 58900.0,
     "url": "https://bismillahelectronics.pk/products/eco-star-led-tv-40-inch-cx-40q874-q-led",
     "available": true
   },

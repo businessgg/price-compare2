@@ -357,7 +357,7 @@
     "name": "Haier LED 50\" 50S81GFX (QLED)",
     "price": 91000.0,
     "url": "https://japanelectronics.com.pk/products/haier-led-50-50s81gfx-qled",
-    "available": true
+    "available": false
   },
   {
     "name": "ECOSTAR LED 58\" CX-58Q968 (Q-LED)",
@@ -1455,7 +1455,7 @@
     "name": "NASGAS KITCHEN HOB (DG-1428 SS)",
     "price": 23050.0,
     "url": "https://japanelectronics.com.pk/products/nasgas-kitchen-hob-dg-1428-ss",
-    "available": false
+    "available": true
   },
   {
     "name": "NASGAS KITCHEN HOB (DG-1530 SS)",
@@ -3621,7 +3621,7 @@
     "name": "Nasgas Room Air Cooler NAC-2100 (Inverter)",
     "price": 23500.0,
     "url": "https://japanelectronics.com.pk/products/nasgas-room-air-cooler-nac-2100-inverter",
-    "available": true
+    "available": false
   },
   {
     "name": "Haier Ref HRF-538TIFG1U1 (IOT)",
@@ -5871,7 +5871,7 @@
     "name": "Dawlance Automatic Washing Machine DWT-11671 FLT",
     "price": 78000.0,
     "url": "https://japanelectronics.com.pk/products/dawlance-automatic-washing-machine-dwt-11671-flt",
-    "available": true
+    "available": false
   },
   {
     "name": "Dawlance LED TV 55 Inch G3A Pro",
@@ -6139,7 +6139,7 @@
   },
   {
     "name": "Nasgas Stove DG-1088 Super Dlx",
-    "price": 5750.0,
+    "price": 6100.0,
     "url": "https://japanelectronics.com.pk/products/nasgas-stove-dg-1088-super-dlx",
     "available": true
   },
@@ -6591,7 +6591,7 @@
     "name": "Dawlance TAWM (DWT-255 White)",
     "price": 58500.0,
     "url": "https://japanelectronics.com.pk/products/dawlance-tawm-dwt-255-white",
-    "available": true
+    "available": false
   },
   {
     "name": "Pel Ref (PRGD-1400 EWSD) Pattern Mirror",
@@ -6903,7 +6903,7 @@
     "name": "Canon Instant Gas Geyser 24D - Dual",
     "price": 39900.0,
     "url": "https://japanelectronics.com.pk/products/canon-instant-gas-geyser-24d-dual",
-    "available": true
+    "available": false
   },
   {
     "name": "Canon Instant Gas Geyser 20D+ Dual",
@@ -7171,7 +7171,7 @@
   },
   {
     "name": "ANEX Kitchen Robot (AG-3159)",
-    "price": 36500.0,
+    "price": 40700.0,
     "url": "https://japanelectronics.com.pk/products/anex-kitchen-robot-ag-3159",
     "available": true
   },
@@ -7279,7 +7279,7 @@
   },
   {
     "name": "NASGAS COOKING RANGE DG-430",
-    "price": 54735.0,
+    "price": 56615.0,
     "url": "https://japanelectronics.com.pk/products/nasgas-cooking-range-dg-430",
     "available": true
   },
@@ -7437,7 +7437,7 @@
     "name": "Kenwood Refrigerator Krf-Invertech-25557/400-L (GD) Mirror",
     "price": 118000.0,
     "url": "https://japanelectronics.com.pk/products/kenwood-refrigerator-krf-invertech-25557-400-l-gd-mirror",
-    "available": false
+    "available": true
   },
   {
     "name": "Kenwood Refrigerator Krf-Invertech-25557/400-L (GD) MRG",
@@ -7455,7 +7455,7 @@
     "name": "Kenwood Refrigerator Krf-Invertech-26657/480-L (GD) MRG",
     "price": 125000.0,
     "url": "https://japanelectronics.com.pk/products/kenwood-refrigerator-krf-invertech-26657-480-l-gd-mrg",
-    "available": true
+    "available": false
   },
   {
     "name": "Dawlance Refrigerator 9193 LF Avante + Silky Red (GD INV) IOT WIFI",
@@ -7623,7 +7623,7 @@
     "name": "Beetro Electric & Gas Geyser 25 Gallon (FEG-25 16/12 Gauge)",
     "price": 59000.0,
     "url": "https://japanelectronics.com.pk/products/beetro-electric-gas-geyser-25-gallon-feg-25-16-12-gauge",
-    "available": false
+    "available": true
   },
   {
     "name": "Beetro Electric & Gas Geyser 35 Gallon (FEG-35 14/12 Gauge)",
@@ -7743,7 +7743,7 @@
     "name": "Homage Washing Machine HW-49102 Glass Gray Diamond",
     "price": 33400.0,
     "url": "https://japanelectronics.com.pk/products/homage-washing-machine-hw-49102-glass-gray-diamond",
-    "available": false
+    "available": true
   },
   {
     "name": "Haier LED 43\" 43S81EUX (Q LED)",
@@ -8415,7 +8415,7 @@
     "name": "Black & Decker Food Processor FX-822",
     "price": 29000.0,
     "url": "https://japanelectronics.com.pk/products/black-decker-food-processor-fx-822",
-    "available": true
+    "available": false
   },
   {
     "name": "Braun Power Blender (JB 7550 Black)",
@@ -8469,7 +8469,7 @@
     "name": "Dawlance REF 9173 WB E-Chrome Metallic Grey",
     "price": 81500.0,
     "url": "https://japanelectronics.com.pk/products/dawlance-ref-9173-wb-e-chrome-metallic-grey",
-    "available": true
+    "available": false
   },
   {
     "name": "LG Dish Washer (DFC513FV Silver)",
@@ -8997,7 +8997,7 @@
     "name": "Haier Microwave Oven (HMW-20DSS)",
     "price": 18000.0,
     "url": "https://japanelectronics.com.pk/products/haier-microwave-oven-hmw-20dss",
-    "available": false
+    "available": true
   },
   {
     "name": "Dawlance Microwave Oven (DW-395 HCG)",
@@ -9069,7 +9069,7 @@
     "name": "Hitachi Vacuum Cleaner CV-960F",
     "price": 45900.0,
     "url": "https://japanelectronics.com.pk/products/hitachi-vacuum-cleaner-cv-960f",
-    "available": false
+    "available": true
   },
   {
     "name": "Sony Sound Bar HT-S40R",
@@ -9219,7 +9219,7 @@
     "name": "ANEX 4 Slice Toaster (AG-3009)",
     "price": 12300.0,
     "url": "https://japanelectronics.com.pk/products/anex-4-slice-toaster-ag-3009",
-    "available": false
+    "available": true
   },
   {
     "name": "ANEX 4 Slice Toaster (AG-3007 SS & Plastic)",
@@ -10467,7 +10467,7 @@
     "name": "Haier LED 50\" 50S80EUX (Q LED)",
     "price": 107000.0,
     "url": "https://japanelectronics.com.pk/products/haier-led-50-50s80eux-q-led",
-    "available": true
+    "available": false
   },
   {
     "name": "NasGas 10 Liter Semi Instant Electric Geyser SEM-101",
@@ -10779,7 +10779,7 @@
     "name": "Nasgas Kitchen Hood KHD-330",
     "price": 34600.0,
     "url": "https://japanelectronics.com.pk/products/nasgas-kitchen-hood-khd-330",
-    "available": false
+    "available": true
   },
   {
     "name": "NASGAS Cooking Range ECO-534",
@@ -11473,7 +11473,7 @@
   },
   {
     "name": "Samsung A.W.M WA10CK4545BYRT",
-    "price": 119999.0,
+    "price": 130000.0,
     "url": "https://japanelectronics.com.pk/products/samsung-a-w-m-wa10ck4545byrt",
     "available": true
   },
@@ -12097,7 +12097,7 @@
   },
   {
     "name": "NASGAS Hob DG-222 BK",
-    "price": 19900.0,
+    "price": 20510.0,
     "url": "https://japanelectronics.com.pk/products/nasgas-hob-dg-222-bk",
     "available": true
   },
@@ -12283,7 +12283,7 @@
   },
   {
     "name": "WestPoint Food Processor WF-8819",
-    "price": 33900.0,
+    "price": 37500.0,
     "url": "https://japanelectronics.com.pk/products/westpoint-food-processor-wf-8819",
     "available": true
   },
@@ -12643,7 +12643,7 @@
   },
   {
     "name": "NASGAS COOKING RANGE NG-786 MERCURY GLASS 5 BURNERS",
-    "price": 80240.0,
+    "price": 83540.0,
     "url": "https://japanelectronics.com.pk/products/nasgas-cooking-range-ng-786-mercury-glass-5-burners",
     "available": true
   },
@@ -12807,7 +12807,7 @@
     "name": "NASGAS COOKING RANGE DG-534 5 BURNERS",
     "price": 57450.0,
     "url": "https://japanelectronics.com.pk/products/nasgas-cooking-range-dg-534-5-burners",
-    "available": false
+    "available": true
   },
   {
     "name": "ANEX Kettle AG-4048",
@@ -12817,7 +12817,7 @@
   },
   {
     "name": "Nasgas Kitchen Hood KHD-275",
-    "price": 27300.0,
+    "price": 27520.0,
     "url": "https://japanelectronics.com.pk/products/nasgas-kitchen-hood-khd-275-digital-75cm",
     "available": true
   },

@@ -1,5 +1,11 @@
 [
   {
+    "name": "TCL LED TV 75C8L (Mini LED)",
+    "price": 771000.0,
+    "url": "https://japanelectronics.com.pk/products/tcl-led-tv-75c8l-mini-led",
+    "available": false
+  },
+  {
     "name": "West point Deluxe Air Fryer WF-3256",
     "price": 16900.0,
     "url": "https://japanelectronics.com.pk/products/west-point-deluxe-air-fryer-wf-3256",
@@ -583,7 +589,7 @@
   },
   {
     "name": "Haier TAWM (HWM 100-1269S6 Grey)",
-    "price": 52000.0,
+    "price": 48900.0,
     "url": "https://japanelectronics.com.pk/products/haier-tawm-hwm-100-1269s6-grey",
     "available": true
   },
@@ -645,7 +651,7 @@
     "name": "Haier TAWM (HWM-110-B688S8)",
     "price": 79000.0,
     "url": "https://japanelectronics.com.pk/products/haier-tawm-hwm-110-b688s8",
-    "available": true
+    "available": false
   },
   {
     "name": "Haier FAWM (HW 90-BP12357S8)",
@@ -795,7 +801,7 @@
     "name": "PEL Ref (PRINVOFGD-6470 Maroon Blaze) Flat Glass Inverteron",
     "price": 107900.0,
     "url": "https://japanelectronics.com.pk/products/pel-ref-prinvofgd-6470-maroon-blaze-flat-glass-inverteron",
-    "available": true
+    "available": false
   },
   {
     "name": "PEL Ref (PRINVOFGD-6370 Hazel Red Blaze) Flat Glass Inverteron",
@@ -1257,7 +1263,7 @@
     "name": "Dawlance REF 9178 LF Icemax Mist Green",
     "price": 95000.0,
     "url": "https://japanelectronics.com.pk/products/dawlance-ref-9178-lf-icemax-mist-green",
-    "available": false
+    "available": true
   },
   {
     "name": "Dawlance REF 9173 WB Icemax Mist Green",
@@ -2017,13 +2023,13 @@
   },
   {
     "name": "Kenwood Split AC Inverter 1.0 Ton KGP-12C03S T3 (Glory Plus)",
-    "price": 110000.0,
+    "price": 98999.0,
     "url": "https://japanelectronics.com.pk/products/kenwood-split-ac-inverter-1-0-ton-kgp-12c03s-t3-glory-plus",
     "available": true
   },
   {
     "name": "Kenwood Split AC Inverter 1.0 Ton KGP-12C01S T3 (Glory Pro)",
-    "price": 110000.0,
+    "price": 98999.0,
     "url": "https://japanelectronics.com.pk/products/kenwood-split-ac-inverter-1-0-ton-kgp-12c01s-t3-glory-pro",
     "available": true
   },
@@ -2137,7 +2143,7 @@
   },
   {
     "name": "HISENSE LED 55\" 55A6N (4K UHD)",
-    "price": 115000.0,
+    "price": 109900.0,
     "url": "https://japanelectronics.com.pk/products/hisense-led-55-55a6n-4k-uhd",
     "available": true
   },
@@ -2473,7 +2479,7 @@
   },
   {
     "name": "Enviro Microwave Oven (ENR-20XM19 20Ltr)",
-    "price": 12900.0,
+    "price": 11500.0,
     "url": "https://japanelectronics.com.pk/products/enviro-microwave-oven-enr-20xm19-20ltr",
     "available": false
   },
@@ -3553,13 +3559,13 @@
   },
   {
     "name": "TCL SPLIT AC INVERTER 1.5 TON TAC-18SVN-EX-31W",
-    "price": 128000.0,
+    "price": 114900.0,
     "url": "https://japanelectronics.com.pk/products/tcl-split-ac-inverter-1-5-ton-tac-18svn-ex-31w",
     "available": true
   },
   {
     "name": "Enviro Microwave Oven (ENR-20XM18 20Ltr)",
-    "price": 12900.0,
+    "price": 11500.0,
     "url": "https://japanelectronics.com.pk/products/enviro-microwave-oven-enr-20xm18-20ltr",
     "available": false
   },
@@ -4509,7 +4515,7 @@
     "name": "Philips Air Fryer (NA-110)",
     "price": 25900.0,
     "url": "https://japanelectronics.com.pk/products/philips-air-fryer-na-110",
-    "available": false
+    "available": true
   },
   {
     "name": "Beetro Air Fryer (BAF-401 Digital)",
@@ -6391,7 +6397,7 @@
   },
   {
     "name": "Xiaomi LED 55\" 55A PRO 2026",
-    "price": 131900.0,
+    "price": 121000.0,
     "url": "https://japanelectronics.com.pk/products/xiaomi-led-55-55a-pro-2026",
     "available": true
   },
@@ -6445,9 +6451,9 @@
   },
   {
     "name": "Haier Spinner HWS 60-50 (Cyan Black)",
-    "price": 17500.0,
+    "price": 18500.0,
     "url": "https://japanelectronics.com.pk/products/haier-spinner-hws-60-50-cyan-black",
-    "available": true
+    "available": false
   },
   {
     "name": "Haier Split AC Inverter 1.5 Ton HSU-19HFPAA (Black)",
@@ -6681,7 +6687,7 @@
     "name": "Kenwood Microwave Oven (MMWP-29.000BK 30Ltr)",
     "price": 49900.0,
     "url": "https://japanelectronics.com.pk/products/kenwood-microwave-oven-mmwp-29-000bk-30ltr",
-    "available": true
+    "available": false
   },
   {
     "name": "Xiaomi LED 32\" 32A 2026",
@@ -8047,7 +8053,7 @@
   },
   {
     "name": "Haier LED 55\" 55M80FUX",
-    "price": 150500.0,
+    "price": 150000.0,
     "url": "https://japanelectronics.com.pk/products/haier-led-55-55m80fux",
     "available": true
   },
@@ -8437,7 +8443,7 @@
   },
   {
     "name": "Panasonic Blender & Grinder (MX-EG-3351B)",
-    "price": 17900.0,
+    "price": 14999.0,
     "url": "https://japanelectronics.com.pk/products/panasonic-blender-grinder-mx-eg-3351b",
     "available": true
   },
@@ -8959,7 +8965,7 @@
   },
   {
     "name": "Philips Garment Steamer STE-1020/46",
-    "price": 24900.0,
+    "price": 22900.0,
     "url": "https://japanelectronics.com.pk/products/philips-garment-steamer-ste-1020-46",
     "available": true
   },
@@ -9099,7 +9105,7 @@
     "name": "Enviro Microwave Oven (ENR-20XM14 20Ltr) Warmer",
     "price": 16499.0,
     "url": "https://japanelectronics.com.pk/products/enviro-microwave-oven-enr-20xm14-20ltr-warmer",
-    "available": false
+    "available": true
   },
   {
     "name": "Super Asia TAWM (SA-812 I Graphite) Auto Inverter Metal",
@@ -9501,7 +9507,7 @@
     "name": "Dawlance W.M (DW-7200 CB FL) Single Tub",
     "price": 26900.0,
     "url": "https://japanelectronics.com.pk/products/dawlance-w-m-dw-7200-cb-fl-single-tub",
-    "available": true
+    "available": false
   },
   {
     "name": "Dawlance W.M (DW-7200 WB FL)",
@@ -9553,7 +9559,7 @@
   },
   {
     "name": "Haier TAWM (HWM 100-1678ES8)",
-    "price": 65300.0,
+    "price": 67400.0,
     "url": "https://japanelectronics.com.pk/products/haier-tawm-hwm-100-1678es8",
     "available": false
   },
@@ -10201,7 +10207,7 @@
   },
   {
     "name": "Kenwood Split AC Inverter 1.5 Ton KES-1873s",
-    "price": 128000.0,
+    "price": 116900.0,
     "url": "https://japanelectronics.com.pk/products/kenwood-split-ac-inverter-1-5-ton-kes-1873s",
     "available": true
   },
@@ -11737,7 +11743,7 @@
   },
   {
     "name": "Haier Washing Machine HTW-110-186",
-    "price": 38500.0,
+    "price": 40600.0,
     "url": "https://japanelectronics.com.pk/products/haier-washing-machine-htw-110-186",
     "available": false
   },
@@ -11761,7 +11767,7 @@
   },
   {
     "name": "Haier A.W.M HWM95-1678ES8",
-    "price": 77400.0,
+    "price": 79400.0,
     "url": "https://japanelectronics.com.pk/products/haier-a-w-m-hwm95-1678es8",
     "available": false
   },
@@ -12067,7 +12073,7 @@
   },
   {
     "name": "Remington Hair Dryer D3010",
-    "price": 7950.0,
+    "price": 7600.0,
     "url": "https://japanelectronics.com.pk/products/remington-hair-dryer-d3010",
     "available": true
   },
@@ -12147,7 +12153,7 @@
     "name": "Dawlance Split AC Inverter 1.5 Ton DAC-Mega Flex 30",
     "price": 155000.0,
     "url": "https://japanelectronics.com.pk/products/dawlance-split-ac-inverter-1-5-ton-dac-mega-flex-30",
-    "available": false
+    "available": true
   },
   {
     "name": "Dawlance Split AC Inverter 1.5 Ton DAC-Magna 30 (Textured White)",
@@ -12181,7 +12187,7 @@
   },
   {
     "name": "Haier A.W.M HWD 105-B14959S8U1",
-    "price": 228900.0,
+    "price": 229900.0,
     "url": "https://japanelectronics.com.pk/products/haier-a-w-m-hwd-105-b14959s8u1",
     "available": false
   },
@@ -12193,7 +12199,7 @@
   },
   {
     "name": "Haier A.W.M HW 105-B14959S8U1",
-    "price": 189900.0,
+    "price": 199900.0,
     "url": "https://japanelectronics.com.pk/products/haier-a-w-m-hw-105-b14959s8u1",
     "available": false
   },

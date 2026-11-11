@@ -1,9 +1,9 @@
 {
-  "last_updated": "2026-11-11T02:25:43.265243+00:00",
+  "last_updated": "2026-11-11T10:03:55.790423+00:00",
   "my_store_name": "Bismillah Electronics",
   "competitor_name": "Japan Electronics",
   "total_my_products": 1415,
-  "total_competitor_products": 2158,
+  "total_competitor_products": 2157,
   "matched_count": 987,
   "results": [
     {
@@ -20049,20 +20049,6 @@
       "competitor_price": 21500.0,
       "competitor_available": false,
       "competitor_url": "https://japanelectronics.com.pk/products/kenwood-microwave-oven-mwp-20-030si-20ltr",
-      "match_confidence": 0,
-      "status": "only_competitor",
-      "price_diff": null,
-      "cheaper": null
-    },
-    {
-      "product_name": "Enviro Microwave Oven (ENR-20XM20 20Ltr) Warmer",
-      "my_price": null,
-      "my_available": null,
-      "my_url": null,
-      "competitor_name": "Enviro Microwave Oven (ENR-20XM20 20Ltr) Warmer",
-      "competitor_price": 10900.0,
-      "competitor_available": true,
-      "competitor_url": "https://japanelectronics.com.pk/products/enviro-microwave-oven-enr-20xm20-20ltr-warmer",
       "match_confidence": 0,
       "status": "only_competitor",
       "price_diff": null,

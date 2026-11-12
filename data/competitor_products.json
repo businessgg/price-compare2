@@ -1,5 +1,11 @@
 [
   {
+    "name": "Enviro Microwave Oven (ENR-20XM20 20Ltr) Warmer",
+    "price": 11500.0,
+    "url": "https://japanelectronics.com.pk/products/enviro-microwave-oven-enr-20xm20-20ltr-warmer",
+    "available": true
+  },
+  {
     "name": "TCL LED TV 75C8L (Mini LED)",
     "price": 771000.0,
     "url": "https://japanelectronics.com.pk/products/tcl-led-tv-75c8l-mini-led",
@@ -7171,7 +7177,7 @@
   },
   {
     "name": "ANEX Kitchen Robot (AG-3159)",
-    "price": 40700.0,
+    "price": 36500.0,
     "url": "https://japanelectronics.com.pk/products/anex-kitchen-robot-ag-3159",
     "available": true
   },
@@ -8287,9 +8293,9 @@
   },
   {
     "name": "Beetro Fast Electric Geyser FFE-15 (15 Ltr)",
-    "price": 26000.0,
+    "price": 14900.0,
     "url": "https://japanelectronics.com.pk/products/beetro-fast-electric-geyser-ffe-15-15-ltr",
-    "available": false
+    "available": true
   },
   {
     "name": "Philips Blender HR-2141",

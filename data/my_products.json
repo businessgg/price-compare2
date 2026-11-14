@@ -1,5 +1,107 @@
 [
   {
+    "name": "Haier Ref HRF-316 IFG (Green)",
+    "price": 96000.0,
+    "url": "https://bismillahelectronics.pk/products/haier-ref-hrf-316-ifg-green",
+    "available": true
+  },
+  {
+    "name": "Haier Microwave oven 30INVAF",
+    "price": 56000.0,
+    "url": "https://bismillahelectronics.pk/products/haier-microwave-oven-30invaf",
+    "available": true
+  },
+  {
+    "name": "Haier Led 75\" 75S85GUX",
+    "price": 297000.0,
+    "url": "https://bismillahelectronics.pk/products/haier-led-75-75s85gux",
+    "available": true
+  },
+  {
+    "name": "Haier Led 65\" 65S85GUX",
+    "price": 202000.0,
+    "url": "https://bismillahelectronics.pk/products/haier-led-65-65s85gux",
+    "available": true
+  },
+  {
+    "name": "Haier Led 55\" 55S85GUX",
+    "price": 140000.0,
+    "url": "https://bismillahelectronics.pk/products/haier-led-55-55s85gux",
+    "available": true
+  },
+  {
+    "name": "Haier Led 50\" 50S81EUX",
+    "price": 107000.0,
+    "url": "https://bismillahelectronics.pk/products/haier-led-50-50s81eux",
+    "available": true
+  },
+  {
+    "name": "Haier Led 50\" 50K85GUX",
+    "price": 100000.0,
+    "url": "https://bismillahelectronics.pk/products/haier-led-50-50k85gux",
+    "available": true
+  },
+  {
+    "name": "Haier AC 1.5 Ton Inverter HSU-20HJ T3",
+    "price": 230000.0,
+    "url": "https://bismillahelectronics.pk/products/haier-ac-1-5-ton-inverter-hsu-20hj-t3",
+    "available": true
+  },
+  {
+    "name": "Dawlance Water Dispenser 1034 Bottom Load",
+    "price": 47500.0,
+    "url": "https://bismillahelectronics.pk/products/dawlance-water-dispenser-1034-bottom-load",
+    "available": true
+  },
+  {
+    "name": "Dawlance Ref 91999 Chrome Pro Hairline Silver",
+    "price": 121000.0,
+    "url": "https://bismillahelectronics.pk/products/dawlance-ref-91999-chrome-pro-hairline-silver",
+    "available": true
+  },
+  {
+    "name": "Dawlance Ref 9193 LF Avante + Cloud White (GD INV)",
+    "price": 122000.0,
+    "url": "https://bismillahelectronics.pk/products/dawlance-ref-9193-lf-avante-cloud-white-gd-inv",
+    "available": true
+  },
+  {
+    "name": "Dawlance Ref 9191 LF Avante + Cloud White (GD INV)",
+    "price": 117000.0,
+    "url": "https://bismillahelectronics.pk/products/dawlance-ref-9191-lf-avante-cloud-white-gd-inv",
+    "available": true
+  },
+  {
+    "name": "Dawlance Ref DSS-9055 Side By Side Inverter No Frost INV GD",
+    "price": 268000.0,
+    "url": "https://bismillahelectronics.pk/products/dawlance-ref-dss-9055-side-by-side-inverter-no-frost-inv-gd",
+    "available": true
+  },
+  {
+    "name": "Dawlance Led 65\" 65 PRISMAX",
+    "price": 180600.0,
+    "url": "https://bismillahelectronics.pk/products/dawlance-led-65-65-prismax",
+    "available": true
+  },
+  {
+    "name": "Dawlance Led 50\" 50PRISMAX QLED",
+    "price": 109000.0,
+    "url": "https://bismillahelectronics.pk/products/dawlance-led-50-50prismax-qled",
+    "available": true
+  },
+  {
+    "name": "Dawlance Deep Freezer 1035 AVANTE+ VERTICAL CLOUD WHITE",
+    "price": 107000.0,
+    "url": "https://bismillahelectronics.pk/products/dawlance-deep-freezer-1035-avante-vertical-cloud-white",
+    "available": true
+  },
+  {
+    "name": "Dawlance AC 1.5 Ton Inverter Mega T-PRO-30",
+    "price": 165000.0,
+    "url": "https://bismillahelectronics.pk/products/dawlance-ac-1-5-ton-inverter-mega-t-pro-30",
+    "available": true
+  },
+  {
     "name": "LG Auto Wash T65S1TDDT2 Top Load",
     "price": 106000.0,
     "url": "https://bismillahelectronics.pk/products/lg-auto-wash-t65s1tddt2-top-load",
@@ -1603,7 +1705,7 @@
   },
   {
     "name": "Haier Auto Wash Front Load HW-120-BP12357S8",
-    "price": 170000.0,
+    "price": 210000.0,
     "url": "https://bismillahelectronics.pk/products/haier-auto-wash-front-load-hw-120-bp12357s8",
     "available": true
   },
@@ -3619,7 +3721,7 @@
   },
   {
     "name": "Dawlance No Frost Refrigerator DMD-7950 INV GD",
-    "price": 265000.0,
+    "price": 266000.0,
     "url": "https://bismillahelectronics.pk/products/dawlance-no-frost-refrigerator-dmd-7950-inv-gd",
     "available": true
   },
@@ -5749,7 +5851,7 @@
   },
   {
     "name": "Dawlance No Frost Refrigerator DMD-9060 GD",
-    "price": 320000.0,
+    "price": 341000.0,
     "url": "https://bismillahelectronics.pk/products/dawlance-no-frost-refrigerator-dmd-9060-gd",
     "available": true
   },
@@ -8325,12 +8427,6 @@
     "name": "Dawlance Microwave DW 220 Solo Series",
     "price": 18250.0,
     "url": "https://bismillahelectronics.pk/products/dawlance-microwave-dw-220-solo-series",
-    "available": true
-  },
-  {
-    "name": "Dawlance Built-In Microwave Oven DBMO 25 BG",
-    "price": 52500.0,
-    "url": "https://bismillahelectronics.pk/products/microwave-dawlance-dbmo-25-bg",
     "available": true
   },
   {

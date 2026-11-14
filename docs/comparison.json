@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-14T14:39:43.238997+00:00",
+  "last_updated": "2026-11-14T19:37:36.638039+00:00",
   "my_store_name": "Bismillah Electronics",
   "competitor_name": "Japan Electronics",
   "total_my_products": 1430,
@@ -17662,7 +17662,7 @@
     },
     {
       "product_name": "Dawlance Dry Iron DWDI-1020",
-      "my_price": 8000.0,
+      "my_price": 9500.0,
       "my_available": true,
       "my_url": "https://bismillahelectronics.pk/products/dawlance-iron-dwdi-1020",
       "competitor_name": "Dawlance Dry Iron DWDI-1020 Black",
@@ -17671,7 +17671,7 @@
       "competitor_url": "https://japanelectronics.com.pk/products/dawlance-dry-iron-dwdi-1020-black",
       "match_confidence": 90.0,
       "status": "matched",
-      "price_diff": 500.0,
+      "price_diff": 2000.0,
       "cheaper": "competitor"
     },
     {

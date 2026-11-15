@@ -1,5 +1,65 @@
 [
   {
+    "name": "Haier Ref HRF-578 TGGU1 IOT SBS",
+    "price": 213000.0,
+    "url": "https://bismillahelectronics.pk/products/haier-ref-hrf-578-tggu1-iot-sbs",
+    "available": true
+  },
+  {
+    "name": "Binbazz Geyser YAS-25G Binbazz (E+G Twin) (2+5 Years) ELEMENT+TANK LEAKAGE",
+    "price": 47500.0,
+    "url": "https://bismillahelectronics.pk/products/binbazz-geyser-yas-25g-binbazz-e-g-twin-2-5-years-element-tank-leakage",
+    "available": true
+  },
+  {
+    "name": "Binbazz Geyser YAS-35G (E+G Twin) (2+5 Years) ELEMENT+TANK LEAKAGE",
+    "price": 56000.0,
+    "url": "https://bismillahelectronics.pk/products/binbazz-geyser-yas-35g-e-g-twin-2-5-years-element-tank-leakage",
+    "available": true
+  },
+  {
+    "name": "Haier Ref HRF-458 IFG (Green)",
+    "price": 119000.0,
+    "url": "https://bismillahelectronics.pk/products/haier-ref-hrf-458-ifg-green",
+    "available": true
+  },
+  {
+    "name": "Haier Ref HRF-418 IFP (Purple)",
+    "price": 114000.0,
+    "url": "https://bismillahelectronics.pk/products/haier-ref-hrf-418-ifp-purple",
+    "available": true
+  },
+  {
+    "name": "Binbazz Instant Geyser Ch-712 Imported (1+6MONTHS YEARS HEAT EXCH+SERV)",
+    "price": 33500.0,
+    "url": "https://bismillahelectronics.pk/products/binbazz-instant-geyser-ch-712-imported-1-6months-years-heat-exch-serv",
+    "available": true
+  },
+  {
+    "name": "Canon Instant Geyser 20D Plus Dual",
+    "price": 37900.0,
+    "url": "https://bismillahelectronics.pk/products/canon-instant-geyser-20d-plus-dual",
+    "available": true
+  },
+  {
+    "name": "Nasgas E+G Geyser DEG-25 Heavy",
+    "price": 49000.0,
+    "url": "https://bismillahelectronics.pk/products/nasgas-e-g-geyser-deg-25-heavy",
+    "available": true
+  },
+  {
+    "name": "Nasgas E+G Geyser DEG-3030 FAST",
+    "price": 49450.0,
+    "url": "https://bismillahelectronics.pk/products/nasgas-e-g-geyser-deg-3030-fast",
+    "available": true
+  },
+  {
+    "name": "Nasgas E+G Geyser DEG-35 Heavy Super DLX",
+    "price": 58700.0,
+    "url": "https://bismillahelectronics.pk/products/nasgas-e-g-geyser-deg-35-heavy-super-dlx",
+    "available": true
+  },
+  {
     "name": "Haier Ref HRF-316 IFG (Green)",
     "price": 96000.0,
     "url": "https://bismillahelectronics.pk/products/haier-ref-hrf-316-ifg-green",
@@ -4218,14 +4278,8 @@
     "available": true
   },
   {
-    "name": "NasGas Electric & Gas Geyser DG-35 Dlx",
-    "price": 44700.0,
-    "url": "https://bismillahelectronics.pk/products/nasgas-electric-gas-geyser-dg-35-dlx",
-    "available": true
-  },
-  {
-    "name": "NasGas Electric & Gas Geyser DGE-35 Super Dlx",
-    "price": 48500.0,
+    "name": "Nasgas Electric & Gas Geyser DEG-35 Super Dlx",
+    "price": 48000.0,
     "url": "https://bismillahelectronics.pk/products/nasgas-electric-gas-geyser-dge-35-super-dlx",
     "available": true
   },

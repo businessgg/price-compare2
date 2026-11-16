@@ -1,11 +1,53 @@
 {
-  "last_updated": "2026-11-16T12:22:50.495146+00:00",
+  "last_updated": "2026-11-16T22:40:15.274478+00:00",
   "my_store_name": "Bismillah Electronics",
   "competitor_name": "Japan Electronics",
-  "total_my_products": 1448,
-  "total_competitor_products": 2159,
-  "matched_count": 1006,
+  "total_my_products": 1451,
+  "total_competitor_products": 2160,
+  "matched_count": 1008,
   "results": [
+    {
+      "product_name": "Pel Ref-22260 INVERTERON FLAT GLASS MAROON BLAZE",
+      "my_price": 119900.0,
+      "my_available": true,
+      "my_url": "https://bismillahelectronics.pk/products/pel-ref-22260-inverteron-flat-glass-maroon-blaze",
+      "competitor_name": null,
+      "competitor_price": null,
+      "competitor_available": null,
+      "competitor_url": null,
+      "match_confidence": 0,
+      "status": "only_us",
+      "price_diff": null,
+      "cheaper": null
+    },
+    {
+      "product_name": "Tcl LED 55\" 55C6K",
+      "my_price": 200500.0,
+      "my_available": true,
+      "my_url": "https://bismillahelectronics.pk/products/tcl-led-55-55c6k",
+      "competitor_name": "TCL LED 50\" 50C6K",
+      "competitor_price": 173500.0,
+      "competitor_available": true,
+      "competitor_url": "https://japanelectronics.com.pk/products/tcl-led-50-50c6k",
+      "match_confidence": 76.5,
+      "status": "matched",
+      "price_diff": 27000.0,
+      "cheaper": "competitor"
+    },
+    {
+      "product_name": "Tcl LED 55\" 55P8L",
+      "my_price": 177000.0,
+      "my_available": true,
+      "my_url": "https://bismillahelectronics.pk/products/tcl-led-55-55p8l",
+      "competitor_name": "TCL LED 55\" 55P8K (Q LED)",
+      "competitor_price": 160000.0,
+      "competitor_available": false,
+      "competitor_url": "https://japanelectronics.com.pk/products/tcl-led-55-55p8k-q-led",
+      "match_confidence": 71.4,
+      "status": "matched",
+      "price_diff": 17000.0,
+      "cheaper": "competitor"
+    },
     {
       "product_name": "Tcl LED 65\" 65P8L",
       "my_price": 246000.0,
@@ -20277,6 +20319,20 @@
       "status": "matched",
       "price_diff": 27100.0,
       "cheaper": "competitor"
+    },
+    {
+      "product_name": "Super Asia Instant Gas Geyser GH-206 DI",
+      "my_price": null,
+      "my_available": null,
+      "my_url": null,
+      "competitor_name": "Super Asia Instant Gas Geyser GH-206 DI",
+      "competitor_price": 18000.0,
+      "competitor_available": true,
+      "competitor_url": "https://japanelectronics.com.pk/products/super-asia-instant-gas-geyser-6ltrs-gh-206-di",
+      "match_confidence": 0,
+      "status": "only_competitor",
+      "price_diff": null,
+      "cheaper": null
     },
     {
       "product_name": "Enviro Microwave Oven (ENR-20XM20 20Ltr) Warmer",

@@ -1,5 +1,71 @@
 [
   {
+    "name": "Tcl LED 65\" 65P8L",
+    "price": 246000.0,
+    "url": "https://bismillahelectronics.pk/products/tcl-led-65-65p8l",
+    "available": true
+  },
+  {
+    "name": "Tcl LED 75\" 75P8L",
+    "price": 355000.0,
+    "url": "https://bismillahelectronics.pk/products/tcl-led-75-75p8l",
+    "available": true
+  },
+  {
+    "name": "Tcl LED 85\" 85C6K",
+    "price": 647500.0,
+    "url": "https://bismillahelectronics.pk/products/tcl-led-85-85c6k",
+    "available": true
+  },
+  {
+    "name": "Pel Ref PRDTUINVOC-6470 DIGITRON ULTRA INVETERON D/COOL",
+    "price": 111900.0,
+    "url": "https://bismillahelectronics.pk/products/pel-ref-prdtuinvoc-6470-digitron-ultra-inveteron-d-cool",
+    "available": true
+  },
+  {
+    "name": "Pel Ref PRDT-6460 DIGITRON INVERTERON SILVER",
+    "price": 111900.0,
+    "url": "https://bismillahelectronics.pk/products/pel-ref-prdt-6460-digitron-inverteron-silver",
+    "available": true
+  },
+  {
+    "name": "Kenwood Ref KRF-25657 SMART INVERTER R-410 BKG",
+    "price": 122000.0,
+    "url": "https://bismillahelectronics.pk/products/kenwood-ref-krf-25657-smart-inverter-r-410-bkg",
+    "available": true
+  },
+  {
+    "name": "Kenwood Ref KEF-25557/400-L INVERTECH (GD) MAROON",
+    "price": 118000.0,
+    "url": "https://bismillahelectronics.pk/products/kenwood-ref-kef-25557-400-l-invertech-gd-maroon",
+    "available": true
+  },
+  {
+    "name": "Kenwood Ref KRF-24457/320-L INVERTECH (GD) MAROON",
+    "price": 105000.0,
+    "url": "https://bismillahelectronics.pk/products/kenwood-ref-krf-24457-320-l-invertech-gd-maroon",
+    "available": true
+  },
+  {
+    "name": "Kenwood Ref KRF-23357/280-L VCM PBG GOLDEN CLASSIC PLUS",
+    "price": 75000.0,
+    "url": "https://bismillahelectronics.pk/products/kenwood-ref-krf-23357-280-l-vcm-pbg-golden-classic-plus-1",
+    "available": true
+  },
+  {
+    "name": "Kenwood Ref KRF-23357/280-L VCM PBG GOLDEN CLASSIC PLUS",
+    "price": 75000.0,
+    "url": "https://bismillahelectronics.pk/products/kenwood-ref-krf-23357-280-l-vcm-pbg-golden-classic-plus",
+    "available": true
+  },
+  {
+    "name": "Kenwood Ref KRF-23357 (GD) MRG New Persona Plus",
+    "price": 82000.0,
+    "url": "https://bismillahelectronics.pk/products/kenwood-ref-krf-23357-gd-mrg-new-persona-plus",
+    "available": true
+  },
+  {
     "name": "Hisense AC 1.5 Ton Inverter 18TGB-75HCI-WIFI",
     "price": 170000.0,
     "url": "https://bismillahelectronics.pk/products/hisense-ac-1-5-ton-inverter-18tgb-75hci-wifi",
@@ -2892,12 +2958,6 @@
     "available": true
   },
   {
-    "name": "Kenwood Refrigerator KRF-25657GD Smart Inverter (Red)",
-    "price": 122000.0,
-    "url": "https://bismillahelectronics.pk/products/kenwood-refrigerator-smart-inverter-red",
-    "available": true
-  },
-  {
     "name": "Dawlance Vertical Freezer VF-1035 GD (Burgundy)",
     "price": 105300.0,
     "url": "https://bismillahelectronics.pk/products/dawlance-vertical-freezer-vf-1035-gd-burgundy",
@@ -5748,18 +5808,6 @@
     "available": true
   },
   {
-    "name": "Kenwood Refrigerator  KRF-26657/480-L Invertech (GD)",
-    "price": 125000.0,
-    "url": "https://bismillahelectronics.pk/products/kenwood-refrigerator-krf-25557-400-l-invertech-gd-mirror",
-    "available": true
-  },
-  {
-    "name": "Kenwood Refrigerator KRF-25557/400-L Invertech (GD)",
-    "price": 118000.0,
-    "url": "https://bismillahelectronics.pk/products/kenwood-refrigerator-krf-25557-400-l-invertech-gd",
-    "available": true
-  },
-  {
     "name": "Dawlance Refrigerator 91999 Avante Diamond Purple (GD)",
     "price": 121100.0,
     "url": "https://bismillahelectronics.pk/products/dawlance-refrigerator-91999-avante-diamond-purple-gd",
@@ -6265,7 +6313,7 @@
   },
   {
     "name": "EcoStar LED TV 40 Inch CX-40Q874 (Q LED)",
-    "price": 58900.0,
+    "price": 64900.0,
     "url": "https://bismillahelectronics.pk/products/eco-star-led-tv-40-inch-cx-40q874-q-led",
     "available": true
   },
@@ -8067,12 +8115,6 @@
     "name": "Haier Deep Freezer HDF-545 DD",
     "price": 125500.0,
     "url": "https://bismillahelectronics.pk/products/haier-deep-freezer-hdf-545-dd",
-    "available": true
-  },
-  {
-    "name": "Dawlance Deep Freezer 91998 Signature Inverter",
-    "price": 120000.0,
-    "url": "https://bismillahelectronics.pk/products/dawlance-deep-freezer-91998-signature-inverter",
     "available": true
   },
   {

@@ -1,10 +1,10 @@
 {
-  "last_updated": "2026-11-18T03:58:12.715455+00:00",
+  "last_updated": "2026-11-18T12:41:09.581147+00:00",
   "my_store_name": "Bismillah Electronics",
   "competitor_name": "Japan Electronics",
-  "total_my_products": 1451,
+  "total_my_products": 1450,
   "total_competitor_products": 2160,
-  "matched_count": 1008,
+  "matched_count": 1007,
   "results": [
     {
       "product_name": "Pel Ref-22260 INVERTERON FLAT GLASS MAROON BLAZE",
@@ -1702,7 +1702,7 @@
     },
     {
       "product_name": "Dawlance Microwave Oven DW-MD-10",
-      "my_price": 17550.0,
+      "my_price": 18050.0,
       "my_available": true,
       "my_url": "https://bismillahelectronics.pk/products/dawlance-mwo-md-10",
       "competitor_name": "Dawlance Microwave Oven DW-MD-10",
@@ -1711,12 +1711,12 @@
       "competitor_url": "https://japanelectronics.com.pk/products/dawlance-microwave-oven-dw-md-10",
       "match_confidence": 100.0,
       "status": "matched",
-      "price_diff": 1350.0,
+      "price_diff": 1850.0,
       "cheaper": "competitor"
     },
     {
       "product_name": "Dawlance Microwave Oven DW-299GSS",
-      "my_price": 25700.0,
+      "my_price": 26200.0,
       "my_available": true,
       "my_url": "https://bismillahelectronics.pk/products/dawlance-mwo-dw-299-gss",
       "competitor_name": "Dawlance Microwave Oven DW-295",
@@ -1725,12 +1725,12 @@
       "competitor_url": "https://japanelectronics.com.pk/products/dawlance-microwave-oven-dw-295",
       "match_confidence": 92.1,
       "status": "matched",
-      "price_diff": 7100.0,
+      "price_diff": 7600.0,
       "cheaper": "competitor"
     },
     {
       "product_name": "Dawlance Microwave Oven DW-136G",
-      "my_price": 36200.0,
+      "my_price": 36700.0,
       "my_available": true,
       "my_url": "https://bismillahelectronics.pk/products/dawlance-mwo-dw-136",
       "competitor_name": "Dawlance Microwave Oven DW-136 G",
@@ -1739,7 +1739,7 @@
       "competitor_url": "https://japanelectronics.com.pk/products/dawlance-microwave-oven-dw-136-g",
       "match_confidence": 95.2,
       "status": "matched",
-      "price_diff": 2400.0,
+      "price_diff": 2900.0,
       "cheaper": "competitor"
     },
     {
@@ -3214,7 +3214,7 @@
     },
     {
       "product_name": "Skywood Electric Kettle SK-718 NK",
-      "my_price": 3700.0,
+      "my_price": 4700.0,
       "my_available": true,
       "my_url": "https://bismillahelectronics.pk/products/skywood-electric-kettle-sk-718-nk",
       "competitor_name": null,
@@ -3242,7 +3242,7 @@
     },
     {
       "product_name": "Westpoint Electric Heater WF 4307",
-      "my_price": 13500.0,
+      "my_price": 10500.0,
       "my_available": true,
       "my_url": "https://bismillahelectronics.pk/products/westpoint-electric-heater-wf-4307",
       "competitor_name": "Westpoint Electric Kettle WF-6173",
@@ -3251,7 +3251,7 @@
       "competitor_url": "https://japanelectronics.com.pk/products/westpoint-electric-kettle-wf-6173",
       "match_confidence": 75.8,
       "status": "matched",
-      "price_diff": 6700.0,
+      "price_diff": 3700.0,
       "cheaper": "competitor"
     },
     {
@@ -3312,7 +3312,7 @@
     },
     {
       "product_name": "Kenwood Blender 8in1 KB-34G",
-      "my_price": 9300.0,
+      "my_price": 11300.0,
       "my_available": true,
       "my_url": "https://bismillahelectronics.pk/products/kenwood-blender-8in1-kb-34g",
       "competitor_name": null,
@@ -5465,20 +5465,6 @@
       "status": "matched",
       "price_diff": 0.0,
       "cheaper": "same"
-    },
-    {
-      "product_name": "Dawlance Microwave Oven DW-MD10",
-      "my_price": 17550.0,
-      "my_available": true,
-      "my_url": "https://bismillahelectronics.pk/products/dawlance-microwave-oven-dw-md10",
-      "competitor_name": "Dawlance Microwave Oven DW-MD-10",
-      "competitor_price": 16200.0,
-      "competitor_available": true,
-      "competitor_url": "https://japanelectronics.com.pk/products/dawlance-microwave-oven-dw-md-10",
-      "match_confidence": 98.4,
-      "status": "matched",
-      "price_diff": 1350.0,
-      "cheaper": "competitor"
     },
     {
       "product_name": "NasGas Single Washing Machine NWM-110 SD",

@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-19T02:53:10.290669+00:00",
+  "last_updated": "2026-11-19T10:57:05.802891+00:00",
   "my_store_name": "Bismillah Electronics",
   "competitor_name": "Japan Electronics",
   "total_my_products": 1450,
@@ -5626,12 +5626,12 @@
       "my_available": true,
       "my_url": "https://bismillahelectronics.pk/products/ecostar-single-washing-machine-ew-s1001gw",
       "competitor_name": "Ecostar Washing Machine EW-W1001GW",
-      "competitor_price": 22900.0,
+      "competitor_price": 23900.0,
       "competitor_available": false,
       "competitor_url": "https://japanelectronics.com.pk/products/ecostar-washing-machine-ew-w1001gw",
       "match_confidence": 88.0,
       "status": "matched",
-      "price_diff": 3600.0,
+      "price_diff": 2600.0,
       "cheaper": "competitor"
     },
     {
@@ -9168,12 +9168,12 @@
       "my_available": true,
       "my_url": "https://bismillahelectronics.pk/products/eco-star-single-washing-machine-ew-w1201gw",
       "competitor_name": "Ecostar Washing Machine EW-W1201GW",
-      "competitor_price": 24900.0,
+      "competitor_price": 28100.0,
       "competitor_available": false,
       "competitor_url": "https://japanelectronics.com.pk/products/ecostar-washing-machine-ew-w1201gw",
       "match_confidence": 78.9,
       "status": "matched",
-      "price_diff": 4100.0,
+      "price_diff": 900.0,
       "cheaper": "competitor"
     },
     {
@@ -9182,12 +9182,12 @@
       "my_available": true,
       "my_url": "https://bismillahelectronics.pk/products/eco-star-spinner-ew-s1001gw",
       "competitor_name": "Ecostar Spinner EW-S1001GW",
-      "competitor_price": 20900.0,
+      "competitor_price": 23900.0,
       "competitor_available": false,
       "competitor_url": "https://japanelectronics.com.pk/products/ecostar-spinner-ew-s1001gw",
       "match_confidence": 83.0,
       "status": "matched",
-      "price_diff": 3100.0,
+      "price_diff": 100.0,
       "cheaper": "competitor"
     },
     {
@@ -15384,12 +15384,12 @@
       "my_available": true,
       "my_url": "https://bismillahelectronics.pk/products/ecostar-single-washing-machine-ew-w1201gw",
       "competitor_name": "Ecostar Washing Machine EW-W1201GW",
-      "competitor_price": 24900.0,
+      "competitor_price": 28100.0,
       "competitor_available": false,
       "competitor_url": "https://japanelectronics.com.pk/products/ecostar-washing-machine-ew-w1201gw",
       "match_confidence": 90.7,
       "status": "matched",
-      "price_diff": 4100.0,
+      "price_diff": 900.0,
       "cheaper": "competitor"
     },
     {
@@ -18086,12 +18086,12 @@
       "my_available": true,
       "my_url": "https://bismillahelectronics.pk/products/ecostar-double-washing-machine-ew-t1004mg",
       "competitor_name": "Ecostar Washing Machine EW-W1001GW",
-      "competitor_price": 22900.0,
+      "competitor_price": 23900.0,
       "competitor_available": false,
       "competitor_url": "https://japanelectronics.com.pk/products/ecostar-washing-machine-ew-w1001gw",
       "match_confidence": 80.0,
       "status": "matched",
-      "price_diff": 15100.0,
+      "price_diff": 14100.0,
       "cheaper": "competitor"
     },
     {

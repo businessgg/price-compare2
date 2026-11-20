@@ -1,11 +1,39 @@
 {
-  "last_updated": "2026-11-20T01:33:48.883900+00:00",
+  "last_updated": "2026-11-20T09:28:11.291493+00:00",
   "my_store_name": "Bismillah Electronics",
   "competitor_name": "Japan Electronics",
-  "total_my_products": 1450,
+  "total_my_products": 1438,
   "total_competitor_products": 2160,
-  "matched_count": 1007,
+  "matched_count": 1000,
   "results": [
+    {
+      "product_name": "BinBazz Room Air Cooler 7800",
+      "my_price": 28000.0,
+      "my_available": true,
+      "my_url": "https://bismillahelectronics.pk/products/binbazz-room-air-cooler-7800",
+      "competitor_name": null,
+      "competitor_price": null,
+      "competitor_available": null,
+      "competitor_url": null,
+      "match_confidence": 0,
+      "status": "only_us",
+      "price_diff": null,
+      "cheaper": null
+    },
+    {
+      "product_name": "BinBazz Room Air Cooler 7700",
+      "my_price": 29000.0,
+      "my_available": true,
+      "my_url": "https://bismillahelectronics.pk/products/binbazz-room-air-cooler-7700",
+      "competitor_name": null,
+      "competitor_price": null,
+      "competitor_available": null,
+      "competitor_url": null,
+      "match_confidence": 0,
+      "status": "only_us",
+      "price_diff": null,
+      "cheaper": null
+    },
     {
       "product_name": "Pel Ref-22260 INVERTERON FLAT GLASS MAROON BLAZE",
       "my_price": 119900.0,
@@ -245,8 +273,8 @@
       "cheaper": "us"
     },
     {
-      "product_name": "Binbazz Geyser YAS-25G Binbazz (E+G Twin) (2+5 Years) ELEMENT+TANK LEAKAGE",
-      "my_price": 47500.0,
+      "product_name": "Binbazz Geyser YAS-25G (E+G Twin) (2+5 Years) ELEMENT+TANK LEAKAGE",
+      "my_price": 53200.0,
       "my_available": true,
       "my_url": "https://bismillahelectronics.pk/products/binbazz-geyser-yas-25g-binbazz-e-g-twin-2-5-years-element-tank-leakage",
       "competitor_name": null,
@@ -260,7 +288,7 @@
     },
     {
       "product_name": "Binbazz Geyser YAS-35G (E+G Twin) (2+5 Years) ELEMENT+TANK LEAKAGE",
-      "my_price": 56000.0,
+      "my_price": 62700.0,
       "my_available": true,
       "my_url": "https://bismillahelectronics.pk/products/binbazz-geyser-yas-35g-e-g-twin-2-5-years-element-tank-leakage",
       "competitor_name": null,
@@ -302,7 +330,7 @@
     },
     {
       "product_name": "Binbazz Instant Geyser Ch-712 Imported (1+6MONTHS YEARS HEAT EXCH+SERV)",
-      "my_price": 33500.0,
+      "my_price": 35000.0,
       "my_available": true,
       "my_url": "https://bismillahelectronics.pk/products/binbazz-instant-geyser-ch-712-imported-1-6months-years-heat-exch-serv",
       "competitor_name": null,
@@ -666,7 +694,7 @@
     },
     {
       "product_name": "Black Rock Slice Toaster BR-TP201",
-      "my_price": 6500.0,
+      "my_price": 9000.0,
       "my_available": true,
       "my_url": "https://bismillahelectronics.pk/products/black-rock-slice-toaster-br-tp201",
       "competitor_name": null,
@@ -708,7 +736,7 @@
     },
     {
       "product_name": "Binbazz Electric Sun Heater SG-777",
-      "my_price": 7900.0,
+      "my_price": 9500.0,
       "my_available": true,
       "my_url": "https://bismillahelectronics.pk/products/binbazz-electric-sun-heater-sg-777",
       "competitor_name": null,
@@ -722,7 +750,7 @@
     },
     {
       "product_name": "Binbazz Chopper Bin-1005",
-      "my_price": 8500.0,
+      "my_price": 10500.0,
       "my_available": true,
       "my_url": "https://bismillahelectronics.pk/products/binbazz-chopper-bin-1005",
       "competitor_name": null,
@@ -1027,48 +1055,6 @@
       "status": "matched",
       "price_diff": 13200.0,
       "cheaper": "competitor"
-    },
-    {
-      "product_name": "Candy AC 0.8 Ton Inverter CSU-10HF/013DC",
-      "my_price": 85000.0,
-      "my_available": true,
-      "my_url": "https://bismillahelectronics.pk/products/candy-ac-0-8-ton-inverter-csu-10hf-013dc",
-      "competitor_name": null,
-      "competitor_price": null,
-      "competitor_available": null,
-      "competitor_url": null,
-      "match_confidence": 0,
-      "status": "only_us",
-      "price_diff": null,
-      "cheaper": null
-    },
-    {
-      "product_name": "Candy AC 1.5 Ton Inverter CSU-18HF/013USDC",
-      "my_price": 132500.0,
-      "my_available": true,
-      "my_url": "https://bismillahelectronics.pk/products/candy-ac-1-5-ton-inverter-csu-18hf-013usdc",
-      "competitor_name": "Haier AC 1.5 Ton Split Inverter HSU-18HJ/013/023USDC (G)",
-      "competitor_price": 207999.0,
-      "competitor_available": true,
-      "competitor_url": "https://japanelectronics.com.pk/products/haier-ac-1-5-ton-split-inverter-hsu-18hj-013-023usdc-g",
-      "match_confidence": 73.5,
-      "status": "matched",
-      "price_diff": -75499.0,
-      "cheaper": "us"
-    },
-    {
-      "product_name": "Candy AC Inverter 1.5 Ton CSU-19HF",
-      "my_price": 119000.0,
-      "my_available": true,
-      "my_url": "https://bismillahelectronics.pk/products/candy-ac-inverter-1-5-ton-csu-19hf",
-      "competitor_name": "Haier Split AC Inverter 1.5 Ton HSU-19HFCA",
-      "competitor_price": 127000.0,
-      "competitor_available": true,
-      "competitor_url": "https://japanelectronics.com.pk/products/haier-split-ac-inverter-1-5-ton-hsu-19hfca",
-      "match_confidence": 76.3,
-      "status": "matched",
-      "price_diff": -8000.0,
-      "cheaper": "us"
     },
     {
       "product_name": "Boss Room Air Cooler ECM-5200",
@@ -1744,7 +1730,7 @@
     },
     {
       "product_name": "Binbazz Instant Geyser CH-706 IMPORTED (1+6MONTHS YEARS HEAT EXCH+SERV)",
-      "my_price": 22500.0,
+      "my_price": 26500.0,
       "my_available": true,
       "my_url": "https://bismillahelectronics.pk/products/binbazz-instant-geyser-ch-706-imported-1-6months-years-heat-exch-serv",
       "competitor_name": null,
@@ -1758,7 +1744,7 @@
     },
     {
       "product_name": "Binbazz E+G Geyser ME-935 (2+5 YEARS THERMOSTAE+TANK LEAKAGE)",
-      "my_price": 47500.0,
+      "my_price": 53000.0,
       "my_available": true,
       "my_url": "https://bismillahelectronics.pk/products/binbazz-e-g-geyser-me-935-2-5-years-thermostae-tank-leakage",
       "competitor_name": null,
@@ -1772,7 +1758,7 @@
     },
     {
       "product_name": "Binbazz E+G Geyser ME-925 (2+5 YEARS THERMOSTAE+TANK LEAKAGE)",
-      "my_price": 45500.0,
+      "my_price": 50000.0,
       "my_available": true,
       "my_url": "https://bismillahelectronics.pk/products/binbazz-e-g-geyser-me-925-2-5-years-thermostae-tank-leakage",
       "competitor_name": null,
@@ -1800,7 +1786,7 @@
     },
     {
       "product_name": "Binbazz Semi Electric Geyser ME-9060L (3+7 YEARS) ELEMENT+TANK LEAKAGE",
-      "my_price": 34000.0,
+      "my_price": 37000.0,
       "my_available": true,
       "my_url": "https://bismillahelectronics.pk/products/binbazz-semi-electric-geyser-me-9060l-3-7-years-element-tank-leakage",
       "competitor_name": null,
@@ -1814,7 +1800,7 @@
     },
     {
       "product_name": "Binbazz Semi Electric Geyser ME-9050L (3+7 YEARS) ELEMENT+TANK LEAKAGE",
-      "my_price": 33000.0,
+      "my_price": 36000.0,
       "my_available": true,
       "my_url": "https://bismillahelectronics.pk/products/binbazz-semi-electric-geyser-me-9050l-3-7-years-element-tank-leakage",
       "competitor_name": null,
@@ -1828,7 +1814,7 @@
     },
     {
       "product_name": "Binbazz Semi Electric Geyser ME-9040L (3+7 YEARS) ELEMENT+TANK LEAKAGE",
-      "my_price": 32000.0,
+      "my_price": 34500.0,
       "my_available": true,
       "my_url": "https://bismillahelectronics.pk/products/binbazz-semi-electric-geyser-me-9040l-3-7-years-element-tank-leakage",
       "competitor_name": null,
@@ -1842,7 +1828,7 @@
     },
     {
       "product_name": "Binbazz Semi Electric Geyser ME-9030L (3+7 YEARS) ELEMENT+TANK LEAKAGE",
-      "my_price": 31000.0,
+      "my_price": 33500.0,
       "my_available": true,
       "my_url": "https://bismillahelectronics.pk/products/binbazz-semi-electric-geyser-me-9030l-3-7-years-element-tank-leakage",
       "competitor_name": null,
@@ -1856,7 +1842,7 @@
     },
     {
       "product_name": "Binbazz Electric Geyser YAS-40L (2+5 YEARS) ELEMENT+TANK LEAKAG",
-      "my_price": 25000.0,
+      "my_price": 28000.0,
       "my_available": true,
       "my_url": "https://bismillahelectronics.pk/products/binbazz-electric-geyser-yas-40l-2-5-years-element-tank-leakag",
       "competitor_name": null,
@@ -1870,7 +1856,7 @@
     },
     {
       "product_name": "Binbazz Electric Geyser YAS-35L AQUA SERIES",
-      "my_price": 21500.0,
+      "my_price": 24000.0,
       "my_available": true,
       "my_url": "https://bismillahelectronics.pk/products/binbazz-electric-geyser-yas-35l-aqua-series",
       "competitor_name": null,
@@ -1884,7 +1870,7 @@
     },
     {
       "product_name": "Binbazz Electric Geyser OT-728 (2+5 YEARS) ELEMENT+TANK LEAKAGE",
-      "my_price": 26000.0,
+      "my_price": 31000.0,
       "my_available": true,
       "my_url": "https://bismillahelectronics.pk/products/binbazz-electric-geyser-ot-728-wood-2-5-years-element-tank-leakage",
       "competitor_name": null,
@@ -1898,7 +1884,7 @@
     },
     {
       "product_name": "Binbazz Electric Geyser OT-715(2+5 YEARS) ELEMENT+TANK LEAKAGE",
-      "my_price": 23000.0,
+      "my_price": 25000.0,
       "my_available": true,
       "my_url": "https://bismillahelectronics.pk/products/binbazz-electric-geyser-ot-715-wood-2-5-years-element-tank-leakage",
       "competitor_name": null,
@@ -1909,48 +1895,6 @@
       "status": "only_us",
       "price_diff": null,
       "cheaper": null
-    },
-    {
-      "product_name": "Gold Wedding Package",
-      "my_price": 257999.0,
-      "my_available": true,
-      "my_url": "https://bismillahelectronics.pk/products/gold-wedding-package",
-      "competitor_name": "Comfort Wedding Package",
-      "competitor_price": 279900.0,
-      "competitor_available": true,
-      "competitor_url": "https://japanelectronics.com.pk/products/comfort-wedding-package",
-      "match_confidence": 79.1,
-      "status": "matched",
-      "price_diff": -21901.0,
-      "cheaper": "us"
-    },
-    {
-      "product_name": "Silver Wedding Package",
-      "my_price": 156499.0,
-      "my_available": true,
-      "my_url": "https://bismillahelectronics.pk/products/silver-wedding-package",
-      "competitor_name": "Royal Wedding Package",
-      "competitor_price": 959900.0,
-      "competitor_available": true,
-      "competitor_url": "https://japanelectronics.com.pk/products/royal-wedding-package",
-      "match_confidence": 79.1,
-      "status": "matched",
-      "price_diff": -803401.0,
-      "cheaper": "us"
-    },
-    {
-      "product_name": "Bronze Wedding Package",
-      "my_price": 98999.0,
-      "my_available": true,
-      "my_url": "https://bismillahelectronics.pk/products/bronze-wedding-package",
-      "competitor_name": "Basic Wedding Package",
-      "competitor_price": 86900.0,
-      "competitor_available": true,
-      "competitor_url": "https://japanelectronics.com.pk/products/basic-wedding-package",
-      "match_confidence": 79.1,
-      "status": "matched",
-      "price_diff": 12099.0,
-      "cheaper": "competitor"
     },
     {
       "product_name": "Pel Ref-22270 INVERTERON FLAT GLASS MAROON BLAZE",
@@ -2220,7 +2164,7 @@
     },
     {
       "product_name": "Binbazz Instant Geyser WL-08 LPG (1+6MONTHS YEARS HEAT EXCH+SERV)",
-      "my_price": 25500.0,
+      "my_price": 28000.0,
       "my_available": true,
       "my_url": "https://bismillahelectronics.pk/products/binbazz-instant-geyser-wl-08-lpg-1-6months-years-heat-exch-serv",
       "competitor_name": null,
@@ -2234,7 +2178,7 @@
     },
     {
       "product_name": "Binbazz Instant Geyser WL-06 (1+6MONTHS YEARS HEAT EXCH+SERV)",
-      "my_price": 22000.0,
+      "my_price": 24500.0,
       "my_available": true,
       "my_url": "https://bismillahelectronics.pk/products/binbazz-instant-geyser-wl-06-1-6months-years-heat-exch-serv",
       "competitor_name": null,
@@ -2262,7 +2206,7 @@
     },
     {
       "product_name": "Binbazz Instant Geyser CH-708 IMPORTED SS (STAINLES STEEL)",
-      "my_price": 27500.0,
+      "my_price": 28500.0,
       "my_available": true,
       "my_url": "https://bismillahelectronics.pk/products/binbazz-instant-geyser-ch-708-imported-ss-stainles-steel",
       "competitor_name": null,
@@ -2290,7 +2234,7 @@
     },
     {
       "product_name": "Binbazz Hybrid E+G Geyser WL-20 GL ENERGY SAVER",
-      "my_price": 41500.0,
+      "my_price": 45900.0,
       "my_available": true,
       "my_url": "https://bismillahelectronics.pk/products/binbazz-hybrid-e-g-geyser-wl-20-gl-energy-saver",
       "competitor_name": null,
@@ -2304,7 +2248,7 @@
     },
     {
       "product_name": "Binbazz Geyser YAS-15G (E+G TWIN) (2+5 YEARS) ELEMENT+TANK LEAKAG",
-      "my_price": 42000.0,
+      "my_price": 47000.0,
       "my_available": true,
       "my_url": "https://bismillahelectronics.pk/products/binbazz-geyser-yas-15g-e-g-twin-2-5-years-element-tank-leakag",
       "competitor_name": null,
@@ -2346,7 +2290,7 @@
     },
     {
       "product_name": "Binbazz E+G Fast Geyser ME-915 (2+5 YEARS THERMOSTAE+TANK LEAKAGE)",
-      "my_price": 43000.0,
+      "my_price": 47500.0,
       "my_available": true,
       "my_url": "https://bismillahelectronics.pk/products/binbazz-e-g-fast-geyser-me-915-2-5-years-thermostae-tank-leakage",
       "competitor_name": null,
@@ -2357,20 +2301,6 @@
       "status": "only_us",
       "price_diff": null,
       "cheaper": null
-    },
-    {
-      "product_name": "Candy AC Inverter 1.0 Ton CSU-13HF",
-      "my_price": 94500.0,
-      "my_available": true,
-      "my_url": "https://bismillahelectronics.pk/products/candy-ac-inverter-1-0-ton-csu-13hf",
-      "competitor_name": "Haier Split AC Inverter 1.0 Ton HSU-13HFN013 T3",
-      "competitor_price": 121000.0,
-      "competitor_available": true,
-      "competitor_url": "https://japanelectronics.com.pk/products/haier-split-ac-inverter-1-0-ton-hsu-13hfn013-t3",
-      "match_confidence": 71.6,
-      "status": "matched",
-      "price_diff": -26500.0,
-      "cheaper": "us"
     },
     {
       "product_name": "Homage Ref HRI-47672/R450-L TCH INVERTER (GD) MRG",
@@ -3689,7 +3619,7 @@
       "cheaper": null
     },
     {
-      "product_name": "Dawlance Vacum Cleaner DWVC-70322 WI",
+      "product_name": "Dawlance Vacuum Cleaner DWVC-70322 WI",
       "my_price": 35000.0,
       "my_available": true,
       "my_url": "https://bismillahelectronics.pk/products/dawlance-vacum-cleaner-dwvc-70322-wi",
@@ -3697,7 +3627,7 @@
       "competitor_price": 18900.0,
       "competitor_available": false,
       "competitor_url": "https://japanelectronics.com.pk/products/dawlance-vacuum-cleaner-dwvc-770-smt",
-      "match_confidence": 83.3,
+      "match_confidence": 84.9,
       "status": "matched",
       "price_diff": 16100.0,
       "cheaper": "competitor"
@@ -3732,7 +3662,7 @@
     },
     {
       "product_name": "Binbazz  Vacuum Cleaner ZL16-4832 2800W",
-      "my_price": 24500.0,
+      "my_price": 27500.0,
       "my_available": true,
       "my_url": "https://bismillahelectronics.pk/products/lg-vacume-cleaner-zl16-4832-2800w",
       "competitor_name": null,
@@ -3760,7 +3690,7 @@
     },
     {
       "product_name": "Binbazz Vaccume Cleaner WET AND DRY",
-      "my_price": 28500.0,
+      "my_price": 31500.0,
       "my_available": true,
       "my_url": "https://bismillahelectronics.pk/products/binbazz-vaccume-cleaner-wet-and-dry",
       "competitor_name": null,
@@ -5929,76 +5859,6 @@
       "cheaper": "competitor"
     },
     {
-      "product_name": "Juicer Blender",
-      "my_price": 4900.0,
-      "my_available": true,
-      "my_url": "https://bismillahelectronics.pk/products/juicer-blender",
-      "competitor_name": null,
-      "competitor_price": null,
-      "competitor_available": null,
-      "competitor_url": null,
-      "match_confidence": 0,
-      "status": "only_us",
-      "price_diff": null,
-      "cheaper": null
-    },
-    {
-      "product_name": "Food Factory",
-      "my_price": 12900.0,
-      "my_available": true,
-      "my_url": "https://bismillahelectronics.pk/products/food-factory",
-      "competitor_name": null,
-      "competitor_price": null,
-      "competitor_available": null,
-      "competitor_url": null,
-      "match_confidence": 0,
-      "status": "only_us",
-      "price_diff": null,
-      "cheaper": null
-    },
-    {
-      "product_name": "Garment Streamer",
-      "my_price": 14900.0,
-      "my_available": true,
-      "my_url": "https://bismillahelectronics.pk/products/garment-streamer",
-      "competitor_name": null,
-      "competitor_price": null,
-      "competitor_available": null,
-      "competitor_url": null,
-      "match_confidence": 0,
-      "status": "only_us",
-      "price_diff": null,
-      "cheaper": null
-    },
-    {
-      "product_name": "Hood & Hob",
-      "my_price": 29900.0,
-      "my_available": true,
-      "my_url": "https://bismillahelectronics.pk/products/hood-hob",
-      "competitor_name": null,
-      "competitor_price": null,
-      "competitor_available": null,
-      "competitor_url": null,
-      "match_confidence": 0,
-      "status": "only_us",
-      "price_diff": null,
-      "cheaper": null
-    },
-    {
-      "product_name": "Cooking Range 5 Burner",
-      "my_price": 35900.0,
-      "my_available": true,
-      "my_url": "https://bismillahelectronics.pk/products/cooking-range-5-burner",
-      "competitor_name": null,
-      "competitor_price": null,
-      "competitor_available": null,
-      "competitor_url": null,
-      "match_confidence": 0,
-      "status": "only_us",
-      "price_diff": null,
-      "cheaper": null
-    },
-    {
       "product_name": "Dawlance Air Fryer DWAF-3374",
       "my_price": 45700.0,
       "my_available": true,
@@ -6672,7 +6532,7 @@
     },
     {
       "product_name": "Binbaz Room Cooler Yas-6050 (3 Years Motor Warranty)",
-      "my_price": 27500.0,
+      "my_price": 28000.0,
       "my_available": true,
       "my_url": "https://bismillahelectronics.pk/products/binbaz-room-cooler-yas-6050-3-years-motor-warranty",
       "competitor_name": null,
@@ -6700,7 +6560,7 @@
     },
     {
       "product_name": "Binbaz Room Cooler Me-6500(3 Years Motor Warranty)",
-      "my_price": 33000.0,
+      "my_price": 34000.0,
       "my_available": true,
       "my_url": "https://bismillahelectronics.pk/products/binbaz-room-cooler-me-65003-years-motor-warranty",
       "competitor_name": null,
@@ -8170,7 +8030,7 @@
     },
     {
       "product_name": "Anex Dough Maker AG-2127",
-      "my_price": 19170.0,
+      "my_price": 18000.0,
       "my_available": true,
       "my_url": "https://bismillahelectronics.pk/products/anex-dough-maker-ag-2127",
       "competitor_name": "ANEX Dough Maker (AG-2127)",
@@ -8179,7 +8039,7 @@
       "competitor_url": "https://japanelectronics.com.pk/products/anex-dough-maker-ag-2127",
       "match_confidence": 84.0,
       "status": "matched",
-      "price_diff": 1720.0,
+      "price_diff": 550.0,
       "cheaper": "competitor"
     },
     {
@@ -8310,7 +8170,7 @@
     },
     {
       "product_name": "Anex Meat Mincer AG-2049",
-      "my_price": 25000.0,
+      "my_price": 23000.0,
       "my_available": true,
       "my_url": "https://bismillahelectronics.pk/products/anex-meat-mincer-ag-2049",
       "competitor_name": null,
@@ -8324,7 +8184,7 @@
     },
     {
       "product_name": "Anex Meat Mincer AG-2048",
-      "my_price": 22800.0,
+      "my_price": 20800.0,
       "my_available": true,
       "my_url": "https://bismillahelectronics.pk/products/anex-meat-mincer-ag-2048",
       "competitor_name": null,
@@ -8352,7 +8212,7 @@
     },
     {
       "product_name": "Anex Juicer AG-90",
-      "my_price": 16785.0,
+      "my_price": 16000.0,
       "my_available": true,
       "my_url": "https://bismillahelectronics.pk/products/anex-juicer-ag-90",
       "competitor_name": "Anex Deluxe Juicer AG-78",
@@ -8361,7 +8221,7 @@
       "competitor_url": "https://japanelectronics.com.pk/products/anex-deluxe-juicer-ag-78",
       "match_confidence": 73.2,
       "status": "matched",
-      "price_diff": 6285.0,
+      "price_diff": 5500.0,
       "cheaper": "competitor"
     },
     {
@@ -11767,20 +11627,6 @@
       "cheaper": null
     },
     {
-      "product_name": "Candy Microwave Oven CDL-20MX01",
-      "my_price": 15500.0,
-      "my_available": true,
-      "my_url": "https://bismillahelectronics.pk/products/candy-microwave-oven-cdl-20mx01",
-      "competitor_name": "Haier Microwave Oven HMW-20MX11",
-      "competitor_price": 16900.0,
-      "competitor_available": true,
-      "competitor_url": "https://japanelectronics.com.pk/products/haier-microwave-oven-hmw-20mx11",
-      "match_confidence": 74.2,
-      "status": "matched",
-      "price_diff": -1400.0,
-      "cheaper": "us"
-    },
-    {
       "product_name": "Dawlance Microwave Oven DW 132 S",
       "my_price": 32600.0,
       "my_available": true,
@@ -12048,7 +11894,7 @@
     },
     {
       "product_name": "BinBazz LED TV 32 Inch 32S9",
-      "my_price": 35000.0,
+      "my_price": 38000.0,
       "my_available": true,
       "my_url": "https://bismillahelectronics.pk/products/binbazz-led-tv-32-inch-32s9",
       "competitor_name": null,
@@ -12062,7 +11908,7 @@
     },
     {
       "product_name": "BinBazz LED TV 40 Inch 40S9X",
-      "my_price": 50000.0,
+      "my_price": 55000.0,
       "my_available": true,
       "my_url": "https://bismillahelectronics.pk/products/binbazz-led-tv-40-inch-40s9x",
       "competitor_name": null,
@@ -17969,20 +17815,6 @@
       "cheaper": "competitor"
     },
     {
-      "product_name": "Nasgas Spinner NGD-202",
-      "my_price": 14900.0,
-      "my_available": true,
-      "my_url": "https://bismillahelectronics.pk/products/nasgas-202-simple-dryer-ngd-202",
-      "competitor_name": null,
-      "competitor_price": null,
-      "competitor_available": null,
-      "competitor_url": null,
-      "match_confidence": 0,
-      "status": "only_us",
-      "price_diff": null,
-      "cheaper": null
-    },
-    {
       "product_name": "Nasgas Spinner NGD-201",
       "my_price": 18250.0,
       "my_available": true,
@@ -17998,7 +17830,7 @@
     },
     {
       "product_name": "NasGas Double Washing Machine NWM-502",
-      "my_price": 30900.0,
+      "my_price": 33000.0,
       "my_available": true,
       "my_url": "https://bismillahelectronics.pk/products/nasgas-502-washing-machine-double-nwm-502",
       "competitor_name": null,
@@ -20419,6 +20251,20 @@
       "cheaper": null
     },
     {
+      "product_name": "Royal Wedding Package",
+      "my_price": null,
+      "my_available": null,
+      "my_url": null,
+      "competitor_name": "Royal Wedding Package",
+      "competitor_price": 959900.0,
+      "competitor_available": true,
+      "competitor_url": "https://japanelectronics.com.pk/products/royal-wedding-package",
+      "match_confidence": 0,
+      "status": "only_competitor",
+      "price_diff": null,
+      "cheaper": null
+    },
+    {
       "product_name": "Luxury Wedding Package",
       "my_price": null,
       "my_available": null,
@@ -20433,6 +20279,20 @@
       "cheaper": null
     },
     {
+      "product_name": "Comfort Wedding Package",
+      "my_price": null,
+      "my_available": null,
+      "my_url": null,
+      "competitor_name": "Comfort Wedding Package",
+      "competitor_price": 279900.0,
+      "competitor_available": true,
+      "competitor_url": "https://japanelectronics.com.pk/products/comfort-wedding-package",
+      "match_confidence": 0,
+      "status": "only_competitor",
+      "price_diff": null,
+      "cheaper": null
+    },
+    {
       "product_name": "Essential Wedding Package",
       "my_price": null,
       "my_available": null,
@@ -20441,6 +20301,20 @@
       "competitor_price": 167900.0,
       "competitor_available": true,
       "competitor_url": "https://japanelectronics.com.pk/products/essential-wedding-package",
+      "match_confidence": 0,
+      "status": "only_competitor",
+      "price_diff": null,
+      "cheaper": null
+    },
+    {
+      "product_name": "Basic Wedding Package",
+      "my_price": null,
+      "my_available": null,
+      "my_url": null,
+      "competitor_name": "Basic Wedding Package",
+      "competitor_price": 86900.0,
+      "competitor_available": true,
+      "competitor_url": "https://japanelectronics.com.pk/products/basic-wedding-package",
       "match_confidence": 0,
       "status": "only_competitor",
       "price_diff": null,
@@ -28483,6 +28357,20 @@
       "cheaper": null
     },
     {
+      "product_name": "Haier Microwave Oven HMW-20MX11",
+      "my_price": null,
+      "my_available": null,
+      "my_url": null,
+      "competitor_name": "Haier Microwave Oven HMW-20MX11",
+      "competitor_price": 16900.0,
+      "competitor_available": true,
+      "competitor_url": "https://japanelectronics.com.pk/products/haier-microwave-oven-hmw-20mx11",
+      "match_confidence": 0,
+      "status": "only_competitor",
+      "price_diff": null,
+      "cheaper": null
+    },
+    {
       "product_name": "Haier Microwave Oven HMW-20MX12",
       "my_price": null,
       "my_available": null,
@@ -34609,6 +34497,20 @@
       "competitor_price": 81000.0,
       "competitor_available": true,
       "competitor_url": "https://japanelectronics.com.pk/products/beetro-electric-gas-geyser-55-gallon-feg-55-16-12-gauge",
+      "match_confidence": 0,
+      "status": "only_competitor",
+      "price_diff": null,
+      "cheaper": null
+    },
+    {
+      "product_name": "Haier AC 1.5 Ton Split Inverter HSU-18HJ/013/023USDC (G)",
+      "my_price": null,
+      "my_available": null,
+      "my_url": null,
+      "competitor_name": "Haier AC 1.5 Ton Split Inverter HSU-18HJ/013/023USDC (G)",
+      "competitor_price": 207999.0,
+      "competitor_available": true,
+      "competitor_url": "https://japanelectronics.com.pk/products/haier-ac-1-5-ton-split-inverter-hsu-18hj-013-023usdc-g",
       "match_confidence": 0,
       "status": "only_competitor",
       "price_diff": null,

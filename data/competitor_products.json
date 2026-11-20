@@ -1953,7 +1953,7 @@
     "name": "JBL CINEMA SOUND BAR BAR-800MK2",
     "price": 259000.0,
     "url": "https://japanelectronics.com.pk/products/jbl-cinema-sound-bar-bar-800mk2",
-    "available": true
+    "available": false
   },
   {
     "name": "JBL SOUND BAR 2.1 DEEP BASS (MK2)",
@@ -2245,25 +2245,25 @@
   },
   {
     "name": "Ecostar Split AC Inverter 2.0 Ton (ES-24DU02WCPRM)",
-    "price": 193900.0,
+    "price": 195900.0,
     "url": "https://japanelectronics.com.pk/products/ecostar-split-ac-inverter-2-0-ton-es-24du02wcprm",
     "available": true
   },
   {
     "name": "Ecostar Split AC Inverter 1.5 Ton (ES-18DU02WCPRM)",
-    "price": 130900.0,
+    "price": 132500.0,
     "url": "https://japanelectronics.com.pk/products/ecostar-split-ac-inverter-1-5-ton-es-18du02wcprm",
     "available": true
   },
   {
     "name": "Ecostar Split AC Inverter 1.0 Ton (ES-12DU02WCPRM)",
-    "price": 111900.0,
+    "price": 112900.0,
     "url": "https://japanelectronics.com.pk/products/ecostar-split-ac-inverter-1-0-ton-es-12du02wcprm",
     "available": true
   },
   {
     "name": "Gree Split AC Inverter 1.5 Ton 18PITH18W",
-    "price": 179500.0,
+    "price": 179900.0,
     "url": "https://japanelectronics.com.pk/products/gree-split-ac-inverter-1-5-ton-18pith18w",
     "available": true
   },
@@ -2647,7 +2647,7 @@
   },
   {
     "name": "Gree Split AC Inverter 1.5 Ton GS-18AITH21W-T3",
-    "price": 206900.0,
+    "price": 209500.0,
     "url": "https://japanelectronics.com.pk/products/gree-split-ac-inverter-1-5-ton-gs-18aith21w-t3",
     "available": true
   },
@@ -2923,13 +2923,13 @@
   },
   {
     "name": "Gree Split AC Inverter 1.0 Ton GS-12AITH21W-T3",
-    "price": 166900.0,
+    "price": 168900.0,
     "url": "https://japanelectronics.com.pk/products/gree-split-ac-inverter-1-0-ton-gs-12aith21w-t3",
     "available": true
   },
   {
     "name": "Gree Split AC Inverter 1.0 Ton GS-12AITH21B-T3",
-    "price": 166900.0,
+    "price": 168900.0,
     "url": "https://japanelectronics.com.pk/products/gree-split-ac-inverter-1-0-ton-gs-12aith21b-t3",
     "available": true
   },
@@ -3141,7 +3141,7 @@
     "name": "TCL SPLIT AC INVERTER 1.5 TON TAC-18SVN-AI-41",
     "price": 158000.0,
     "url": "https://japanelectronics.com.pk/products/tcl-split-ac-inverter-1-5-ton-tac-18svn-ai-41",
-    "available": true
+    "available": false
   },
   {
     "name": "TCL SPLIT AC INVERTER 1.0 TON TAC-12SVN-AI-41",
@@ -3457,7 +3457,7 @@
   },
   {
     "name": "Gree Split AC Inverter 2.0 Ton GS-24AITH21W-T3 (WIFI)",
-    "price": 264900.0,
+    "price": 267900.0,
     "url": "https://japanelectronics.com.pk/products/gree-split-ac-inverter-2-0-ton-gs-24aith21w-t3-wifi",
     "available": false
   },
@@ -5035,7 +5035,7 @@
   },
   {
     "name": "GREE SPLIT AC INVERTER 1.5 TON GS-18AITH21B",
-    "price": 206900.0,
+    "price": 209500.0,
     "url": "https://japanelectronics.com.pk/products/gree-split-ac-inverter-1-5-ton-gs-18aith21b",
     "available": true
   },
@@ -5179,7 +5179,7 @@
   },
   {
     "name": "Gree Split AC Inverter 1.5 Ton 18PITH17W (T3)",
-    "price": 179500.0,
+    "price": 179900.0,
     "url": "https://japanelectronics.com.pk/products/gree-split-ac-inverter-1-5-ton-18pith17w-t3",
     "available": true
   },
@@ -5281,7 +5281,7 @@
   },
   {
     "name": "GREE SPLIT AC INVERTER 2.0 TON GS-24AITH21B",
-    "price": 264900.0,
+    "price": 267900.0,
     "url": "https://japanelectronics.com.pk/products/gree-split-ac-inverter-2-0-ton-gs-24aith21b",
     "available": true
   },
@@ -5289,7 +5289,7 @@
     "name": "Samsung Refrigerator Side By Side RS70F65QETTR (Metal)",
     "price": 509000.0,
     "url": "https://japanelectronics.com.pk/products/samsung-refrigerator-side-by-side-rs70f65qettr-metal",
-    "available": true
+    "available": false
   },
   {
     "name": "Samsung Refrigerator Side By Side RS70F65QEFTR (Black)",
@@ -5365,7 +5365,7 @@
   },
   {
     "name": "Gree AC Split Inverter 1.0 Ton GS-12PITH11G AAA",
-    "price": 127500.0,
+    "price": 120500.0,
     "url": "https://japanelectronics.com.pk/products/gree-split-ac-inverter-1-0-ton-gs-12pith11g-aaa",
     "available": false
   },
@@ -5467,7 +5467,7 @@
   },
   {
     "name": "Gree AC Split Inverter 1.5 Ton GS-18PITH11G AAA",
-    "price": 156000.0,
+    "price": 149000.0,
     "url": "https://japanelectronics.com.pk/products/gree-ac-split-inverter-1-5-ton-gs-18pith11g-aaa",
     "available": true
   },
@@ -5575,7 +5575,7 @@
   },
   {
     "name": "Gree Split AC Inverter 1.5 Ton 18PITH15W (T3)",
-    "price": 179500.0,
+    "price": 179900.0,
     "url": "https://japanelectronics.com.pk/products/gree-split-ac-inverter-1-5-ton-18pith15w-t3",
     "available": true
   },
@@ -5931,7 +5931,7 @@
     "name": "Haier Refrigerator HRF-186 EBD Metallic Grey",
     "price": 53000.0,
     "url": "https://japanelectronics.com.pk/products/haier-refrigerator-hrf-186-ebd-metallic-grey",
-    "available": false
+    "available": true
   },
   {
     "name": "Dawlance Refrigerator 9193 LF Avante + Cloud White (GD INV)",
@@ -7095,7 +7095,7 @@
     "name": "Electrolux Split AC Inverter 2.0 Ton ELSAC-24K LUX Black (T3)",
     "price": 254900.0,
     "url": "https://japanelectronics.com.pk/products/electrolux-split-ac-inverter-2-0-ton-elsac-24k-lux-black-t3",
-    "available": true
+    "available": false
   },
   {
     "name": "Orient Split AC Inverter 1.0 Ton 12X Aura T3 (White)",
@@ -7647,7 +7647,7 @@
     "name": "Beetro Electric & Gas Geyser 35 Gallon (FEG-35 16/12 Gauge)",
     "price": 67000.0,
     "url": "https://japanelectronics.com.pk/products/beetro-electric-gas-geyser-35-gallon-feg-35-16-12-gauge",
-    "available": true
+    "available": false
   },
   {
     "name": "Beetro Electric & Gas Geyser 35 Gallon (FEG-35 9/10 Gauge)",
@@ -9387,7 +9387,7 @@
     "name": "Xiaomi Induction Cooker Lite",
     "price": 23999.0,
     "url": "https://japanelectronics.com.pk/products/xiaomi-induction-cooker-lite",
-    "available": true
+    "available": false
   },
   {
     "name": "Xiaomi Smart Air Fryer 5.5Ltr",
@@ -9609,7 +9609,7 @@
     "name": "Dawlance REF 91999 Graze + Gem Black (GD INV)",
     "price": 125000.0,
     "url": "https://japanelectronics.com.pk/products/dawlance-ref-91999-graze-gem-black-gd-inv",
-    "available": true
+    "available": false
   },
   {
     "name": "Dawlance REF 91999 Avante Diamond Red (GD)",
@@ -9745,7 +9745,7 @@
   },
   {
     "name": "Gree Split AC Inverter 1.0 Ton GS-12PITH11S AAA",
-    "price": 127500.0,
+    "price": 120500.0,
     "url": "https://japanelectronics.com.pk/products/gree-split-ac-inverter-1-0-ton-gs-12pith11s-aaa",
     "available": false
   },
@@ -9927,7 +9927,7 @@
     "name": "Electrolux Split AC Inverter 1.5 Ton ELSAC-18K LUX Black (T3)",
     "price": 192900.0,
     "url": "https://japanelectronics.com.pk/products/electrolux-split-ac-inverter-1-5-ton-elsac-18k-lux-black-t3",
-    "available": false
+    "available": true
   },
   {
     "name": "Electrolux Split AC Inverter 1.0 Ton ELSAC-12K LUX White (T3)",
@@ -9997,7 +9997,7 @@
   },
   {
     "name": "Gree Split AC Inverter 1.5 Ton GS-18PITH11S AAA",
-    "price": 156000.0,
+    "price": 149000.0,
     "url": "https://japanelectronics.com.pk/products/gree-split-ac-inverter-1-5-ton-gs-18pith11s-aaa",
     "available": false
   },
@@ -12303,7 +12303,7 @@
     "name": "Panasonic Steam Iron M-250T (Pink)",
     "price": 7900.0,
     "url": "https://japanelectronics.com.pk/products/panasonic-steam-iron-m-250t-pink",
-    "available": false
+    "available": true
   },
   {
     "name": "WestPoint Hot Plate WF-281",
@@ -12441,7 +12441,7 @@
     "name": "LG Automatic Washing Machine F4V5RGP2T",
     "price": 252000.0,
     "url": "https://japanelectronics.com.pk/products/lg-a-w-m-f4v5rgp2t",
-    "available": true
+    "available": false
   },
   {
     "name": "LG Automatic Washing Machine F0L9DGP2S",
@@ -12613,7 +12613,7 @@
   },
   {
     "name": "Gree AC Split Inverter 1.0 Ton GS-12PITH11W AAA",
-    "price": 124500.0,
+    "price": 117500.0,
     "url": "https://japanelectronics.com.pk/products/gree-split-ac-inverter-1-0-ton-gs-12pith11w-aaa",
     "available": true
   },

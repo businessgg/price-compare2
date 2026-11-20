@@ -1,11 +1,81 @@
 {
-  "last_updated": "2026-11-20T09:28:11.291493+00:00",
+  "last_updated": "2026-11-20T18:10:33.760061+00:00",
   "my_store_name": "Bismillah Electronics",
   "competitor_name": "Japan Electronics",
-  "total_my_products": 1438,
+  "total_my_products": 1442,
   "total_competitor_products": 2160,
-  "matched_count": 1000,
+  "matched_count": 1004,
   "results": [
+    {
+      "product_name": "EcoStar Automatic Washing Machine EW-F1204DC",
+      "my_price": 98000.0,
+      "my_available": true,
+      "my_url": "https://bismillahelectronics.pk/products/ecostar-automatic-washing-machine-ew-f1204dc",
+      "competitor_name": "Haier Automatic Washing Machine HWM85-1708",
+      "competitor_price": 52900.0,
+      "competitor_available": false,
+      "competitor_url": "https://japanelectronics.com.pk/products/haier-a-w-m-hwm85-1708",
+      "match_confidence": 76.7,
+      "status": "matched",
+      "price_diff": 45100.0,
+      "cheaper": "competitor"
+    },
+    {
+      "product_name": "EcoStar Single Washing Machine EW-W1001GW",
+      "my_price": 26500.0,
+      "my_available": true,
+      "my_url": "https://bismillahelectronics.pk/products/ecostar-single-washing-machine-ew-w1001gw",
+      "competitor_name": "Ecostar Washing Machine EW-W1001GW",
+      "competitor_price": 23900.0,
+      "competitor_available": false,
+      "competitor_url": "https://japanelectronics.com.pk/products/ecostar-washing-machine-ew-w1001gw",
+      "match_confidence": 88.0,
+      "status": "matched",
+      "price_diff": 2600.0,
+      "cheaper": "competitor"
+    },
+    {
+      "product_name": "Canon Electric Heater FEWH-LY100",
+      "my_price": 53400.0,
+      "my_available": true,
+      "my_url": "https://bismillahelectronics.pk/products/canon-electric-heater-fewh-ly100",
+      "competitor_name": "Canon Fast Electric Geyser FEWH-10 LCM",
+      "competitor_price": 26900.0,
+      "competitor_available": false,
+      "competitor_url": "https://japanelectronics.com.pk/products/canon-fast-electric-geyser-fewh-10-lcm",
+      "match_confidence": 77.1,
+      "status": "matched",
+      "price_diff": 26500.0,
+      "cheaper": "competitor"
+    },
+    {
+      "product_name": "Canon Electric Heater FEWH-LY80",
+      "my_price": 49400.0,
+      "my_available": true,
+      "my_url": "https://bismillahelectronics.pk/products/canon-electric-heater-fewh-ly80",
+      "competitor_name": "Canon Fast Electric Geyser FEWH-80 LY",
+      "competitor_price": 48400.0,
+      "competitor_available": false,
+      "competitor_url": "https://japanelectronics.com.pk/products/canon-fast-electric-geyser-fewh-80-ly",
+      "match_confidence": 79.4,
+      "status": "matched",
+      "price_diff": 1000.0,
+      "cheaper": "competitor"
+    },
+    {
+      "product_name": "Canon Electric Heater FEWH-LY40",
+      "my_price": 41400.0,
+      "my_available": true,
+      "my_url": "https://bismillahelectronics.pk/products/canon-electric-heater-fewh-ly40",
+      "competitor_name": "Canon Fast Electric Geyser FEWH-40 LY",
+      "competitor_price": 40400.0,
+      "competitor_available": false,
+      "competitor_url": "https://japanelectronics.com.pk/products/canon-fast-electric-geyser-fewh-40-ly",
+      "match_confidence": 79.4,
+      "status": "matched",
+      "price_diff": 1000.0,
+      "cheaper": "competitor"
+    },
     {
       "product_name": "BinBazz Room Air Cooler 7800",
       "my_price": 28000.0,
@@ -610,7 +680,7 @@
     },
     {
       "product_name": "Dawlance Deep Freezer 1035 AVANTE+ VERTICAL CLOUD WHITE",
-      "my_price": 107000.0,
+      "my_price": 111500.0,
       "my_available": true,
       "my_url": "https://bismillahelectronics.pk/products/dawlance-deep-freezer-1035-avante-vertical-cloud-white",
       "competitor_name": null,
@@ -1002,7 +1072,7 @@
     },
     {
       "product_name": "Dawlance Ref 9173 Acce Coral Red",
-      "my_price": 91900.0,
+      "my_price": 92900.0,
       "my_available": true,
       "my_url": "https://bismillahelectronics.pk/products/dawlance-ref-9173-acce-coral-red",
       "competitor_name": "Dawlance 9193 Acce Coral Red",
@@ -1011,7 +1081,7 @@
       "competitor_url": "https://japanelectronics.com.pk/products/dawlance-9193-acce-coral-red",
       "match_confidence": 90.0,
       "status": "matched",
-      "price_diff": -13100.0,
+      "price_diff": -12100.0,
       "cheaper": "us"
     },
     {
@@ -2864,7 +2934,7 @@
     },
     {
       "product_name": "Dawlance Ref DFD 900 GD SAPPHIRE BLACK (INV)",
-      "my_price": 255000.0,
+      "my_price": 258700.0,
       "my_available": true,
       "my_url": "https://bismillahelectronics.pk/products/dawlance-ref-dfd-900-gd-sapphire-black-inv",
       "competitor_name": "Dawlance REF DFD 900 GD Sapphire Black (INV)",
@@ -2873,12 +2943,12 @@
       "competitor_url": "https://japanelectronics.com.pk/products/dawlance-ref-dfd-900-gd-sapphire-black-inv",
       "match_confidence": 70.5,
       "status": "matched",
-      "price_diff": 0.0,
-      "cheaper": "same"
+      "price_diff": 3700.0,
+      "cheaper": "competitor"
     },
     {
       "product_name": "Dawlance Ref 91999 AVANTE + PLATINUM SILVER (GD INV)",
-      "my_price": 129000.0,
+      "my_price": 130000.0,
       "my_available": true,
       "my_url": "https://bismillahelectronics.pk/products/dawlance-ref-91999-avante-platinum-silver-gd-inv",
       "competitor_name": null,
@@ -2892,7 +2962,7 @@
     },
     {
       "product_name": "Dawlance Ref 91999 AVANTE + CLOUD WHITE (GD INV)",
-      "my_price": 130000.0,
+      "my_price": 133000.0,
       "my_available": true,
       "my_url": "https://bismillahelectronics.pk/products/dawlance-ref-91999-avante-cloud-white-gd-inv",
       "competitor_name": null,
@@ -2906,7 +2976,7 @@
     },
     {
       "product_name": "Dawlance Ref 91999 ACCE CORAL RED",
-      "my_price": 115000.0,
+      "my_price": 116000.0,
       "my_available": true,
       "my_url": "https://bismillahelectronics.pk/products/dawlance-ref-91999-acce-coral-red",
       "competitor_name": "DAWLANCE REF 91999 ACCE CORAL RED",
@@ -2915,12 +2985,12 @@
       "competitor_url": "https://japanelectronics.com.pk/products/dawlance-ref-91999-acce-coral-red-1",
       "match_confidence": 72.7,
       "status": "matched",
-      "price_diff": 3000.0,
+      "price_diff": 4000.0,
       "cheaper": "competitor"
     },
     {
       "product_name": "Dawlance Ref 9193 LF CHROME PEARL COPPER",
-      "my_price": 107300.0,
+      "my_price": 108000.0,
       "my_available": true,
       "my_url": "https://bismillahelectronics.pk/products/dawlance-ref-9193-lf-chrome-pearl-copper",
       "competitor_name": null,
@@ -2948,7 +3018,7 @@
     },
     {
       "product_name": "Dawlance Ref 9193 AVANTE + MIDNIGHT GREEN (GD INV)",
-      "my_price": 118300.0,
+      "my_price": 119000.0,
       "my_available": true,
       "my_url": "https://bismillahelectronics.pk/products/dawlance-ref-9193-avante-midnight-green-gd-inv",
       "competitor_name": null,
@@ -2962,7 +3032,7 @@
     },
     {
       "product_name": "Dawlance Ref 9191 ACCE CORAL RED",
-      "my_price": 102500.0,
+      "my_price": 103500.0,
       "my_available": true,
       "my_url": "https://bismillahelectronics.pk/products/dawlance-ref-9191-acce-coral-red",
       "competitor_name": "DAWLANCE REF 9191 ACCE CORAL RED",
@@ -2971,7 +3041,7 @@
       "competitor_url": "https://japanelectronics.com.pk/products/dawlance-ref-9191-acce-coral-red",
       "match_confidence": 71.9,
       "status": "matched",
-      "price_diff": 2500.0,
+      "price_diff": 3500.0,
       "cheaper": "competitor"
     },
     {
@@ -3004,7 +3074,7 @@
     },
     {
       "product_name": "Dawlance Ref 9169 WB ICEMAX MIST GREEN",
-      "my_price": 88200.0,
+      "my_price": 89200.0,
       "my_available": true,
       "my_url": "https://bismillahelectronics.pk/products/dawlance-ref-9169-wb-icemax-mist-green",
       "competitor_name": null,
@@ -3018,7 +3088,7 @@
     },
     {
       "product_name": "Dawlance REF 9169 WB AVANTE PEARL BURGUNDY (GD)",
-      "my_price": 89700.0,
+      "my_price": 90700.0,
       "my_available": true,
       "my_url": "https://bismillahelectronics.pk/products/dawlance-ref-9169-wb-avante-pearl-burgundy-gd",
       "competitor_name": null,
@@ -3032,7 +3102,7 @@
     },
     {
       "product_name": "Dawlance Ref 9160 WB ICEMAX MIST GREEN",
-      "my_price": 83700.0,
+      "my_price": 84700.0,
       "my_available": true,
       "my_url": "https://bismillahelectronics.pk/products/dawlance-ref-9160-wb-icemax-mist-green",
       "competitor_name": null,
@@ -3046,7 +3116,7 @@
     },
     {
       "product_name": "Dawlance Ref 9160 WB AVANTE PEARL RED (GD)",
-      "my_price": 70900.0,
+      "my_price": 83700.0,
       "my_available": true,
       "my_url": "https://bismillahelectronics.pk/products/dawlance-ref-9160-wb-avante-pearl-red-gd",
       "competitor_name": null,
@@ -3060,7 +3130,7 @@
     },
     {
       "product_name": "Dawlance Ref 9149 WB E-CHROME HAIRLINE GOLDEN",
-      "my_price": 67700.0,
+      "my_price": 68700.0,
       "my_available": true,
       "my_url": "https://bismillahelectronics.pk/products/dawlance-ref-9149-wb-e-chrome-hairline-golden",
       "competitor_name": null,
@@ -3074,7 +3144,7 @@
     },
     {
       "product_name": "Dawlance Ref 9149 WB CHROME HAIRLINE BLACK",
-      "my_price": 70800.0,
+      "my_price": 71800.0,
       "my_available": true,
       "my_url": "https://bismillahelectronics.pk/products/dawlance-ref-9149-wb-chrome-hairline-black",
       "competitor_name": null,
@@ -3088,7 +3158,7 @@
     },
     {
       "product_name": "Dawlance Ref 9149 WB AVANTE PEARL BURGUNDY (GD)",
-      "my_price": 76700.0,
+      "my_price": 77700.0,
       "my_available": true,
       "my_url": "https://bismillahelectronics.pk/products/dawlance-ref-9149-wb-avante-pearl-burgundy-gd",
       "competitor_name": null,
@@ -3606,7 +3676,7 @@
     },
     {
       "product_name": "Eco Star Hair Dryer ECOSTAR",
-      "my_price": 4000.0,
+      "my_price": 6000.0,
       "my_available": true,
       "my_url": "https://bismillahelectronics.pk/products/eco-star-hair-dryer-ecostar",
       "competitor_name": null,
@@ -3634,7 +3704,7 @@
     },
     {
       "product_name": "Dawlance Steam Iron DWSI-2322 CX",
-      "my_price": 8000.0,
+      "my_price": 10000.0,
       "my_available": true,
       "my_url": "https://bismillahelectronics.pk/products/dawlance-steam-iron-dwsi-2322-cx",
       "competitor_name": "Dawlance Steam Iron DWSI-2217 C",
@@ -3643,7 +3713,7 @@
       "competitor_url": "https://japanelectronics.com.pk/products/dawlance-steam-iron-dwsi-2217-c",
       "match_confidence": 92.1,
       "status": "matched",
-      "price_diff": 500.0,
+      "price_diff": 2500.0,
       "cheaper": "competitor"
     },
     {
@@ -4390,7 +4460,7 @@
     },
     {
       "product_name": "Dawlance Auto Wash 1776 FLT",
-      "my_price": 139350.0,
+      "my_price": 125400.0,
       "my_available": true,
       "my_url": "https://bismillahelectronics.pk/products/dawlance-auto-wash-1776-flt",
       "competitor_name": null,
@@ -4926,12 +4996,12 @@
       "my_available": true,
       "my_url": "https://bismillahelectronics.pk/products/gree-ac-1-5-ton-inverter-18pith17w-t3",
       "competitor_name": "Gree Split AC Inverter 1.5 Ton 18PITH18W",
-      "competitor_price": 179500.0,
+      "competitor_price": 179900.0,
       "competitor_available": true,
       "competitor_url": "https://japanelectronics.com.pk/products/gree-split-ac-inverter-1-5-ton-18pith18w",
       "match_confidence": 83.1,
       "status": "matched",
-      "price_diff": -2600.0,
+      "price_diff": -3000.0,
       "cheaper": "us"
     },
     {
@@ -4940,12 +5010,12 @@
       "my_available": true,
       "my_url": "https://bismillahelectronics.pk/products/gree-ac-1-5-ton-inverter-18pith16w-t3",
       "competitor_name": "Gree Split AC Inverter 1.5 Ton 18PITH18W",
-      "competitor_price": 179500.0,
+      "competitor_price": 179900.0,
       "competitor_available": true,
       "competitor_url": "https://japanelectronics.com.pk/products/gree-split-ac-inverter-1-5-ton-18pith18w",
       "match_confidence": 83.1,
       "status": "matched",
-      "price_diff": -2600.0,
+      "price_diff": -3000.0,
       "cheaper": "us"
     },
     {
@@ -5160,7 +5230,7 @@
     },
     {
       "product_name": "Dawlance Front Load Washing Machine DWF-7120 W",
-      "my_price": 120000.0,
+      "my_price": 131000.0,
       "my_available": true,
       "my_url": "https://bismillahelectronics.pk/products/dawlance-dwf-7120-w-inverter-automatic-washing-machine",
       "competitor_name": "Dawlance Washing Machine DW-6100 W",
@@ -5169,7 +5239,7 @@
       "competitor_url": "https://japanelectronics.com.pk/products/dawlance-washing-machine-dw-6100-w",
       "match_confidence": 80.0,
       "status": "matched",
-      "price_diff": 95100.0,
+      "price_diff": 106100.0,
       "cheaper": "competitor"
     },
     {
@@ -5230,7 +5300,7 @@
     },
     {
       "product_name": "Dawlance Dishwasher 14952 S Inv",
-      "my_price": 160000.0,
+      "my_price": 169500.0,
       "my_available": true,
       "my_url": "https://bismillahelectronics.pk/products/dawlance-dishwasher-14952-s-inv",
       "competitor_name": "Dawlance Dish Washer DDW-14952 S",
@@ -5239,12 +5309,12 @@
       "competitor_url": "https://japanelectronics.com.pk/products/dawlance-dish-washer-ddw-14952-s",
       "match_confidence": 76.2,
       "status": "matched",
-      "price_diff": 0.0,
-      "cheaper": "same"
+      "price_diff": 9500.0,
+      "cheaper": "competitor"
     },
     {
       "product_name": "Dawlance Dishwasher DDW-1471 (Inv)",
-      "my_price": 195000.0,
+      "my_price": 185900.0,
       "my_available": true,
       "my_url": "https://bismillahelectronics.pk/products/dawlance-dish-washer-ddw-1471-inv",
       "competitor_name": "Dawlance Dish Washer DDW-1470 GB",
@@ -5253,8 +5323,8 @@
       "competitor_url": "https://japanelectronics.com.pk/products/dawlance-dish-washer-ddw-1470-gb",
       "match_confidence": 78.8,
       "status": "matched",
-      "price_diff": 5000.0,
-      "cheaper": "competitor"
+      "price_diff": -4100.0,
+      "cheaper": "us"
     },
     {
       "product_name": "MIDEA AUTO WASH FRONT LOAD MF200-W90-G PK 9 KG",
@@ -5370,7 +5440,7 @@
     },
     {
       "product_name": "Dawlance Microwave DW 136 Grill",
-      "my_price": 36200.0,
+      "my_price": 36700.0,
       "my_available": true,
       "my_url": "https://bismillahelectronics.pk/products/dawlance-microwave-dw-136-grill",
       "competitor_name": "Dawlance Microwave Oven DW-136 G",
@@ -5379,7 +5449,7 @@
       "competitor_url": "https://japanelectronics.com.pk/products/dawlance-microwave-oven-dw-136-g",
       "match_confidence": 76.2,
       "status": "matched",
-      "price_diff": 2400.0,
+      "price_diff": 2900.0,
       "cheaper": "competitor"
     },
     {
@@ -5734,7 +5804,7 @@
     },
     {
       "product_name": "Dawlance Refrigerator 9178 LF Avante + Midnight Green (GD INV)",
-      "my_price": 108000.0,
+      "my_price": 109000.0,
       "my_available": true,
       "my_url": "https://bismillahelectronics.pk/products/dawlance-refrigerator-9178-lf-avante-midnight-green-gd-inv",
       "competitor_name": "Dawlance Refrigerator 9178 LF Avante + Midnight Green (GD INV)",
@@ -5743,12 +5813,12 @@
       "competitor_url": "https://japanelectronics.com.pk/products/dawlance-ref-9178-lf-avante-midnight-green-gd-inv",
       "match_confidence": 100.0,
       "status": "matched",
-      "price_diff": 4000.0,
+      "price_diff": 5000.0,
       "cheaper": "competitor"
     },
     {
       "product_name": "Dawlance Refrigerator 9160 LF Chrome Pro Hairline Silver",
-      "my_price": 77400.0,
+      "my_price": 86700.0,
       "my_available": true,
       "my_url": "https://bismillahelectronics.pk/products/dawlance-refrigerator-9160-lf-chrome-pro-hairline-silver",
       "competitor_name": "Dawlance Refrigerator 9160 LF Chrome Pro Hairline Silver",
@@ -5757,12 +5827,12 @@
       "competitor_url": "https://japanelectronics.com.pk/products/dawlance-refrigerator-9160-lf-chrome-pro-hairline-silver",
       "match_confidence": 100.0,
       "status": "matched",
-      "price_diff": -5100.0,
-      "cheaper": "us"
+      "price_diff": 4200.0,
+      "cheaper": "competitor"
     },
     {
       "product_name": "Dawlance Refrigerator 9178 LF Avante + Silver (GD INV)",
-      "my_price": 108000.0,
+      "my_price": 109000.0,
       "my_available": true,
       "my_url": "https://bismillahelectronics.pk/products/dawlance-refrigerator-9178-lf-avante-silver-gd-inv",
       "competitor_name": "Dawlance Refrigerator 9178 LF Avante +  Silver (GD INV)",
@@ -5771,12 +5841,12 @@
       "competitor_url": "https://japanelectronics.com.pk/products/dawlance-refrigerator-9178-lf-avante-silver-gd-inv",
       "match_confidence": 100.0,
       "status": "matched",
-      "price_diff": 4000.0,
+      "price_diff": 5000.0,
       "cheaper": "competitor"
     },
     {
       "product_name": "Dawlance Refrigerator 9191 WB Avante + Platinium Silver (GD INV)",
-      "my_price": 113000.0,
+      "my_price": 114000.0,
       "my_available": true,
       "my_url": "https://bismillahelectronics.pk/products/dawlance-refrigerator-9191-wb-avante-platinium-silver-gd-inv",
       "competitor_name": "Dawlance Refrigerator 9191 WB Avante + Platinium Silver (GD INV)",
@@ -5785,12 +5855,12 @@
       "competitor_url": "https://japanelectronics.com.pk/products/dawlance-ref-9191-wb-avante-platinium-silver-gd-inv",
       "match_confidence": 100.0,
       "status": "matched",
-      "price_diff": 3000.0,
+      "price_diff": 4000.0,
       "cheaper": "competitor"
     },
     {
       "product_name": "Dawlance Refrigerator 9178 LF Avante Diamond Purple (GD)",
-      "my_price": 100100.0,
+      "my_price": 102000.0,
       "my_available": true,
       "my_url": "https://bismillahelectronics.pk/products/dawlance-refrigerator-9178-lf-avante-diamond-purple-gd",
       "competitor_name": "Dawlance Refrigerator 9173 WB Avante Diamond Purple (GD)",
@@ -5799,12 +5869,12 @@
       "competitor_url": "https://japanelectronics.com.pk/products/dawlance-refrigerator-9173-wb-avante-diamond-purple-gd",
       "match_confidence": 92.9,
       "status": "matched",
-      "price_diff": 8600.0,
+      "price_diff": 10500.0,
       "cheaper": "competitor"
     },
     {
       "product_name": "Dawlance Refrigerator 9178 LF Avante Diamond Red (GD)",
-      "my_price": 100100.0,
+      "my_price": 102000.0,
       "my_available": true,
       "my_url": "https://bismillahelectronics.pk/products/dawlance-refrigerator-9178-lf-avante-diamond-red-gd",
       "competitor_name": "Dawlance Refrigerator 9193 LF Avante Diamond Red (GD)",
@@ -5813,7 +5883,7 @@
       "competitor_url": "https://japanelectronics.com.pk/products/dawlance-refrigerator-9193-lf-avante-diamond-red-gd",
       "match_confidence": 96.2,
       "status": "matched",
-      "price_diff": -8400.0,
+      "price_diff": -6500.0,
       "cheaper": "us"
     },
     {
@@ -6130,13 +6200,13 @@
       "my_available": true,
       "my_url": "https://bismillahelectronics.pk/products/gree-ac-1-0-ton-inverter-12aith21b-t3",
       "competitor_name": "Gree Split AC Inverter 1.0 Ton GS-12AITH21B-T3",
-      "competitor_price": 166900.0,
+      "competitor_price": 168900.0,
       "competitor_available": true,
       "competitor_url": "https://japanelectronics.com.pk/products/gree-split-ac-inverter-1-0-ton-gs-12aith21b-t3",
       "match_confidence": 81.9,
       "status": "matched",
-      "price_diff": 0.0,
-      "cheaper": "same"
+      "price_diff": -2000.0,
+      "cheaper": "us"
     },
     {
       "product_name": "Eco Star AC 1.5 Ton Inverter 18EM02WS",
@@ -6354,12 +6424,12 @@
       "my_available": true,
       "my_url": "https://bismillahelectronics.pk/products/gree-ac-1-5-ton-inverter-18zith1w-t3",
       "competitor_name": "Gree Split AC Inverter 1.5 Ton 18PITH18W",
-      "competitor_price": 179500.0,
+      "competitor_price": 179900.0,
       "competitor_available": true,
       "competitor_url": "https://japanelectronics.com.pk/products/gree-split-ac-inverter-1-5-ton-18pith18w",
       "match_confidence": 84.2,
       "status": "matched",
-      "price_diff": 7400.0,
+      "price_diff": 7000.0,
       "cheaper": "competitor"
     },
     {
@@ -6756,7 +6826,7 @@
     },
     {
       "product_name": "Dawlance Refrigerator 91999 Avante + IOT WIFI (Silky Black)",
-      "my_price": 139000.0,
+      "my_price": 140000.0,
       "my_available": true,
       "my_url": "https://bismillahelectronics.pk/products/dawlance-refrigerator-91999-avante-iot-wifi-silky-black",
       "competitor_name": "Dawlance Refrigerator 91999 Avante + Silky Black (GD INV) IOT WIFI",
@@ -6765,12 +6835,12 @@
       "competitor_url": "https://japanelectronics.com.pk/products/dawlance-refrigerator-91999-avante-silky-black-gd-inv-iot-wifi",
       "match_confidence": 84.8,
       "status": "matched",
-      "price_diff": 4000.0,
+      "price_diff": 5000.0,
       "cheaper": "competitor"
     },
     {
       "product_name": "Dawlance Dishwasher DDW-1470",
-      "my_price": 190000.0,
+      "my_price": 200500.0,
       "my_available": true,
       "my_url": "https://bismillahelectronics.pk/products/dawlance-dishwasher-ddw-1470",
       "competitor_name": "Dawlance Dish Washer DDW-1470 GB",
@@ -6779,8 +6849,8 @@
       "competitor_url": "https://japanelectronics.com.pk/products/dawlance-dish-washer-ddw-1470-gb",
       "match_confidence": 90.0,
       "status": "matched",
-      "price_diff": 0.0,
-      "cheaper": "same"
+      "price_diff": 10500.0,
+      "cheaper": "competitor"
     },
     {
       "product_name": "Homage Garment Steamer HGS-1151BE",
@@ -7764,7 +7834,7 @@
     },
     {
       "product_name": "Dawlance Trimmer DWMGK 9030",
-      "my_price": 7000.0,
+      "my_price": 9000.0,
       "my_available": true,
       "my_url": "https://bismillahelectronics.pk/products/dawlance-trimmer-dwmgk-9030",
       "competitor_name": null,
@@ -7778,7 +7848,7 @@
     },
     {
       "product_name": "Dawlance Trimmer DWMC 9030",
-      "my_price": 6000.0,
+      "my_price": 8000.0,
       "my_available": true,
       "my_url": "https://bismillahelectronics.pk/products/dawlance-trimmer-dwmc-9030",
       "competitor_name": null,
@@ -7792,7 +7862,7 @@
     },
     {
       "product_name": "Dawlance Shaver DWMS 6240",
-      "my_price": 6500.0,
+      "my_price": 8500.0,
       "my_available": true,
       "my_url": "https://bismillahelectronics.pk/products/dawlance-shaver-dwms-6240",
       "competitor_name": null,
@@ -7806,7 +7876,7 @@
     },
     {
       "product_name": "Dawlance Kettle DWEK 7210",
-      "my_price": 8900.0,
+      "my_price": 9900.0,
       "my_available": true,
       "my_url": "https://bismillahelectronics.pk/products/dawlance-kettle-dwek-7210",
       "competitor_name": "Dawlance Kettle DWEK-7200",
@@ -7815,12 +7885,12 @@
       "competitor_url": "https://japanelectronics.com.pk/products/dawlance-kettle-dwek-7200",
       "match_confidence": 80.0,
       "status": "matched",
-      "price_diff": 1800.0,
+      "price_diff": 2800.0,
       "cheaper": "competitor"
     },
     {
       "product_name": "Dawlance Kettle DWEK 7200",
-      "my_price": 7400.0,
+      "my_price": 8400.0,
       "my_available": true,
       "my_url": "https://bismillahelectronics.pk/products/dawlance-kettle-dwek-7200",
       "competitor_name": "Dawlance Kettle DWEK-7200",
@@ -7829,12 +7899,12 @@
       "competitor_url": "https://japanelectronics.com.pk/products/dawlance-kettle-dwek-7200",
       "match_confidence": 80.0,
       "status": "matched",
-      "price_diff": 300.0,
+      "price_diff": 1300.0,
       "cheaper": "competitor"
     },
     {
       "product_name": "Dawlance Kettle DWEK 7100",
-      "my_price": 7900.0,
+      "my_price": 9900.0,
       "my_available": true,
       "my_url": "https://bismillahelectronics.pk/products/dawlance-kettle-dwek-7100",
       "competitor_name": "Dawlance Kettle DWEK-7200",
@@ -7843,12 +7913,12 @@
       "competitor_url": "https://japanelectronics.com.pk/products/dawlance-kettle-dwek-7200",
       "match_confidence": 80.0,
       "status": "matched",
-      "price_diff": 800.0,
+      "price_diff": 2800.0,
       "cheaper": "competitor"
     },
     {
       "product_name": "Dawlance Hot Plate DWHP 3021 B",
-      "my_price": 12000.0,
+      "my_price": 14000.0,
       "my_available": true,
       "my_url": "https://bismillahelectronics.pk/products/dawlance-hot-plate-dwhp-3021-b",
       "competitor_name": "Dawlance Hot Plate DWHP-3021 B",
@@ -7857,12 +7927,12 @@
       "competitor_url": "https://japanelectronics.com.pk/products/dawlance-hot-plate-dwhp-3021-b",
       "match_confidence": 83.3,
       "status": "matched",
-      "price_diff": 1100.0,
+      "price_diff": 3100.0,
       "cheaper": "competitor"
     },
     {
       "product_name": "Dawlance Hand Blender DWHB 475 (White)",
-      "my_price": 9000.0,
+      "my_price": 11000.0,
       "my_available": true,
       "my_url": "https://bismillahelectronics.pk/products/dawlance-hand-blender-dwhb-475-white",
       "competitor_name": null,
@@ -7876,7 +7946,7 @@
     },
     {
       "product_name": "Dawlance Hair Straightener DWHS-7034",
-      "my_price": 7500.0,
+      "my_price": 6960.0,
       "my_available": true,
       "my_url": "https://bismillahelectronics.pk/products/dawlance-hair-straightener-dwhs-7034",
       "competitor_name": "Dawlance Hair Straightener DWHS-7030",
@@ -7885,12 +7955,12 @@
       "competitor_url": "https://japanelectronics.com.pk/products/dawlance-hair-straightener-dwhs-7030",
       "match_confidence": 97.2,
       "status": "matched",
-      "price_diff": -2900.0,
+      "price_diff": -3440.0,
       "cheaper": "us"
     },
     {
       "product_name": "Dawlance Hair Straightener DWHS-7032",
-      "my_price": 7500.0,
+      "my_price": 9500.0,
       "my_available": true,
       "my_url": "https://bismillahelectronics.pk/products/dawlance-hair-straightener-dwhs-7032",
       "competitor_name": "Dawlance Hair Straightener DWHS-7030",
@@ -7899,12 +7969,12 @@
       "competitor_url": "https://japanelectronics.com.pk/products/dawlance-hair-straightener-dwhs-7030",
       "match_confidence": 97.2,
       "status": "matched",
-      "price_diff": -2900.0,
+      "price_diff": -900.0,
       "cheaper": "us"
     },
     {
       "product_name": "Dawlance Hair Straightener DWHS-7031",
-      "my_price": 7500.0,
+      "my_price": 9500.0,
       "my_available": true,
       "my_url": "https://bismillahelectronics.pk/products/dawlance-hair-straightener-dwhs-7031",
       "competitor_name": "Dawlance Hair Straightener (DWHS-7031)",
@@ -7913,8 +7983,8 @@
       "competitor_url": "https://japanelectronics.com.pk/products/dawlance-hair-straightener-dwhs-7031",
       "match_confidence": 97.3,
       "status": "matched",
-      "price_diff": -1400.0,
-      "cheaper": "us"
+      "price_diff": 600.0,
+      "cheaper": "competitor"
     },
     {
       "product_name": "Dawlance Garment Steamer DWGS 2316",
@@ -7946,7 +8016,7 @@
     },
     {
       "product_name": "Dawlance Food Processor DWFP-8270",
-      "my_price": 23800.0,
+      "my_price": 25800.0,
       "my_available": true,
       "my_url": "https://bismillahelectronics.pk/products/dawlance-food-processor-dwfp-8270",
       "competitor_name": "Dawlance Food Processor DWFP-8270",
@@ -7955,12 +8025,12 @@
       "competitor_url": "https://japanelectronics.com.pk/products/dawlance-food-processor-dwfp-8270",
       "match_confidence": 100.0,
       "status": "matched",
-      "price_diff": 6400.0,
+      "price_diff": 8400.0,
       "cheaper": "competitor"
     },
     {
       "product_name": "Dawlance Blender DWTB 520",
-      "my_price": 11500.0,
+      "my_price": 13500.0,
       "my_available": true,
       "my_url": "https://bismillahelectronics.pk/products/dawlance-blender-dwtb-520",
       "competitor_name": "Dawlance Blender DWTB-510 W",
@@ -7969,7 +8039,7 @@
       "competitor_url": "https://japanelectronics.com.pk/products/dawlance-blender-dwtb-510-w",
       "match_confidence": 80.8,
       "status": "matched",
-      "price_diff": 100.0,
+      "price_diff": 2100.0,
       "cheaper": "competitor"
     },
     {
@@ -8898,7 +8968,7 @@
     },
     {
       "product_name": "Dawlance No Frost Refrigerator DMD-7950 Inox",
-      "my_price": 240000.0,
+      "my_price": 241000.0,
       "my_available": true,
       "my_url": "https://bismillahelectronics.pk/products/dawlance-no-frost-refrigerator-dmd-7950-inox",
       "competitor_name": "Dawlance No Frost Ref DMD-7950 Inox",
@@ -8907,7 +8977,7 @@
       "competitor_url": "https://japanelectronics.com.pk/products/dawlance-no-frost-ref-dmd-7950-inox",
       "match_confidence": 88.6,
       "status": "matched",
-      "price_diff": -15000.0,
+      "price_diff": -14000.0,
       "cheaper": "us"
     },
     {
@@ -9052,7 +9122,7 @@
     },
     {
       "product_name": "Dawlance Double Washing Machine DW-7500C Glass Lid",
-      "my_price": 46800.0,
+      "my_price": 45900.0,
       "my_available": true,
       "my_url": "https://bismillahelectronics.pk/products/dawlance-double-washing-machine-dw-7500c-glass-lid",
       "competitor_name": "Dawlance Washing Machine DW-7500C",
@@ -9061,12 +9131,12 @@
       "competitor_url": "https://japanelectronics.com.pk/products/dawlance-washing-machine-dw-7500c-1",
       "match_confidence": 79.5,
       "status": "matched",
-      "price_diff": 5800.0,
+      "price_diff": 4900.0,
       "cheaper": "competitor"
     },
     {
       "product_name": "Dawlance Spinner DS 9000",
-      "my_price": 29000.0,
+      "my_price": 28800.0,
       "my_available": true,
       "my_url": "https://bismillahelectronics.pk/products/dawlance-spinner-ds-9000",
       "competitor_name": "Dawlance Spinner DS-9000",
@@ -9075,12 +9145,12 @@
       "competitor_url": "https://japanelectronics.com.pk/products/dawlance-spinner-ds-9000",
       "match_confidence": 87.5,
       "status": "matched",
-      "price_diff": 1500.0,
+      "price_diff": 1300.0,
       "cheaper": "competitor"
     },
     {
       "product_name": "Dawlance Spinner DS 6080",
-      "my_price": 21300.0,
+      "my_price": 21200.0,
       "my_available": true,
       "my_url": "https://bismillahelectronics.pk/products/dawlance-spinner-ds-6080",
       "competitor_name": "Dawlance Spinner (DS 6080 CB)",
@@ -9089,12 +9159,12 @@
       "competitor_url": "https://japanelectronics.com.pk/products/dawlance-spinner-ds-6080-cb",
       "match_confidence": 83.0,
       "status": "matched",
-      "price_diff": 1300.0,
+      "price_diff": 1200.0,
       "cheaper": "competitor"
     },
     {
       "product_name": "Dawlance Front Load Washing Machine DWF 7310 INV",
-      "my_price": 130500.0,
+      "my_price": 131500.0,
       "my_available": true,
       "my_url": "https://bismillahelectronics.pk/products/dawlance-front-load-washing-machine-dwf-7310-inv",
       "competitor_name": "Dawlance Washing Machine DW-8550 CB FL",
@@ -9103,12 +9173,12 @@
       "competitor_url": "https://japanelectronics.com.pk/products/dawlance-washing-machine-dw-8550-cb-fl",
       "match_confidence": 72.1,
       "status": "matched",
-      "price_diff": 92001.0,
+      "price_diff": 93001.0,
       "cheaper": "competitor"
     },
     {
       "product_name": "Dawlance Automatic Washing Machine DWT 11467 ES",
-      "my_price": 74500.0,
+      "my_price": 75500.0,
       "my_available": true,
       "my_url": "https://bismillahelectronics.pk/products/dawlance-automatic-washing-machine-dwt-11467-es",
       "competitor_name": "Dawlance Automatic Washing Machine DWT 9060 EZ",
@@ -9117,12 +9187,12 @@
       "competitor_url": "https://japanelectronics.com.pk/products/dawlance-automatic-washing-machine-dwt-9060-ez",
       "match_confidence": 90.3,
       "status": "matched",
-      "price_diff": 20500.0,
+      "price_diff": 21500.0,
       "cheaper": "competitor"
     },
     {
       "product_name": "Dawlance Automatic Washing Machine DWT 1016 INV",
-      "my_price": 106700.0,
+      "my_price": 107700.0,
       "my_available": true,
       "my_url": "https://bismillahelectronics.pk/products/dawlance-automatic-washing-machine-dwt-1016-inv",
       "competitor_name": "Dawlance Automatic Washing Machine DWT 9060 EZ",
@@ -9131,7 +9201,7 @@
       "competitor_url": "https://japanelectronics.com.pk/products/dawlance-automatic-washing-machine-dwt-9060-ez",
       "match_confidence": 90.3,
       "status": "matched",
-      "price_diff": 52700.0,
+      "price_diff": 53700.0,
       "cheaper": "competitor"
     },
     {
@@ -9150,7 +9220,7 @@
     },
     {
       "product_name": "Dawlance Front Load Washing Machine DWF 7120 W INV",
-      "my_price": 120000.0,
+      "my_price": 131000.0,
       "my_available": true,
       "my_url": "https://bismillahelectronics.pk/products/dawlance-front-load-washing-machine-dwf-7120-w-inv",
       "competitor_name": "Dawlance Washing Machine DW 9200 WFL",
@@ -9159,7 +9229,7 @@
       "competitor_url": "https://japanelectronics.com.pk/products/dawlance-washing-machine-dw-9200-wfl",
       "match_confidence": 74.4,
       "status": "matched",
-      "price_diff": 90000.0,
+      "price_diff": 101000.0,
       "cheaper": "competitor"
     },
     {
@@ -9416,7 +9486,7 @@
     },
     {
       "product_name": "Canon Kitchen Hob CA-9-19",
-      "my_price": 19500.0,
+      "my_price": 22500.0,
       "my_available": true,
       "my_url": "https://bismillahelectronics.pk/products/canon-kitchen-hob-ca-9-19",
       "competitor_name": "Canon Kitchen Hob (HB-CA-2421 M/W)",
@@ -9425,7 +9495,7 @@
       "competitor_url": "https://japanelectronics.com.pk/products/canon-kitchen-hob-hb-ca-2421-m-w",
       "match_confidence": 74.6,
       "status": "matched",
-      "price_diff": -4700.0,
+      "price_diff": -1700.0,
       "cheaper": "us"
     },
     {
@@ -10172,7 +10242,7 @@
     },
     {
       "product_name": "Canon Kitchen Hob CA-2-19",
-      "my_price": 24500.0,
+      "my_price": 28500.0,
       "my_available": true,
       "my_url": "https://bismillahelectronics.pk/products/canon-kitchen-hob-ca-2-19",
       "competitor_name": "Canon Kitchen Hob (HB-CA-2421 M/W)",
@@ -10181,12 +10251,12 @@
       "competitor_url": "https://japanelectronics.com.pk/products/canon-kitchen-hob-hb-ca-2421-m-w",
       "match_confidence": 78.0,
       "status": "matched",
-      "price_diff": 300.0,
+      "price_diff": 4300.0,
       "cheaper": "competitor"
     },
     {
       "product_name": "Canon Kitchen Hob CA-2421 M/W",
-      "my_price": 22800.0,
+      "my_price": 26500.0,
       "my_available": true,
       "my_url": "https://bismillahelectronics.pk/products/canon-kitchen-hob-ca-2421-m-w",
       "competitor_name": "Canon Kitchen Hob (HB-CA-2421 M/W)",
@@ -10195,12 +10265,12 @@
       "competitor_url": "https://japanelectronics.com.pk/products/canon-kitchen-hob-hb-ca-2421-m-w",
       "match_confidence": 92.1,
       "status": "matched",
-      "price_diff": -1400.0,
-      "cheaper": "us"
+      "price_diff": 2300.0,
+      "cheaper": "competitor"
     },
     {
       "product_name": "Canon Kitchen Hob CA-6-19",
-      "my_price": 24500.0,
+      "my_price": 28500.0,
       "my_available": true,
       "my_url": "https://bismillahelectronics.pk/products/canon-kitchen-hob-ca-6-19",
       "competitor_name": "Canon Kitchen Hob (HB-CA-2421 M/W)",
@@ -10209,12 +10279,12 @@
       "competitor_url": "https://japanelectronics.com.pk/products/canon-kitchen-hob-hb-ca-2421-m-w",
       "match_confidence": 74.6,
       "status": "matched",
-      "price_diff": 300.0,
+      "price_diff": 4300.0,
       "cheaper": "competitor"
     },
     {
       "product_name": "Canon Kitchen Hob HB-CA-01",
-      "my_price": 16700.0,
+      "my_price": 19500.0,
       "my_available": true,
       "my_url": "https://bismillahelectronics.pk/products/canon-kitchen-hob-hb-ca-01",
       "competitor_name": "Canon Gas Hob HB-CA-05",
@@ -10223,12 +10293,12 @@
       "competitor_url": "https://japanelectronics.com.pk/products/canon-gas-hob-hb-ca-05",
       "match_confidence": 70.8,
       "status": "matched",
-      "price_diff": -1300.0,
-      "cheaper": "us"
+      "price_diff": 1500.0,
+      "cheaper": "competitor"
     },
     {
       "product_name": "Canon Kitchen Hob HB-CA-05",
-      "my_price": 18500.0,
+      "my_price": 20500.0,
       "my_available": true,
       "my_url": "https://bismillahelectronics.pk/products/canon-kitchen-hob-hb-ca-05",
       "competitor_name": "Canon Gas Hob HB-CA-05",
@@ -10237,12 +10307,12 @@
       "competitor_url": "https://japanelectronics.com.pk/products/canon-gas-hob-hb-ca-05",
       "match_confidence": 75.0,
       "status": "matched",
-      "price_diff": 500.0,
+      "price_diff": 2500.0,
       "cheaper": "competitor"
     },
     {
       "product_name": "Canon Kitchen Hob HB-CA-09",
-      "my_price": 16000.0,
+      "my_price": 18500.0,
       "my_available": true,
       "my_url": "https://bismillahelectronics.pk/products/canon-kitchen-hob-hb-ca-09",
       "competitor_name": "Canon Gas Hob HB-CA-05",
@@ -10251,8 +10321,8 @@
       "competitor_url": "https://japanelectronics.com.pk/products/canon-gas-hob-hb-ca-05",
       "match_confidence": 70.8,
       "status": "matched",
-      "price_diff": -2000.0,
-      "cheaper": "us"
+      "price_diff": 500.0,
+      "cheaper": "competitor"
     },
     {
       "product_name": "Canon Kitchen Hob HB-935-S2",
@@ -10284,7 +10354,7 @@
     },
     {
       "product_name": "Canon Kitchen Hob HG-01-19",
-      "my_price": 27000.0,
+      "my_price": 29500.0,
       "my_available": true,
       "my_url": "https://bismillahelectronics.pk/products/canon-kitchen-hob-hg-01-19",
       "competitor_name": null,
@@ -11348,7 +11418,7 @@
     },
     {
       "product_name": "Dawlance Water Dispenser DBD-1035 (Glass Door)",
-      "my_price": 50000.0,
+      "my_price": 53800.0,
       "my_available": true,
       "my_url": "https://bismillahelectronics.pk/products/dawlance-water-dispenser-dbd-1035-glass-door",
       "competitor_name": "Dawlance Water Dispenser DBD-1035",
@@ -11357,8 +11427,8 @@
       "competitor_url": "https://japanelectronics.com.pk/products/dawlance-water-dispenser-dbd-1035",
       "match_confidence": 83.5,
       "status": "matched",
-      "price_diff": 0.0,
-      "cheaper": "same"
+      "price_diff": 3800.0,
+      "cheaper": "competitor"
     },
     {
       "product_name": "Canon Built-In Oven BOV-60EAF",
@@ -11628,7 +11698,7 @@
     },
     {
       "product_name": "Dawlance Microwave Oven DW 132 S",
-      "my_price": 32600.0,
+      "my_price": 33100.0,
       "my_available": true,
       "my_url": "https://bismillahelectronics.pk/products/dawlance-microwave-oven-dw-132-s",
       "competitor_name": "Dawlance Microwave Oven (DW-390 S)",
@@ -11637,7 +11707,7 @@
       "competitor_url": "https://japanelectronics.com.pk/products/dawlance-microwave-oven-dw-390-s",
       "match_confidence": 84.8,
       "status": "matched",
-      "price_diff": 10200.0,
+      "price_diff": 10700.0,
       "cheaper": "competitor"
     },
     {
@@ -12173,7 +12243,7 @@
       "cheaper": "competitor"
     },
     {
-      "product_name": "Electrolux AC Inverter 1.5 Ton ELSAC-18K LUX (Black)",
+      "product_name": "Electrolux AC Inverter 1.5 Tonlack ELSAC-18K LUX (B)",
       "my_price": 192900.0,
       "my_available": true,
       "my_url": "https://bismillahelectronics.pk/products/electrolux-ac-inverter-1-5-ton-elsac-18k-lux-black",
@@ -13378,7 +13448,7 @@
     },
     {
       "product_name": "Electrolux Refrigerator SB-581 BG (Black)",
-      "my_price": 335000.0,
+      "my_price": 285000.0,
       "my_available": true,
       "my_url": "https://bismillahelectronics.pk/products/electrolux-refrigerator-sb-581-bg-black",
       "competitor_name": "Electrolux SBS Ref 581BG (Black)",
@@ -13387,7 +13457,7 @@
       "competitor_url": "https://japanelectronics.com.pk/products/electrolux-sbs-ref-581bg-black",
       "match_confidence": 76.7,
       "status": "matched",
-      "price_diff": 50001.0,
+      "price_diff": 1.0,
       "cheaper": "competitor"
     },
     {
@@ -13434,7 +13504,7 @@
     },
     {
       "product_name": "Dawlance Refrigerator 91999 Avante Diamond Purple (GD)",
-      "my_price": 121100.0,
+      "my_price": 122000.0,
       "my_available": true,
       "my_url": "https://bismillahelectronics.pk/products/dawlance-refrigerator-91999-avante-diamond-purple-gd",
       "competitor_name": "Dawlance Refrigerator 91999 Avante Diamond Purple (GD)",
@@ -13443,12 +13513,12 @@
       "competitor_url": "https://japanelectronics.com.pk/products/dawlance-refrigerator-91999-avante-diamond-purple-gd",
       "match_confidence": 100.0,
       "status": "matched",
-      "price_diff": 4100.0,
+      "price_diff": 5000.0,
       "cheaper": "competitor"
     },
     {
       "product_name": "Dawlance Refrigerator 9193 LF Avante + Silky Red (GD INV)",
-      "my_price": 127000.0,
+      "my_price": 128000.0,
       "my_available": true,
       "my_url": "https://bismillahelectronics.pk/products/dawlance-refrigerator-9193-lf-avante-silky-red-gd-inv",
       "competitor_name": "Dawlance Refrigerator 9193 LF Avante + Silky Red (GD INV) IOT WIFI",
@@ -13457,12 +13527,12 @@
       "competitor_url": "https://japanelectronics.com.pk/products/dawlance-refrigerator-9193-lf-avante-silky-red-gd-inv-iot-wifi",
       "match_confidence": 92.7,
       "status": "matched",
-      "price_diff": 2000.0,
+      "price_diff": 3000.0,
       "cheaper": "competitor"
     },
     {
       "product_name": "Dawlance Refrigerator DFD 900 GD Honeycomb Black",
-      "my_price": 255000.0,
+      "my_price": 258700.0,
       "my_available": true,
       "my_url": "https://bismillahelectronics.pk/products/dawlance-refrigerator-dfd-900-gd-honeycomb-black",
       "competitor_name": "Dawlance Refrigerator DFD 900 GD Honeycomb Black",
@@ -13471,12 +13541,12 @@
       "competitor_url": "https://japanelectronics.com.pk/products/dawlance-refrigerator-dfd-900-gd-honeycomb-black",
       "match_confidence": 100.0,
       "status": "matched",
-      "price_diff": 0.0,
-      "cheaper": "same"
+      "price_diff": 3700.0,
+      "cheaper": "competitor"
     },
     {
       "product_name": "Dawlance No Frost Refrigerator DTM-7650 (INOX Inverter)",
-      "my_price": 185000.0,
+      "my_price": 194000.0,
       "my_available": true,
       "my_url": "https://bismillahelectronics.pk/products/dawlance-no-frost-refrigerator-dtm-7650-inox-inverter",
       "competitor_name": "Dawlance No Frost Ref DTM-7650 (Inverter INOX)",
@@ -13485,12 +13555,12 @@
       "competitor_url": "https://japanelectronics.com.pk/products/dawlance-no-frost-ref-dtm-7650-inverter-inox",
       "match_confidence": 71.3,
       "status": "matched",
-      "price_diff": 0.0,
-      "cheaper": "same"
+      "price_diff": 9000.0,
+      "cheaper": "competitor"
     },
     {
       "product_name": "Dawlance Refrigerator 91999 Avante + Purple (GD INV)",
-      "my_price": 129000.0,
+      "my_price": 130000.0,
       "my_available": true,
       "my_url": "https://bismillahelectronics.pk/products/dawlance-refrigerator-91999-avante-purple-gd-inv",
       "competitor_name": "Dawlance Refrigerator 91999 Avante + Purple (GD INV)",
@@ -13499,12 +13569,12 @@
       "competitor_url": "https://japanelectronics.com.pk/products/dawlance-refrigerator-91999-avante-purple-gd-inv",
       "match_confidence": 100.0,
       "status": "matched",
-      "price_diff": 4000.0,
+      "price_diff": 5000.0,
       "cheaper": "competitor"
     },
     {
       "product_name": "Dawlance Refrigerator 91999 Avante Diamond Red (GD)",
-      "my_price": 121100.0,
+      "my_price": 122000.0,
       "my_available": true,
       "my_url": "https://bismillahelectronics.pk/products/dawlance-refrigerator-91999-avante-diamond-red-gd",
       "competitor_name": "Dawlance Refrigerator 9193 LF Avante Diamond Red (GD)",
@@ -13513,12 +13583,12 @@
       "competitor_url": "https://japanelectronics.com.pk/products/dawlance-refrigerator-9193-lf-avante-diamond-red-gd",
       "match_confidence": 94.2,
       "status": "matched",
-      "price_diff": 12600.0,
+      "price_diff": 13500.0,
       "cheaper": "competitor"
     },
     {
       "product_name": "Dawlance Refrigerator 9193 Acce Coral Red",
-      "my_price": 108000.0,
+      "my_price": 109000.0,
       "my_available": true,
       "my_url": "https://bismillahelectronics.pk/products/dawlance-refrigerator-9193-acce-coral-red",
       "competitor_name": "Dawlance 9193 Acce Coral Red",
@@ -13527,12 +13597,12 @@
       "competitor_url": "https://japanelectronics.com.pk/products/dawlance-9193-acce-coral-red",
       "match_confidence": 81.2,
       "status": "matched",
-      "price_diff": 3000.0,
+      "price_diff": 4000.0,
       "cheaper": "competitor"
     },
     {
       "product_name": "Dawlance Refrigerator 9178 Acce Coral Red (GD)",
-      "my_price": 97000.0,
+      "my_price": 98000.0,
       "my_available": true,
       "my_url": "https://bismillahelectronics.pk/products/dawlance-refrigerator-9178-acce-coral-red-gd",
       "competitor_name": "Dawlance REF 9178 Acce Coral Red (GD)",
@@ -13541,12 +13611,12 @@
       "competitor_url": "https://japanelectronics.com.pk/products/dawlance-ref-9178-acce-coral-red-gd",
       "match_confidence": 81.9,
       "status": "matched",
-      "price_diff": 4000.0,
+      "price_diff": 5000.0,
       "cheaper": "competitor"
     },
     {
       "product_name": "Dawlance Refrigerator 9173 Acce Coral Red (GD)",
-      "my_price": 91900.0,
+      "my_price": 92900.0,
       "my_available": true,
       "my_url": "https://bismillahelectronics.pk/products/dawlance-refrigerator-9173-acce-coral-red-gd",
       "competitor_name": "Dawlance REF 9173 Acce Coral Red (GD)",
@@ -13555,7 +13625,7 @@
       "competitor_url": "https://japanelectronics.com.pk/products/dawlance-ref-9173-acce-coral-red-gd",
       "match_confidence": 81.9,
       "status": "matched",
-      "price_diff": 3900.0,
+      "price_diff": 4900.0,
       "cheaper": "competitor"
     },
     {
@@ -13574,7 +13644,7 @@
     },
     {
       "product_name": "Dawlance Refrigerator 9173 WB E-Chrome Metallic Grey",
-      "my_price": 85000.0,
+      "my_price": 86000.0,
       "my_available": true,
       "my_url": "https://bismillahelectronics.pk/products/dawlance-refrigerator-9173-wb-e-chrome-metallic-grey",
       "competitor_name": "Dawlance REF 9173 WB E-Chrome Metallic Grey",
@@ -13583,12 +13653,12 @@
       "competitor_url": "https://japanelectronics.com.pk/products/dawlance-ref-9173-wb-e-chrome-metallic-grey",
       "match_confidence": 86.3,
       "status": "matched",
-      "price_diff": 3000.0,
+      "price_diff": 4000.0,
       "cheaper": "competitor"
     },
     {
       "product_name": "Dawlance Refrigerator 9173 WB Chrome Hairline Black",
-      "my_price": 88100.0,
+      "my_price": 89100.0,
       "my_available": true,
       "my_url": "https://bismillahelectronics.pk/products/dawlance-refrigerator-9173-wb-chrome-hairline-black",
       "competitor_name": "Dawlance Refrigerator 9191 WB Chrome Hairline Black",
@@ -13597,12 +13667,12 @@
       "competitor_url": "https://japanelectronics.com.pk/products/dawlance-refrigerator-9191-wb-chrome-hairline-black",
       "match_confidence": 96.1,
       "status": "matched",
-      "price_diff": -4900.0,
+      "price_diff": -3900.0,
       "cheaper": "us"
     },
     {
       "product_name": "Dawlance Refrigerator 9173 WB Chrome Pearl Copper",
-      "my_price": 88100.0,
+      "my_price": 89000.0,
       "my_available": true,
       "my_url": "https://bismillahelectronics.pk/products/dawlance-refrigerator-9173-wb-chrome-pearl-copper",
       "competitor_name": "Dawlance Refrigerator 9173 WB Chrome Pearl Copper",
@@ -13611,12 +13681,12 @@
       "competitor_url": "https://japanelectronics.com.pk/products/dawlance-ref-9173-wb-chrome-pearl-copper",
       "match_confidence": 100.0,
       "status": "matched",
-      "price_diff": 4600.0,
+      "price_diff": 5500.0,
       "cheaper": "competitor"
     },
     {
       "product_name": "Dawlance Refrigerator 9173 WB Avante Diamond Red (GD)",
-      "my_price": 95400.0,
+      "my_price": 96000.0,
       "my_available": true,
       "my_url": "https://bismillahelectronics.pk/products/dawlance-refrigerator-9173-wb-avante-diamond-red-gd",
       "competitor_name": "Dawlance Refrigerator 9173 WB Avante Diamond Red (GD)",
@@ -13625,12 +13695,12 @@
       "competitor_url": "https://japanelectronics.com.pk/products/dawlance-refrigerator-9173-wb-avante-diamond-red-gd",
       "match_confidence": 100.0,
       "status": "matched",
-      "price_diff": 3900.0,
+      "price_diff": 4500.0,
       "cheaper": "competitor"
     },
     {
       "product_name": "Dawlance Refrigerator 9169 WB Chrome Pearl Copper",
-      "my_price": 86100.0,
+      "my_price": 87100.0,
       "my_available": true,
       "my_url": "https://bismillahelectronics.pk/products/dawlance-refrigerator-9169-wb-chrome-pearl-copper",
       "competitor_name": "Dawlance Refrigerator 9169 WB Chrome Pearl Copper",
@@ -13639,12 +13709,12 @@
       "competitor_url": "https://japanelectronics.com.pk/products/dawlance-refrigerator-9169-wb-chrome-pearl-copper",
       "match_confidence": 100.0,
       "status": "matched",
-      "price_diff": 8100.0,
+      "price_diff": 9100.0,
       "cheaper": "competitor"
     },
     {
       "product_name": "Dawlance Refrigerator 9169 WB Avante Pearl Red (GD)",
-      "my_price": 89700.0,
+      "my_price": 90700.0,
       "my_available": true,
       "my_url": "https://bismillahelectronics.pk/products/dawlance-refrigerator-9169-wb-avante-pearl-red-gd",
       "competitor_name": "Dawlance Refrigerator 9169 WB Avante Pearl Red (GD)",
@@ -13653,12 +13723,12 @@
       "competitor_url": "https://japanelectronics.com.pk/products/dawlance-refrigerator-9169-wb-avante-pearl-red-gd",
       "match_confidence": 100.0,
       "status": "matched",
-      "price_diff": 3200.0,
+      "price_diff": 4200.0,
       "cheaper": "competitor"
     },
     {
       "product_name": "Dawlance Refrigerator 9169 WB Avante Pearl Burgundy (GD)",
-      "my_price": 89700.0,
+      "my_price": 90700.0,
       "my_available": true,
       "my_url": "https://bismillahelectronics.pk/products/dawlance-refrigerator-9169-wb-avante-pearl-burgundy-gd",
       "competitor_name": "Dawlance Refrigerator 9169 WB Avante Pearl Burgundy (GD)",
@@ -13667,12 +13737,12 @@
       "competitor_url": "https://japanelectronics.com.pk/products/dawlance-refrigerator-9169-wb-avante-pearl-burgundy-gd",
       "match_confidence": 100.0,
       "status": "matched",
-      "price_diff": 3200.0,
+      "price_diff": 4200.0,
       "cheaper": "competitor"
     },
     {
       "product_name": "Dawlance Refrigerator 9160 LF Avante + Sapphire Purple",
-      "my_price": 86700.0,
+      "my_price": 87700.0,
       "my_available": true,
       "my_url": "https://bismillahelectronics.pk/products/dawlance-refrigerator-9160-lf-avante-sapphire-purple",
       "competitor_name": "Dawlance Refrigerator 9160 LF Avante + Sapphire Purple",
@@ -13681,12 +13751,12 @@
       "competitor_url": "https://japanelectronics.com.pk/products/dawlance-refrigerator-9160-lf-avante-sapphire-purple",
       "match_confidence": 100.0,
       "status": "matched",
-      "price_diff": 3200.0,
+      "price_diff": 4200.0,
       "cheaper": "competitor"
     },
     {
       "product_name": "Dawlance Refrigerator 9140 Chrome Pro Hairline Silver",
-      "my_price": 69700.0,
+      "my_price": 74700.0,
       "my_available": true,
       "my_url": "https://bismillahelectronics.pk/products/dawlance-refrigerator-9140-chrome-pro-hairline-silver",
       "competitor_name": "Dawlance Refrigerator 9160 LF Chrome Pro Hairline Silver",
@@ -13695,12 +13765,12 @@
       "competitor_url": "https://japanelectronics.com.pk/products/dawlance-refrigerator-9160-lf-chrome-pro-hairline-silver",
       "match_confidence": 95.4,
       "status": "matched",
-      "price_diff": -12800.0,
+      "price_diff": -7800.0,
       "cheaper": "us"
     },
     {
       "product_name": "Dawlance Refrigerator DSD-4890 (Room Size)",
-      "my_price": 47000.0,
+      "my_price": 48000.0,
       "my_available": true,
       "my_url": "https://bismillahelectronics.pk/products/dawlance-refrigerator-dsd-4890-room-size",
       "competitor_name": "Dawlance Refrigerator 9106 SD (White)",
@@ -13709,12 +13779,12 @@
       "competitor_url": "https://japanelectronics.com.pk/products/dawlance-ref-9106-sd-white",
       "match_confidence": 70.9,
       "status": "matched",
-      "price_diff": -3500.0,
+      "price_diff": -2500.0,
       "cheaper": "us"
     },
     {
       "product_name": "Dawlance Refrigerator DMB-4467 (MiniBar)",
-      "my_price": 39200.0,
+      "my_price": 40200.0,
       "my_available": true,
       "my_url": "https://bismillahelectronics.pk/products/dawlance-refrigerator-dmb-4467-minibar",
       "competitor_name": "Dawlance REF DMB-4467 (MiniBar)",
@@ -13723,12 +13793,12 @@
       "competitor_url": "https://japanelectronics.com.pk/products/dawlance-ref-dmb-4467-minibar",
       "match_confidence": 81.7,
       "status": "matched",
-      "price_diff": 1200.0,
+      "price_diff": 2200.0,
       "cheaper": "competitor"
     },
     {
       "product_name": "Dawlance Refrigerator 9140 WB Avante Pearl Copper",
-      "my_price": 66000.0,
+      "my_price": 67000.0,
       "my_available": true,
       "my_url": "https://bismillahelectronics.pk/products/dawlance-refrigerator-9140-wb-avante-pearl-copper",
       "competitor_name": "Dawlance Refrigerator 9140 WB Chrome Pearl Copper",
@@ -13737,12 +13807,12 @@
       "competitor_url": "https://japanelectronics.com.pk/products/dawlance-ref-9140-wb-chrome-pearl-copper",
       "match_confidence": 89.8,
       "status": "matched",
-      "price_diff": 4000.0,
+      "price_diff": 5000.0,
       "cheaper": "competitor"
     },
     {
       "product_name": "Dawlance Refrigerator 9140 WB Avante Hairline Black",
-      "my_price": 66000.0,
+      "my_price": 67000.0,
       "my_available": true,
       "my_url": "https://bismillahelectronics.pk/products/dawlance-refrigerator-9140-wb-avante-hairline-black",
       "competitor_name": "Dawlance Refrigerator 9140 WB Chrome Hairline Black",
@@ -13751,12 +13821,12 @@
       "competitor_url": "https://japanelectronics.com.pk/products/dawlance-ref-9140-wb-chrome-hairline-black",
       "match_confidence": 86.3,
       "status": "matched",
-      "price_diff": 4000.0,
+      "price_diff": 5000.0,
       "cheaper": "competitor"
     },
     {
       "product_name": "Dawlance Refrigerator 9140 WB Avante Pearl Red (GD)",
-      "my_price": 71200.0,
+      "my_price": 72200.0,
       "my_available": true,
       "my_url": "https://bismillahelectronics.pk/products/dawlance-refrigerator-9140-wb-avante-pearl-red-gd",
       "competitor_name": "Dawlance Refrigerator 9140 WB Avante Pearl Red (GD)",
@@ -13765,12 +13835,12 @@
       "competitor_url": "https://japanelectronics.com.pk/products/dawlance-ref-9140-wb-avante-pearl-red-gd",
       "match_confidence": 100.0,
       "status": "matched",
-      "price_diff": 3200.0,
+      "price_diff": 4200.0,
       "cheaper": "competitor"
     },
     {
       "product_name": "Dawlance Refrigerator 9101 SD (White)",
-      "my_price": 46500.0,
+      "my_price": 48000.0,
       "my_available": true,
       "my_url": "https://bismillahelectronics.pk/products/dawlance-refrigerator-9101-sd-white",
       "competitor_name": "Dawlance Refrigerator 9106 SD (White)",
@@ -13779,12 +13849,12 @@
       "competitor_url": "https://japanelectronics.com.pk/products/dawlance-ref-9106-sd-white",
       "match_confidence": 97.3,
       "status": "matched",
-      "price_diff": -4000.0,
+      "price_diff": -2500.0,
       "cheaper": "us"
     },
     {
       "product_name": "Dawlance Refrigerator 9149 WB Chrome Pearl Copper",
-      "my_price": 70800.0,
+      "my_price": 71800.0,
       "my_available": true,
       "my_url": "https://bismillahelectronics.pk/products/dawlance-refrigerator-9149-wb-chrome-pearl-copper",
       "competitor_name": "Dawlance Refrigerator 9191 WB Chrome Pearl Copper",
@@ -13793,7 +13863,7 @@
       "competitor_url": "https://japanelectronics.com.pk/products/dawlance-refrigerator-9191-wb-chrome-pearl-copper",
       "match_confidence": 98.0,
       "status": "matched",
-      "price_diff": -22200.0,
+      "price_diff": -21200.0,
       "cheaper": "us"
     },
     {
@@ -13812,7 +13882,7 @@
     },
     {
       "product_name": "Dawlance Refrigerator 9173 WB E-Chrome Hairline Golden",
-      "my_price": 85000.0,
+      "my_price": 86000.0,
       "my_available": true,
       "my_url": "https://bismillahelectronics.pk/products/dawlance-refrigerator-9173-wb-e-chrome-hairline-golden",
       "competitor_name": "Dawlance Refrigerator 9140 WB E-Chrome Hairline Golden",
@@ -13821,7 +13891,7 @@
       "competitor_url": "https://japanelectronics.com.pk/products/dawlance-ref-9140-wb-e-chrome-hairline-golden",
       "match_confidence": 96.3,
       "status": "matched",
-      "price_diff": 28000.0,
+      "price_diff": 29000.0,
       "cheaper": "competitor"
     },
     {
@@ -15239,8 +15309,8 @@
       "cheaper": "competitor"
     },
     {
-      "product_name": "Dawlance Single Washing Machine DW 9100 GL",
-      "my_price": 38700.0,
+      "product_name": "Dawlance Single Washing Machine DW 9100 GD",
+      "my_price": 35400.0,
       "my_available": true,
       "my_url": "https://bismillahelectronics.pk/products/dawlance-single-washing-machine-dw-9100-gl",
       "competitor_name": "Dawlance Washing Machine DW 9200 WFL",
@@ -15249,12 +15319,12 @@
       "competitor_url": "https://japanelectronics.com.pk/products/dawlance-washing-machine-dw-9200-wfl",
       "match_confidence": 82.1,
       "status": "matched",
-      "price_diff": 8700.0,
+      "price_diff": 5400.0,
       "cheaper": "competitor"
     },
     {
       "product_name": "Dawlance Front Load Washing Machine DWF-8201S",
-      "my_price": 170000.0,
+      "my_price": 171000.0,
       "my_available": true,
       "my_url": "https://bismillahelectronics.pk/products/dawlance-front-load-washing-machine-dwf-8201s",
       "competitor_name": "Dawlance Washing Machine DW-8550 CB FL",
@@ -15263,12 +15333,12 @@
       "competitor_url": "https://japanelectronics.com.pk/products/dawlance-washing-machine-dw-8550-cb-fl",
       "match_confidence": 79.5,
       "status": "matched",
-      "price_diff": 131501.0,
+      "price_diff": 132501.0,
       "cheaper": "competitor"
     },
     {
       "product_name": "Dawlance Automatic Washing Machine DWT 9540",
-      "my_price": 74400.0,
+      "my_price": 66000.0,
       "my_available": true,
       "my_url": "https://bismillahelectronics.pk/products/dawlance-automatic-washing-machine-dwt-9540",
       "competitor_name": "Dawlance Automatic Washing Machine DWT 9060 EZ",
@@ -15277,12 +15347,12 @@
       "competitor_url": "https://japanelectronics.com.pk/products/dawlance-automatic-washing-machine-dwt-9060-ez",
       "match_confidence": 92.1,
       "status": "matched",
-      "price_diff": 20400.0,
+      "price_diff": 12000.0,
       "cheaper": "competitor"
     },
     {
       "product_name": "Dawlance Automatic Washing Machine DWT 9560 Mystic Grey",
-      "my_price": 77000.0,
+      "my_price": 78000.0,
       "my_available": true,
       "my_url": "https://bismillahelectronics.pk/products/dawlance-automatic-washing-machine-dwt-9560-mystic-grey",
       "competitor_name": "Dawlance Automatic Washing Machine DWT 9060 EZ",
@@ -15291,12 +15361,12 @@
       "competitor_url": "https://japanelectronics.com.pk/products/dawlance-automatic-washing-machine-dwt-9060-ez",
       "match_confidence": 85.1,
       "status": "matched",
-      "price_diff": 23000.0,
+      "price_diff": 24000.0,
       "cheaper": "competitor"
     },
     {
       "product_name": "Dawlance Automatic Washing Machine DWT 270 S LVS+",
-      "my_price": 99050.0,
+      "my_price": 100050.0,
       "my_available": true,
       "my_url": "https://bismillahelectronics.pk/products/dawlance-automatic-washing-machine-dwt-270-s-lvs",
       "competitor_name": "Dawlance Fully Automatic Washing Machine DWT 270 S LVS+",
@@ -15305,12 +15375,12 @@
       "competitor_url": "https://japanelectronics.com.pk/products/dawlance-fully-automatic-washing-machine-dwt-270-s-lvs",
       "match_confidence": 94.2,
       "status": "matched",
-      "price_diff": 17050.0,
+      "price_diff": 18050.0,
       "cheaper": "competitor"
     },
     {
       "product_name": "Dawlance Double Washing Machine DW-6580 C FL",
-      "my_price": 43100.0,
+      "my_price": 40300.0,
       "my_available": true,
       "my_url": "https://bismillahelectronics.pk/products/dawlance-double-washing-machine-dw-6580-c-fl",
       "competitor_name": "Dawlance Washing Machine DW-8550 CB FL",
@@ -15319,12 +15389,12 @@
       "competitor_url": "https://japanelectronics.com.pk/products/dawlance-washing-machine-dw-8550-cb-fl",
       "match_confidence": 85.4,
       "status": "matched",
-      "price_diff": 4601.0,
+      "price_diff": 1801.0,
       "cheaper": "competitor"
     },
     {
       "product_name": "Dawlance Double Washing Machine DW-6550 C",
-      "my_price": 42100.0,
+      "my_price": 39600.0,
       "my_available": true,
       "my_url": "https://bismillahelectronics.pk/products/dawlance-double-washing-machine-dw-6550-c",
       "competitor_name": "Dawlance Washing Machine DW-6550 C",
@@ -15333,12 +15403,12 @@
       "competitor_url": "https://japanelectronics.com.pk/products/dawlance-washing-machine-dw-6550-c",
       "match_confidence": 90.7,
       "status": "matched",
-      "price_diff": 5600.0,
+      "price_diff": 3100.0,
       "cheaper": "competitor"
     },
     {
       "product_name": "Dawlance Double Washing Machine DW-10600 W FL",
-      "my_price": 53700.0,
+      "my_price": 49800.0,
       "my_available": true,
       "my_url": "https://bismillahelectronics.pk/products/dawlance-double-washing-machine-dw-10600-w-fl",
       "competitor_name": "Dawlance Washing Machine DW-6100 W",
@@ -15347,12 +15417,12 @@
       "competitor_url": "https://japanelectronics.com.pk/products/dawlance-washing-machine-dw-6100-w",
       "match_confidence": 83.5,
       "status": "matched",
-      "price_diff": 28800.0,
+      "price_diff": 24900.0,
       "cheaper": "competitor"
     },
     {
       "product_name": "Dawlance Single Washing Machine DW-7200 WB FL",
-      "my_price": 28900.0,
+      "my_price": 25800.0,
       "my_available": true,
       "my_url": "https://bismillahelectronics.pk/products/dawlance-single-washing-machine-dw-7200-wb-fl",
       "competitor_name": "Dawlance Washing Machine DW-6100 W",
@@ -15361,12 +15431,12 @@
       "competitor_url": "https://japanelectronics.com.pk/products/dawlance-washing-machine-dw-6100-w",
       "match_confidence": 81.0,
       "status": "matched",
-      "price_diff": 4000.0,
+      "price_diff": 900.0,
       "cheaper": "competitor"
     },
     {
       "product_name": "Dawlance Automatic Washing Machine DWT 1006 Mystic Grey",
-      "my_price": 90000.0,
+      "my_price": 91000.0,
       "my_available": true,
       "my_url": "https://bismillahelectronics.pk/products/dawlance-automatic-washing-machine-dwt-1006-mystic-grey",
       "competitor_name": "Dawlance Automatic Washing Machine DWT 9060 EZ",
@@ -15375,7 +15445,7 @@
       "competitor_url": "https://japanelectronics.com.pk/products/dawlance-automatic-washing-machine-dwt-9060-ez",
       "match_confidence": 83.2,
       "status": "matched",
-      "price_diff": 36000.0,
+      "price_diff": 37000.0,
       "cheaper": "competitor"
     },
     {
@@ -15506,7 +15576,7 @@
     },
     {
       "product_name": "Dawlance Microwave Oven DW-MD7",
-      "my_price": 17650.0,
+      "my_price": 18150.0,
       "my_available": true,
       "my_url": "https://bismillahelectronics.pk/products/dawlance-microwave-oven-dw-md7",
       "competitor_name": "Dawlance Microwave Oven DW-MD7",
@@ -15515,12 +15585,12 @@
       "competitor_url": "https://japanelectronics.com.pk/products/dawlance-microwave-oven-dw-md7",
       "match_confidence": 100.0,
       "status": "matched",
-      "price_diff": 1350.0,
+      "price_diff": 1850.0,
       "cheaper": "competitor"
     },
     {
       "product_name": "Dawlance Microwave Oven DW-MD4 20L",
-      "my_price": 18150.0,
+      "my_price": 18650.0,
       "my_available": true,
       "my_url": "https://bismillahelectronics.pk/products/dawlance-microwave-oven-dw-md4-20l",
       "competitor_name": "Dawlance Microwave Oven DW-MD4",
@@ -15529,12 +15599,12 @@
       "competitor_url": "https://japanelectronics.com.pk/products/dawlance-microwave-oven-dw-md4",
       "match_confidence": 93.8,
       "status": "matched",
-      "price_diff": 2050.0,
+      "price_diff": 2550.0,
       "cheaper": "competitor"
     },
     {
       "product_name": "Dawlance Microwave Oven DW 395 HCG",
-      "my_price": 29250.0,
+      "my_price": 29750.0,
       "my_available": true,
       "my_url": "https://bismillahelectronics.pk/products/dawlance-microwave-oven-dw-395-hcg",
       "competitor_name": "Dawlance Microwave Oven (DW-395 HCG)",
@@ -15543,7 +15613,7 @@
       "competitor_url": "https://japanelectronics.com.pk/products/dawlance-microwave-oven-dw-395-hcg-1",
       "match_confidence": 88.6,
       "status": "matched",
-      "price_diff": 2050.0,
+      "price_diff": 2550.0,
       "cheaper": "competitor"
     },
     {
@@ -16014,13 +16084,13 @@
       "my_available": true,
       "my_url": "https://bismillahelectronics.pk/products/gree-ac-inverter-1-0-ton-gs-12pith11w-aaa",
       "competitor_name": "Gree AC Split Inverter 1.0 Ton GS-12PITH11W AAA",
-      "competitor_price": 124500.0,
+      "competitor_price": 117500.0,
       "competitor_available": true,
       "competitor_url": "https://japanelectronics.com.pk/products/gree-split-ac-inverter-1-0-ton-gs-12pith11w-aaa",
       "match_confidence": 93.2,
       "status": "matched",
-      "price_diff": -1600.0,
-      "cheaper": "us"
+      "price_diff": 5400.0,
+      "cheaper": "competitor"
     },
     {
       "product_name": "Electrolux AC Inverter 2.0 Ton ELSAC-24K LUX (White)",
@@ -16029,7 +16099,7 @@
       "my_url": "https://bismillahelectronics.pk/products/electrolux-ac-inverter-2-0-ton-elsac-24k-lux-white",
       "competitor_name": "Electrolux Split AC Inverter 2.0 Ton ELSAC-24K LUX Black (T3)",
       "competitor_price": 254900.0,
-      "competitor_available": true,
+      "competitor_available": false,
       "competitor_url": "https://japanelectronics.com.pk/products/electrolux-split-ac-inverter-2-0-ton-elsac-24k-lux-black-t3",
       "match_confidence": 83.2,
       "status": "matched",
@@ -16043,7 +16113,7 @@
       "my_url": "https://bismillahelectronics.pk/products/electrolux-ac-inverter-2-0-ton-elsac-24k-lux-black",
       "competitor_name": "Electrolux Split AC Inverter 2.0 Ton ELSAC-24K LUX Black (T3)",
       "competitor_price": 254900.0,
-      "competitor_available": true,
+      "competitor_available": false,
       "competitor_url": "https://japanelectronics.com.pk/products/electrolux-split-ac-inverter-2-0-ton-elsac-24k-lux-black-t3",
       "match_confidence": 83.2,
       "status": "matched",
@@ -16160,20 +16230,6 @@
       "match_confidence": 85.4,
       "status": "matched",
       "price_diff": 8950.0,
-      "cheaper": "competitor"
-    },
-    {
-      "product_name": "Dawlance AC 1.0 Ton Mega T3 Pro 15 Inverter",
-      "my_price": 130000.0,
-      "my_available": true,
-      "my_url": "https://bismillahelectronics.pk/products/dawlance-split-ac-inverter-1-0-ton-mega-t3-pro-15",
-      "competitor_name": "Dawlance Split AC Inverter 1.0 Ton Mega T3 Pro 15",
-      "competitor_price": 125000.0,
-      "competitor_available": false,
-      "competitor_url": "https://japanelectronics.com.pk/products/dawlance-split-ac-inverter-1-0-ton-mega-t3-pro-15",
-      "match_confidence": 93.5,
-      "status": "matched",
-      "price_diff": 5000.0,
       "cheaper": "competitor"
     },
     {
@@ -16444,7 +16500,7 @@
     },
     {
       "product_name": "Dawlance Microwave Oven DW-374",
-      "my_price": 27400.0,
+      "my_price": 27900.0,
       "my_available": true,
       "my_url": "https://bismillahelectronics.pk/products/dawlance-microwave-oven-dw-374",
       "competitor_name": "Dawlance Microwave Oven DW-374",
@@ -16453,7 +16509,7 @@
       "competitor_url": "https://japanelectronics.com.pk/products/dawlance-microwave-oven-dw-374",
       "match_confidence": 100.0,
       "status": "matched",
-      "price_diff": 2700.0,
+      "price_diff": 3200.0,
       "cheaper": "competitor"
     },
     {
@@ -16486,7 +16542,7 @@
     },
     {
       "product_name": "Dawlance Microwave Oven DW 393 G",
-      "my_price": 31700.0,
+      "my_price": 32200.0,
       "my_available": true,
       "my_url": "https://bismillahelectronics.pk/products/dawlance-microwave-oven-dw-393-g",
       "competitor_name": "Dawlance Microwave Oven DW-128 G",
@@ -16495,7 +16551,7 @@
       "competitor_url": "https://japanelectronics.com.pk/products/dawlance-microwave-oven-dw-128-g",
       "match_confidence": 87.5,
       "status": "matched",
-      "price_diff": -1000.0,
+      "price_diff": -500.0,
       "cheaper": "us"
     },
     {
@@ -16528,7 +16584,7 @@
     },
     {
       "product_name": "Dawlance Microwave Oven DW-210 S Pro",
-      "my_price": 18400.0,
+      "my_price": 18900.0,
       "my_available": true,
       "my_url": "https://bismillahelectronics.pk/products/dawlance-microwave-oven-dw-210-s-pro",
       "competitor_name": "Dawlance Microwave Oven DW-210 S Pro",
@@ -16537,7 +16593,7 @@
       "competitor_url": "https://japanelectronics.com.pk/products/dawlance-microwave-oven-dw-210-s-pro",
       "match_confidence": 100.0,
       "status": "matched",
-      "price_diff": 1200.0,
+      "price_diff": 1700.0,
       "cheaper": "competitor"
     },
     {
@@ -17466,7 +17522,7 @@
     },
     {
       "product_name": "Dawlance Steam Iron DWSI 3122",
-      "my_price": 9100.0,
+      "my_price": 11100.0,
       "my_available": true,
       "my_url": "https://bismillahelectronics.pk/products/dawlance-steam-iron-dwsi-3122",
       "competitor_name": "Dawlance Steam Iron DWSI-2217 C",
@@ -17475,7 +17531,7 @@
       "competitor_url": "https://japanelectronics.com.pk/products/dawlance-steam-iron-dwsi-2217-c",
       "match_confidence": 83.3,
       "status": "matched",
-      "price_diff": 1600.0,
+      "price_diff": 3600.0,
       "cheaper": "competitor"
     },
     {
@@ -17634,7 +17690,7 @@
     },
     {
       "product_name": "Deuron Dry Iron GL-213",
-      "my_price": 7000.0,
+      "my_price": 8000.0,
       "my_available": true,
       "my_url": "https://bismillahelectronics.pk/products/deuron-dry-iron-gl-213",
       "competitor_name": null,
@@ -17662,7 +17718,7 @@
     },
     {
       "product_name": "Dawlance Dishwasher DDW-868 CTB (Counter Top)",
-      "my_price": 94500.0,
+      "my_price": 94000.0,
       "my_available": true,
       "my_url": "https://bismillahelectronics.pk/products/dawlance-dish-washer-ddw-868-ctb-counter-top",
       "competitor_name": "Dawlance Dish Washer DDW-868 CTB",
@@ -17671,7 +17727,7 @@
       "competitor_url": "https://japanelectronics.com.pk/products/dawlance-dish-washer-ddw-868-ctb",
       "match_confidence": 77.9,
       "status": "matched",
-      "price_diff": 4500.0,
+      "price_diff": 4000.0,
       "cheaper": "competitor"
     },
     {
@@ -17746,7 +17802,7 @@
     },
     {
       "product_name": "Dawlance Single Washing Machine DW-7200 CB FL",
-      "my_price": 30600.0,
+      "my_price": 27300.0,
       "my_available": true,
       "my_url": "https://bismillahelectronics.pk/products/dawlance-washing-machine-dw-7200-cb-fl-single-tub",
       "competitor_name": "Dawlance Washing Machine DW-8550 CB FL",
@@ -17755,7 +17811,7 @@
       "competitor_url": "https://japanelectronics.com.pk/products/dawlance-washing-machine-dw-8550-cb-fl",
       "match_confidence": 84.3,
       "status": "matched",
-      "price_diff": -7899.0,
+      "price_diff": -11199.0,
       "cheaper": "us"
     },
     {
@@ -17788,7 +17844,7 @@
     },
     {
       "product_name": "Dawlance Microwave Oven DW-133",
-      "my_price": 36900.0,
+      "my_price": 37400.0,
       "my_available": true,
       "my_url": "https://bismillahelectronics.pk/products/dawlance-microwave-oven-dw-133",
       "competitor_name": "Dawlance Microwave Oven DW-136 G",
@@ -17797,7 +17853,7 @@
       "competitor_url": "https://japanelectronics.com.pk/products/dawlance-microwave-oven-dw-136-g",
       "match_confidence": 93.5,
       "status": "matched",
-      "price_diff": 3100.0,
+      "price_diff": 3600.0,
       "cheaper": "competitor"
     },
     {
@@ -17872,7 +17928,7 @@
     },
     {
       "product_name": "Dawlance Single Washing Machine DW 9100 GD",
-      "my_price": 38700.0,
+      "my_price": 35400.0,
       "my_available": true,
       "my_url": "https://bismillahelectronics.pk/products/dawlance-9100-gd-washing-machine-dw-9100-gd",
       "competitor_name": "Dawlance Washing Machine DW 9200 WFL",
@@ -17881,7 +17937,7 @@
       "competitor_url": "https://japanelectronics.com.pk/products/dawlance-washing-machine-dw-9200-wfl",
       "match_confidence": 82.1,
       "status": "matched",
-      "price_diff": 8700.0,
+      "price_diff": 5400.0,
       "cheaper": "competitor"
     },
     {
@@ -17900,7 +17956,7 @@
     },
     {
       "product_name": "Dawlance Double Washing Machine DW-10600 CB FL",
-      "my_price": 54800.0,
+      "my_price": 51800.0,
       "my_available": true,
       "my_url": "https://bismillahelectronics.pk/products/dawlance-10600-washing-machine-dw-10600",
       "competitor_name": "Dawlance Washing Machine DW-8550 CB FL",
@@ -17909,7 +17965,7 @@
       "competitor_url": "https://japanelectronics.com.pk/products/dawlance-washing-machine-dw-8550-cb-fl",
       "match_confidence": 83.3,
       "status": "matched",
-      "price_diff": 16301.0,
+      "price_diff": 13301.0,
       "cheaper": "competitor"
     },
     {
@@ -17928,7 +17984,7 @@
     },
     {
       "product_name": "Dawlance Double Washing Machine DW-6580 W FL",
-      "my_price": 40300.0,
+      "my_price": 37800.0,
       "my_available": true,
       "my_url": "https://bismillahelectronics.pk/products/dawlance-dw-6580-w-fl-washing-machine",
       "competitor_name": "Dawlance Washing Machine DW-6550 W",
@@ -17937,7 +17993,7 @@
       "competitor_url": "https://japanelectronics.com.pk/products/dawlance-washing-machine-dw-6550-w-1",
       "match_confidence": 84.6,
       "status": "matched",
-      "price_diff": 5401.0,
+      "price_diff": 2901.0,
       "cheaper": "competitor"
     },
     {
@@ -18026,7 +18082,7 @@
     },
     {
       "product_name": "Dawlance Top Load Automatic Washing Machine 1471 FLP",
-      "my_price": 94000.0,
+      "my_price": 81000.0,
       "my_available": true,
       "my_url": "https://bismillahelectronics.pk/products/dawlance-1471-flp-auto-washing-machine-dwt-1471",
       "competitor_name": "Dawlance Fully Automatic Washing Machine DWT 1470 PL",
@@ -18035,8 +18091,8 @@
       "competitor_url": "https://japanelectronics.com.pk/products/dawlance-fully-automatic-washing-machine-dwt-1470-pl",
       "match_confidence": 78.8,
       "status": "matched",
-      "price_diff": 8100.0,
-      "cheaper": "competitor"
+      "price_diff": -4900.0,
+      "cheaper": "us"
     },
     {
       "product_name": "Haier Automatic Washing Machine HWM 120-826E",
@@ -18544,7 +18600,7 @@
     },
     {
       "product_name": "Dawlance Single Washing Machine DW-6100 C",
-      "my_price": 28100.0,
+      "my_price": 26800.0,
       "my_available": true,
       "my_url": "https://bismillahelectronics.pk/products/dawlance-dw-6100c-top-load-washing-machine",
       "competitor_name": "Dawlance Washing Machine DW-9100 C",
@@ -18553,7 +18609,7 @@
       "competitor_url": "https://japanelectronics.com.pk/products/dawlance-washing-machine-dw-9100-c",
       "match_confidence": 88.0,
       "status": "matched",
-      "price_diff": -2900.0,
+      "price_diff": -4200.0,
       "cheaper": "us"
     },
     {
@@ -18572,7 +18628,7 @@
     },
     {
       "product_name": "Dawlance Front Load Washing Machine DWF 7200X",
-      "my_price": 140000.0,
+      "my_price": 155500.0,
       "my_available": true,
       "my_url": "https://bismillahelectronics.pk/products/dawlance-dwf-7200x-inverter-automatic-washing-machine",
       "competitor_name": "Dawlance Washing Machine DW 9200 CFL",
@@ -18581,12 +18637,12 @@
       "competitor_url": "https://japanelectronics.com.pk/products/dawlance-washing-machine-dw-9200-cfl",
       "match_confidence": 76.5,
       "status": "matched",
-      "price_diff": 109500.0,
+      "price_diff": 125000.0,
       "cheaper": "competitor"
     },
     {
       "product_name": "Dawlance Front Load Washing Machine DWF-8120 GR",
-      "my_price": 144500.0,
+      "my_price": 181000.0,
       "my_available": true,
       "my_url": "https://bismillahelectronics.pk/products/dawlance-dwf-8120-gr-inverter-automatic-washing-machine",
       "competitor_name": "Dawlance Washing Machine DW-8550 CB FL",
@@ -18595,12 +18651,12 @@
       "competitor_url": "https://japanelectronics.com.pk/products/dawlance-washing-machine-dw-8550-cb-fl",
       "match_confidence": 77.6,
       "status": "matched",
-      "price_diff": 106001.0,
+      "price_diff": 142501.0,
       "cheaper": "competitor"
     },
     {
       "product_name": "Dawlance Front Load Washing Machine DWF-8200X",
-      "my_price": 158000.0,
+      "my_price": 191000.0,
       "my_available": true,
       "my_url": "https://bismillahelectronics.pk/products/dawlance-dwf-8200x-inverter-automatic-washing-machine",
       "competitor_name": "Dawlance Washing Machine DW-8550 CB FL",
@@ -18609,12 +18665,12 @@
       "competitor_url": "https://japanelectronics.com.pk/products/dawlance-washing-machine-dw-8550-cb-fl",
       "match_confidence": 79.5,
       "status": "matched",
-      "price_diff": 119501.0,
+      "price_diff": 152501.0,
       "cheaper": "competitor"
     },
     {
       "product_name": "Dawlance Single Washing Machine DW 9100 C",
-      "my_price": 36600.0,
+      "my_price": 33400.0,
       "my_available": true,
       "my_url": "https://bismillahelectronics.pk/products/dawlance-dw9100c-clear-lid-washing-machine",
       "competitor_name": "Dawlance Washing Machine DW 9200 CFL",
@@ -18623,7 +18679,7 @@
       "competitor_url": "https://japanelectronics.com.pk/products/dawlance-washing-machine-dw-9200-cfl",
       "match_confidence": 85.7,
       "status": "matched",
-      "price_diff": 6100.0,
+      "price_diff": 2900.0,
       "cheaper": "competitor"
     },
     {
@@ -18684,7 +18740,7 @@
     },
     {
       "product_name": "Dawlance Automatic Washing Machine DWT 270 C LVS+",
-      "my_price": 99050.0,
+      "my_price": 100050.0,
       "my_available": true,
       "my_url": "https://bismillahelectronics.pk/products/dawlance-dwt-270-s-lvs-plus-washing-machine",
       "competitor_name": "Dawlance Fully Automatic Washing Machine DWT 270 C LVS+",
@@ -18693,12 +18749,12 @@
       "competitor_url": "https://japanelectronics.com.pk/products/dawlance-fully-automatic-washing-machine-dwt-270-c-lvs",
       "match_confidence": 94.2,
       "status": "matched",
-      "price_diff": 17050.0,
+      "price_diff": 18050.0,
       "cheaper": "competitor"
     },
     {
       "product_name": "Dawlance Automatic Washing Machine DWT-1166 X ADS+",
-      "my_price": 99900.0,
+      "my_price": 100900.0,
       "my_available": true,
       "my_url": "https://bismillahelectronics.pk/products/dawlance-dwt-1166-x-ads-top-loading-automatic-washing-machine",
       "competitor_name": "Dawlance Automatic Washing Machine DWT-1166 X ADS+",
@@ -18707,12 +18763,12 @@
       "competitor_url": "https://japanelectronics.com.pk/products/dawlance-automatic-washing-machine-dwt-1166-x-ads",
       "match_confidence": 100.0,
       "status": "matched",
-      "price_diff": 14900.0,
+      "price_diff": 15900.0,
       "cheaper": "competitor"
     },
     {
       "product_name": "Dawlance Single Washing Machine DW 9200 WFL",
-      "my_price": 36500.0,
+      "my_price": 32800.0,
       "my_available": true,
       "my_url": "https://bismillahelectronics.pk/products/dawlance-dw9200-wfl-advance-washing-machine",
       "competitor_name": "Dawlance Washing Machine DW 9200 WFL",
@@ -18721,12 +18777,12 @@
       "competitor_url": "https://japanelectronics.com.pk/products/dawlance-washing-machine-dw-9200-wfl",
       "match_confidence": 91.1,
       "status": "matched",
-      "price_diff": 6500.0,
+      "price_diff": 2800.0,
       "cheaper": "competitor"
     },
     {
       "product_name": "Dawlance Automatic Washing Machine DWT 255ES",
-      "my_price": 82650.0,
+      "my_price": 66700.0,
       "my_available": true,
       "my_url": "https://bismillahelectronics.pk/products/dawlance-dwt255es-top-loading-washing-machine",
       "competitor_name": "Dawlance Automatic Washing Machine DWT 9060 EZ",
@@ -18735,7 +18791,7 @@
       "competitor_url": "https://japanelectronics.com.pk/products/dawlance-automatic-washing-machine-dwt-9060-ez",
       "match_confidence": 86.7,
       "status": "matched",
-      "price_diff": 28650.0,
+      "price_diff": 12700.0,
       "cheaper": "competitor"
     },
     {
@@ -18754,7 +18810,7 @@
     },
     {
       "product_name": "Dawlance Automatic Washing Machine DWT 11671 FLT",
-      "my_price": 90900.0,
+      "my_price": 74400.0,
       "my_available": true,
       "my_url": "https://bismillahelectronics.pk/products/dawlance-dwt-11671-flt-automatic-top-load-washing-machine",
       "competitor_name": "Dawlance Automatic Washing Machine DWT-14711 FLT",
@@ -18763,12 +18819,12 @@
       "competitor_url": "https://japanelectronics.com.pk/products/dawlance-automatic-washing-machine-dwt-14711-flt",
       "match_confidence": 87.5,
       "status": "matched",
-      "price_diff": 5900.0,
-      "cheaper": "competitor"
+      "price_diff": -10600.0,
+      "cheaper": "us"
     },
     {
       "product_name": "Dawlance Automatic Washing Machine DWT 1167 FLP",
-      "my_price": 79700.0,
+      "my_price": 70700.0,
       "my_available": true,
       "my_url": "https://bismillahelectronics.pk/products/dawlance-dwt-1167-flp-top-load-washing-machine",
       "competitor_name": "Dawlance Automatic Washing Machine DWT-1471 FLP",
@@ -18777,8 +18833,8 @@
       "competitor_url": "https://japanelectronics.com.pk/products/dawlance-a-w-m-dwt-1471-flp",
       "match_confidence": 89.4,
       "status": "matched",
-      "price_diff": 1700.0,
-      "cheaper": "competitor"
+      "price_diff": -7300.0,
+      "cheaper": "us"
     },
     {
       "product_name": "Dawlance Single Washing Machine DW 9200 CFL",
@@ -18810,7 +18866,7 @@
     },
     {
       "product_name": "Dawlance Deep Freezer CF-91997 Signature Inverter",
-      "my_price": 106000.0,
+      "my_price": 105400.0,
       "my_available": true,
       "my_url": "https://bismillahelectronics.pk/products/dawlance-deep-freezer-cf-91997-signature-inverter",
       "competitor_name": "Dawlance Deep Freezer CF-91997 Signature Inverter",
@@ -18819,7 +18875,7 @@
       "competitor_url": "https://japanelectronics.com.pk/products/dawlance-deep-freezer-cf-91997-signature-inverter",
       "match_confidence": 100.0,
       "status": "matched",
-      "price_diff": 7000.0,
+      "price_diff": 6400.0,
       "cheaper": "competitor"
     },
     {
@@ -18866,7 +18922,7 @@
     },
     {
       "product_name": "Dawlance Refrigerator 9140 WB Avante Pearl Burgundy (GD)",
-      "my_price": 71200.0,
+      "my_price": 72200.0,
       "my_available": true,
       "my_url": "https://bismillahelectronics.pk/products/dawlance-refrigerator-9140-wb-chrome",
       "competitor_name": "Dawlance Refrigerator 9140 WB Avante Pearl Burgundy (GD)",
@@ -18875,7 +18931,7 @@
       "competitor_url": "https://japanelectronics.com.pk/products/dawlance-ref-9140-wb-avante-pearl-burgundy-gd",
       "match_confidence": 100.0,
       "status": "matched",
-      "price_diff": 3200.0,
+      "price_diff": 4200.0,
       "cheaper": "competitor"
     },
     {
@@ -19146,7 +19202,7 @@
     },
     {
       "product_name": "Dawlance Microwave Oven DW-131 HP",
-      "my_price": 37700.0,
+      "my_price": 38200.0,
       "my_available": true,
       "my_url": "https://bismillahelectronics.pk/products/dawlance-microwave-oven-dw-131-hp",
       "competitor_name": "Dawlance Microwave Oven DW-131 HP",
@@ -19155,7 +19211,7 @@
       "competitor_url": "https://japanelectronics.com.pk/products/dawlance-microwave-oven-dw-131-hp",
       "match_confidence": 100.0,
       "status": "matched",
-      "price_diff": 2500.0,
+      "price_diff": 3000.0,
       "cheaper": "competitor"
     },
     {
@@ -19216,7 +19272,7 @@
     },
     {
       "product_name": "Dawlance Refrigerator 9140 WB E-Chrome Hairline Golden",
-      "my_price": 60200.0,
+      "my_price": 61200.0,
       "my_available": true,
       "my_url": "https://bismillahelectronics.pk/products/dawlance-refrigerator-9140-wb-e-chrome-hairline-golden",
       "competitor_name": "Dawlance Refrigerator 9140 WB E-Chrome Hairline Golden",
@@ -19225,7 +19281,7 @@
       "competitor_url": "https://japanelectronics.com.pk/products/dawlance-ref-9140-wb-e-chrome-hairline-golden",
       "match_confidence": 100.0,
       "status": "matched",
-      "price_diff": 3200.0,
+      "price_diff": 4200.0,
       "cheaper": "competitor"
     },
     {
@@ -19314,7 +19370,7 @@
     },
     {
       "product_name": "Dawlance Water Dispenser WD-1060 (Silver)",
-      "my_price": 41900.0,
+      "my_price": 47000.0,
       "my_available": true,
       "my_url": "https://bismillahelectronics.pk/products/dawlance-water-dispenser-wd-1060-silver",
       "competitor_name": "Dawlance Water Dispenser WD-1051 Beige",
@@ -19323,12 +19379,12 @@
       "competitor_url": "https://japanelectronics.com.pk/products/dawlance-water-dispenser-wd-1051-beige",
       "match_confidence": 83.5,
       "status": "matched",
-      "price_diff": -2100.0,
-      "cheaper": "us"
+      "price_diff": 3000.0,
+      "cheaper": "competitor"
     },
     {
       "product_name": "Dawlance Water Dispenser WD-1051 (Cloud White)",
-      "my_price": 42000.0,
+      "my_price": 50900.0,
       "my_available": true,
       "my_url": "https://bismillahelectronics.pk/products/dawlance-water-dispenser-wd-1051-cloud-white",
       "competitor_name": "Dawlance Water Dispenser WD-1051 Cloud White",
@@ -19337,8 +19393,8 @@
       "competitor_url": "https://japanelectronics.com.pk/products/dawlance-water-dispenser-wd-1051-cloud-white",
       "match_confidence": 97.8,
       "status": "matched",
-      "price_diff": 0.0,
-      "cheaper": "same"
+      "price_diff": 8900.0,
+      "cheaper": "competitor"
     },
     {
       "product_name": "Nasgas Water Cooler NC-45",
@@ -19356,7 +19412,7 @@
     },
     {
       "product_name": "Dawlance Refrigerator 9106 SD (White)",
-      "my_price": 51700.0,
+      "my_price": 53100.0,
       "my_available": true,
       "my_url": "https://bismillahelectronics.pk/products/dawlance-refrigerator-9106-sd-white",
       "competitor_name": "Dawlance Refrigerator 9106 SD (White)",
@@ -19365,12 +19421,12 @@
       "competitor_url": "https://japanelectronics.com.pk/products/dawlance-ref-9106-sd-white",
       "match_confidence": 100.0,
       "status": "matched",
-      "price_diff": 1200.0,
+      "price_diff": 2600.0,
       "cheaper": "competitor"
     },
     {
       "product_name": "Dawlance Microwave Oven DW-530-AF AirFryer",
-      "my_price": 43600.0,
+      "my_price": 44100.0,
       "my_available": true,
       "my_url": "https://bismillahelectronics.pk/products/dawlance-microwave-oven-dw-530-af-airfryer",
       "competitor_name": "Dawlance Microwave Oven DW-530-AF (Air Fryer)",
@@ -19379,7 +19435,7 @@
       "competitor_url": "https://japanelectronics.com.pk/products/dawlance-microwave-oven-dw-530-af-air-fryer",
       "match_confidence": 85.1,
       "status": "matched",
-      "price_diff": 2700.0,
+      "price_diff": 3200.0,
       "cheaper": "competitor"
     },
     {
@@ -19398,7 +19454,7 @@
     },
     {
       "product_name": "Dawlance Spinner DS 6000 C",
-      "my_price": 20700.0,
+      "my_price": 20900.0,
       "my_available": true,
       "my_url": "https://bismillahelectronics.pk/products/dawlance-spinner-ds-6000-c",
       "competitor_name": "Dawlance Spinner DS-9000",
@@ -19407,7 +19463,7 @@
       "competitor_url": "https://japanelectronics.com.pk/products/dawlance-spinner-ds-9000",
       "match_confidence": 80.0,
       "status": "matched",
-      "price_diff": -6800.0,
+      "price_diff": -6600.0,
       "cheaper": "us"
     },
     {
@@ -19524,7 +19580,7 @@
     },
     {
       "product_name": "Dawlance Meat mincer DWM 6001",
-      "my_price": 19500.0,
+      "my_price": 20500.0,
       "my_available": true,
       "my_url": "https://bismillahelectronics.pk/products/meat-micer-dawlance-6001",
       "competitor_name": "Dawlance Meat Mincer DWMM-6001 W",
@@ -19533,7 +19589,7 @@
       "competitor_url": "https://japanelectronics.com.pk/products/dawlance-meat-mincer-dwmm-6001-w",
       "match_confidence": 78.7,
       "status": "matched",
-      "price_diff": 5000.0,
+      "price_diff": 6000.0,
       "cheaper": "competitor"
     },
     {
@@ -19664,7 +19720,7 @@
     },
     {
       "product_name": "Dawlance Microwave DW 210 S",
-      "my_price": 18400.0,
+      "my_price": 18900.0,
       "my_available": true,
       "my_url": "https://bismillahelectronics.pk/products/microwave-dawlance-dw-210-s",
       "competitor_name": "Dawlance Microwave Oven DW-374",
@@ -19673,12 +19729,12 @@
       "competitor_url": "https://japanelectronics.com.pk/products/dawlance-microwave-oven-dw-374",
       "match_confidence": 77.2,
       "status": "matched",
-      "price_diff": -6300.0,
+      "price_diff": -5800.0,
       "cheaper": "us"
     },
     {
       "product_name": "Dawlance Microwave Oven DW-295",
-      "my_price": 20350.0,
+      "my_price": 20850.0,
       "my_available": true,
       "my_url": "https://bismillahelectronics.pk/products/microwave-dawlance-dw-295",
       "competitor_name": "Dawlance Microwave Oven DW-295",
@@ -19687,12 +19743,12 @@
       "competitor_url": "https://japanelectronics.com.pk/products/dawlance-microwave-oven-dw-295",
       "match_confidence": 100.0,
       "status": "matched",
-      "price_diff": 1750.0,
+      "price_diff": 2250.0,
       "cheaper": "competitor"
     },
     {
       "product_name": "Dawlance Microwave Oven DW 297 GSS",
-      "my_price": 24050.0,
+      "my_price": 24550.0,
       "my_available": true,
       "my_url": "https://bismillahelectronics.pk/products/dawlance-microwave-oven-dw-297-gss",
       "competitor_name": "Dawlance Microwave Oven DW-297 GSS",
@@ -19701,12 +19757,12 @@
       "competitor_url": "https://japanelectronics.com.pk/products/dawlance-microwave-oven-dw-297-gss",
       "match_confidence": 91.2,
       "status": "matched",
-      "price_diff": 1850.0,
+      "price_diff": 2350.0,
       "cheaper": "competitor"
     },
     {
       "product_name": "Dawlance Microwave Oven DW-115 CHZ",
-      "my_price": 40200.0,
+      "my_price": 40700.0,
       "my_available": true,
       "my_url": "https://bismillahelectronics.pk/products/dawlance-microwave-oven-dw-115-chz",
       "competitor_name": "Dawlance Microwave Oven DW-115 CHZ Plus",
@@ -19715,12 +19771,12 @@
       "competitor_url": "https://japanelectronics.com.pk/products/dawlance-microwave-oven-dw-115chz-plus",
       "match_confidence": 93.2,
       "status": "matched",
-      "price_diff": 2600.0,
+      "price_diff": 3100.0,
       "cheaper": "competitor"
     },
     {
       "product_name": "Dawlance Microwave Oven DW-393 GSS",
-      "my_price": 31700.0,
+      "my_price": 32200.0,
       "my_available": true,
       "my_url": "https://bismillahelectronics.pk/products/dawlance-microwave-oven-dw-393-gss",
       "competitor_name": "Dawlance Microwave Oven DW-297 GSS",
@@ -19729,12 +19785,12 @@
       "competitor_url": "https://japanelectronics.com.pk/products/dawlance-microwave-oven-dw-297-gss",
       "match_confidence": 94.1,
       "status": "matched",
-      "price_diff": 9500.0,
+      "price_diff": 10000.0,
       "cheaper": "competitor"
     },
     {
       "product_name": "Dawlance Microwave Oven DW-142 HZP",
-      "my_price": 43800.0,
+      "my_price": 44300.0,
       "my_available": true,
       "my_url": "https://bismillahelectronics.pk/products/dawlance-microwave-oven-dw-142-hzp",
       "competitor_name": "Dawlance Microwave Oven DW-142 HZP",
@@ -19743,12 +19799,12 @@
       "competitor_url": "https://japanelectronics.com.pk/products/dawlance-microwave-oven-dw-142-hzp",
       "match_confidence": 100.0,
       "status": "matched",
-      "price_diff": 2700.0,
+      "price_diff": 3200.0,
       "cheaper": "competitor"
     },
     {
       "product_name": "Dawlance Microwave Oven DW-162 HZP",
-      "my_price": 46800.0,
+      "my_price": 47300.0,
       "my_available": true,
       "my_url": "https://bismillahelectronics.pk/products/dawlance-microwave-oven-dw-162-hzp",
       "competitor_name": "Dawlance Microwave Oven DW-142 HZP",
@@ -19757,12 +19813,12 @@
       "competitor_url": "https://japanelectronics.com.pk/products/dawlance-microwave-oven-dw-142-hzp",
       "match_confidence": 97.1,
       "status": "matched",
-      "price_diff": 5700.0,
+      "price_diff": 6200.0,
       "cheaper": "competitor"
     },
     {
       "product_name": "Dawlance Microwave Oven DW-550-AF AirFryer",
-      "my_price": 48800.0,
+      "my_price": 49300.0,
       "my_available": true,
       "my_url": "https://bismillahelectronics.pk/products/dawlance-microwave-oven-dw-550-af-airfryer",
       "competitor_name": "Dawlance Microwave Oven DW-530-AF (Air Fryer)",
@@ -19771,12 +19827,12 @@
       "competitor_url": "https://japanelectronics.com.pk/products/dawlance-microwave-oven-dw-530-af-air-fryer",
       "match_confidence": 82.8,
       "status": "matched",
-      "price_diff": 7900.0,
+      "price_diff": 8400.0,
       "cheaper": "competitor"
     },
     {
       "product_name": "Dawlance Microwave DW 220 Solo Series",
-      "my_price": 18250.0,
+      "my_price": 18750.0,
       "my_available": true,
       "my_url": "https://bismillahelectronics.pk/products/dawlance-microwave-dw-220-solo-series",
       "competitor_name": "Dawlance Microwave Oven DW-220 S Solo",
@@ -19785,7 +19841,7 @@
       "competitor_url": "https://japanelectronics.com.pk/products/dawlance-microwave-oven-dw-220-s-solo",
       "match_confidence": 78.4,
       "status": "matched",
-      "price_diff": 1650.0,
+      "price_diff": 2150.0,
       "cheaper": "competitor"
     },
     {
@@ -19804,7 +19860,7 @@
     },
     {
       "product_name": "Dawlance Single Washing Machine DW-6100 W",
-      "my_price": 26500.0,
+      "my_price": 26200.0,
       "my_available": true,
       "my_url": "https://bismillahelectronics.pk/products/single-washer-dawlance-model-dw-6100-w",
       "competitor_name": "Dawlance Washing Machine DW-6100 W",
@@ -19813,12 +19869,12 @@
       "competitor_url": "https://japanelectronics.com.pk/products/dawlance-washing-machine-dw-6100-w",
       "match_confidence": 90.7,
       "status": "matched",
-      "price_diff": 1600.0,
+      "price_diff": 1300.0,
       "cheaper": "competitor"
     },
     {
       "product_name": "Dawlance Double Washing Machine DW-6550 W",
-      "my_price": 40200.0,
+      "my_price": 37700.0,
       "my_available": true,
       "my_url": "https://bismillahelectronics.pk/products/double-washing-machine-dawlance-dw-6550-w",
       "competitor_name": "Dawlance Washing Machine DW-6550 W",
@@ -19827,12 +19883,12 @@
       "competitor_url": "https://japanelectronics.com.pk/products/dawlance-washing-machine-dw-6550-w-1",
       "match_confidence": 90.7,
       "status": "matched",
-      "price_diff": 5301.0,
+      "price_diff": 2801.0,
       "cheaper": "competitor"
     },
     {
       "product_name": "Dawlance Double Washing Machine DW-10500",
-      "my_price": 54900.0,
+      "my_price": 51400.0,
       "my_available": true,
       "my_url": "https://bismillahelectronics.pk/products/double-washing-machine-dawlance-dw-10500-c",
       "competitor_name": "Dawlance Washing Machine DW-10500",
@@ -19841,12 +19897,12 @@
       "competitor_url": "https://japanelectronics.com.pk/products/dawlance-washing-machine-dw-10500",
       "match_confidence": 90.4,
       "status": "matched",
-      "price_diff": 7900.0,
+      "price_diff": 4400.0,
       "cheaper": "competitor"
     },
     {
       "product_name": "Dawlance Double Washing Machine DW-7500C",
-      "my_price": 46800.0,
+      "my_price": 44300.0,
       "my_available": true,
       "my_url": "https://bismillahelectronics.pk/products/double-washing-machine-dawlance-dw-7500-g",
       "competitor_name": "Dawlance Washing Machine DW-7500C",
@@ -19855,12 +19911,12 @@
       "competitor_url": "https://japanelectronics.com.pk/products/dawlance-washing-machine-dw-7500c-1",
       "match_confidence": 90.4,
       "status": "matched",
-      "price_diff": 5800.0,
+      "price_diff": 3300.0,
       "cheaper": "competitor"
     },
     {
       "product_name": "Dawlance Automatic Washing Machine DWT 260 C LVS+",
-      "my_price": 83500.0,
+      "my_price": 84500.0,
       "my_available": true,
       "my_url": "https://bismillahelectronics.pk/products/dawlance-automatic-washing-machine-dwt-260-c-lvs",
       "competitor_name": "Dawlance Fully Automatic Washing Machine DWT 270 C LVS+",
@@ -19869,12 +19925,12 @@
       "competitor_url": "https://japanelectronics.com.pk/products/dawlance-fully-automatic-washing-machine-dwt-270-c-lvs",
       "match_confidence": 92.3,
       "status": "matched",
-      "price_diff": 1500.0,
+      "price_diff": 2500.0,
       "cheaper": "competitor"
     },
     {
       "product_name": "Dawlance Automatic Washing Machine DWT-1165 PL",
-      "my_price": 87900.0,
+      "my_price": 88900.0,
       "my_available": true,
       "my_url": "https://bismillahelectronics.pk/products/automatic-washing-machine-dawlance-dwt-1165-pl-top-load",
       "competitor_name": "Dawlance Automatic Washing Machine DWT-1165 PL",
@@ -19883,12 +19939,12 @@
       "competitor_url": "https://japanelectronics.com.pk/products/dawlance-automatic-washing-machine-dwt-1165-pl",
       "match_confidence": 100.0,
       "status": "matched",
-      "price_diff": 7900.0,
+      "price_diff": 8900.0,
       "cheaper": "competitor"
     },
     {
       "product_name": "Dawlance Automatic Washing Machine DWT 1470 PL",
-      "my_price": 102650.0,
+      "my_price": 103650.0,
       "my_available": true,
       "my_url": "https://bismillahelectronics.pk/products/automatic-washing-machine-dawlance-dwt-1470-pl-top-load",
       "competitor_name": "Dawlance Fully Automatic Washing Machine DWT 1470 PL",
@@ -19897,12 +19953,12 @@
       "competitor_url": "https://japanelectronics.com.pk/products/dawlance-fully-automatic-washing-machine-dwt-1470-pl",
       "match_confidence": 93.9,
       "status": "matched",
-      "price_diff": 16750.0,
+      "price_diff": 17750.0,
       "cheaper": "competitor"
     },
     {
       "product_name": "Dawlance Automatic Washing Machine DWT 1775 PL",
-      "my_price": 139350.0,
+      "my_price": 140350.0,
       "my_available": true,
       "my_url": "https://bismillahelectronics.pk/products/automatic-washing-machine-dawlance-dwt-1775-pl-top-load",
       "competitor_name": "Dawlance Fully Automatic Washing Machine DWT 1470 PL",
@@ -19911,12 +19967,12 @@
       "competitor_url": "https://japanelectronics.com.pk/products/dawlance-fully-automatic-washing-machine-dwt-1470-pl",
       "match_confidence": 89.8,
       "status": "matched",
-      "price_diff": 53450.0,
+      "price_diff": 54450.0,
       "cheaper": "competitor"
     },
     {
       "product_name": "Dawlance Automatic Washing Machine DWT 9060 EZ",
-      "my_price": 69700.0,
+      "my_price": 58100.0,
       "my_available": true,
       "my_url": "https://bismillahelectronics.pk/products/automatic-washing-machine-dawlance-dwt-9060-ez-top-load",
       "competitor_name": "Dawlance Automatic Washing Machine DWT 9060 EZ",
@@ -19925,7 +19981,7 @@
       "competitor_url": "https://japanelectronics.com.pk/products/dawlance-automatic-washing-machine-dwt-9060-ez",
       "match_confidence": 100.0,
       "status": "matched",
-      "price_diff": 15700.0,
+      "price_diff": 4100.0,
       "cheaper": "competitor"
     },
     {
@@ -24373,7 +24429,7 @@
       "my_url": null,
       "competitor_name": "JBL CINEMA SOUND BAR BAR-800MK2",
       "competitor_price": 259000.0,
-      "competitor_available": true,
+      "competitor_available": false,
       "competitor_url": "https://japanelectronics.com.pk/products/jbl-cinema-sound-bar-bar-800mk2",
       "match_confidence": 0,
       "status": "only_competitor",
@@ -25002,7 +25058,7 @@
       "my_available": null,
       "my_url": null,
       "competitor_name": "Ecostar Split AC Inverter 2.0 Ton (ES-24DU02WCPRM)",
-      "competitor_price": 193900.0,
+      "competitor_price": 195900.0,
       "competitor_available": true,
       "competitor_url": "https://japanelectronics.com.pk/products/ecostar-split-ac-inverter-2-0-ton-es-24du02wcprm",
       "match_confidence": 0,
@@ -25016,7 +25072,7 @@
       "my_available": null,
       "my_url": null,
       "competitor_name": "Ecostar Split AC Inverter 1.5 Ton (ES-18DU02WCPRM)",
-      "competitor_price": 130900.0,
+      "competitor_price": 132500.0,
       "competitor_available": true,
       "competitor_url": "https://japanelectronics.com.pk/products/ecostar-split-ac-inverter-1-5-ton-es-18du02wcprm",
       "match_confidence": 0,
@@ -25030,7 +25086,7 @@
       "my_available": null,
       "my_url": null,
       "competitor_name": "Ecostar Split AC Inverter 1.0 Ton (ES-12DU02WCPRM)",
-      "competitor_price": 111900.0,
+      "competitor_price": 112900.0,
       "competitor_available": true,
       "competitor_url": "https://japanelectronics.com.pk/products/ecostar-split-ac-inverter-1-0-ton-es-12du02wcprm",
       "match_confidence": 0,
@@ -25814,7 +25870,7 @@
       "my_available": null,
       "my_url": null,
       "competitor_name": "Gree Split AC Inverter 1.5 Ton GS-18AITH21W-T3",
-      "competitor_price": 206900.0,
+      "competitor_price": 209500.0,
       "competitor_available": true,
       "competitor_url": "https://japanelectronics.com.pk/products/gree-split-ac-inverter-1-5-ton-gs-18aith21w-t3",
       "match_confidence": 0,
@@ -26346,7 +26402,7 @@
       "my_available": null,
       "my_url": null,
       "competitor_name": "Gree Split AC Inverter 1.0 Ton GS-12AITH21W-T3",
-      "competitor_price": 166900.0,
+      "competitor_price": 168900.0,
       "competitor_available": true,
       "competitor_url": "https://japanelectronics.com.pk/products/gree-split-ac-inverter-1-0-ton-gs-12aith21w-t3",
       "match_confidence": 0,
@@ -26767,7 +26823,7 @@
       "my_url": null,
       "competitor_name": "TCL SPLIT AC INVERTER 1.5 TON TAC-18SVN-AI-41",
       "competitor_price": 158000.0,
-      "competitor_available": true,
+      "competitor_available": false,
       "competitor_url": "https://japanelectronics.com.pk/products/tcl-split-ac-inverter-1-5-ton-tac-18svn-ai-41",
       "match_confidence": 0,
       "status": "only_competitor",
@@ -27410,7 +27466,7 @@
       "my_available": null,
       "my_url": null,
       "competitor_name": "Gree Split AC Inverter 2.0 Ton GS-24AITH21W-T3 (WIFI)",
-      "competitor_price": 264900.0,
+      "competitor_price": 267900.0,
       "competitor_available": false,
       "competitor_url": "https://japanelectronics.com.pk/products/gree-split-ac-inverter-2-0-ton-gs-24aith21w-t3-wifi",
       "match_confidence": 0,
@@ -28119,20 +28175,6 @@
       "cheaper": null
     },
     {
-      "product_name": "Canon Fast Electric Geyser FEWH-40 LY",
-      "my_price": null,
-      "my_available": null,
-      "my_url": null,
-      "competitor_name": "Canon Fast Electric Geyser FEWH-40 LY",
-      "competitor_price": 40400.0,
-      "competitor_available": false,
-      "competitor_url": "https://japanelectronics.com.pk/products/canon-fast-electric-geyser-fewh-40-ly",
-      "match_confidence": 0,
-      "status": "only_competitor",
-      "price_diff": null,
-      "cheaper": null
-    },
-    {
       "product_name": "Canon Fast Electric Geyser FEWH-30 LCM",
       "my_price": null,
       "my_available": null,
@@ -28197,34 +28239,6 @@
       "competitor_price": 21500.0,
       "competitor_available": true,
       "competitor_url": "https://japanelectronics.com.pk/products/super-asia-electric-geyser-eh-640",
-      "match_confidence": 0,
-      "status": "only_competitor",
-      "price_diff": null,
-      "cheaper": null
-    },
-    {
-      "product_name": "Canon Fast Electric Geyser FEWH-10 LCM",
-      "my_price": null,
-      "my_available": null,
-      "my_url": null,
-      "competitor_name": "Canon Fast Electric Geyser FEWH-10 LCM",
-      "competitor_price": 26900.0,
-      "competitor_available": false,
-      "competitor_url": "https://japanelectronics.com.pk/products/canon-fast-electric-geyser-fewh-10-lcm",
-      "match_confidence": 0,
-      "status": "only_competitor",
-      "price_diff": null,
-      "cheaper": null
-    },
-    {
-      "product_name": "Canon Fast Electric Geyser FEWH-80 LY",
-      "my_price": null,
-      "my_available": null,
-      "my_url": null,
-      "competitor_name": "Canon Fast Electric Geyser FEWH-80 LY",
-      "competitor_price": 48400.0,
-      "competitor_available": false,
-      "competitor_url": "https://japanelectronics.com.pk/products/canon-fast-electric-geyser-fewh-80-ly",
       "match_confidence": 0,
       "status": "only_competitor",
       "price_diff": null,
@@ -30266,7 +30280,7 @@
       "my_available": null,
       "my_url": null,
       "competitor_name": "GREE SPLIT AC INVERTER 1.5 TON GS-18AITH21B",
-      "competitor_price": 206900.0,
+      "competitor_price": 209500.0,
       "competitor_available": true,
       "competitor_url": "https://japanelectronics.com.pk/products/gree-split-ac-inverter-1-5-ton-gs-18aith21b",
       "match_confidence": 0,
@@ -30518,7 +30532,7 @@
       "my_available": null,
       "my_url": null,
       "competitor_name": "Gree Split AC Inverter 1.5 Ton 18PITH17W (T3)",
-      "competitor_price": 179500.0,
+      "competitor_price": 179900.0,
       "competitor_available": true,
       "competitor_url": "https://japanelectronics.com.pk/products/gree-split-ac-inverter-1-5-ton-18pith17w-t3",
       "match_confidence": 0,
@@ -30714,7 +30728,7 @@
       "my_available": null,
       "my_url": null,
       "competitor_name": "GREE SPLIT AC INVERTER 2.0 TON GS-24AITH21B",
-      "competitor_price": 264900.0,
+      "competitor_price": 267900.0,
       "competitor_available": true,
       "competitor_url": "https://japanelectronics.com.pk/products/gree-split-ac-inverter-2-0-ton-gs-24aith21b",
       "match_confidence": 0,
@@ -30729,7 +30743,7 @@
       "my_url": null,
       "competitor_name": "Samsung Refrigerator Side By Side RS70F65QETTR (Metal)",
       "competitor_price": 509000.0,
-      "competitor_available": true,
+      "competitor_available": false,
       "competitor_url": "https://japanelectronics.com.pk/products/samsung-refrigerator-side-by-side-rs70f65qettr-metal",
       "match_confidence": 0,
       "status": "only_competitor",
@@ -30868,7 +30882,7 @@
       "my_available": null,
       "my_url": null,
       "competitor_name": "Gree AC Split Inverter 1.0 Ton GS-12PITH11G AAA",
-      "competitor_price": 127500.0,
+      "competitor_price": 120500.0,
       "competitor_available": false,
       "competitor_url": "https://japanelectronics.com.pk/products/gree-split-ac-inverter-1-0-ton-gs-12pith11g-aaa",
       "match_confidence": 0,
@@ -31022,7 +31036,7 @@
       "my_available": null,
       "my_url": null,
       "competitor_name": "Gree AC Split Inverter 1.5 Ton GS-18PITH11G AAA",
-      "competitor_price": 156000.0,
+      "competitor_price": 149000.0,
       "competitor_available": true,
       "competitor_url": "https://japanelectronics.com.pk/products/gree-ac-split-inverter-1-5-ton-gs-18pith11g-aaa",
       "match_confidence": 0,
@@ -31176,7 +31190,7 @@
       "my_available": null,
       "my_url": null,
       "competitor_name": "Gree Split AC Inverter 1.5 Ton 18PITH15W (T3)",
-      "competitor_price": 179500.0,
+      "competitor_price": 179900.0,
       "competitor_available": true,
       "competitor_url": "https://japanelectronics.com.pk/products/gree-split-ac-inverter-1-5-ton-18pith15w-t3",
       "match_confidence": 0,
@@ -31835,7 +31849,7 @@
       "my_url": null,
       "competitor_name": "Haier Refrigerator HRF-186 EBD Metallic Grey",
       "competitor_price": 53000.0,
-      "competitor_available": false,
+      "competitor_available": true,
       "competitor_url": "https://japanelectronics.com.pk/products/haier-refrigerator-hrf-186-ebd-metallic-grey",
       "match_confidence": 0,
       "status": "only_competitor",
@@ -34467,7 +34481,7 @@
       "my_url": null,
       "competitor_name": "Beetro Electric & Gas Geyser 35 Gallon (FEG-35 16/12 Gauge)",
       "competitor_price": 67000.0,
-      "competitor_available": true,
+      "competitor_available": false,
       "competitor_url": "https://japanelectronics.com.pk/products/beetro-electric-gas-geyser-35-gallon-feg-35-16-12-gauge",
       "match_confidence": 0,
       "status": "only_competitor",
@@ -37407,7 +37421,7 @@
       "my_url": null,
       "competitor_name": "Xiaomi Induction Cooker Lite",
       "competitor_price": 23999.0,
-      "competitor_available": true,
+      "competitor_available": false,
       "competitor_url": "https://japanelectronics.com.pk/products/xiaomi-induction-cooker-lite",
       "match_confidence": 0,
       "status": "only_competitor",
@@ -37855,7 +37869,7 @@
       "my_url": null,
       "competitor_name": "Dawlance REF 91999 Graze + Gem Black (GD INV)",
       "competitor_price": 125000.0,
-      "competitor_available": true,
+      "competitor_available": false,
       "competitor_url": "https://japanelectronics.com.pk/products/dawlance-ref-91999-graze-gem-black-gd-inv",
       "match_confidence": 0,
       "status": "only_competitor",
@@ -38022,7 +38036,7 @@
       "my_available": null,
       "my_url": null,
       "competitor_name": "Gree Split AC Inverter 1.0 Ton GS-12PITH11S AAA",
-      "competitor_price": 127500.0,
+      "competitor_price": 120500.0,
       "competitor_available": false,
       "competitor_url": "https://japanelectronics.com.pk/products/gree-split-ac-inverter-1-0-ton-gs-12pith11s-aaa",
       "match_confidence": 0,
@@ -38177,7 +38191,7 @@
       "my_url": null,
       "competitor_name": "Electrolux Split AC Inverter 1.5 Ton ELSAC-18K LUX Black (T3)",
       "competitor_price": 192900.0,
-      "competitor_available": false,
+      "competitor_available": true,
       "competitor_url": "https://japanelectronics.com.pk/products/electrolux-split-ac-inverter-1-5-ton-elsac-18k-lux-black-t3",
       "match_confidence": 0,
       "status": "only_competitor",
@@ -38274,7 +38288,7 @@
       "my_available": null,
       "my_url": null,
       "competitor_name": "Gree Split AC Inverter 1.5 Ton GS-18PITH11S AAA",
-      "competitor_price": 156000.0,
+      "competitor_price": 149000.0,
       "competitor_available": false,
       "competitor_url": "https://japanelectronics.com.pk/products/gree-split-ac-inverter-1-5-ton-gs-18pith11s-aaa",
       "match_confidence": 0,
@@ -42013,7 +42027,7 @@
       "my_url": null,
       "competitor_name": "Panasonic Steam Iron M-250T (Pink)",
       "competitor_price": 7900.0,
-      "competitor_available": false,
+      "competitor_available": true,
       "competitor_url": "https://japanelectronics.com.pk/products/panasonic-steam-iron-m-250t-pink",
       "match_confidence": 0,
       "status": "only_competitor",
@@ -42223,7 +42237,7 @@
       "my_url": null,
       "competitor_name": "LG Automatic Washing Machine F4V5RGP2T",
       "competitor_price": 252000.0,
-      "competitor_available": true,
+      "competitor_available": false,
       "competitor_url": "https://japanelectronics.com.pk/products/lg-a-w-m-f4v5rgp2t",
       "match_confidence": 0,
       "status": "only_competitor",

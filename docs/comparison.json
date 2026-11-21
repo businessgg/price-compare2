@@ -1,10 +1,10 @@
 {
-  "last_updated": "2026-11-21T00:32:06.924620+00:00",
+  "last_updated": "2026-11-21T07:53:05.211797+00:00",
   "my_store_name": "Bismillah Electronics",
   "competitor_name": "Japan Electronics",
-  "total_my_products": 1442,
+  "total_my_products": 1439,
   "total_competitor_products": 2160,
-  "matched_count": 1004,
+  "matched_count": 1001,
   "results": [
     {
       "product_name": "EcoStar Automatic Washing Machine EW-F1204DC",
@@ -4390,7 +4390,7 @@
     },
     {
       "product_name": "Gaba National Baby Wash SIMPLE 94023",
-      "my_price": 15800.0,
+      "my_price": 16000.0,
       "my_available": true,
       "my_url": "https://bismillahelectronics.pk/products/gaba-national-baby-wash-simple-94023",
       "competitor_name": "Gabba National Baby Washer (GNWM-95023)",
@@ -4399,12 +4399,12 @@
       "competitor_url": "https://japanelectronics.com.pk/products/gabba-national-baby-washer-gnwm-95023",
       "match_confidence": 74.7,
       "status": "matched",
-      "price_diff": -4700.0,
+      "price_diff": -4500.0,
       "cheaper": "us"
     },
     {
       "product_name": "Gaba National Baby Wash GLASS 93020",
-      "my_price": 16800.0,
+      "my_price": 17000.0,
       "my_available": true,
       "my_url": "https://bismillahelectronics.pk/products/gaba-national-baby-wash-glass-93020",
       "competitor_name": "Gabba National Baby Washer (GNWM-95023)",
@@ -4413,7 +4413,7 @@
       "competitor_url": "https://japanelectronics.com.pk/products/gabba-national-baby-washer-gnwm-95023",
       "match_confidence": 73.0,
       "status": "matched",
-      "price_diff": -3700.0,
+      "price_diff": -3500.0,
       "cheaper": "us"
     },
     {
@@ -5618,20 +5618,6 @@
       "match_confidence": 76.7,
       "status": "matched",
       "price_diff": 30400.0,
-      "cheaper": "competitor"
-    },
-    {
-      "product_name": "Ecostar Single Washing Machine EW-S1001GW",
-      "my_price": 26500.0,
-      "my_available": true,
-      "my_url": "https://bismillahelectronics.pk/products/ecostar-single-washing-machine-ew-s1001gw",
-      "competitor_name": "Ecostar Washing Machine EW-W1001GW",
-      "competitor_price": 23900.0,
-      "competitor_available": false,
-      "competitor_url": "https://japanelectronics.com.pk/products/ecostar-washing-machine-ew-w1001gw",
-      "match_confidence": 88.0,
-      "status": "matched",
-      "price_diff": 2600.0,
       "cheaper": "competitor"
     },
     {
@@ -7806,7 +7792,7 @@
     },
     {
       "product_name": "Eco Star Juicer Blender Grinder JBG-311",
-      "my_price": 14500.0,
+      "my_price": 12500.0,
       "my_available": true,
       "my_url": "https://bismillahelectronics.pk/products/eco-star-juicer-blender-grinder-jbg-311",
       "competitor_name": null,
@@ -15268,7 +15254,7 @@
     },
     {
       "product_name": "Gaba National Baby Washer GNW-92020",
-      "my_price": 16300.0,
+      "my_price": 16000.0,
       "my_available": true,
       "my_url": "https://bismillahelectronics.pk/products/gaba-national-baby-washer-gnw-92020",
       "competitor_name": "Gabba National Baby Washer (GNWM-95023)",
@@ -15277,22 +15263,8 @@
       "competitor_url": "https://japanelectronics.com.pk/products/gabba-national-baby-washer-gnwm-95023",
       "match_confidence": 75.7,
       "status": "matched",
-      "price_diff": -4200.0,
+      "price_diff": -4500.0,
       "cheaper": "us"
-    },
-    {
-      "product_name": "Gaba National Baby Washer GNW-92020 Glass",
-      "my_price": 16300.0,
-      "my_available": true,
-      "my_url": "https://bismillahelectronics.pk/products/gaba-national-baby-washer-gnw-92020-glass",
-      "competitor_name": "Gaba National Washing Machine GNW-93020 Glass",
-      "competitor_price": 14500.0,
-      "competitor_available": true,
-      "competitor_url": "https://japanelectronics.com.pk/products/gabba-national-washing-machine-gnw-93020-glass",
-      "match_confidence": 76.7,
-      "status": "matched",
-      "price_diff": 1800.0,
-      "cheaper": "competitor"
     },
     {
       "product_name": "Ecostar Single Washing Machine EW-W1201GW",
@@ -16136,7 +16108,7 @@
     },
     {
       "product_name": "Electrolux AC Inverter 1.0 Ton ELSAC-12K LUX White (T3)",
-      "my_price": 134900.0,
+      "my_price": 140900.0,
       "my_available": true,
       "my_url": "https://bismillahelectronics.pk/products/electrolux-ac-inverter-1-0-ton-elsac-12k-lux-white-t3",
       "competitor_name": "Electrolux Split AC Inverter 1.0 Ton ELSAC-12K LUX White (T3)",
@@ -16145,8 +16117,8 @@
       "competitor_url": "https://japanelectronics.com.pk/products/electrolux-split-ac-inverter-1-0-ton-elsac-12k-lux-white-t3",
       "match_confidence": 94.8,
       "status": "matched",
-      "price_diff": -6000.0,
-      "cheaper": "us"
+      "price_diff": 0.0,
+      "cheaper": "same"
     },
     {
       "product_name": "Dawlance Floor Standing 2.0 Ton Glamour+ 45 Inverter",
@@ -17466,7 +17438,7 @@
     },
     {
       "product_name": "EcoStar Steam Iron EH-ST211",
-      "my_price": 6500.0,
+      "my_price": 7500.0,
       "my_available": true,
       "my_url": "https://bismillahelectronics.pk/products/ecostar-steam-iron-eh-st211",
       "competitor_name": null,
@@ -17998,7 +17970,7 @@
     },
     {
       "product_name": "Ecostar Automatic Washing Machine EW-9504DC",
-      "my_price": 80900.0,
+      "my_price": 89000.0,
       "my_available": true,
       "my_url": "https://bismillahelectronics.pk/products/ecostar-automatic-washing-machine-ew-9504dc",
       "competitor_name": "Haier Automatic Washing Machine HWM85-1708",
@@ -18007,7 +17979,7 @@
       "competitor_url": "https://japanelectronics.com.pk/products/haier-a-w-m-hwm85-1708",
       "match_confidence": 75.3,
       "status": "matched",
-      "price_diff": 28000.0,
+      "price_diff": 36100.0,
       "cheaper": "competitor"
     },
     {
@@ -18135,20 +18107,6 @@
       "status": "matched",
       "price_diff": 0.0,
       "cheaper": "same"
-    },
-    {
-      "product_name": "Gaba National Baby Washer GNW-93020 Glass",
-      "my_price": 16800.0,
-      "my_available": true,
-      "my_url": "https://bismillahelectronics.pk/products/gaba-national-gne-baby-washer-gnw-93020",
-      "competitor_name": "Gaba National Washing Machine GNW-93020 Glass",
-      "competitor_price": 14500.0,
-      "competitor_available": true,
-      "competitor_url": "https://japanelectronics.com.pk/products/gabba-national-washing-machine-gnw-93020-glass",
-      "match_confidence": 79.1,
-      "status": "matched",
-      "price_diff": 2300.0,
-      "cheaper": "competitor"
     },
     {
       "product_name": "Abdullah Dough Kneader AE-221",
@@ -42183,6 +42141,20 @@
       "competitor_price": 7500.0,
       "competitor_available": false,
       "competitor_url": "https://japanelectronics.com.pk/products/panasonic-steam-iron-ni-m300t-blue",
+      "match_confidence": 0,
+      "status": "only_competitor",
+      "price_diff": null,
+      "cheaper": null
+    },
+    {
+      "product_name": "Gaba National Washing Machine GNW-93020 Glass",
+      "my_price": null,
+      "my_available": null,
+      "my_url": null,
+      "competitor_name": "Gaba National Washing Machine GNW-93020 Glass",
+      "competitor_price": 14500.0,
+      "competitor_available": true,
+      "competitor_url": "https://japanelectronics.com.pk/products/gabba-national-washing-machine-gnw-93020-glass",
       "match_confidence": 0,
       "status": "only_competitor",
       "price_diff": null,

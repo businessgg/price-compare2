@@ -1,11 +1,95 @@
 {
-  "last_updated": "2026-11-21T07:53:05.211797+00:00",
+  "last_updated": "2026-11-21T15:48:33.619977+00:00",
   "my_store_name": "Bismillah Electronics",
   "competitor_name": "Japan Electronics",
-  "total_my_products": 1439,
+  "total_my_products": 1438,
   "total_competitor_products": 2160,
-  "matched_count": 1001,
+  "matched_count": 1000,
   "results": [
+    {
+      "product_name": "Haier Kitchen Hood HCH-T3903",
+      "my_price": 76000.0,
+      "my_available": true,
+      "my_url": "https://bismillahelectronics.pk/products/haier-kitchen-hood-hch-t3903",
+      "competitor_name": "Haier Kitchen Hood HCH-9022G",
+      "competitor_price": 38500.0,
+      "competitor_available": false,
+      "competitor_url": "https://japanelectronics.com.pk/products/haier-kitchen-hood-hch-9022g",
+      "match_confidence": 89.3,
+      "status": "matched",
+      "price_diff": 37500.0,
+      "cheaper": "competitor"
+    },
+    {
+      "product_name": "Haier Double Washing Machine HWM 120-35FF",
+      "my_price": 26500.0,
+      "my_available": true,
+      "my_url": "https://bismillahelectronics.pk/products/haier-double-washing-machine-hwm-120-35ff",
+      "competitor_name": "Haier Washing Machine HWM 130-1217",
+      "competitor_price": 27500.0,
+      "competitor_available": true,
+      "competitor_url": "https://japanelectronics.com.pk/products/haier-washing-machine-hwm-130-1217",
+      "match_confidence": 77.3,
+      "status": "matched",
+      "price_diff": -1000.0,
+      "cheaper": "us"
+    },
+    {
+      "product_name": "Haier AC 1.5 Ton Inverter Hsu-19hfc",
+      "my_price": 125000.0,
+      "my_available": true,
+      "my_url": "https://bismillahelectronics.pk/products/haier-ac-1-5-ton-inverter-hsu-19hfc",
+      "competitor_name": null,
+      "competitor_price": null,
+      "competitor_available": null,
+      "competitor_url": null,
+      "match_confidence": 0,
+      "status": "only_us",
+      "price_diff": null,
+      "cheaper": null
+    },
+    {
+      "product_name": "Haier AC 1.5 Ton Inverter Hsu-19hfab Grey T3",
+      "my_price": 149900.0,
+      "my_available": true,
+      "my_url": "https://bismillahelectronics.pk/products/haier-ac-1-5-ton-inverter-hsu-19hfab-grey-t3",
+      "competitor_name": null,
+      "competitor_price": null,
+      "competitor_available": null,
+      "competitor_url": null,
+      "match_confidence": 0,
+      "status": "only_us",
+      "price_diff": null,
+      "cheaper": null
+    },
+    {
+      "product_name": "Haier AC Capsule 2.0 Ton Inverter  HPU-24HDZCA",
+      "my_price": 288000.0,
+      "my_available": true,
+      "my_url": "https://bismillahelectronics.pk/products/haier-ac-capsule-2-0-ton-inverter-hpu-24hdzca",
+      "competitor_name": "Haier Split AC Inverter 2.0 Ton HSU-24HFAB",
+      "competitor_price": 206000.0,
+      "competitor_available": true,
+      "competitor_url": "https://japanelectronics.com.pk/products/haier-split-ac-inverter-2-0-ton-hsu-24hfab",
+      "match_confidence": 75.9,
+      "status": "matched",
+      "price_diff": 82000.0,
+      "cheaper": "competitor"
+    },
+    {
+      "product_name": "Gree AC Inverter 1.0 Ton GS-12PITH21B-T3",
+      "my_price": 158900.0,
+      "my_available": true,
+      "my_url": "https://bismillahelectronics.pk/products/gree-ac-inverter-1-0-ton-gs-12pith21b-t3",
+      "competitor_name": "Gree Split AC Inverter 1.0 Ton GS-12PITH21B-T3",
+      "competitor_price": 158900.0,
+      "competitor_available": true,
+      "competitor_url": "https://japanelectronics.com.pk/products/gree-split-ac-inverter-1-0-ton-gs-12pith21b-t3",
+      "match_confidence": 93.0,
+      "status": "matched",
+      "price_diff": 0.0,
+      "cheaper": "same"
+    },
     {
       "product_name": "EcoStar Automatic Washing Machine EW-F1204DC",
       "my_price": 98000.0,
@@ -750,7 +834,7 @@
     },
     {
       "product_name": "LG Auto Wash F0Z6DRPK4 Front Load",
-      "my_price": 375000.0,
+      "my_price": 380000.0,
       "my_available": true,
       "my_url": "https://bismillahelectronics.pk/products/lg-auto-wash-f0z6drpk4-front-load",
       "competitor_name": null,
@@ -904,7 +988,7 @@
     },
     {
       "product_name": "Kenwood Refrigerator KRF-24457VCM Pearl Inverter",
-      "my_price": 90000.0,
+      "my_price": 83000.0,
       "my_available": true,
       "my_url": "https://bismillahelectronics.pk/products/kenwood-refrigerator-krf-24457vcm-pearl-inverter",
       "competitor_name": null,
@@ -1478,7 +1562,7 @@
     },
     {
       "product_name": "Haier Led 50\" 50S81GFX",
-      "my_price": 107000.0,
+      "my_price": 91000.0,
       "my_available": true,
       "my_url": "https://bismillahelectronics.pk/products/haier-led-50-50s81gfx",
       "competitor_name": "Haier LED 50\" 50S81GFX (QLED)",
@@ -1487,12 +1571,12 @@
       "competitor_url": "https://japanelectronics.com.pk/products/haier-led-50-50s81gfx-qled",
       "match_confidence": 78.4,
       "status": "matched",
-      "price_diff": 16000.0,
-      "cheaper": "competitor"
+      "price_diff": 0.0,
+      "cheaper": "same"
     },
     {
       "product_name": "Haier Led 50\" 50S80GFX",
-      "my_price": 89000.0,
+      "my_price": 91000.0,
       "my_available": true,
       "my_url": "https://bismillahelectronics.pk/products/haier-led-50-50s80gfx",
       "competitor_name": "Haier LED 50\" H50S800UX",
@@ -1501,7 +1585,7 @@
       "competitor_url": "https://japanelectronics.com.pk/products/haier-led-50-h50s800ux",
       "match_confidence": 80.0,
       "status": "matched",
-      "price_diff": -40900.0,
+      "price_diff": -38900.0,
       "cheaper": "us"
     },
     {
@@ -2527,7 +2611,7 @@
       "cheaper": "competitor"
     },
     {
-      "product_name": "Haier Ref HRF-538 LARA+ (RED)",
+      "product_name": "Haier Ref HRF-538 IARA+ (RED)",
       "my_price": 124000.0,
       "my_available": true,
       "my_url": "https://bismillahelectronics.pk/products/haier-ref-hrf-538-lara-red",
@@ -2535,7 +2619,7 @@
       "competitor_price": 124000.0,
       "competitor_available": true,
       "competitor_url": "https://japanelectronics.com.pk/products/haier-ref-hrf-538-iara-red",
-      "match_confidence": 89.7,
+      "match_confidence": 93.1,
       "status": "matched",
       "price_diff": 0.0,
       "cheaper": "same"
@@ -3592,7 +3676,7 @@
     },
     {
       "product_name": "Haier Water Dispenser HDR-TC2C1GB",
-      "my_price": 45000.0,
+      "my_price": 45500.0,
       "my_available": true,
       "my_url": "https://bismillahelectronics.pk/products/haier-water-dispenser-hdr-tc2c1gb",
       "competitor_name": "Homage Water Dispenser HWD-49432 Mrg",
@@ -3601,7 +3685,7 @@
       "competitor_url": "https://japanelectronics.com.pk/products/homage-water-dispenser-hwd-49432-mrg",
       "match_confidence": 72.5,
       "status": "matched",
-      "price_diff": 13100.0,
+      "price_diff": 13600.0,
       "cheaper": "competitor"
     },
     {
@@ -3746,7 +3830,7 @@
     },
     {
       "product_name": "Kenwood Chopper KW-3070",
-      "my_price": 7000.0,
+      "my_price": 9000.0,
       "my_available": true,
       "my_url": "https://bismillahelectronics.pk/products/kenwood-chopper-kw-3070",
       "competitor_name": null,
@@ -3998,7 +4082,7 @@
     },
     {
       "product_name": "Kenwood AC Inverter 1.0 Ton KEC-1273S (E-Serena)",
-      "my_price": 134100.0,
+      "my_price": 109600.0,
       "my_available": true,
       "my_url": "https://bismillahelectronics.pk/products/kenwood-ac-inverter-1-0-ton-kec-1273s-e-serena",
       "competitor_name": "Kenwood Split AC Inverter 1.0 Ton KES-1273S 60% (E-Serena)",
@@ -4007,8 +4091,8 @@
       "competitor_url": "https://japanelectronics.com.pk/products/kenwood-split-ac-inverter-1-0-ton-kes-1273s-60-e-serena",
       "match_confidence": 88.7,
       "status": "matched",
-      "price_diff": 24100.0,
-      "cheaper": "competitor"
+      "price_diff": -400.0,
+      "cheaper": "us"
     },
     {
       "product_name": "Samsung Auto Wash 15CK5745BORT",
@@ -4250,7 +4334,7 @@
     },
     {
       "product_name": "Haier Dryer HWS 80-60",
-      "my_price": 19500.0,
+      "my_price": 20000.0,
       "my_available": true,
       "my_url": "https://bismillahelectronics.pk/products/haier-dryer-hws-80-60",
       "competitor_name": null,
@@ -4348,7 +4432,7 @@
     },
     {
       "product_name": "Haier Auto Wash Front Load HW-120-BP12357S8",
-      "my_price": 210000.0,
+      "my_price": 170000.0,
       "my_available": true,
       "my_url": "https://bismillahelectronics.pk/products/haier-auto-wash-front-load-hw-120-bp12357s8",
       "competitor_name": null,
@@ -4656,7 +4740,7 @@
     },
     {
       "product_name": "Orient Ac 1.5 Ton Inverter Nova 19R GEO WHITE T3",
-      "my_price": 135999.0,
+      "my_price": 136000.0,
       "my_available": true,
       "my_url": "https://bismillahelectronics.pk/products/orient-ac-1-5-ton-inverter-nova-19r-geo-white-t3",
       "competitor_name": null,
@@ -4740,7 +4824,7 @@
     },
     {
       "product_name": "Orient Ac 1.5 Ton Inverter Lunar 20W GRACE GOLDEN T3",
-      "my_price": 154000.0,
+      "my_price": 166500.0,
       "my_available": true,
       "my_url": "https://bismillahelectronics.pk/products/orient-ac-1-5-ton-inverter-lunar-20w-grace-golden-t3",
       "competitor_name": null,
@@ -4754,7 +4838,7 @@
     },
     {
       "product_name": "Orient Ac 1.5 Ton Inverter 18C PRO ULTRA SILVER T3",
-      "my_price": 124500.0,
+      "my_price": 134499.0,
       "my_available": true,
       "my_url": "https://bismillahelectronics.pk/products/orient-ac-1-5-ton-inverter-18c-pro-ultra-silver-t3",
       "competitor_name": null,
@@ -4768,7 +4852,7 @@
     },
     {
       "product_name": "Orient Ac 1.0 Ton Inverter Lunar 13W GRACE GOLDEN T3",
-      "my_price": 113900.0,
+      "my_price": 124500.0,
       "my_available": true,
       "my_url": "https://bismillahelectronics.pk/products/orient-ac-1-0-ton-inverter-lunar-13w-grace-golden-t3",
       "competitor_name": null,
@@ -4824,7 +4908,7 @@
     },
     {
       "product_name": "Kenwood Ac 1.5 Ton Inverter KLP-18B01S LUXURY PLUS",
-      "my_price": 180500.0,
+      "my_price": 167000.0,
       "my_available": true,
       "my_url": "https://bismillahelectronics.pk/products/kenwood-ac-1-5-ton-inverter-klp-18b01s-luxury-plus",
       "competitor_name": "Kenwood Split AC Inverter 1.5 Ton KES-1875S",
@@ -4833,7 +4917,7 @@
       "competitor_url": "https://japanelectronics.com.pk/products/kenwood-split-ac-inverter-1-5-ton-kes-1875s",
       "match_confidence": 73.1,
       "status": "matched",
-      "price_diff": 63600.0,
+      "price_diff": 50100.0,
       "cheaper": "competitor"
     },
     {
@@ -4852,7 +4936,7 @@
     },
     {
       "product_name": "Kenwood Ac 1.0 Ton Inverter KES-1273S E-SERENE",
-      "my_price": 134100.0,
+      "my_price": 109600.0,
       "my_available": true,
       "my_url": "https://bismillahelectronics.pk/products/kenwood-ac-1-0-ton-inverter-kes-1273s-e-serene",
       "competitor_name": "Kenwood Split AC Inverter 1.0 Ton KES-1272S",
@@ -4861,7 +4945,7 @@
       "competitor_url": "https://japanelectronics.com.pk/products/kenwood-split-ac-inverter-1-0-ton-kes-1272s",
       "match_confidence": 78.7,
       "status": "matched",
-      "price_diff": -5900.0,
+      "price_diff": -30400.0,
       "cheaper": "us"
     },
     {
@@ -4936,7 +5020,7 @@
     },
     {
       "product_name": "Haier Ac 1.0 Ton Inverter HSU-13HFS (S) T3 PRO",
-      "my_price": 128000.0,
+      "my_price": 118000.0,
       "my_available": true,
       "my_url": "https://bismillahelectronics.pk/products/haier-ac-1-0-ton-inverter-hsu-13hfs-s-t3-pro",
       "competitor_name": "Haier Split AC Inverter 1.0 Ton HSU-13HFS T3 Pro (White)",
@@ -4945,8 +5029,8 @@
       "competitor_url": "https://japanelectronics.com.pk/products/haier-split-ac-inverter-1-0-ton-hsu-13hfs-t3-pro-white",
       "match_confidence": 82.4,
       "status": "matched",
-      "price_diff": 4000.0,
-      "cheaper": "competitor"
+      "price_diff": -6000.0,
+      "cheaper": "us"
     },
     {
       "product_name": "Haier Ac 1.0 Ton Inverter HSU-13HFP",
@@ -5342,7 +5426,7 @@
     },
     {
       "product_name": "LG SOUNDBAR S40T (2.1)",
-      "my_price": 54000.0,
+      "my_price": 55000.0,
       "my_available": true,
       "my_url": "https://bismillahelectronics.pk/products/lg-soundbar-s40t-2-1",
       "competitor_name": null,
@@ -5566,7 +5650,7 @@
     },
     {
       "product_name": "Haier AC Inverter 1.5 Ton HSU-19HFCM",
-      "my_price": 127000.0,
+      "my_price": 125000.0,
       "my_available": true,
       "my_url": "https://bismillahelectronics.pk/products/haier-ac-inverter-1-5-ton-hsu-19hfcm",
       "competitor_name": "Haier Split AC Inverter 1.5 Ton HSU-19HFCA",
@@ -5575,12 +5659,12 @@
       "competitor_url": "https://japanelectronics.com.pk/products/haier-split-ac-inverter-1-5-ton-hsu-19hfca",
       "match_confidence": 89.7,
       "status": "matched",
-      "price_diff": 0.0,
-      "cheaper": "same"
+      "price_diff": -2000.0,
+      "cheaper": "us"
     },
     {
       "product_name": "Haier AC Inverter 1.5 Ton HSU-18HJUV (Golden)",
-      "my_price": 208000.0,
+      "my_price": 215000.0,
       "my_available": true,
       "my_url": "https://bismillahelectronics.pk/products/haier-ac-inverter-1-5-ton-hsu-20hjuv-golden",
       "competitor_name": "Haier Split AC Inverter 1.0 Ton HSU-12HJUV (Golden)",
@@ -5589,7 +5673,7 @@
       "competitor_url": "https://japanelectronics.com.pk/products/haier-split-ac-inverter-1-0-ton-hsu-12hjuv-golden-1",
       "match_confidence": 89.6,
       "status": "matched",
-      "price_diff": 72400.0,
+      "price_diff": 79400.0,
       "cheaper": "competitor"
     },
     {
@@ -5619,20 +5703,6 @@
       "status": "matched",
       "price_diff": 30400.0,
       "cheaper": "competitor"
-    },
-    {
-      "product_name": "Homage Single Washing Machine HWM-4991 (White)",
-      "my_price": 19000.0,
-      "my_available": true,
-      "my_url": "https://bismillahelectronics.pk/products/homage-single-washing-machine-hwm-4991-white",
-      "competitor_name": null,
-      "competitor_price": null,
-      "competitor_available": null,
-      "competitor_url": null,
-      "match_confidence": 0,
-      "status": "only_us",
-      "price_diff": null,
-      "cheaper": null
     },
     {
       "product_name": "Royal Single Washing Machine RWM-1010",
@@ -6112,7 +6182,7 @@
     },
     {
       "product_name": "Midea AC 1.5 Ton Inverter  18HRFN1 TITAN",
-      "my_price": 195000.0,
+      "my_price": 185000.0,
       "my_available": true,
       "my_url": "https://bismillahelectronics.pk/products/midea-ac-1-5-ton-inverter-18hrfn1-titan",
       "competitor_name": null,
@@ -6266,7 +6336,7 @@
     },
     {
       "product_name": "Haier AC 1.5 Ton Inverter Hsu-19HFS (W) T3 Pro",
-      "my_price": 154000.0,
+      "my_price": 144900.0,
       "my_available": true,
       "my_url": "https://bismillahelectronics.pk/products/haier-ac-1-5-ton-inverter-hsu-19hfs-w-t3-pro",
       "competitor_name": "Haier Split AC Inverter 1.5 Ton HSU-19HFS T3 Pro (White)",
@@ -6275,12 +6345,12 @@
       "competitor_url": "https://japanelectronics.com.pk/products/haier-split-ac-inverter-1-5-ton-hsu-19hfs-t3-pro-white",
       "match_confidence": 74.5,
       "status": "matched",
-      "price_diff": 0.0,
-      "cheaper": "same"
+      "price_diff": -9100.0,
+      "cheaper": "us"
     },
     {
       "product_name": "Haier AC 1.5 Ton Inverter Hsu-19HFS (S) T3 Pro",
-      "my_price": 159000.0,
+      "my_price": 149900.0,
       "my_available": true,
       "my_url": "https://bismillahelectronics.pk/products/haier-ac-1-5-ton-inverter-hsu-19hfs-s-t3-pro",
       "competitor_name": "Haier Split AC Inverter 1.5 Ton HSU-19HFS T3 Pro (Silver)",
@@ -6289,12 +6359,12 @@
       "competitor_url": "https://japanelectronics.com.pk/products/haier-split-ac-inverter-1-5-ton-hsu-19hfs-t3-pro-silver",
       "match_confidence": 73.8,
       "status": "matched",
-      "price_diff": 0.0,
-      "cheaper": "same"
+      "price_diff": -9100.0,
+      "cheaper": "us"
     },
     {
       "product_name": "Haier AC 1.5 Ton Inverter Hsu-19HFS(G) T3 Pro",
-      "my_price": 159000.0,
+      "my_price": 149900.0,
       "my_available": true,
       "my_url": "https://bismillahelectronics.pk/products/haier-ac-1-5-ton-inverter-hsu-19hfs-g-t3-pro",
       "competitor_name": null,
@@ -6308,7 +6378,7 @@
     },
     {
       "product_name": "Haier AC 1.0 Ton Inverter Hsu-14hft (Dg) Grey",
-      "my_price": 139000.0,
+      "my_price": 130000.0,
       "my_available": true,
       "my_url": "https://bismillahelectronics.pk/products/haier-ac-1-0-ton-inverter-hsu-14hft-dg-grey",
       "competitor_name": null,
@@ -6322,7 +6392,7 @@
     },
     {
       "product_name": "Haier AC 1.0 Ton Inverter Hsu-13hfs (G) T3 Pro",
-      "my_price": 128000.0,
+      "my_price": 118000.0,
       "my_available": true,
       "my_url": "https://bismillahelectronics.pk/products/haier-ac-1-0-ton-inverter-hsu-13hfs-g-t3-pro",
       "competitor_name": null,
@@ -6336,7 +6406,7 @@
     },
     {
       "product_name": "Pel AC 1.0 Ton Inverter Atom PINVO-12K",
-      "my_price": 110000.0,
+      "my_price": 112900.0,
       "my_available": true,
       "my_url": "https://bismillahelectronics.pk/products/pel-ac-1-0-ton-inverter-atom-pinvo-12k",
       "competitor_name": "PEL Split AC Inverter 1.0 Ton 12K Atom",
@@ -6345,7 +6415,7 @@
       "competitor_url": "https://japanelectronics.com.pk/products/pel-split-ac-inverter-1-0-ton-12k-atom",
       "match_confidence": 73.7,
       "status": "matched",
-      "price_diff": 12100.0,
+      "price_diff": 15000.0,
       "cheaper": "competitor"
     },
     {
@@ -6686,7 +6756,7 @@
     },
     {
       "product_name": "Kenwood AC 1.5 Ton Inverter 1867s Comfort Pro",
-      "my_price": 165000.0,
+      "my_price": 165100.0,
       "my_available": false,
       "my_url": "https://bismillahelectronics.pk/products/kenwood-ac-1-5-ton-inverter-1867s-comfort-pro",
       "competitor_name": null,
@@ -6700,7 +6770,7 @@
     },
     {
       "product_name": "Homage AC 1.5 Ton Inverter Hcs-1821s Classic",
-      "my_price": 135900.0,
+      "my_price": 158500.0,
       "my_available": false,
       "my_url": "https://bismillahelectronics.pk/products/homage-ac-1-5-ton-inverter-hcs-1821s-classic",
       "competitor_name": "Homage Split AC Inverter 1.5 Ton HES-1811S",
@@ -6709,12 +6779,12 @@
       "competitor_url": "https://japanelectronics.com.pk/products/homage-split-ac-inverter-1-5-ton-hes-1811s",
       "match_confidence": 74.4,
       "status": "matched",
-      "price_diff": -34000.0,
+      "price_diff": -11400.0,
       "cheaper": "us"
     },
     {
       "product_name": "Kenwood AC 1.5 Ton Inverter E-oasis-1875s",
-      "my_price": 140000.0,
+      "my_price": 135600.0,
       "my_available": false,
       "my_url": "https://bismillahelectronics.pk/products/kenwood-ac-1-5-ton-inverter-e-oasis-1875s",
       "competitor_name": null,
@@ -6756,7 +6826,7 @@
     },
     {
       "product_name": "Kenwood AC 1.5 Ton Inverter KGP-18C03s Glory Plus",
-      "my_price": 164000.0,
+      "my_price": 137400.0,
       "my_available": false,
       "my_url": "https://bismillahelectronics.pk/products/kenwood-ac-1-5-ton-inverter-kgp-18c03s-glory-plus",
       "competitor_name": "Kenwood Split AC Inverter 1.5 Ton KES-1873s",
@@ -6765,12 +6835,12 @@
       "competitor_url": "https://japanelectronics.com.pk/products/kenwood-split-ac-inverter-1-5-ton-kes-1873s",
       "match_confidence": 78.3,
       "status": "matched",
-      "price_diff": 47100.0,
+      "price_diff": 20500.0,
       "cheaper": "competitor"
     },
     {
       "product_name": "Kenwood AC 1.5 Ton Inverter KGP-18C01s Glory Pro",
-      "my_price": 164000.0,
+      "my_price": 137400.0,
       "my_available": false,
       "my_url": "https://bismillahelectronics.pk/products/kenwood-ac-1-5-ton-inverter-kgp-18c01s-glory-pro",
       "competitor_name": "Kenwood Split AC Inverter 1.5 Ton KEL-1870 Eluxury Pro T3",
@@ -6779,12 +6849,12 @@
       "competitor_url": "https://japanelectronics.com.pk/products/kenwood-split-ac-inverter-1-5-ton-kel-1870-eluxury-pro-t3",
       "match_confidence": 78.1,
       "status": "matched",
-      "price_diff": 8100.0,
-      "cheaper": "competitor"
+      "price_diff": -18500.0,
+      "cheaper": "us"
     },
     {
       "product_name": "KENWOOD AC 1.0 TON INVERTER KEC-1266S E-SMART OYNX",
-      "my_price": 140000.0,
+      "my_price": 145000.0,
       "my_available": false,
       "my_url": "https://bismillahelectronics.pk/products/kenwood-ac-1-0-ton-inverter-kec-1266s-e-smart-oynx",
       "competitor_name": null,
@@ -6798,7 +6868,7 @@
     },
     {
       "product_name": "Kenwood AC 1.0 Ton Inverter  E-smart Pura Kes-1272s",
-      "my_price": 140000.0,
+      "my_price": 138300.0,
       "my_available": false,
       "my_url": "https://bismillahelectronics.pk/products/kenwood-ac-1-0-ton-inverter-e-smart-pura-kes-1272s",
       "competitor_name": null,
@@ -6910,7 +6980,7 @@
     },
     {
       "product_name": "Kenwood Food Factory 2287",
-      "my_price": 15500.0,
+      "my_price": 17500.0,
       "my_available": true,
       "my_url": "https://bismillahelectronics.pk/products/kenwood-food-factory-2287",
       "competitor_name": null,
@@ -8842,7 +8912,7 @@
     },
     {
       "product_name": "Haier Refrigerator HRF-418 IFG (Green)",
-      "my_price": 119000.0,
+      "my_price": 114000.0,
       "my_available": true,
       "my_url": "https://bismillahelectronics.pk/products/haier-refrigerator-hrf-418-ifg-green",
       "competitor_name": "Haier Refrigerator HRF-368 IFGA (Green)",
@@ -8851,7 +8921,7 @@
       "competitor_url": "https://japanelectronics.com.pk/products/haier-refrigerator-hrf-368-ifga-green",
       "match_confidence": 93.5,
       "status": "matched",
-      "price_diff": 13000.0,
+      "price_diff": 8000.0,
       "cheaper": "competitor"
     },
     {
@@ -8944,13 +9014,13 @@
       "my_available": true,
       "my_url": "https://bismillahelectronics.pk/products/dawlance-no-frost-refrigerator-dmd-7950-inv-gd",
       "competitor_name": "Dawlance No Frost Ref DMD-7950 GD",
-      "competitor_price": 280000.0,
+      "competitor_price": 265000.0,
       "competitor_available": true,
       "competitor_url": "https://japanelectronics.com.pk/products/dawlance-no-frost-ref-dmd-7950-gd",
       "match_confidence": 83.5,
       "status": "matched",
-      "price_diff": -14000.0,
-      "cheaper": "us"
+      "price_diff": 1000.0,
+      "cheaper": "competitor"
     },
     {
       "product_name": "Dawlance No Frost Refrigerator DMD-7950 Inox",
@@ -8958,13 +9028,13 @@
       "my_available": true,
       "my_url": "https://bismillahelectronics.pk/products/dawlance-no-frost-refrigerator-dmd-7950-inox",
       "competitor_name": "Dawlance No Frost Ref DMD-7950 Inox",
-      "competitor_price": 255000.0,
+      "competitor_price": 240000.0,
       "competitor_available": true,
       "competitor_url": "https://japanelectronics.com.pk/products/dawlance-no-frost-ref-dmd-7950-inox",
       "match_confidence": 88.6,
       "status": "matched",
-      "price_diff": -14000.0,
-      "cheaper": "us"
+      "price_diff": 1000.0,
+      "cheaper": "competitor"
     },
     {
       "product_name": "Kenwood Double Washing Machine KWM-21059 SAG",
@@ -9049,20 +9119,6 @@
       "status": "matched",
       "price_diff": 14800.0,
       "cheaper": "competitor"
-    },
-    {
-      "product_name": "Haier Single Washing Machine HWM 80-50",
-      "my_price": 20500.0,
-      "my_available": true,
-      "my_url": "https://bismillahelectronics.pk/products/haier-double-washing-machine-hwm-80-50",
-      "competitor_name": "Haier Washing Machine HWM 130-1217",
-      "competitor_price": 27500.0,
-      "competitor_available": true,
-      "competitor_url": "https://japanelectronics.com.pk/products/haier-washing-machine-hwm-130-1217",
-      "match_confidence": 77.8,
-      "status": "matched",
-      "price_diff": -7000.0,
-      "cheaper": "us"
     },
     {
       "product_name": "Haier Double Washing Machine HTM 100-1217",
@@ -9402,7 +9458,7 @@
     },
     {
       "product_name": "Samsung Automatic Washing Machine WA10CK4545BYRT",
-      "my_price": 117900.0,
+      "my_price": 140000.0,
       "my_available": true,
       "my_url": "https://bismillahelectronics.pk/products/samsung-automatic-washing-machine-wa10ck4545byrt",
       "competitor_name": "Samsung Automatic Washing Machine WA90H4200SW",
@@ -9411,7 +9467,7 @@
       "competitor_url": "https://japanelectronics.com.pk/products/samsung-automatic-washing-machine-wa90h4200sw",
       "match_confidence": 81.7,
       "status": "matched",
-      "price_diff": 13000.0,
+      "price_diff": 35100.0,
       "cheaper": "competitor"
     },
     {
@@ -9486,7 +9542,7 @@
     },
     {
       "product_name": "National Kitchen Hob 606",
-      "my_price": 12000.0,
+      "my_price": 14500.0,
       "my_available": true,
       "my_url": "https://bismillahelectronics.pk/products/natural-kitchen-hob-606",
       "competitor_name": null,
@@ -9920,7 +9976,7 @@
     },
     {
       "product_name": "NasGas Semi Instant Electric Geyser SEM-200",
-      "my_price": 24700.0,
+      "my_price": 23500.0,
       "my_available": true,
       "my_url": "https://bismillahelectronics.pk/products/nasgas-semi-instant-electric-geyser-sem-200",
       "competitor_name": "Nasgas Semi Instant Electric Geyser SEM-300",
@@ -9929,7 +9985,7 @@
       "competitor_url": "https://japanelectronics.com.pk/products/nasgas-semi-instant-electric-geyser-sem-300",
       "match_confidence": 95.3,
       "status": "matched",
-      "price_diff": -800.0,
+      "price_diff": -2000.0,
       "cheaper": "us"
     },
     {
@@ -10060,7 +10116,7 @@
     },
     {
       "product_name": "NasGas Electric & Gas Geyser DEG-15 Super Dlx",
-      "my_price": 38900.0,
+      "my_price": 39850.0,
       "my_available": true,
       "my_url": "https://bismillahelectronics.pk/products/nasgas-electric-gas-geyser-deg-15-super-dlx",
       "competitor_name": "Nasgas Electric & Gas Geyser 35 Gallon DEG-35 Super Dlx",
@@ -10069,7 +10125,7 @@
       "competitor_url": "https://japanelectronics.com.pk/products/nasgas-electric-gas-geyser-35-gallon-deg-35-super-dlx",
       "match_confidence": 86.0,
       "status": "matched",
-      "price_diff": -13600.0,
+      "price_diff": -12650.0,
       "cheaper": "us"
     },
     {
@@ -10102,7 +10158,7 @@
     },
     {
       "product_name": "Nasgas Electric & Gas Geyser DEG-35 Super Dlx",
-      "my_price": 48000.0,
+      "my_price": 52500.0,
       "my_available": true,
       "my_url": "https://bismillahelectronics.pk/products/nasgas-electric-gas-geyser-dge-35-super-dlx",
       "competitor_name": "Nasgas Electric & Gas Geyser 35 Gallon DEG-35 Super Dlx",
@@ -10111,8 +10167,8 @@
       "competitor_url": "https://japanelectronics.com.pk/products/nasgas-electric-gas-geyser-35-gallon-deg-35-super-dlx",
       "match_confidence": 90.0,
       "status": "matched",
-      "price_diff": -4500.0,
-      "cheaper": "us"
+      "price_diff": 0.0,
+      "cheaper": "same"
     },
     {
       "product_name": "NasGas Electric & Gas Geyser DGE-55 Super Dlx",
@@ -10158,7 +10214,7 @@
     },
     {
       "product_name": "NasGas Gas Geyser DG-55 Super Dlx",
-      "my_price": 55700.0,
+      "my_price": 55675.0,
       "my_available": true,
       "my_url": "https://bismillahelectronics.pk/products/nasgas-gas-geyser-dg-55-super-dlx",
       "competitor_name": "Nasgas Gas Geyser DG-55 Super Dlx Auto",
@@ -10167,8 +10223,8 @@
       "competitor_url": "https://japanelectronics.com.pk/products/nasgas-gas-geyser-dg-55-super-dlx-auto",
       "match_confidence": 90.1,
       "status": "matched",
-      "price_diff": 25.0,
-      "cheaper": "competitor"
+      "price_diff": 0.0,
+      "cheaper": "same"
     },
     {
       "product_name": "NasGas Gas Geyser NWH-100 Hybrid",
@@ -10382,7 +10438,7 @@
     },
     {
       "product_name": "Haier Kitchen Hob HCC-Q57326",
-      "my_price": 41000.0,
+      "my_price": 38500.0,
       "my_available": true,
       "my_url": "https://bismillahelectronics.pk/products/haier-kitchen-hob-hcc-q57326",
       "competitor_name": "Haier Kitchen Hob (HCC-Q57328)",
@@ -10391,12 +10447,12 @@
       "competitor_url": "https://japanelectronics.com.pk/products/haier-kitchen-hob-hcc-q57328",
       "match_confidence": 93.1,
       "status": "matched",
-      "price_diff": -500.0,
+      "price_diff": -3000.0,
       "cheaper": "us"
     },
     {
       "product_name": "Haier Kitchen Hob HCC-Q57328",
-      "my_price": 41500.0,
+      "my_price": 38500.0,
       "my_available": true,
       "my_url": "https://bismillahelectronics.pk/products/haier-kitchen-hob-hcc-q57328",
       "competitor_name": "Haier Kitchen Hob (HCC-Q57328)",
@@ -10405,12 +10461,12 @@
       "competitor_url": "https://japanelectronics.com.pk/products/haier-kitchen-hob-hcc-q57328",
       "match_confidence": 96.6,
       "status": "matched",
-      "price_diff": 0.0,
-      "cheaper": "same"
+      "price_diff": -3000.0,
+      "cheaper": "us"
     },
     {
       "product_name": "Haier Kitchen Hob HCC-Q87388",
-      "my_price": 49000.0,
+      "my_price": 47000.0,
       "my_available": true,
       "my_url": "https://bismillahelectronics.pk/products/haier-kitchen-hob-hcc-q87388",
       "competitor_name": "Haier Kitchen Hob (HCC-Q57328)",
@@ -10419,7 +10475,7 @@
       "competitor_url": "https://japanelectronics.com.pk/products/haier-kitchen-hob-hcc-q57328",
       "match_confidence": 89.7,
       "status": "matched",
-      "price_diff": 7500.0,
+      "price_diff": 5500.0,
       "cheaper": "competitor"
     },
     {
@@ -10452,7 +10508,7 @@
     },
     {
       "product_name": "Haier Kitchen Hob HCC-Q67366",
-      "my_price": 49000.0,
+      "my_price": 47000.0,
       "my_available": true,
       "my_url": "https://bismillahelectronics.pk/products/haier-kitchen-hob-hcc-q67366-1",
       "competitor_name": "Haier Kitchen Hob (HCC-Q57328)",
@@ -10461,12 +10517,12 @@
       "competitor_url": "https://japanelectronics.com.pk/products/haier-kitchen-hob-hcc-q57328",
       "match_confidence": 86.2,
       "status": "matched",
-      "price_diff": 7500.0,
+      "price_diff": 5500.0,
       "cheaper": "competitor"
     },
     {
       "product_name": "Haier Kitchen Hob HCC-632 DGS",
-      "my_price": 29500.0,
+      "my_price": 29600.0,
       "my_available": true,
       "my_url": "https://bismillahelectronics.pk/products/haier-kitchen-hob-hcc-632-dgs",
       "competitor_name": "Haier Kitchen Hob (HCC-632DGG)",
@@ -10475,22 +10531,8 @@
       "competitor_url": "https://japanelectronics.com.pk/products/haier-kitchen-hob-hcc-632dgg",
       "match_confidence": 84.7,
       "status": "matched",
-      "price_diff": 0.0,
-      "cheaper": "same"
-    },
-    {
-      "product_name": "Haier Kitchen Hob HCC-832 DGG",
-      "my_price": 51000.0,
-      "my_available": true,
-      "my_url": "https://bismillahelectronics.pk/products/haier-kitchen-hob-hcc-832-dgg",
-      "competitor_name": "Haier Kitchen Hob HCC-832DGG",
-      "competitor_price": 55000.0,
-      "competitor_available": true,
-      "competitor_url": "https://japanelectronics.com.pk/products/haier-kitchen-hob-hcc-832dgg",
-      "match_confidence": 87.7,
-      "status": "matched",
-      "price_diff": -4000.0,
-      "cheaper": "us"
+      "price_diff": 100.0,
+      "cheaper": "competitor"
     },
     {
       "product_name": "NasGas Kitchen Hob DG-117 GT",
@@ -11194,7 +11236,7 @@
     },
     {
       "product_name": "Haier Kitchen Hood HCH-7521",
-      "my_price": 39000.0,
+      "my_price": 36000.0,
       "my_available": true,
       "my_url": "https://bismillahelectronics.pk/products/haier-kitchen-hood-hch-7521",
       "competitor_name": "Haier Kitchen Hood HCH-9021G",
@@ -11203,8 +11245,8 @@
       "competitor_url": "https://japanelectronics.com.pk/products/haier-kitchen-hood-hch-9021g",
       "match_confidence": 90.9,
       "status": "matched",
-      "price_diff": 500.0,
-      "cheaper": "competitor"
+      "price_diff": -2500.0,
+      "cheaper": "us"
     },
     {
       "product_name": "Haier Kitchen Hood HCH-9022 G",
@@ -11394,13 +11436,13 @@
       "my_available": true,
       "my_url": "https://bismillahelectronics.pk/products/dawlance-vertical-freezer-vf-1035-gd-cloud-white",
       "competitor_name": "Dawlance Vertical Freezer 1035WB GD Avante + Cloud White",
-      "competitor_price": 110000.0,
+      "competitor_price": 99999.0,
       "competitor_available": true,
       "competitor_url": "https://japanelectronics.com.pk/products/dawlance-vertical-freezer-1035wb-gd-avante-cloud-white",
       "match_confidence": 75.5,
       "status": "matched",
-      "price_diff": -3000.0,
-      "cheaper": "us"
+      "price_diff": 7001.0,
+      "cheaper": "competitor"
     },
     {
       "product_name": "Dawlance Water Dispenser DBD-1035 (Glass Door)",
@@ -12146,7 +12188,7 @@
     },
     {
       "product_name": "Panasonic LED TV 65 Inch TH65MX740M (4K Google)",
-      "my_price": 199999.0,
+      "my_price": 233900.0,
       "my_available": true,
       "my_url": "https://bismillahelectronics.pk/products/panasonic-led-tv-65-inch-th65mx740m-4k-google",
       "competitor_name": null,
@@ -12314,7 +12356,7 @@
     },
     {
       "product_name": "Kenwood AC Inverter 1.0 Ton KEL-1270S E Luxury Pro",
-      "my_price": 135000.0,
+      "my_price": 125900.0,
       "my_available": true,
       "my_url": "https://bismillahelectronics.pk/products/kenwood-ac-inverter-1-0-ton-kel-1270s-e-luxury-pro",
       "competitor_name": "Kenwood Split AC Inverter 1.0 Ton KES-1272S",
@@ -12323,12 +12365,12 @@
       "competitor_url": "https://japanelectronics.com.pk/products/kenwood-split-ac-inverter-1-0-ton-kes-1272s",
       "match_confidence": 77.4,
       "status": "matched",
-      "price_diff": -5000.0,
+      "price_diff": -14100.0,
       "cheaper": "us"
     },
     {
       "product_name": "Kenwood AC Inverter 1.5 Ton eNexus KEN-1874S",
-      "my_price": 140000.0,
+      "my_price": 135600.0,
       "my_available": true,
       "my_url": "https://bismillahelectronics.pk/products/kenwood-ac-inverter-1-5-ton-enexus-ken-1874s",
       "competitor_name": "Kenwood Split AC Inverter 1.5 Ton KES-1875S",
@@ -12337,7 +12379,7 @@
       "competitor_url": "https://japanelectronics.com.pk/products/kenwood-split-ac-inverter-1-5-ton-kes-1875s",
       "match_confidence": 80.5,
       "status": "matched",
-      "price_diff": 23100.0,
+      "price_diff": 18700.0,
       "cheaper": "competitor"
     },
     {
@@ -12451,20 +12493,6 @@
       "status": "matched",
       "price_diff": 182000.0,
       "cheaper": "competitor"
-    },
-    {
-      "product_name": "PEL AC Inverter 2.0 Ton 24K FIT Black",
-      "my_price": 222900.0,
-      "my_available": true,
-      "my_url": "https://bismillahelectronics.pk/products/pel-ac-inverter-2-0-ton-24k-fit-black",
-      "competitor_name": null,
-      "competitor_price": null,
-      "competitor_available": null,
-      "competitor_url": null,
-      "match_confidence": 0,
-      "status": "only_us",
-      "price_diff": null,
-      "cheaper": null
     },
     {
       "product_name": "Skywood AC Portable 1.0 Ton SKP-1225APH",
@@ -12818,7 +12846,7 @@
     },
     {
       "product_name": "Panasonic LED TV 75 Inch TH75MX740M (4K Google)",
-      "my_price": 329999.0,
+      "my_price": 339900.0,
       "my_available": true,
       "my_url": "https://bismillahelectronics.pk/products/panasonic-led-tv-75-inch-th75mx740m-4k-google",
       "competitor_name": null,
@@ -12832,7 +12860,7 @@
     },
     {
       "product_name": "Panasonic LED TV 55 Inch TH55MX740M (4K Google)",
-      "my_price": 134999.0,
+      "my_price": 142900.0,
       "my_available": true,
       "my_url": "https://bismillahelectronics.pk/products/panasonic-led-tv-55-inch-th55mx740m-4k-google",
       "competitor_name": null,
@@ -13229,7 +13257,7 @@
       "my_url": "https://bismillahelectronics.pk/products/haier-refrigerator-hrf-346-ipra-smart-inverter-red",
       "competitor_name": "Haier Refrigerator HRF-346 IARA+ Smart Inverter (Red)",
       "competitor_price": 97000.0,
-      "competitor_available": true,
+      "competitor_available": false,
       "competitor_url": "https://japanelectronics.com.pk/products/haier-refrigerator-hrf-346-iara-smart-inverter-red",
       "match_confidence": 97.1,
       "status": "matched",
@@ -14008,7 +14036,7 @@
     },
     {
       "product_name": "Haier LED TV 75 Inch 75M80FUX (Mini Q LED)",
-      "my_price": 320000.0,
+      "my_price": 325000.0,
       "my_available": true,
       "my_url": "https://bismillahelectronics.pk/products/haier-led-75-inch-75m80fux-mini-q-led",
       "competitor_name": "Haier LED 65\" 65M80FUX (Mini Q LED)",
@@ -14017,7 +14045,7 @@
       "competitor_url": "https://japanelectronics.com.pk/products/haier-led-65-65m80fux-mini-q-led",
       "match_confidence": 83.1,
       "status": "matched",
-      "price_diff": 95000.0,
+      "price_diff": 100000.0,
       "cheaper": "competitor"
     },
     {
@@ -14106,7 +14134,7 @@
     },
     {
       "product_name": "Haier LED TV 55 Inch 55M80FUX",
-      "my_price": 150500.0,
+      "my_price": 152500.0,
       "my_available": true,
       "my_url": "https://bismillahelectronics.pk/products/haier-led-55-inch-55k85fux-copy",
       "competitor_name": "Haier LED TV 55 Inch 55S900UX",
@@ -14115,7 +14143,7 @@
       "competitor_url": "https://japanelectronics.com.pk/products/haier-led-tv-55-inch-55s900ux",
       "match_confidence": 89.7,
       "status": "matched",
-      "price_diff": -34400.0,
+      "price_diff": -32400.0,
       "cheaper": "us"
     },
     {
@@ -14839,7 +14867,7 @@
       "my_url": "https://bismillahelectronics.pk/products/super-asia-spinner-dryer-sd-540-crystal",
       "competitor_name": "Super Asia Spinner SD-540 Crystal",
       "competitor_price": 25400.0,
-      "competitor_available": true,
+      "competitor_available": false,
       "competitor_url": "https://japanelectronics.com.pk/products/super-asia-spinner-sd-540-crystal",
       "match_confidence": 91.7,
       "status": "matched",
@@ -14853,7 +14881,7 @@
       "my_url": "https://bismillahelectronics.pk/products/super-asia-spinner-dryer-sd-540",
       "competitor_name": "Super Asia Spinner SD-540 Crystal",
       "competitor_price": 25400.0,
-      "competitor_available": true,
+      "competitor_available": false,
       "competitor_url": "https://japanelectronics.com.pk/products/super-asia-spinner-sd-540-crystal",
       "match_confidence": 87.5,
       "status": "matched",
@@ -14946,7 +14974,7 @@
     },
     {
       "product_name": "Haier Front Load Washing Machine HW 100-BP14929S6",
-      "my_price": 165000.0,
+      "my_price": 180000.0,
       "my_available": true,
       "my_url": "https://bismillahelectronics.pk/products/haier-front-load-washing-machine-hw-100-bp14929s6",
       "competitor_name": "Haier Washing Machine HWM 130-1217",
@@ -14955,7 +14983,7 @@
       "competitor_url": "https://japanelectronics.com.pk/products/haier-washing-machine-hwm-130-1217",
       "match_confidence": 72.3,
       "status": "matched",
-      "price_diff": 137500.0,
+      "price_diff": 152500.0,
       "cheaper": "competitor"
     },
     {
@@ -14974,7 +15002,7 @@
     },
     {
       "product_name": "Haier Automatic Washing Machine HWM 120-826",
-      "my_price": 77000.0,
+      "my_price": 77500.0,
       "my_available": true,
       "my_url": "https://bismillahelectronics.pk/products/haier-automatic-washing-machine-hwm-120-826",
       "competitor_name": "Haier Fully Automatic Washing Machine HWM 120-1789",
@@ -14983,7 +15011,7 @@
       "competitor_url": "https://japanelectronics.com.pk/products/haier-fully-automatic-washing-machine-hwm-120-1789",
       "match_confidence": 88.2,
       "status": "matched",
-      "price_diff": 7100.0,
+      "price_diff": 7600.0,
       "cheaper": "competitor"
     },
     {
@@ -15226,7 +15254,7 @@
     },
     {
       "product_name": "Homage Double Washing Machine HWM-49102 Glass (Gray Diamond)",
-      "my_price": 32600.0,
+      "my_price": 35300.0,
       "my_available": true,
       "my_url": "https://bismillahelectronics.pk/products/homage-double-washing-machine-hwm-49102-glass-gray-diamond",
       "competitor_name": "Homage Washing Machine HW-49102 Glass Gray Diamond",
@@ -15235,7 +15263,7 @@
       "competitor_url": "https://japanelectronics.com.pk/products/homage-washing-machine-hw-49102-glass-gray-diamond",
       "match_confidence": 81.8,
       "status": "matched",
-      "price_diff": 2800.0,
+      "price_diff": 5500.0,
       "cheaper": "competitor"
     },
     {
@@ -15539,7 +15567,7 @@
       "my_url": "https://bismillahelectronics.pk/products/haier-microwave-oven-hmw-20mpb",
       "competitor_name": "Haier Microwave Oven (HMW-20MPB)",
       "competitor_price": 14000.0,
-      "competitor_available": true,
+      "competitor_available": false,
       "competitor_url": "https://japanelectronics.com.pk/products/haier-microwave-oven-hmw-20mpb",
       "match_confidence": 96.8,
       "status": "matched",
@@ -15800,7 +15828,7 @@
     },
     {
       "product_name": "Kenwood AC Inverter 1.5 Ton KEC-1872S (E-Smart Pura)",
-      "my_price": 220000.0,
+      "my_price": 207500.0,
       "my_available": true,
       "my_url": "https://bismillahelectronics.pk/products/kenwood-ac-inverter-1-5-ton-kec-1872s-e-smart-pura",
       "competitor_name": "Kenwood Split AC Inverter 1.5 Ton KES-1872S 75% (E-Smart Pura)",
@@ -15809,12 +15837,12 @@
       "competitor_url": "https://japanelectronics.com.pk/products/kenwood-split-ac-inverter-1-5-ton-kes-1872s-75-e-smart-pura",
       "match_confidence": 89.5,
       "status": "matched",
-      "price_diff": 0.0,
-      "cheaper": "same"
+      "price_diff": -12500.0,
+      "cheaper": "us"
     },
     {
       "product_name": "Kenwood AC Inverter 1.0 Ton KEC-1267S",
-      "my_price": 130000.0,
+      "my_price": 125900.0,
       "my_available": true,
       "my_url": "https://bismillahelectronics.pk/products/kenwood-ac-1-0-ton-kec-1267s-inverter",
       "competitor_name": "Kenwood Split AC Inverter 1.0 Ton KEC-1267S 75%",
@@ -15823,8 +15851,8 @@
       "competitor_url": "https://japanelectronics.com.pk/products/kenwood-split-ac-inverter-1-0-ton-kec-1267s-75",
       "match_confidence": 88.1,
       "status": "matched",
-      "price_diff": 0.0,
-      "cheaper": "same"
+      "price_diff": -4100.0,
+      "cheaper": "us"
     },
     {
       "product_name": "Hisense AC Floor Standing 2.0 Ton 24UR4RJJ1 Inverter",
@@ -15856,7 +15884,7 @@
     },
     {
       "product_name": "Haier AC Inverter 2.0 Ton HSU 24HFAB (Grey)",
-      "my_price": 212000.0,
+      "my_price": 200000.0,
       "my_available": true,
       "my_url": "https://bismillahelectronics.pk/products/haier-ac-inverter-2-0-ton-hsu-24hfab-grey",
       "competitor_name": "Haier Split AC Inverter 1.0 Ton HSU-12HJUV (Golden)",
@@ -15865,12 +15893,12 @@
       "competitor_url": "https://japanelectronics.com.pk/products/haier-split-ac-inverter-1-0-ton-hsu-12hjuv-golden-1",
       "match_confidence": 70.2,
       "status": "matched",
-      "price_diff": 76400.0,
+      "price_diff": 64400.0,
       "cheaper": "competitor"
     },
     {
       "product_name": "Haier AC Inverter 1.5 Ton HSU-19HFCA",
-      "my_price": 127000.0,
+      "my_price": 125000.0,
       "my_available": true,
       "my_url": "https://bismillahelectronics.pk/products/haier-ac-inverter-1-5-ton-hsu-19hfca",
       "competitor_name": "Haier Split AC Inverter 1.5 Ton HSU-19HFCA",
@@ -15879,12 +15907,12 @@
       "competitor_url": "https://japanelectronics.com.pk/products/haier-split-ac-inverter-1-5-ton-hsu-19hfca",
       "match_confidence": 92.3,
       "status": "matched",
-      "price_diff": 0.0,
-      "cheaper": "same"
+      "price_diff": -2000.0,
+      "cheaper": "us"
     },
     {
       "product_name": "Haier AC Inverter 1.5 Ton HSU-19HFCS",
-      "my_price": 127000.0,
+      "my_price": 125000.0,
       "my_available": true,
       "my_url": "https://bismillahelectronics.pk/products/haier-ac-inverter-1-5-ton-hsu-19hfcs",
       "competitor_name": "Haier Split AC Inverter 1.5 Ton HSU-19HFCA",
@@ -15893,12 +15921,12 @@
       "competitor_url": "https://japanelectronics.com.pk/products/haier-split-ac-inverter-1-5-ton-hsu-19hfca",
       "match_confidence": 89.7,
       "status": "matched",
-      "price_diff": 0.0,
-      "cheaper": "same"
+      "price_diff": -2000.0,
+      "cheaper": "us"
     },
     {
       "product_name": "Haier AC Inverter 1.5 Ton HSU-19HFCP",
-      "my_price": 127000.0,
+      "my_price": 125000.0,
       "my_available": true,
       "my_url": "https://bismillahelectronics.pk/products/haier-ac-inverter-1-5-ton-hsu-19hfcp",
       "competitor_name": "Haier Split AC Inverter 1.5 Ton HSU-19HFCA",
@@ -15907,12 +15935,12 @@
       "competitor_url": "https://japanelectronics.com.pk/products/haier-split-ac-inverter-1-5-ton-hsu-19hfca",
       "match_confidence": 89.7,
       "status": "matched",
-      "price_diff": 0.0,
-      "cheaper": "same"
+      "price_diff": -2000.0,
+      "cheaper": "us"
     },
     {
       "product_name": "Haier AC Inverter 1.5 Ton HSU-19HFAB (Grey)",
-      "my_price": 159000.0,
+      "my_price": 149900.0,
       "my_available": true,
       "my_url": "https://bismillahelectronics.pk/products/haier-ac-inverter-1-5-ton-hsu-19hfab-grey",
       "competitor_name": "Haier Split AC Inverter 1.5 Ton HSU-19HFCA",
@@ -15921,12 +15949,12 @@
       "competitor_url": "https://japanelectronics.com.pk/products/haier-split-ac-inverter-1-5-ton-hsu-19hfca",
       "match_confidence": 82.4,
       "status": "matched",
-      "price_diff": 32000.0,
+      "price_diff": 22900.0,
       "cheaper": "competitor"
     },
     {
       "product_name": "Haier AC Inverter 1.5 Ton HSU-20HFTEX DG",
-      "my_price": 178000.0,
+      "my_price": 164900.0,
       "my_available": true,
       "my_url": "https://bismillahelectronics.pk/products/haier-ac-inverter-1-5-ton-hsu-20hftex-dg",
       "competitor_name": "Haier Split AC Inverter 1.5 Ton HSU-20HFTEX DG",
@@ -15935,8 +15963,8 @@
       "competitor_url": "https://japanelectronics.com.pk/products/haier-split-ac-inverter-1-5-ton-hsu-20hftex-dg",
       "match_confidence": 93.0,
       "status": "matched",
-      "price_diff": 0.0,
-      "cheaper": "same"
+      "price_diff": -13100.0,
+      "cheaper": "us"
     },
     {
       "product_name": "Haier AC Inverter 1.5 Ton HSU-18HFPAA (Silver)",
@@ -15968,7 +15996,7 @@
     },
     {
       "product_name": "Haier AC Inverter 1.0 Ton HSU-13HFAB T3 (White)",
-      "my_price": 124000.0,
+      "my_price": 115000.0,
       "my_available": true,
       "my_url": "https://bismillahelectronics.pk/products/haier-ac-1-ton-hsu-13hfab-t3-inverter-white",
       "competitor_name": "Haier split AC Inverter 1.0 Ton HSU-13HFCA (White)",
@@ -15977,12 +16005,12 @@
       "competitor_url": "https://japanelectronics.com.pk/products/haier-split-ac-inverter-1-0-ton-hsu-13hfca-white",
       "match_confidence": 88.7,
       "status": "matched",
-      "price_diff": 12000.0,
+      "price_diff": 3000.0,
       "cheaper": "competitor"
     },
     {
       "product_name": "Haier AC Inverter 1.0 Ton HSU-13HFCS (White)",
-      "my_price": 112000.0,
+      "my_price": 105000.0,
       "my_available": true,
       "my_url": "https://bismillahelectronics.pk/products/haier-ac-1-0-ton-hsu-13hfcs-inverter-white",
       "competitor_name": "Haier split AC Inverter 1.0 Ton HSU-13HFCA (White)",
@@ -15991,12 +16019,12 @@
       "competitor_url": "https://japanelectronics.com.pk/products/haier-split-ac-inverter-1-0-ton-hsu-13hfca-white",
       "match_confidence": 91.5,
       "status": "matched",
-      "price_diff": 0.0,
-      "cheaper": "same"
+      "price_diff": -7000.0,
+      "cheaper": "us"
     },
     {
       "product_name": "Haier AC Inverter 1.0 Ton HSU-13HFCA (White)",
-      "my_price": 112000.0,
+      "my_price": 105000.0,
       "my_available": true,
       "my_url": "https://bismillahelectronics.pk/products/haier-split-ac-1-0-ton-hsu-13hfca-inverter-white",
       "competitor_name": "Haier split AC Inverter 1.0 Ton HSU-13HFCA (White)",
@@ -16005,21 +16033,7 @@
       "competitor_url": "https://japanelectronics.com.pk/products/haier-split-ac-inverter-1-0-ton-hsu-13hfca-white",
       "match_confidence": 93.6,
       "status": "matched",
-      "price_diff": 0.0,
-      "cheaper": "same"
-    },
-    {
-      "product_name": "Gree Floor Standing AC 2.0 Ton GF-24TFIH AA+ Inverter",
-      "my_price": 319000.0,
-      "my_available": true,
-      "my_url": "https://bismillahelectronics.pk/products/gree-floor-standing-ac-2-0-ton-gf-24tfih-aa-inverter",
-      "competitor_name": "Gree Floor Standing AC Inverter 2.0 Ton GF-24TFIH AA+",
-      "competitor_price": 324000.0,
-      "competitor_available": false,
-      "competitor_url": "https://japanelectronics.com.pk/products/gree-floor-standing-ac-inverter-2-0-ton-gf-24tfih-aa",
-      "match_confidence": 100.0,
-      "status": "matched",
-      "price_diff": -5000.0,
+      "price_diff": -7000.0,
       "cheaper": "us"
     },
     {
@@ -16168,12 +16182,12 @@
       "my_available": true,
       "my_url": "https://bismillahelectronics.pk/products/dawlance-ac-inverter-1-5-ton-dac-hyper-t3-silver",
       "competitor_name": "Dawlance Split AC Inverter 1.5 Ton DAC-Suave + (White)",
-      "competitor_price": 127000.0,
+      "competitor_price": 114999.0,
       "competitor_available": false,
       "competitor_url": "https://japanelectronics.com.pk/products/dawlance-split-ac-inverter-1-5-ton-dac-suave-white",
       "match_confidence": 73.1,
       "status": "matched",
-      "price_diff": 48500.0,
+      "price_diff": 60501.0,
       "cheaper": "competitor"
     },
     {
@@ -16182,12 +16196,12 @@
       "my_available": true,
       "my_url": "https://bismillahelectronics.pk/products/dawlance-ac-inverter-1-5-ton-dac-hyper-t3-white",
       "competitor_name": "Dawlance Split AC Inverter 1.5 Ton DAC-Suave + (White)",
-      "competitor_price": 127000.0,
+      "competitor_price": 114999.0,
       "competitor_available": false,
       "competitor_url": "https://japanelectronics.com.pk/products/dawlance-split-ac-inverter-1-5-ton-dac-suave-white",
       "match_confidence": 79.6,
       "status": "matched",
-      "price_diff": 48500.0,
+      "price_diff": 60501.0,
       "cheaper": "competitor"
     },
     {
@@ -16220,7 +16234,7 @@
     },
     {
       "product_name": "Haier AC Inverter 2.0 Ton HSU 24HFAB (White)",
-      "my_price": 206000.0,
+      "my_price": 200000.0,
       "my_available": true,
       "my_url": "https://bismillahelectronics.pk/products/haier-ac-inverter-2-0-ton-hsu-24hfab",
       "competitor_name": "Haier split AC Inverter 1.0 Ton HSU-13HFCA (White)",
@@ -16229,12 +16243,12 @@
       "competitor_url": "https://japanelectronics.com.pk/products/haier-split-ac-inverter-1-0-ton-hsu-13hfca-white",
       "match_confidence": 76.6,
       "status": "matched",
-      "price_diff": 94000.0,
+      "price_diff": 88000.0,
       "cheaper": "competitor"
     },
     {
       "product_name": "Haier AC Inverter 1.0 Ton HSU-14HFTEX OW T3",
-      "my_price": 135000.0,
+      "my_price": 125000.0,
       "my_available": true,
       "my_url": "https://bismillahelectronics.pk/products/haier-ac-inverter-1-ton-hsu-14hftex-dg-t3",
       "competitor_name": "Haier Split AC Inverter 1.0 Ton HSU-14HFTEX OW (T3)",
@@ -16243,8 +16257,8 @@
       "competitor_url": "https://japanelectronics.com.pk/products/haier-split-ac-inverter-1-0-ton-hsu-14hftex-ow-t3",
       "match_confidence": 87.2,
       "status": "matched",
-      "price_diff": 0.0,
-      "cheaper": "same"
+      "price_diff": -10000.0,
+      "cheaper": "us"
     },
     {
       "product_name": "Haier AC Inverter 1.0 Ton HSU-13HFP Pearl Pro",
@@ -17018,7 +17032,7 @@
     },
     {
       "product_name": "Haier AC Inverter 1.5 Ton HSU-20HFTEX OW T3",
-      "my_price": 172000.0,
+      "my_price": 159900.0,
       "my_available": true,
       "my_url": "https://bismillahelectronics.pk/products/haier-ac-1-5-ton-hsu-20hftex-ow-t3-inverter",
       "competitor_name": "Haier Split AC Inverter 1.5 Ton HSU-20HFTEX OW",
@@ -17027,8 +17041,8 @@
       "competitor_url": "https://japanelectronics.com.pk/products/haier-split-ac-inverter-1-5-ton-hsu-20hftex-ow",
       "match_confidence": 92.1,
       "status": "matched",
-      "price_diff": 0.0,
-      "cheaper": "same"
+      "price_diff": -12100.0,
+      "cheaper": "us"
     },
     {
       "product_name": "Haier Floor Standing AC 2.0 Ton HPU-24HE/WSDC Inverter",
@@ -17060,7 +17074,7 @@
     },
     {
       "product_name": "Haier AC Inverter 1.5 Ton HSU-19HFC Triple",
-      "my_price": 127000.0,
+      "my_price": 125000.0,
       "my_available": true,
       "my_url": "https://bismillahelectronics.pk/products/haier-ac-1-5-ton-hsu-19hfc-triple-inverter",
       "competitor_name": "Haier Split AC Inverter 1.5 Ton HSU-19HFCA",
@@ -17069,12 +17083,12 @@
       "competitor_url": "https://japanelectronics.com.pk/products/haier-split-ac-inverter-1-5-ton-hsu-19hfca",
       "match_confidence": 83.3,
       "status": "matched",
-      "price_diff": 0.0,
-      "cheaper": "same"
+      "price_diff": -2000.0,
+      "cheaper": "us"
     },
     {
       "product_name": "Haier AC Inverter 1.5 Ton HSU-19HFAB (White)",
-      "my_price": 154000.0,
+      "my_price": 144900.0,
       "my_available": true,
       "my_url": "https://bismillahelectronics.pk/products/haier-ac-1-5-ton-hsu-19hfab-t3-inverter",
       "competitor_name": "Haier AC Split Inverter 1.5 Ton HSU-19RFP (White)",
@@ -17083,7 +17097,7 @@
       "competitor_url": "https://japanelectronics.com.pk/products/haier-ac-split-inverter-1-5-ton-hsu-19rfp-white",
       "match_confidence": 88.2,
       "status": "matched",
-      "price_diff": 29000.0,
+      "price_diff": 19900.0,
       "cheaper": "competitor"
     },
     {
@@ -17144,7 +17158,7 @@
     },
     {
       "product_name": "Kenwood AC Inverter 1.5 Ton KES-1873s",
-      "my_price": 140000.0,
+      "my_price": 135600.0,
       "my_available": true,
       "my_url": "https://bismillahelectronics.pk/products/kenwood-ac-1-5-ton-kes-1873s-serene-inverter",
       "competitor_name": "Kenwood Split AC Inverter 1.5 Ton KES-1873s",
@@ -17153,12 +17167,12 @@
       "competitor_url": "https://japanelectronics.com.pk/products/kenwood-split-ac-inverter-1-5-ton-kes-1873s",
       "match_confidence": 92.5,
       "status": "matched",
-      "price_diff": 23100.0,
+      "price_diff": 18700.0,
       "cheaper": "competitor"
     },
     {
       "product_name": "Haier AC Inverter 1.0 Ton HSU-13HFAB T3 (Grey)",
-      "my_price": 128000.0,
+      "my_price": 118000.0,
       "my_available": true,
       "my_url": "https://bismillahelectronics.pk/products/haier-ac-hsu-13hfab-t3-inverter",
       "competitor_name": "Haier Split AC Inverter 1.0 Ton HSU-13HFAB (T3) Grey",
@@ -17167,8 +17181,8 @@
       "competitor_url": "https://japanelectronics.com.pk/products/haier-split-ac-inverter-1-0-ton-hsu-13hfab-t3-grey",
       "match_confidence": 81.6,
       "status": "matched",
-      "price_diff": 0.0,
-      "cheaper": "same"
+      "price_diff": -10000.0,
+      "cheaper": "us"
     },
     {
       "product_name": "Gree AC Inverter 1.0 Ton GS-12FITH6C AAA",
@@ -17186,7 +17200,7 @@
     },
     {
       "product_name": "Kenwood AC Inverter 1.5 Ton KEL-1870 Eluxury Pro T3",
-      "my_price": 175000.0,
+      "my_price": 165100.0,
       "my_available": true,
       "my_url": "https://bismillahelectronics.pk/products/kenwood-ac-1-0-ton-kel-1270s-eluxury-pro-t3",
       "competitor_name": "Kenwood Split AC Inverter 1.5 Ton KEL-1870 Eluxury Pro T3",
@@ -17195,7 +17209,7 @@
       "competitor_url": "https://japanelectronics.com.pk/products/kenwood-split-ac-inverter-1-5-ton-kel-1870-eluxury-pro-t3",
       "match_confidence": 94.4,
       "status": "matched",
-      "price_diff": 19100.0,
+      "price_diff": 9200.0,
       "cheaper": "competitor"
     },
     {
@@ -17256,7 +17270,7 @@
     },
     {
       "product_name": "Pel AC Inverter 1.0 Ton Inverter PINV-12K Jumbo",
-      "my_price": 138900.0,
+      "my_price": 134900.0,
       "my_available": true,
       "my_url": "https://bismillahelectronics.pk/products/pel-ac-pinv-12k-jumbo-dc-prime-t3",
       "competitor_name": "PEL Split AC Inverter 1.0 Ton PINV-12K Jumbo",
@@ -17265,7 +17279,7 @@
       "competitor_url": "https://japanelectronics.com.pk/products/pel-split-ac-inverter-1-0-ton-pinv-12k-jumbo",
       "match_confidence": 79.1,
       "status": "matched",
-      "price_diff": -1000.0,
+      "price_diff": -5000.0,
       "cheaper": "us"
     },
     {
@@ -17634,7 +17648,7 @@
     },
     {
       "product_name": "Kenwood Dry Iron DIM-40",
-      "my_price": 9500.0,
+      "my_price": 11500.0,
       "my_available": true,
       "my_url": "https://bismillahelectronics.pk/products/kenwood-dry-iron-dim-40",
       "competitor_name": null,
@@ -17743,20 +17757,6 @@
       "status": "only_us",
       "price_diff": null,
       "cheaper": null
-    },
-    {
-      "product_name": "Haier Double Washing Machine HTW80-186",
-      "my_price": 36000.0,
-      "my_available": true,
-      "my_url": "https://bismillahelectronics.pk/products/haier-double-washing-machine-htw80-186",
-      "competitor_name": "Haier Washing Machine HTW-110-186",
-      "competitor_price": 40600.0,
-      "competitor_available": false,
-      "competitor_url": "https://japanelectronics.com.pk/products/haier-washing-machine-htw-110-186",
-      "match_confidence": 84.5,
-      "status": "matched",
-      "price_diff": -4600.0,
-      "cheaper": "us"
     },
     {
       "product_name": "Boss Spinner Dryer KE-777-C",
@@ -17961,7 +17961,7 @@
       "my_url": "https://bismillahelectronics.pk/products/dawlance-dw-6580-w-fl-washing-machine",
       "competitor_name": "Dawlance Washing Machine DW-6550 W",
       "competitor_price": 34899.0,
-      "competitor_available": true,
+      "competitor_available": false,
       "competitor_url": "https://japanelectronics.com.pk/products/dawlance-washing-machine-dw-6550-w-1",
       "match_confidence": 84.6,
       "status": "matched",
@@ -18068,7 +18068,7 @@
     },
     {
       "product_name": "Haier Automatic Washing Machine HWM 120-826E",
-      "my_price": 73000.0,
+      "my_price": 77500.0,
       "my_available": true,
       "my_url": "https://bismillahelectronics.pk/products/haier-120-826e-auto-wash-hwm-120-826e",
       "competitor_name": "Haier Fully Automatic Washing Machine HWM 120-1789",
@@ -18077,7 +18077,7 @@
       "competitor_url": "https://japanelectronics.com.pk/products/haier-fully-automatic-washing-machine-hwm-120-1789",
       "match_confidence": 87.2,
       "status": "matched",
-      "price_diff": 3100.0,
+      "price_diff": 7600.0,
       "cheaper": "competitor"
     },
     {
@@ -18236,7 +18236,7 @@
     },
     {
       "product_name": "NasGas Kitchen Hood KHD-265",
-      "my_price": 30790.0,
+      "my_price": 30490.0,
       "my_available": true,
       "my_url": "https://bismillahelectronics.pk/products/nasgas-kitchen-hood-khd-265",
       "competitor_name": "Nasgas Kitchen Hood KHD-265",
@@ -18245,8 +18245,8 @@
       "competitor_url": "https://japanelectronics.com.pk/products/nasgas-kitchen-hood-khd-266",
       "match_confidence": 96.3,
       "status": "matched",
-      "price_diff": 300.0,
-      "cheaper": "competitor"
+      "price_diff": 0.0,
+      "cheaper": "same"
     },
     {
       "product_name": "NasGas Kitchen Hood KHD-250",
@@ -18502,7 +18502,7 @@
     },
     {
       "product_name": "Gree Electric Heater GEH-800G",
-      "my_price": 10500.0,
+      "my_price": 12500.0,
       "my_available": true,
       "my_url": "https://bismillahelectronics.pk/products/gree-electric-heater-geh-800b",
       "competitor_name": null,
@@ -18683,20 +18683,6 @@
       "cheaper": "same"
     },
     {
-      "product_name": "Haier Automatic Washing Machine HWM 150-1978",
-      "my_price": 165000.0,
-      "my_available": true,
-      "my_url": "https://bismillahelectronics.pk/products/haier-automatic-washing-machine-hwm-150-1978",
-      "competitor_name": "Haier Fully Automatic Washing Machine HWM 120-1789",
-      "competitor_price": 69900.0,
-      "competitor_available": false,
-      "competitor_url": "https://japanelectronics.com.pk/products/haier-fully-automatic-washing-machine-hwm-120-1789",
-      "match_confidence": 89.4,
-      "status": "matched",
-      "price_diff": 95100.0,
-      "cheaper": "competitor"
-    },
-    {
       "product_name": "Dawlance Automatic Washing Machine DWT 270 C LVS+",
       "my_price": 100050.0,
       "my_available": true,
@@ -18815,7 +18801,7 @@
       "my_url": "https://bismillahelectronics.pk/products/haier-deep-freezer-hdf-545-dd",
       "competitor_name": "Haier Deep Freezer HDF-545DD",
       "competitor_price": 125500.0,
-      "competitor_available": false,
+      "competitor_available": true,
       "competitor_url": "https://japanelectronics.com.pk/products/haier-deep-freezer-hdf-545dd",
       "match_confidence": 91.2,
       "status": "matched",
@@ -19249,7 +19235,7 @@
       "my_url": "https://bismillahelectronics.pk/products/haier-deep-freezer-hdf-535",
       "competitor_name": "Haier Deep Freezer HDF-545DD",
       "competitor_price": 125500.0,
-      "competitor_available": false,
+      "competitor_available": true,
       "competitor_url": "https://japanelectronics.com.pk/products/haier-deep-freezer-hdf-545dd",
       "match_confidence": 92.6,
       "status": "matched",
@@ -19277,7 +19263,7 @@
       "my_url": "https://bismillahelectronics.pk/products/pel-deep-freezer-pdf-155-apf",
       "competitor_name": "Haier Deep Freezer HDF-545DD",
       "competitor_price": 125500.0,
-      "competitor_available": false,
+      "competitor_available": true,
       "competitor_url": "https://japanelectronics.com.pk/products/haier-deep-freezer-hdf-545dd",
       "match_confidence": 71.4,
       "status": "matched",
@@ -19332,12 +19318,12 @@
       "my_available": true,
       "my_url": "https://bismillahelectronics.pk/products/dawlance-water-dispenser-wd-1060-silver",
       "competitor_name": "Dawlance Water Dispenser WD-1051 Beige",
-      "competitor_price": 44000.0,
+      "competitor_price": 42000.0,
       "competitor_available": false,
       "competitor_url": "https://japanelectronics.com.pk/products/dawlance-water-dispenser-wd-1051-beige",
       "match_confidence": 83.5,
       "status": "matched",
-      "price_diff": 3000.0,
+      "price_diff": 5000.0,
       "cheaper": "competitor"
     },
     {
@@ -19837,7 +19823,7 @@
       "my_url": "https://bismillahelectronics.pk/products/double-washing-machine-dawlance-dw-6550-w",
       "competitor_name": "Dawlance Washing Machine DW-6550 W",
       "competitor_price": 34899.0,
-      "competitor_available": true,
+      "competitor_available": false,
       "competitor_url": "https://japanelectronics.com.pk/products/dawlance-washing-machine-dw-6550-w-1",
       "match_confidence": 90.7,
       "status": "matched",
@@ -20140,7 +20126,7 @@
     },
     {
       "product_name": "Haier Automatic Washing Machine HWM 95-1678",
-      "my_price": 97000.0,
+      "my_price": 97900.0,
       "my_available": true,
       "my_url": "https://bismillahelectronics.pk/products/haier-automatic-washing-machine-hwm-95-1678",
       "competitor_name": "Haier Fully Automatic Washing Machine HWM 120-1789",
@@ -20149,7 +20135,7 @@
       "competitor_url": "https://japanelectronics.com.pk/products/haier-fully-automatic-washing-machine-hwm-120-1789",
       "match_confidence": 86.0,
       "status": "matched",
-      "price_diff": 27100.0,
+      "price_diff": 28000.0,
       "cheaper": "competitor"
     },
     {
@@ -20971,7 +20957,7 @@
       "my_url": null,
       "competitor_name": "ECOSTAR LED 58\" CX-58Q968 (Q-LED)",
       "competitor_price": 125900.0,
-      "competitor_available": true,
+      "competitor_available": false,
       "competitor_url": "https://japanelectronics.com.pk/products/ecostar-led-58-cx-58q968-q-led",
       "match_confidence": 0,
       "status": "only_competitor",
@@ -23547,7 +23533,7 @@
       "my_url": null,
       "competitor_name": "DAWLANCE KITCHEN HOB (DHM 590 SI)",
       "competitor_price": 75000.0,
-      "competitor_available": true,
+      "competitor_available": false,
       "competitor_url": "https://japanelectronics.com.pk/products/dawlance-kitchen-hob-dhm-590-si",
       "match_confidence": 0,
       "status": "only_competitor",
@@ -24387,7 +24373,7 @@
       "my_url": null,
       "competitor_name": "JBL CINEMA SOUND BAR BAR-800MK2",
       "competitor_price": 259000.0,
-      "competitor_available": false,
+      "competitor_available": true,
       "competitor_url": "https://japanelectronics.com.pk/products/jbl-cinema-sound-bar-bar-800mk2",
       "match_confidence": 0,
       "status": "only_competitor",
@@ -24554,7 +24540,7 @@
       "my_available": null,
       "my_url": null,
       "competitor_name": "Orient Split AC Inverter 1.5 Ton 19R Classic White NEO T3 (Ecotron)",
-      "competitor_price": 119000.0,
+      "competitor_price": 119900.0,
       "competitor_available": true,
       "competitor_url": "https://japanelectronics.com.pk/products/orient-split-ac-inverter-1-5-ton-19r-classic-white-neo-t3-ecotron",
       "match_confidence": 0,
@@ -25282,7 +25268,7 @@
       "my_available": null,
       "my_url": null,
       "competitor_name": "Dawlance Water Dispenser (DBD-1034) Glass Door",
-      "competitor_price": 46000.0,
+      "competitor_price": 45000.0,
       "competitor_available": true,
       "competitor_url": "https://japanelectronics.com.pk/products/dawlance-water-dispenser-dbd-1034-glass-door",
       "match_confidence": 0,
@@ -26010,7 +25996,7 @@
       "my_available": null,
       "my_url": null,
       "competitor_name": "Dawlance Water Dispenser (WD-1051 Red)",
-      "competitor_price": 44000.0,
+      "competitor_price": 42000.0,
       "competitor_available": true,
       "competitor_url": "https://japanelectronics.com.pk/products/dawlance-water-dispenser-wd-1051-red",
       "match_confidence": 0,
@@ -26024,7 +26010,7 @@
       "my_available": null,
       "my_url": null,
       "competitor_name": "Dawlance Water Dispenser (WD-1051 Maroon)",
-      "competitor_price": 44000.0,
+      "competitor_price": 42000.0,
       "competitor_available": false,
       "competitor_url": "https://japanelectronics.com.pk/products/dawlance-water-dispenser-wd-1051-maroon",
       "match_confidence": 0,
@@ -29175,7 +29161,7 @@
       "my_url": null,
       "competitor_name": "Haier D.Freezer (HDF-545 Inverter)",
       "competitor_price": 133500.0,
-      "competitor_available": false,
+      "competitor_available": true,
       "competitor_url": "https://japanelectronics.com.pk/products/haier-deep-freezer-hdf-545i-inverter",
       "match_confidence": 0,
       "status": "only_competitor",
@@ -34369,7 +34355,7 @@
       "my_url": null,
       "competitor_name": "Beetro Electric & Gas Geyser 15 Gallon (FEG-15 14/12 Gauge)",
       "competitor_price": 55000.0,
-      "competitor_available": true,
+      "competitor_available": false,
       "competitor_url": "https://japanelectronics.com.pk/products/beetro-electric-gas-geyser-15-gallon-feg-15-14-12-gauge",
       "match_confidence": 0,
       "status": "only_competitor",
@@ -36020,7 +36006,7 @@
       "my_available": null,
       "my_url": null,
       "competitor_name": "Dawlance TAWM (DWT-1006 Mystic Grey)",
-      "competitor_price": 80000.0,
+      "competitor_price": 69999.0,
       "competitor_available": true,
       "competitor_url": "https://japanelectronics.com.pk/products/dawlance-tawm-dwt-1006-mystic-grey",
       "match_confidence": 0,
@@ -37541,20 +37527,6 @@
       "cheaper": null
     },
     {
-      "product_name": "Gree Split AC Inverter 1.0 Ton GS-12PITH21B-T3",
-      "my_price": null,
-      "my_available": null,
-      "my_url": null,
-      "competitor_name": "Gree Split AC Inverter 1.0 Ton GS-12PITH21B-T3",
-      "competitor_price": 158900.0,
-      "competitor_available": true,
-      "competitor_url": "https://japanelectronics.com.pk/products/gree-split-ac-inverter-1-0-ton-gs-12pith21b-t3",
-      "match_confidence": 0,
-      "status": "only_competitor",
-      "price_diff": null,
-      "cheaper": null
-    },
-    {
       "product_name": "Dawlance FAWM (DWF-8201S)",
       "my_price": null,
       "my_available": null,
@@ -37827,7 +37799,7 @@
       "my_url": null,
       "competitor_name": "Dawlance REF 91999 Graze + Gem Black (GD INV)",
       "competitor_price": 125000.0,
-      "competitor_available": false,
+      "competitor_available": true,
       "competitor_url": "https://japanelectronics.com.pk/products/dawlance-ref-91999-graze-gem-black-gd-inv",
       "match_confidence": 0,
       "status": "only_competitor",
@@ -38319,20 +38291,6 @@
       "competitor_price": 99700.0,
       "competitor_available": false,
       "competitor_url": "https://japanelectronics.com.pk/products/homage-split-ac-inverter-1-0-ton-hcs-1221s",
-      "match_confidence": 0,
-      "status": "only_competitor",
-      "price_diff": null,
-      "cheaper": null
-    },
-    {
-      "product_name": "Haier Split AC Inverter 2.0 Ton HSU-24HFAB",
-      "my_price": null,
-      "my_available": null,
-      "my_url": null,
-      "competitor_name": "Haier Split AC Inverter 2.0 Ton HSU-24HFAB",
-      "competitor_price": 206000.0,
-      "competitor_available": true,
-      "competitor_url": "https://japanelectronics.com.pk/products/haier-split-ac-inverter-2-0-ton-hsu-24hfab",
       "match_confidence": 0,
       "status": "only_competitor",
       "price_diff": null,
@@ -39767,6 +39725,20 @@
       "cheaper": null
     },
     {
+      "product_name": "Gree Floor Standing AC Inverter 2.0 Ton GF-24TFIH AA+",
+      "my_price": null,
+      "my_available": null,
+      "my_url": null,
+      "competitor_name": "Gree Floor Standing AC Inverter 2.0 Ton GF-24TFIH AA+",
+      "competitor_price": 324000.0,
+      "competitor_available": false,
+      "competitor_url": "https://japanelectronics.com.pk/products/gree-floor-standing-ac-inverter-2-0-ton-gf-24tfih-aa",
+      "match_confidence": 0,
+      "status": "only_competitor",
+      "price_diff": null,
+      "cheaper": null
+    },
+    {
       "product_name": "Dawlance Split AC Inverter 1.5 Ton Econo+ X 30",
       "my_price": null,
       "my_available": null,
@@ -40013,6 +39985,20 @@
       "competitor_price": 62500.0,
       "competitor_available": true,
       "competitor_url": "https://japanelectronics.com.pk/products/nasgas-built-in-oven-ng-553",
+      "match_confidence": 0,
+      "status": "only_competitor",
+      "price_diff": null,
+      "cheaper": null
+    },
+    {
+      "product_name": "Haier Kitchen Hob HCC-832DGG",
+      "my_price": null,
+      "my_available": null,
+      "my_url": null,
+      "competitor_name": "Haier Kitchen Hob HCC-832DGG",
+      "competitor_price": 55000.0,
+      "competitor_available": true,
+      "competitor_url": "https://japanelectronics.com.pk/products/haier-kitchen-hob-hcc-832dgg",
       "match_confidence": 0,
       "status": "only_competitor",
       "price_diff": null,
@@ -40710,7 +40696,7 @@
       "my_available": null,
       "my_url": null,
       "competitor_name": "Dawlance Water Dispenser WD-1051 Silver",
-      "competitor_price": 44000.0,
+      "competitor_price": 42000.0,
       "competitor_available": false,
       "competitor_url": "https://japanelectronics.com.pk/products/dawlance-water-dispenser-wd-1051-silver",
       "match_confidence": 0,
@@ -41900,7 +41886,7 @@
       "my_available": null,
       "my_url": null,
       "competitor_name": "Dawlance Water Dispenser WD-1051 Champagne",
-      "competitor_price": 44000.0,
+      "competitor_price": 42000.0,
       "competitor_available": true,
       "competitor_url": "https://japanelectronics.com.pk/products/dawlance-water-dispenser-wd-1051-champagne",
       "match_confidence": 0,
@@ -41985,7 +41971,7 @@
       "my_url": null,
       "competitor_name": "Panasonic Steam Iron M-250T (Pink)",
       "competitor_price": 7900.0,
-      "competitor_available": true,
+      "competitor_available": false,
       "competitor_url": "https://japanelectronics.com.pk/products/panasonic-steam-iron-m-250t-pink",
       "match_confidence": 0,
       "status": "only_competitor",
@@ -42209,7 +42195,7 @@
       "my_url": null,
       "competitor_name": "LG Automatic Washing Machine F4V5RGP2T",
       "competitor_price": 252000.0,
-      "competitor_available": false,
+      "competitor_available": true,
       "competitor_url": "https://japanelectronics.com.pk/products/lg-a-w-m-f4v5rgp2t",
       "match_confidence": 0,
       "status": "only_competitor",

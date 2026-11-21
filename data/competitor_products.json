@@ -375,7 +375,7 @@
     "name": "ECOSTAR LED 58\" CX-58Q968 (Q-LED)",
     "price": 125900.0,
     "url": "https://japanelectronics.com.pk/products/ecostar-led-58-cx-58q968-q-led",
-    "available": true
+    "available": false
   },
   {
     "name": "ECOSTAR LED 43\" CX-43Q964 (4K Q-LED)",
@@ -1581,7 +1581,7 @@
     "name": "DAWLANCE KITCHEN HOB (DHM 590 SI)",
     "price": 75000.0,
     "url": "https://japanelectronics.com.pk/products/dawlance-kitchen-hob-dhm-590-si",
-    "available": true
+    "available": false
   },
   {
     "name": "CANON KITCHEN HOB (HB-915 G2)",
@@ -1953,7 +1953,7 @@
     "name": "JBL CINEMA SOUND BAR BAR-800MK2",
     "price": 259000.0,
     "url": "https://japanelectronics.com.pk/products/jbl-cinema-sound-bar-bar-800mk2",
-    "available": false
+    "available": true
   },
   {
     "name": "JBL SOUND BAR 2.1 DEEP BASS (MK2)",
@@ -2029,7 +2029,7 @@
   },
   {
     "name": "Orient Split AC Inverter 1.5 Ton 19R Classic White NEO T3 (Ecotron)",
-    "price": 119000.0,
+    "price": 119900.0,
     "url": "https://japanelectronics.com.pk/products/orient-split-ac-inverter-1-5-ton-19r-classic-white-neo-t3-ecotron",
     "available": true
   },
@@ -2395,7 +2395,7 @@
   },
   {
     "name": "Dawlance Water Dispenser (DBD-1034) Glass Door",
-    "price": 46000.0,
+    "price": 45000.0,
     "url": "https://japanelectronics.com.pk/products/dawlance-water-dispenser-dbd-1034-glass-door",
     "available": true
   },
@@ -2731,13 +2731,13 @@
   },
   {
     "name": "Dawlance Water Dispenser (WD-1051 Red)",
-    "price": 44000.0,
+    "price": 42000.0,
     "url": "https://japanelectronics.com.pk/products/dawlance-water-dispenser-wd-1051-red",
     "available": true
   },
   {
     "name": "Dawlance Water Dispenser (WD-1051 Maroon)",
-    "price": 44000.0,
+    "price": 42000.0,
     "url": "https://japanelectronics.com.pk/products/dawlance-water-dispenser-wd-1051-maroon",
     "available": false
   },
@@ -4335,7 +4335,7 @@
     "name": "Haier D.Freezer (HDF-545 Inverter)",
     "price": 133500.0,
     "url": "https://japanelectronics.com.pk/products/haier-deep-freezer-hdf-545i-inverter",
-    "available": false
+    "available": true
   },
   {
     "name": "Haier Deep Freezer HDF-285SD-01",
@@ -4429,7 +4429,7 @@
   },
   {
     "name": "Dawlance Vertical Freezer 1035WB GD Avante + Cloud White",
-    "price": 110000.0,
+    "price": 99999.0,
     "url": "https://japanelectronics.com.pk/products/dawlance-vertical-freezer-1035wb-gd-avante-cloud-white",
     "available": true
   },
@@ -5715,7 +5715,7 @@
     "name": "Haier Refrigerator HRF-346 IARA+ Smart Inverter (Red)",
     "price": 97000.0,
     "url": "https://japanelectronics.com.pk/products/haier-refrigerator-hrf-346-iara-smart-inverter-red",
-    "available": true
+    "available": false
   },
   {
     "name": "Beetro LED TV 43 Inch (TJ-43S7452) Android (Bezel Less)",
@@ -7617,7 +7617,7 @@
     "name": "Beetro Electric & Gas Geyser 15 Gallon (FEG-15 14/12 Gauge)",
     "price": 55000.0,
     "url": "https://japanelectronics.com.pk/products/beetro-electric-gas-geyser-15-gallon-feg-15-14-12-gauge",
-    "available": true
+    "available": false
   },
   {
     "name": "Beetro Electric & Gas Geyser 15 Gallon (FEG-15 9/10 Guage)",
@@ -7747,7 +7747,7 @@
   },
   {
     "name": "Dawlance No Frost Ref DMD-7950 Inox",
-    "price": 255000.0,
+    "price": 240000.0,
     "url": "https://japanelectronics.com.pk/products/dawlance-no-frost-ref-dmd-7950-inox",
     "available": true
   },
@@ -8569,7 +8569,7 @@
   },
   {
     "name": "Dawlance TAWM (DWT-1006 Mystic Grey)",
-    "price": 80000.0,
+    "price": 69999.0,
     "url": "https://japanelectronics.com.pk/products/dawlance-tawm-dwt-1006-mystic-grey",
     "available": true
   },
@@ -9003,7 +9003,7 @@
     "name": "Haier Microwave Oven (HMW-20MPB)",
     "price": 14000.0,
     "url": "https://japanelectronics.com.pk/products/haier-microwave-oven-hmw-20mpb",
-    "available": true
+    "available": false
   },
   {
     "name": "Haier Microwave Oven (HMW-20DSS)",
@@ -9609,7 +9609,7 @@
     "name": "Dawlance REF 91999 Graze + Gem Black (GD INV)",
     "price": 125000.0,
     "url": "https://japanelectronics.com.pk/products/dawlance-ref-91999-graze-gem-black-gd-inv",
-    "available": false
+    "available": true
   },
   {
     "name": "Dawlance REF 91999 Avante Diamond Red (GD)",
@@ -9967,7 +9967,7 @@
   },
   {
     "name": "Dawlance Split AC Inverter 1.5 Ton DAC-Suave + (White)",
-    "price": 127000.0,
+    "price": 114999.0,
     "url": "https://japanelectronics.com.pk/products/dawlance-split-ac-inverter-1-5-ton-dac-suave-white",
     "available": false
   },
@@ -10945,7 +10945,7 @@
   },
   {
     "name": "Dawlance No Frost Ref DMD-7950 GD",
-    "price": 280000.0,
+    "price": 265000.0,
     "url": "https://japanelectronics.com.pk/products/dawlance-no-frost-ref-dmd-7950-gd",
     "available": true
   },
@@ -11349,7 +11349,7 @@
     "name": "Super Asia Spinner SD-540 Crystal",
     "price": 25400.0,
     "url": "https://japanelectronics.com.pk/products/super-asia-spinner-sd-540-crystal",
-    "available": true
+    "available": false
   },
   {
     "name": "Super Asia Quick Spinner SD-540",
@@ -11563,7 +11563,7 @@
   },
   {
     "name": "Dawlance Water Dispenser WD-1051 Silver",
-    "price": 44000.0,
+    "price": 42000.0,
     "url": "https://japanelectronics.com.pk/products/dawlance-water-dispenser-wd-1051-silver",
     "available": false
   },
@@ -11599,7 +11599,7 @@
   },
   {
     "name": "Dawlance Water Dispenser WD-1051 Beige",
-    "price": 44000.0,
+    "price": 42000.0,
     "url": "https://japanelectronics.com.pk/products/dawlance-water-dispenser-wd-1051-beige",
     "available": false
   },
@@ -12265,7 +12265,7 @@
   },
   {
     "name": "Dawlance Water Dispenser WD-1051 Champagne",
-    "price": 44000.0,
+    "price": 42000.0,
     "url": "https://japanelectronics.com.pk/products/dawlance-water-dispenser-wd-1051-champagne",
     "available": true
   },
@@ -12303,7 +12303,7 @@
     "name": "Panasonic Steam Iron M-250T (Pink)",
     "price": 7900.0,
     "url": "https://japanelectronics.com.pk/products/panasonic-steam-iron-m-250t-pink",
-    "available": true
+    "available": false
   },
   {
     "name": "WestPoint Hot Plate WF-281",
@@ -12441,7 +12441,7 @@
     "name": "LG Automatic Washing Machine F4V5RGP2T",
     "price": 252000.0,
     "url": "https://japanelectronics.com.pk/products/lg-a-w-m-f4v5rgp2t",
-    "available": false
+    "available": true
   },
   {
     "name": "LG Automatic Washing Machine F0L9DGP2S",
@@ -12525,7 +12525,7 @@
     "name": "Dawlance Washing Machine DW-6550 W",
     "price": 34899.0,
     "url": "https://japanelectronics.com.pk/products/dawlance-washing-machine-dw-6550-w-1",
-    "available": true
+    "available": false
   },
   {
     "name": "Dawlance LED TV 50 Inch G3A Pro",
@@ -12591,7 +12591,7 @@
     "name": "Haier Deep Freezer HDF-545DD",
     "price": 125500.0,
     "url": "https://japanelectronics.com.pk/products/haier-deep-freezer-hdf-545dd",
-    "available": false
+    "available": true
   },
   {
     "name": "Haier AC Split Inverter 1.5 Ton HSU-18HFMCE (White)",

@@ -1,9 +1,9 @@
 {
-  "last_updated": "2026-11-22T09:06:16.004196+00:00",
+  "last_updated": "2026-11-22T17:30:41.402989+00:00",
   "my_store_name": "Bismillah Electronics",
   "competitor_name": "Japan Electronics",
   "total_my_products": 1437,
-  "total_competitor_products": 2160,
+  "total_competitor_products": 2159,
   "matched_count": 999,
   "results": [
     {
@@ -41525,20 +41525,6 @@
       "competitor_price": 50000.0,
       "competitor_available": true,
       "competitor_url": "https://japanelectronics.com.pk/products/beetro-hot-plate-mas-302-2-brn-glass",
-      "match_confidence": 0,
-      "status": "only_competitor",
-      "price_diff": null,
-      "cheaper": null
-    },
-    {
-      "product_name": "Beetro Juicer Blender Grinder JB-176 (O)",
-      "my_price": null,
-      "my_available": null,
-      "my_url": null,
-      "competitor_name": "Beetro Juicer Blender Grinder JB-176 (O)",
-      "competitor_price": 10500.0,
-      "competitor_available": true,
-      "competitor_url": "https://japanelectronics.com.pk/products/beetro-juicer-blender-grinder-jb-176-o",
       "match_confidence": 0,
       "status": "only_competitor",
       "price_diff": null,

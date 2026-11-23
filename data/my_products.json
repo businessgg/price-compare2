@@ -1,5 +1,17 @@
 [
   {
+    "name": "Gaba National Baby Washer GNW-93020 Glass",
+    "price": 17000.0,
+    "url": "https://bismillahelectronics.pk/products/gaba-national-gne-baby-washer-gnw-93020",
+    "available": true
+  },
+  {
+    "name": "Ecostar Single Washing Machine EW-S1001GW",
+    "price": 26500.0,
+    "url": "https://bismillahelectronics.pk/products/ecostar-single-washing-machine-ew-s1001gw",
+    "available": true
+  },
+  {
     "name": "Haier Kitchen Hood HCH-T3903",
     "price": 76000.0,
     "url": "https://bismillahelectronics.pk/products/haier-kitchen-hood-hch-t3903",
@@ -97,7 +109,7 @@
   },
   {
     "name": "Tcl LED 65\" 65P8L",
-    "price": 246000.0,
+    "price": 269900.0,
     "url": "https://bismillahelectronics.pk/products/tcl-led-65-65p8l",
     "available": true
   },
@@ -109,7 +121,7 @@
   },
   {
     "name": "Tcl LED 85\" 85C6K",
-    "price": 647500.0,
+    "price": 708900.0,
     "url": "https://bismillahelectronics.pk/products/tcl-led-85-85c6k",
     "available": true
   },
@@ -1399,13 +1411,13 @@
   },
   {
     "name": "Skywood Electric Kettle SK-730 BK",
-    "price": 3400.0,
+    "price": 4400.0,
     "url": "https://bismillahelectronics.pk/products/skywood-electric-kettle-sk-730-bk",
     "available": true
   },
   {
     "name": "Skywood Electric Kettle SK-719 DK",
-    "price": 2800.0,
+    "price": 3800.0,
     "url": "https://bismillahelectronics.pk/products/skywood-electric-kettle-sk-719-dk",
     "available": true
   },
@@ -1417,13 +1429,13 @@
   },
   {
     "name": "Skywood Electric Kettle 611/612/614/615/616",
-    "price": 2400.0,
+    "price": 3400.0,
     "url": "https://bismillahelectronics.pk/products/skywood-electric-kettle-611-612-614-615-616",
     "available": true
   },
   {
     "name": "Westpoint Electric Heater WF 4307",
-    "price": 10500.0,
+    "price": 12500.0,
     "url": "https://bismillahelectronics.pk/products/westpoint-electric-heater-wf-4307",
     "available": true
   },
@@ -1717,25 +1729,25 @@
   },
   {
     "name": "Super Asia Auto Wash SA-814 WHITE",
-    "price": 93500.0,
+    "price": 88500.0,
     "url": "https://bismillahelectronics.pk/products/super-asia-auto-wash-sa-814-white",
     "available": true
   },
   {
     "name": "Super Asia Auto Wash SA-814 INVERTER GRAPHITE",
-    "price": 103500.0,
+    "price": 96500.0,
     "url": "https://bismillahelectronics.pk/products/super-asia-auto-wash-sa-814-inverter-graphite",
     "available": true
   },
   {
     "name": "Super Asia Auto Wash SA-812 INVERTER GRAPHITE",
-    "price": 98500.0,
+    "price": 91500.0,
     "url": "https://bismillahelectronics.pk/products/super-asia-auto-wash-sa-812-inverter-graphite",
     "available": true
   },
   {
     "name": "Super Asia Auto Wash SA-812 BLACK",
-    "price": 92500.0,
+    "price": 87500.0,
     "url": "https://bismillahelectronics.pk/products/super-asia-auto-wash-sa-812-black",
     "available": true
   },
@@ -2491,7 +2503,7 @@
   },
   {
     "name": "TCL LED TV 75 Inch 75C6KS (Mini Q LED)",
-    "price": 392500.0,
+    "price": 492900.0,
     "url": "https://bismillahelectronics.pk/products/tcl-led-tv-75-inch-75c6ks-mini-q-led",
     "available": true
   },
@@ -2520,12 +2532,6 @@
     "available": true
   },
   {
-    "name": "Dawlance Refrigerator 9178 LF Avante + Silver (GD INV)",
-    "price": 109000.0,
-    "url": "https://bismillahelectronics.pk/products/dawlance-refrigerator-9178-lf-avante-silver-gd-inv",
-    "available": true
-  },
-  {
     "name": "Dawlance Refrigerator 9191 WB Avante + Platinium Silver (GD INV)",
     "price": 114000.0,
     "url": "https://bismillahelectronics.pk/products/dawlance-refrigerator-9191-wb-avante-platinium-silver-gd-inv",
@@ -2547,12 +2553,6 @@
     "name": "Haier Refrigerator HRF-438 IDRA+ (Red)",
     "price": 114000.0,
     "url": "https://bismillahelectronics.pk/products/haier-refrigerator-hrf-438-idra-red",
-    "available": true
-  },
-  {
-    "name": "Haier Refrigerator E-Star HRF-438 EPC",
-    "price": 100000.0,
-    "url": "https://bismillahelectronics.pk/products/haier-refrigerator-e-star-hrf-438-epc",
     "available": true
   },
   {
@@ -2953,7 +2953,7 @@
   },
   {
     "name": "Dawlance Dishwasher DDW-1470",
-    "price": 200500.0,
+    "price": 190000.0,
     "url": "https://bismillahelectronics.pk/products/dawlance-dishwasher-ddw-1470",
     "available": true
   },
@@ -3259,19 +3259,19 @@
   },
   {
     "name": "Westpoint Hair Dryer WF-6260",
-    "price": 5000.0,
+    "price": 6000.0,
     "url": "https://bismillahelectronics.pk/products/westpoint-hair-dryer-wf-6260",
     "available": true
   },
   {
     "name": "Westpoint Hair Dryer WF-6201",
-    "price": 4000.0,
+    "price": 5500.0,
     "url": "https://bismillahelectronics.pk/products/westpoint-hair-dryer-wf-6201",
     "available": true
   },
   {
     "name": "Westpoint Hair Dryer WF-6217",
-    "price": 4000.0,
+    "price": 5500.0,
     "url": "https://bismillahelectronics.pk/products/westpoint-hair-dryer-wf-6217",
     "available": true
   },
@@ -3889,7 +3889,7 @@
   },
   {
     "name": "Super Asia Double Washing Machine SA-270 Crystal",
-    "price": 28800.0,
+    "price": 24300.0,
     "url": "https://bismillahelectronics.pk/products/super-asia-double-washing-machine-sa-270-crystal",
     "available": true
   },
@@ -4075,7 +4075,7 @@
   },
   {
     "name": "Super Asia Automatic Washing Machine SA-809P (Black)",
-    "price": 64500.0,
+    "price": 60500.0,
     "url": "https://bismillahelectronics.pk/products/super-asia-automatic-washing-machine-sa-809p-black",
     "available": true
   },
@@ -5437,7 +5437,7 @@
   },
   {
     "name": "Westpoint Air Fryer WF-5255",
-    "price": 24900.0,
+    "price": 25900.0,
     "url": "https://bismillahelectronics.pk/products/westpoint-air-fryer-wf-5255",
     "available": true
   },
@@ -5461,13 +5461,13 @@
   },
   {
     "name": "Westpoint Air Fryer WF-5256",
-    "price": 19800.0,
+    "price": 20800.0,
     "url": "https://bismillahelectronics.pk/products/westpoint-air-fryer-wf-5256",
     "available": true
   },
   {
     "name": "Westpoint Air Fryer WF-4257",
-    "price": 33500.0,
+    "price": 35500.0,
     "url": "https://bismillahelectronics.pk/products/westpoint-air-fryer-wf-4257",
     "available": true
   },
@@ -5803,7 +5803,7 @@
   },
   {
     "name": "Dawlance No Frost Refrigerator DTM-7650 (INOX Inverter)",
-    "price": 194000.0,
+    "price": 185000.0,
     "url": "https://bismillahelectronics.pk/products/dawlance-no-frost-refrigerator-dtm-7650-inox-inverter",
     "available": true
   },
@@ -6109,7 +6109,7 @@
   },
   {
     "name": "TCL LED TV 65 Inch 65P8K (Q LED)",
-    "price": 246000.0,
+    "price": 269900.0,
     "url": "https://bismillahelectronics.pk/products/tcl-led-tv-65-inch-65p8k-q-led",
     "available": true
   },
@@ -6319,43 +6319,43 @@
   },
   {
     "name": "Super Asia Automatic Washing Machine SA-812 i Auto Inverter (White)",
-    "price": 88500.0,
+    "price": 83500.0,
     "url": "https://bismillahelectronics.pk/products/super-asia-automatic-washing-machine-sa-812-i-auto-inverter-white",
     "available": true
   },
   {
     "name": "Super Asia Automatic Washing Machine SA-812 i Auto Inverter (Graphite)",
-    "price": 98500.0,
+    "price": 91500.0,
     "url": "https://bismillahelectronics.pk/products/super-asia-automatic-washing-machine-sa-812-i-auto-inverter-graphite",
     "available": true
   },
   {
     "name": "Super Asia Automatic Washing Machine SA-812 i Auto Inverter (Black)",
-    "price": 102500.0,
+    "price": 94500.0,
     "url": "https://bismillahelectronics.pk/products/super-asia-automatic-washing-machine-sa-812-i-auto-inverter-black",
     "available": true
   },
   {
     "name": "Super Asia Automatic Washing Machine SA-809 G (White)",
-    "price": 63500.0,
+    "price": 60000.0,
     "url": "https://bismillahelectronics.pk/products/super-asia-automatic-washing-machine-sa-809-g-white",
     "available": true
   },
   {
     "name": "Super Asia Automatic Washing Machine SA-809P (White)",
-    "price": 61500.0,
+    "price": 50900.0,
     "url": "https://bismillahelectronics.pk/products/super-asia-automatic-washing-machine-sa-809p-white",
     "available": true
   },
   {
     "name": "Super Asia Automatic Washing Machine SA-809G",
-    "price": 63500.0,
+    "price": 60000.0,
     "url": "https://bismillahelectronics.pk/products/super-asia-automatic-washing-machine-sa-809g",
     "available": true
   },
   {
     "name": "Super Asia Automatic Washing Machine SA-809G (Black)",
-    "price": 66500.0,
+    "price": 62500.0,
     "url": "https://bismillahelectronics.pk/products/super-asia-automatic-washing-machine-sa-809g-black",
     "available": true
   },
@@ -6697,7 +6697,7 @@
   },
   {
     "name": "Electrolux Water Dispenser ELWD-3T-GD (Marine Impression)",
-    "price": 39900.0,
+    "price": 49900.0,
     "url": "https://bismillahelectronics.pk/products/electrolux-water-dispenser-elwd-3t-gd-marine-impression",
     "available": true
   },
@@ -6895,7 +6895,7 @@
   },
   {
     "name": "Electrolux AC Inverter 1.5 Ton ELSAC-18K LUX (White)",
-    "price": 174900.0,
+    "price": 189900.0,
     "url": "https://bismillahelectronics.pk/products/electrolux-ac-inverter-1-5-ton-elsac-18k-lux-white-t3",
     "available": true
   },
@@ -7440,12 +7440,6 @@
     "available": true
   },
   {
-    "name": "Super Asia Spinner Dryer SD-518",
-    "price": 19900.0,
-    "url": "https://bismillahelectronics.pk/products/super-asia-spinner-sd-518",
-    "available": true
-  },
-  {
     "name": "Boss Spinner Dryer KE-400+BS",
     "price": 18500.0,
     "url": "https://bismillahelectronics.pk/products/boss-spinner-dryer-ke-400-bs",
@@ -7483,7 +7477,7 @@
   },
   {
     "name": "Westpoint Steam Iron WF 2063",
-    "price": 7500.0,
+    "price": 8500.0,
     "url": "https://bismillahelectronics.pk/products/westpoint-steam-iron-wf-2063",
     "available": true
   },
@@ -7543,7 +7537,7 @@
   },
   {
     "name": "Skywood Dry Iron SK 16 (Light Weight)",
-    "price": 3900.0,
+    "price": 4900.0,
     "url": "https://bismillahelectronics.pk/products/skyiwood-iron-sk-16-s",
     "available": true
   },
@@ -7561,7 +7555,7 @@
   },
   {
     "name": "Westpoint Dry iron WF-80B",
-    "price": 8800.0,
+    "price": 6800.0,
     "url": "https://bismillahelectronics.pk/products/westpoint-dry-iron-wf-80b",
     "available": true
   },
@@ -7723,7 +7717,7 @@
   },
   {
     "name": "Super Asia Automatic Washing Machine SA-812G (White)",
-    "price": 88500.0,
+    "price": 83500.0,
     "url": "https://bismillahelectronics.pk/products/super-asia-automatic-washing-machine-sa-812g-white",
     "available": true
   },
@@ -7903,7 +7897,7 @@
   },
   {
     "name": "Westpoint Sandwich Maker WF-694",
-    "price": 5300.0,
+    "price": 6300.0,
     "url": "https://bismillahelectronics.pk/products/westpoint-sandwich-toaster-wf-694",
     "available": true
   },
@@ -8053,7 +8047,7 @@
   },
   {
     "name": "Dawlance Deep Freezer CF-91997 Signature Inverter",
-    "price": 105400.0,
+    "price": 106000.0,
     "url": "https://bismillahelectronics.pk/products/dawlance-deep-freezer-cf-91997-signature-inverter",
     "available": true
   },
@@ -8403,12 +8397,6 @@
     "name": "Dawlance Deep Freezer 91997 Signature",
     "price": 105400.0,
     "url": "https://bismillahelectronics.pk/products/deep-freezer-dawlance-91997-signature-lvs",
-    "available": true
-  },
-  {
-    "name": "Dawlance Vertical Freezer VF-1035 GD (Emerald Green)",
-    "price": 105300.0,
-    "url": "https://bismillahelectronics.pk/products/deep-freezer-dawlance-vf-1035-gd-inv",
     "available": true
   },
   {

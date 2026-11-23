@@ -91,19 +91,19 @@
   },
   {
     "name": "Beetro Fast Electric Geyser (WFE-80 Ltr) Solar Compatible",
-    "price": 53000.0,
+    "price": 54500.0,
     "url": "https://japanelectronics.com.pk/products/beetro-fast-electric-geyser-wfe-80-ltr-solar-compatible",
     "available": true
   },
   {
     "name": "Beetro Fast Electric Geyser (WFE-100 Ltr) Solar Compatible",
-    "price": 57000.0,
+    "price": 58500.0,
     "url": "https://japanelectronics.com.pk/products/beetro-fast-electric-geyser-wfe-100-ltr-solar-compatible",
     "available": true
   },
   {
     "name": "Beetro Fast Electric Geyser FFE-30 (30 Ltr) Solar Compatible",
-    "price": 43000.0,
+    "price": 44500.0,
     "url": "https://japanelectronics.com.pk/products/beetro-fast-electric-geyser-ffe-30-30-ltr-solar-compatible",
     "available": true
   },
@@ -115,9 +115,9 @@
   },
   {
     "name": "ANEX ESPRESSO COFFEE MAKER (AG-825)",
-    "price": 22900.0,
+    "price": 26300.0,
     "url": "https://japanelectronics.com.pk/products/anex-espresso-coffee-maker-ag-825",
-    "available": false
+    "available": true
   },
   {
     "name": "ANEX HAND BLENDER (AG-144)",
@@ -147,7 +147,7 @@
     "name": "Enviro Microwave Oven (ENR-25XDG5 25 Ltr)",
     "price": 28500.0,
     "url": "https://japanelectronics.com.pk/products/enviro-microwave-oven-enr-25xdg5-25-ltr",
-    "available": true
+    "available": false
   },
   {
     "name": "TCL Party Speaker (TP200K)",
@@ -939,7 +939,7 @@
     "name": "PEL REF (PRGD-2350 MAROON BLAZE)",
     "price": 83900.0,
     "url": "https://japanelectronics.com.pk/products/pel-ref-prgd-2350-maroon-blaze",
-    "available": true
+    "available": false
   },
   {
     "name": "PEL REF (PRGD-2550 MAROON BLAZE)",
@@ -1971,7 +1971,7 @@
     "name": "HISENSE LED 85\" 85Q6N (Q LED)",
     "price": 399900.0,
     "url": "https://japanelectronics.com.pk/products/hisense-led-85-85q6n-q-led",
-    "available": false
+    "available": true
   },
   {
     "name": "Haier LED 65\" 65S80GUX (Q LED)",
@@ -2553,7 +2553,7 @@
     "name": "Beetro Kitchen Chef (BJ-301)",
     "price": 22500.0,
     "url": "https://japanelectronics.com.pk/products/beetro-kitchen-chef-bj-301",
-    "available": true
+    "available": false
   },
   {
     "name": "Beetro Blender & Grinder (BB-18)",
@@ -2743,13 +2743,13 @@
   },
   {
     "name": "Xiaomi LED 43\" 43A PRO 2026 (Q LED)",
-    "price": 92900.0,
+    "price": 85000.0,
     "url": "https://japanelectronics.com.pk/products/xiaomi-led-43-43a-pro-2026-q-led",
     "available": true
   },
   {
     "name": "Xiaomi LED 43\" 43A 2026 (FHD Android)",
-    "price": 75900.0,
+    "price": 72900.0,
     "url": "https://japanelectronics.com.pk/products/xiaomi-led-43-43a-2026-fhd-android",
     "available": true
   },
@@ -3351,7 +3351,7 @@
     "name": "TCL LED 98\" 98P8L (MINI Q LED)",
     "price": 840000.0,
     "url": "https://japanelectronics.com.pk/products/tcl-led-98-98p8l-mini-q-led",
-    "available": true
+    "available": false
   },
   {
     "name": "TCL LED 85\" 85P8L (MINI Q LED)",
@@ -3751,31 +3751,31 @@
   },
   {
     "name": "Beetro Gas Geyser 55 Gallon (FG-55 16/12 Gauge) Auto Ignition",
-    "price": 77400.0,
+    "price": 78900.0,
     "url": "https://japanelectronics.com.pk/products/beetro-gas-geyser-55-gallon-fg-55-16-12-gauge-auto-ignition",
     "available": false
   },
   {
     "name": "Beetro Fast Electric Geyser FFE-40 (40 Ltr)",
-    "price": 29000.0,
+    "price": 30500.0,
     "url": "https://japanelectronics.com.pk/products/beetro-fast-electric-geyser-ffe-40-40-ltr",
     "available": false
   },
   {
     "name": "Beetro Gas Geyser 15 Gallon (FG-15 14/12 Gauge) Auto Ignition",
-    "price": 47100.0,
+    "price": 48600.0,
     "url": "https://japanelectronics.com.pk/products/beetro-gas-geyser-15-gallon-fg-15-14-12-gauge-auto-ignition",
     "available": false
   },
   {
     "name": "Beetro Gas Geyser 25 Gallon (FG-25 14/12 Gauge) Auto Ignition",
-    "price": 52400.0,
+    "price": 53900.0,
     "url": "https://japanelectronics.com.pk/products/beetro-gas-geyser-25-gallon-fg-25-14-12-gauge-auto-ignition",
     "available": false
   },
   {
     "name": "Beetro Gas Geyser 25 Gallon (FG-25 16/12 Gauge) Auto Ignition",
-    "price": 50700.0,
+    "price": 52200.0,
     "url": "https://japanelectronics.com.pk/products/beetro-gas-geyser-25-gallon-fg-25-16-12-gauge-auto-ignition",
     "available": false
   },
@@ -5095,7 +5095,7 @@
   },
   {
     "name": "Xiaomi LED 65\" 65A PRO 2026",
-    "price": 189900.0,
+    "price": 186900.0,
     "url": "https://japanelectronics.com.pk/products/xiaomi-led-65-65a-pro-2026-q-led",
     "available": true
   },
@@ -5211,7 +5211,7 @@
     "name": "Dawlance LED 55\" Prismax Google TV (Q LED)",
     "price": 104900.0,
     "url": "https://japanelectronics.com.pk/products/dawlance-led-55-prismax-google-tv-q-led",
-    "available": false
+    "available": true
   },
   {
     "name": "Dawlance LED 50\" Prismax Google TV (Q LED)",
@@ -6703,7 +6703,7 @@
   },
   {
     "name": "Xiaomi LED 32\" 32A 2026",
-    "price": 48900.0,
+    "price": 46900.0,
     "url": "https://japanelectronics.com.pk/products/xiaomi-led-32-32a-2026",
     "available": true
   },
@@ -7147,9 +7147,9 @@
   },
   {
     "name": "ANEX Roti Maker 2029",
-    "price": 13900.0,
+    "price": 15500.0,
     "url": "https://japanelectronics.com.pk/products/anex-roti-maker-2029",
-    "available": false
+    "available": true
   },
   {
     "name": "ANEX Rice Cooker (AG-2023)",
@@ -7183,7 +7183,7 @@
   },
   {
     "name": "ANEX Kitchen Robot (AG-3159)",
-    "price": 36500.0,
+    "price": 41000.0,
     "url": "https://japanelectronics.com.pk/products/anex-kitchen-robot-ag-3159",
     "available": true
   },
@@ -7215,7 +7215,7 @@
     "name": "ANEX Juicer Blender Grinder 190",
     "price": 15800.0,
     "url": "https://japanelectronics.com.pk/products/anex-juicer-blender-grinder-190",
-    "available": false
+    "available": true
   },
   {
     "name": "ANEX Juicer (AG-92)",
@@ -7615,49 +7615,49 @@
   },
   {
     "name": "Beetro Electric & Gas Geyser 15 Gallon (FEG-15 14/12 Gauge)",
-    "price": 55000.0,
+    "price": 57000.0,
     "url": "https://japanelectronics.com.pk/products/beetro-electric-gas-geyser-15-gallon-feg-15-14-12-gauge",
     "available": false
   },
   {
     "name": "Beetro Electric & Gas Geyser 15 Gallon (FEG-15 9/10 Guage)",
-    "price": 61000.0,
+    "price": 63000.0,
     "url": "https://japanelectronics.com.pk/products/beetro-electric-gas-geyser-15-gallon-feg-15-9-10-guage",
     "available": true
   },
   {
     "name": "Beetro Electric & Gas Geyser 25 Gallon (FEG-25 14/12 Gauges)",
-    "price": 60000.0,
+    "price": 62000.0,
     "url": "https://japanelectronics.com.pk/products/beetro-electric-gas-geyser-25-gallon-feg-25-14-12-gauges",
     "available": true
   },
   {
     "name": "Beetro Electric & Gas Geyser 25 Gallon (FEG-25 16/12 Gauge)",
-    "price": 59000.0,
+    "price": 61000.0,
     "url": "https://japanelectronics.com.pk/products/beetro-electric-gas-geyser-25-gallon-feg-25-16-12-gauge",
     "available": true
   },
   {
     "name": "Beetro Electric & Gas Geyser 35 Gallon (FEG-35 14/12 Gauge)",
-    "price": 71000.0,
+    "price": 74000.0,
     "url": "https://japanelectronics.com.pk/products/beetro-electric-gas-geyser-35-gallon-feg-35-14-12-gauge",
     "available": true
   },
   {
     "name": "Beetro Electric & Gas Geyser 35 Gallon (FEG-35 16/12 Gauge)",
-    "price": 67000.0,
+    "price": 69000.0,
     "url": "https://japanelectronics.com.pk/products/beetro-electric-gas-geyser-35-gallon-feg-35-16-12-gauge",
     "available": false
   },
   {
     "name": "Beetro Electric & Gas Geyser 35 Gallon (FEG-35 9/10 Gauge)",
-    "price": 83000.0,
+    "price": 85000.0,
     "url": "https://japanelectronics.com.pk/products/beetro-electric-gas-geyser-35-gallon-feg-35-9-10-gauge",
     "available": true
   },
   {
     "name": "Beetro Electric & Gas Geyser 55 Gallon (FEG-55 16/12 Gauge)",
-    "price": 81000.0,
+    "price": 83000.0,
     "url": "https://japanelectronics.com.pk/products/beetro-electric-gas-geyser-55-gallon-feg-55-16-12-gauge",
     "available": true
   },
@@ -9213,7 +9213,7 @@
     "name": "ANEX Oven Toaster (AG-3080 Digital)",
     "price": 37999.0,
     "url": "https://japanelectronics.com.pk/products/anex-oven-toaster-ag-3080-digital",
-    "available": false
+    "available": true
   },
   {
     "name": "ANEX Oven Toaster (AG-3070)",
@@ -9247,9 +9247,9 @@
   },
   {
     "name": "ANEX 2 Slice Toaster (AG-3008)",
-    "price": 9000.0,
+    "price": 8900.0,
     "url": "https://japanelectronics.com.pk/products/anex-2-slice-toaster-ag-3008",
-    "available": false
+    "available": true
   },
   {
     "name": "Orient Water Dispenser (Velvet 3 Silk Black)",
@@ -9277,13 +9277,13 @@
   },
   {
     "name": "Midas Water Dispenser (MI-1090 Silver)",
-    "price": 37900.0,
+    "price": 38900.0,
     "url": "https://japanelectronics.com.pk/products/midas-water-dispenser-mi-1090-silver",
     "available": true
   },
   {
     "name": "Midas Water Dispenser (MI-1090 Black)",
-    "price": 37900.0,
+    "price": 38900.0,
     "url": "https://japanelectronics.com.pk/products/midas-water-dispenser-mi-1090-black",
     "available": true
   },
@@ -9609,7 +9609,7 @@
     "name": "Dawlance REF 91999 Graze + Gem Black (GD INV)",
     "price": 125000.0,
     "url": "https://japanelectronics.com.pk/products/dawlance-ref-91999-graze-gem-black-gd-inv",
-    "available": true
+    "available": false
   },
   {
     "name": "Dawlance REF 91999 Avante Diamond Red (GD)",
@@ -9951,7 +9951,7 @@
     "name": "Electrolux SBS Ref 581BG (Black)",
     "price": 284999.0,
     "url": "https://japanelectronics.com.pk/products/electrolux-sbs-ref-581bg-black",
-    "available": true
+    "available": false
   },
   {
     "name": "Haier Split AC Inverter 2.0 Ton HSU-24HFAB (T3) Grey",
@@ -11157,7 +11157,7 @@
     "name": "Panasonic Hand Mixer MK-GH3 WTZ",
     "price": 13900.0,
     "url": "https://japanelectronics.com.pk/products/panasonic-hand-mixer-mk-gh3-wtz",
-    "available": true
+    "available": false
   },
   {
     "name": "Panasonic Juicer MJ-CB100 W",
@@ -11349,7 +11349,7 @@
     "name": "Super Asia Spinner SD-540 Crystal",
     "price": 25400.0,
     "url": "https://japanelectronics.com.pk/products/super-asia-spinner-sd-540-crystal",
-    "available": false
+    "available": true
   },
   {
     "name": "Super Asia Quick Spinner SD-540",
@@ -11455,7 +11455,7 @@
   },
   {
     "name": "Royal Dryer RD-110 (Plastic)",
-    "price": 25500.0,
+    "price": 24500.0,
     "url": "https://japanelectronics.com.pk/products/royal-dryer-rd-110-plastic",
     "available": true
   },
@@ -11827,7 +11827,7 @@
   },
   {
     "name": "Beetro Gas Geyser 35 Gallon (FG-35 16/12 Gauge) Auto Ignition",
-    "price": 61400.0,
+    "price": 62900.0,
     "url": "https://japanelectronics.com.pk/products/beetro-gas-geyser-35-gallon-fg-35-16-12-gauge-auto-ignition",
     "available": false
   },
@@ -11839,13 +11839,13 @@
   },
   {
     "name": "Beetro Gas Geyser 25 Gallon (FG-25 9/10 Gauge) Auto Ignition",
-    "price": 58900.0,
+    "price": 60400.0,
     "url": "https://japanelectronics.com.pk/products/beetro-gas-geyser-25-gallon-fg-25-9-10-gauge-auto-ignition",
     "available": true
   },
   {
     "name": "Beetro Electric & Gas Geyser 55 Gallon (FEG-55 9/10 Gauge)",
-    "price": 96000.0,
+    "price": 99000.0,
     "url": "https://japanelectronics.com.pk/products/beetro-e-g-geyser-55-gallon-feg-55-9-10-gauge-auto-ignition",
     "available": true
   },
@@ -11881,7 +11881,7 @@
   },
   {
     "name": "Beetro Electric & Gas Geyser 25 Gallon (FEG-25 9/10 Gauge)",
-    "price": 66000.0,
+    "price": 69000.0,
     "url": "https://japanelectronics.com.pk/products/beetro-e-g-geyser-25-gallon-feg-25-9-10-gauge-auto-ignition",
     "available": true
   },
@@ -12019,25 +12019,25 @@
   },
   {
     "name": "Beetro Gas Geyser 55 Gallon (FG-55 9/10 Gauge) Auto Ignition",
-    "price": 86700.0,
+    "price": 88200.0,
     "url": "https://japanelectronics.com.pk/products/beetro-gas-geyser-55-gallon-fg-55-9-10-gauge-auto-ignition",
     "available": true
   },
   {
     "name": "Beetro Instant Gas Geyser RD-07 (LPG) 7.0 Ltr",
-    "price": 34000.0,
+    "price": 35500.0,
     "url": "https://japanelectronics.com.pk/products/beetro-instant-gas-geyser-rd-07-lpg-7-0-ltr",
     "available": false
   },
   {
     "name": "Beetro Instant Gas Geyser RD-09 (LPG) 9.0 Ltr",
-    "price": 44000.0,
+    "price": 45500.0,
     "url": "https://japanelectronics.com.pk/products/beetro-instant-gas-geyser-rd-09-lpg-9-0-ltr",
     "available": true
   },
   {
     "name": "Beetro Instant Gas Geyser RD-09 (NG) 9.0 Ltr",
-    "price": 44000.0,
+    "price": 45500.0,
     "url": "https://japanelectronics.com.pk/products/beetro-instant-gas-geyser-rd-09-ng-9-0-ltr",
     "available": false
   },
@@ -12097,7 +12097,7 @@
   },
   {
     "name": "Royal Washing Machine RWM-1010",
-    "price": 25900.0,
+    "price": 25000.0,
     "url": "https://japanelectronics.com.pk/products/royal-washing-machine-rwm-1010",
     "available": true
   },
@@ -12255,7 +12255,7 @@
     "name": "Haier Side By Side Refrigerator HRF-578TBG",
     "price": 210000.0,
     "url": "https://japanelectronics.com.pk/products/haier-side-by-side-refrigerator-hrf-578tbg",
-    "available": true
+    "available": false
   },
   {
     "name": "Dawlance Water Dispenser WD-1051 Champagne",
@@ -12481,25 +12481,25 @@
   },
   {
     "name": "Royal Washing Machine RWM-8010",
-    "price": 33900.0,
+    "price": 32500.0,
     "url": "https://japanelectronics.com.pk/products/royal-washing-machine-rwm-8010",
     "available": true
   },
   {
     "name": "Royal Washing Machine RWM-1012",
-    "price": 25900.0,
+    "price": 25000.0,
     "url": "https://japanelectronics.com.pk/products/royal-washing-machine-rwm-1012",
     "available": true
   },
   {
     "name": "Royal Washing Machine RW-1016FT",
-    "price": 29800.0,
+    "price": 25800.0,
     "url": "https://japanelectronics.com.pk/products/royal-washing-machine-rw-1016ft",
     "available": true
   },
   {
     "name": "Royal Washing Machine RW-1014",
-    "price": 29800.0,
+    "price": 25800.0,
     "url": "https://japanelectronics.com.pk/products/royal-washing-machine-rw-1014",
     "available": true
   },
@@ -12585,7 +12585,7 @@
     "name": "Haier Deep Freezer HDF-545DD",
     "price": 125500.0,
     "url": "https://japanelectronics.com.pk/products/haier-deep-freezer-hdf-545dd",
-    "available": true
+    "available": false
   },
   {
     "name": "Haier AC Split Inverter 1.5 Ton HSU-18HFMCE (White)",

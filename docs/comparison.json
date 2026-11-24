@@ -1,11 +1,67 @@
 {
-  "last_updated": "2026-11-24T01:25:03.576137+00:00",
+  "last_updated": "2026-11-24T11:51:12.993221+00:00",
   "my_store_name": "Bismillah Electronics",
   "competitor_name": "Japan Electronics",
-  "total_my_products": 1435,
+  "total_my_products": 1439,
   "total_competitor_products": 2159,
   "matched_count": 998,
   "results": [
+    {
+      "product_name": "BinBazz Instant Geyser CH-708 GLASS IMPORTED(1+6MONTHS YEARS HEAT EXCH+SRV)",
+      "my_price": 31000.0,
+      "my_available": true,
+      "my_url": "https://bismillahelectronics.pk/products/binbazz-instant-geyser-ch-708-glass-imported1-6months-years-heat-exch-srv",
+      "competitor_name": null,
+      "competitor_price": null,
+      "competitor_available": null,
+      "competitor_url": null,
+      "match_confidence": 0,
+      "status": "only_us",
+      "price_diff": null,
+      "cheaper": null
+    },
+    {
+      "product_name": "BinBazz Dough Kneader YAS-D900",
+      "my_price": 14700.0,
+      "my_available": true,
+      "my_url": "https://bismillahelectronics.pk/products/binbazz-dough-kneader-yas-d900",
+      "competitor_name": null,
+      "competitor_price": null,
+      "competitor_available": null,
+      "competitor_url": null,
+      "match_confidence": 0,
+      "status": "only_us",
+      "price_diff": null,
+      "cheaper": null
+    },
+    {
+      "product_name": "BinBazz Blender YAS-3004",
+      "my_price": 9000.0,
+      "my_available": true,
+      "my_url": "https://bismillahelectronics.pk/products/binbazz-blender-yas-3004",
+      "competitor_name": null,
+      "competitor_price": null,
+      "competitor_available": null,
+      "competitor_url": null,
+      "match_confidence": 0,
+      "status": "only_us",
+      "price_diff": null,
+      "cheaper": null
+    },
+    {
+      "product_name": "BinBazz Jucier YAS-4007",
+      "my_price": 13500.0,
+      "my_available": true,
+      "my_url": "https://bismillahelectronics.pk/products/binbazz-jucier-yas-4007",
+      "competitor_name": null,
+      "competitor_price": null,
+      "competitor_available": null,
+      "competitor_url": null,
+      "match_confidence": 0,
+      "status": "only_us",
+      "price_diff": null,
+      "cheaper": null
+    },
     {
       "product_name": "Gaba National Baby Washer GNW-93020 Glass",
       "my_price": 17000.0,
@@ -6727,7 +6783,7 @@
       "cheaper": null
     },
     {
-      "product_name": "Binbaz Room Cooler Me- 5000 (3 Years Motor Warranty)",
+      "product_name": "BinBazz Room Cooler Me- 5000 (3 Years Motor Warranty)",
       "my_price": 31000.0,
       "my_available": true,
       "my_url": "https://bismillahelectronics.pk/products/binbaz-room-cooler-me-5000-3-years-motor-warranty",

@@ -1863,7 +1863,7 @@
     "name": "DAWLANCE HAIR STRAIGHTENER (DWHS-7034)",
     "price": 9200.0,
     "url": "https://japanelectronics.com.pk/products/dawlance-hair-straightener-dwhs-7034",
-    "available": true
+    "available": false
   },
   {
     "name": "DAWLANCE HAIR STRAIGHTENER (DWHS-7032)",
@@ -2553,7 +2553,7 @@
     "name": "Beetro Kitchen Chef (BJ-301)",
     "price": 22500.0,
     "url": "https://japanelectronics.com.pk/products/beetro-kitchen-chef-bj-301",
-    "available": false
+    "available": true
   },
   {
     "name": "Beetro Blender & Grinder (BB-18)",
@@ -2943,7 +2943,7 @@
     "name": "TCL LED 85\" 85C7L (MINI Q LED)",
     "price": 865000.0,
     "url": "https://japanelectronics.com.pk/products/tcl-led-85-85c7l-mini-q-led",
-    "available": true
+    "available": false
   },
   {
     "name": "Philips Hair Dryer (BHD-003/03)",
@@ -3679,7 +3679,7 @@
   },
   {
     "name": "Gree Split AC Inverter 1.0 Ton 12ZITH-2W (T3)",
-    "price": 153500.0,
+    "price": 153900.0,
     "url": "https://japanelectronics.com.pk/products/gree-split-ac-inverter-1-0-ton-12zith-2w-t3",
     "available": true
   },
@@ -5197,7 +5197,7 @@
   },
   {
     "name": "Gree Split AC Inverter 1.0 Ton 12ZITH-1W",
-    "price": 153500.0,
+    "price": 153900.0,
     "url": "https://japanelectronics.com.pk/products/gree-split-ac-inverter-1-0-ton-12zith-1w",
     "available": true
   },
@@ -5223,7 +5223,7 @@
     "name": "DAWLANCE LED 43\" KORE FHD GOOGLE TV (SMART)",
     "price": 80000.0,
     "url": "https://japanelectronics.com.pk/products/dawlance-led-43-kore-fhd-google-tv-smart",
-    "available": false
+    "available": true
   },
   {
     "name": "Dawlance LED 40\" Kore FHD Google TV (SMART)",
@@ -5365,7 +5365,7 @@
   },
   {
     "name": "Gree AC Split Inverter 1.0 Ton GS-12PITH11G AAA",
-    "price": 120500.0,
+    "price": 125900.0,
     "url": "https://japanelectronics.com.pk/products/gree-split-ac-inverter-1-0-ton-gs-12pith11g-aaa",
     "available": false
   },
@@ -5467,7 +5467,7 @@
   },
   {
     "name": "Gree AC Split Inverter 1.5 Ton GS-18PITH11G AAA",
-    "price": 149000.0,
+    "price": 155900.0,
     "url": "https://japanelectronics.com.pk/products/gree-ac-split-inverter-1-5-ton-gs-18pith11g-aaa",
     "available": true
   },
@@ -7053,7 +7053,7 @@
     "name": "Orient Split AC Inverter 2.0 Ton 24X Divine (Pristine)",
     "price": 199900.0,
     "url": "https://japanelectronics.com.pk/products/orient-split-ac-inverter-2-0-ton-24x-divine-pristine",
-    "available": true
+    "available": false
   },
   {
     "name": "Midea Split AC Inverter 2.0 Ton Breeze",
@@ -8133,7 +8133,7 @@
     "name": "TCL Sound Bar S55H",
     "price": 36955.0,
     "url": "https://japanelectronics.com.pk/products/tcl-sound-bar-s55h",
-    "available": false
+    "available": true
   },
   {
     "name": "TCL Sound Bar Q85H",
@@ -9387,7 +9387,7 @@
     "name": "Xiaomi Induction Cooker Lite",
     "price": 23999.0,
     "url": "https://japanelectronics.com.pk/products/xiaomi-induction-cooker-lite",
-    "available": false
+    "available": true
   },
   {
     "name": "Xiaomi Smart Air Fryer 5.5Ltr",
@@ -9745,7 +9745,7 @@
   },
   {
     "name": "Gree Split AC Inverter 1.0 Ton GS-12PITH11S AAA",
-    "price": 120500.0,
+    "price": 125900.0,
     "url": "https://japanelectronics.com.pk/products/gree-split-ac-inverter-1-0-ton-gs-12pith11s-aaa",
     "available": false
   },
@@ -9997,7 +9997,7 @@
   },
   {
     "name": "Gree Split AC Inverter 1.5 Ton GS-18PITH11S AAA",
-    "price": 149000.0,
+    "price": 155900.0,
     "url": "https://japanelectronics.com.pk/products/gree-split-ac-inverter-1-5-ton-gs-18pith11s-aaa",
     "available": false
   },
@@ -10899,7 +10899,7 @@
     "name": "Ecostar Washing Machine EW-W1001GW",
     "price": 23900.0,
     "url": "https://japanelectronics.com.pk/products/ecostar-washing-machine-ew-w1001gw",
-    "available": false
+    "available": true
   },
   {
     "name": "Ecostar Spinner EW-S1001GW",
@@ -10911,19 +10911,19 @@
     "name": "Ecostar A.W.M EW-F9502DC",
     "price": 66500.0,
     "url": "https://japanelectronics.com.pk/products/ecostar-a-w-m-ew-f9502dc",
-    "available": false
+    "available": true
   },
   {
     "name": "Ecostar Washing Machine EW-W1201GW",
     "price": 28100.0,
     "url": "https://japanelectronics.com.pk/products/ecostar-washing-machine-ew-w1201gw",
-    "available": false
+    "available": true
   },
   {
     "name": "Ecostar A.W.M EW-F1202DC",
     "price": 75900.0,
     "url": "https://japanelectronics.com.pk/products/ecostar-a-w-m-ew-f1202dc",
-    "available": false
+    "available": true
   },
   {
     "name": "Haier Microwave Oven HMW-28100",
@@ -11475,7 +11475,7 @@
     "name": "Ecostar A.W.M EW-F1204DC",
     "price": 80900.0,
     "url": "https://japanelectronics.com.pk/products/ecostar-a-w-m-ew-f1204dc",
-    "available": false
+    "available": true
   },
   {
     "name": "Nasgas Room Air Cooler NAC-9824",
@@ -12607,7 +12607,7 @@
   },
   {
     "name": "Gree AC Split Inverter 1.0 Ton GS-12PITH11W AAA",
-    "price": 117500.0,
+    "price": 122900.0,
     "url": "https://japanelectronics.com.pk/products/gree-split-ac-inverter-1-0-ton-gs-12pith11w-aaa",
     "available": true
   },

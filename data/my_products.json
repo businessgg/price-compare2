@@ -1,5 +1,41 @@
 [
   {
+    "name": "Binbazz Air Fryer BIN-7805",
+    "price": 27000.0,
+    "url": "https://bismillahelectronics.pk/products/binbazz-air-fryer-bin-7805",
+    "available": false
+  },
+  {
+    "name": "Binbazz Washing Machine YAS-1270 (10+2 YEARS MOTOR+PARTS)",
+    "price": 29400.0,
+    "url": "https://bismillahelectronics.pk/products/binbazz-washing-machine-yas-1270-10-2-years-motor-parts",
+    "available": true
+  },
+  {
+    "name": "Binbazz Food Factory BIN-FF01",
+    "price": 25500.0,
+    "url": "https://bismillahelectronics.pk/products/binbazz-food-factory-bin-ff01",
+    "available": true
+  },
+  {
+    "name": "Binbazz Hob LF-SST-23",
+    "price": 30000.0,
+    "url": "https://bismillahelectronics.pk/products/binbazz-hob-lf-sst-23",
+    "available": true
+  },
+  {
+    "name": "Binbazz Washing Machine YAS-1270 (10+2 YEARS MOTOR+PARTS)",
+    "price": 29400.0,
+    "url": "https://bismillahelectronics.pk/products/binbazz-washing-machine-yas-1270-10-2-years-mottor-parts",
+    "available": true
+  },
+  {
+    "name": "Binbazz Iron KE-BIN-78W",
+    "price": 9000.0,
+    "url": "https://bismillahelectronics.pk/products/binbazz-iron-ke-bin-78w",
+    "available": true
+  },
+  {
     "name": "BinBazz Electric Sun Heater SG-888",
     "price": 11600.0,
     "url": "https://bismillahelectronics.pk/products/binbazz-electric-sun-heater-sg-888",
@@ -6162,7 +6198,7 @@
     "available": true
   },
   {
-    "name": "TCL LED TV 55 Inch 55T6C (Q LED)",
+    "name": "TCL LED TV 55 Inch 55T6D (Q LED)",
     "price": 145900.0,
     "url": "https://bismillahelectronics.pk/products/tcl-led-tv-55-inch-55t6c-q-led",
     "available": true

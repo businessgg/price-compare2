@@ -145,7 +145,7 @@
   },
   {
     "name": "Enviro Microwave Oven (ENR-25XDG5 25 Ltr)",
-    "price": 28500.0,
+    "price": 20900.0,
     "url": "https://japanelectronics.com.pk/products/enviro-microwave-oven-enr-25xdg5-25-ltr",
     "available": false
   },
@@ -193,7 +193,7 @@
   },
   {
     "name": "IFFALCON LED 43\" 43S55A (QLED)",
-    "price": 66900.0,
+    "price": 70500.0,
     "url": "https://japanelectronics.com.pk/products/iffalcon-led-43-43s55a-qled",
     "available": true
   },
@@ -369,7 +369,7 @@
     "name": "Haier LED 50\" 50S81GFX (QLED)",
     "price": 91000.0,
     "url": "https://japanelectronics.com.pk/products/haier-led-50-50s81gfx-qled",
-    "available": false
+    "available": true
   },
   {
     "name": "ECOSTAR LED 58\" CX-58Q968 (Q-LED)",
@@ -519,7 +519,7 @@
     "name": "SAMSUNG FAWM (WD16T6500GV)",
     "price": 389999.0,
     "url": "https://japanelectronics.com.pk/products/samsung-fawm-wd16t6500gv",
-    "available": true
+    "available": false
   },
   {
     "name": "Samsung FAWM (WD11B944DGBGU)",
@@ -1095,7 +1095,7 @@
     "name": "KENWOOD REF KRF-26757/453-L (GD) SMART INVERTER BKG",
     "price": 128000.0,
     "url": "https://japanelectronics.com.pk/products/kenwood-ref-krf-26757-453-l-gd-smart-inverter-bkg",
-    "available": true
+    "available": false
   },
   {
     "name": "KENWOOD REF KRF-25657/453-L (GD) SMART INVERTER BKG",
@@ -1263,7 +1263,7 @@
     "name": "Dawlance No Frost Ref DMD-7951 GD (Inverter)",
     "price": 235000.0,
     "url": "https://japanelectronics.com.pk/products/dawlance-no-frost-ref-dmd-7951-gd-inverter",
-    "available": true
+    "available": false
   },
   {
     "name": "Dawlance No Frost Ref DMD-7951 (Inverter INOX)",
@@ -2145,7 +2145,7 @@
     "name": "LG LED 65\" 65UA8450PSA (4K UHD)",
     "price": 250000.0,
     "url": "https://japanelectronics.com.pk/products/lg-led-65-65ua8450psa-4k-uhd",
-    "available": true
+    "available": false
   },
   {
     "name": "LG LED 75\" 75QNED80T6 (4K SMART)",
@@ -3031,7 +3031,7 @@
   },
   {
     "name": "Haier LED 32\" H32K85GX (Google TV)",
-    "price": 49900.0,
+    "price": 50900.0,
     "url": "https://japanelectronics.com.pk/products/haier-led-32-h32k85gx-google-tv",
     "available": true
   },
@@ -3351,7 +3351,7 @@
     "name": "TCL LED 98\" 98P8L (MINI Q LED)",
     "price": 840000.0,
     "url": "https://japanelectronics.com.pk/products/tcl-led-98-98p8l-mini-q-led",
-    "available": false
+    "available": true
   },
   {
     "name": "TCL LED 85\" 85P8L (MINI Q LED)",
@@ -4335,7 +4335,7 @@
     "name": "Haier D.Freezer (HDF-545 Inverter)",
     "price": 133500.0,
     "url": "https://japanelectronics.com.pk/products/haier-deep-freezer-hdf-545i-inverter",
-    "available": true
+    "available": false
   },
   {
     "name": "Haier Deep Freezer HDF-285SD-01",
@@ -4953,7 +4953,7 @@
     "name": "Beetro Cooking Range 34\" (WB-11000) 5 BRN GLS Top S.Door",
     "price": 109900.0,
     "url": "https://japanelectronics.com.pk/products/beetro-cooking-range-34-wb-11000-5-brn-gls-top-s-door",
-    "available": true
+    "available": false
   },
   {
     "name": "NASGAS COOKING RANGE EXC-534 CRYSTAL GLASS 5 BURNERS",
@@ -5259,7 +5259,7 @@
     "name": "Dawlance Water Dispenser DBD-1035",
     "price": 50000.0,
     "url": "https://japanelectronics.com.pk/products/dawlance-water-dispenser-dbd-1035",
-    "available": true
+    "available": false
   },
   {
     "name": "Nasgas Water Dispenser NWD-200 Black",
@@ -5679,7 +5679,7 @@
     "name": "TCL AC 2.0 Ton Split Inverter TAC-24T5-SMT-S",
     "price": 213000.0,
     "url": "https://japanelectronics.com.pk/products/tcl-ac-2-0-ton-split-inverter-tac-24t5-smt-s",
-    "available": true
+    "available": false
   },
   {
     "name": "Nasgas Room Air Cooler NAC-9400 (Copper)",
@@ -6759,7 +6759,7 @@
     "name": "Dawlance Washing Machine DW-6100 W",
     "price": 24900.0,
     "url": "https://japanelectronics.com.pk/products/dawlance-washing-machine-dw-6100-w",
-    "available": true
+    "available": false
   },
   {
     "name": "Dawlance W.M (DW-10600 W FL)",
@@ -8499,7 +8499,7 @@
     "name": "PEL Ref (PRLR-1400 SD Life)",
     "price": 51500.0,
     "url": "https://japanelectronics.com.pk/products/pel-ref-prlr-1400-sd-life",
-    "available": true
+    "available": false
   },
   {
     "name": "Black & Decker Vacuum Cleaner (BHFEA520J-GB)",
@@ -8953,7 +8953,7 @@
   },
   {
     "name": "Westpoint Blender & Grinder (WF-308 Black)",
-    "price": 8900.0,
+    "price": 8500.0,
     "url": "https://japanelectronics.com.pk/products/westpoint-blender-grinder-wf-308-black",
     "available": true
   },
@@ -9835,7 +9835,7 @@
   },
   {
     "name": "Haier LED 32\" H32K85FX (Google TV)",
-    "price": 49900.0,
+    "price": 50900.0,
     "url": "https://japanelectronics.com.pk/products/haier-led-32-h32k85fx-google-tv",
     "available": false
   },
@@ -11337,7 +11337,7 @@
     "name": "Super Asia Washing Machine Big Wash SA-290",
     "price": 29600.0,
     "url": "https://japanelectronics.com.pk/products/super-asia-washing-machine-big-wash-sa-290",
-    "available": true
+    "available": false
   },
   {
     "name": "ANEX Vacuum Cleaner 2097 1600 Watts",
@@ -11347,7 +11347,7 @@
   },
   {
     "name": "Super Asia Spinner SD-540 Crystal",
-    "price": 25400.0,
+    "price": 25000.0,
     "url": "https://japanelectronics.com.pk/products/super-asia-spinner-sd-540-crystal",
     "available": true
   },
@@ -12295,7 +12295,7 @@
   },
   {
     "name": "Panasonic Steam Iron M-250T (Pink)",
-    "price": 7900.0,
+    "price": 6900.0,
     "url": "https://japanelectronics.com.pk/products/panasonic-steam-iron-m-250t-pink",
     "available": true
   },
@@ -12349,7 +12349,7 @@
   },
   {
     "name": "Panasonic Steam Iron M-250T (Green)",
-    "price": 8000.0,
+    "price": 6900.0,
     "url": "https://japanelectronics.com.pk/products/panasonic-steam-iron-m-250t-green",
     "available": true
   },
@@ -12397,7 +12397,7 @@
   },
   {
     "name": "Panasonic Steam Iron NI-M300T Blue",
-    "price": 7500.0,
+    "price": 6900.0,
     "url": "https://japanelectronics.com.pk/products/panasonic-steam-iron-ni-m300t-blue",
     "available": true
   },

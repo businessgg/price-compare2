@@ -1,5 +1,113 @@
 [
   {
+    "name": "LG Ref GR-FB587PQAM SBS-509LTR",
+    "price": 356000.0,
+    "url": "https://bismillahelectronics.pk/products/lg-ref-gr-fb587pqam-sbs-509ltr",
+    "available": true
+  },
+  {
+    "name": "LG Ref GR-B267KLJW REF-FDR-658LTR",
+    "price": 499000.0,
+    "url": "https://bismillahelectronics.pk/products/lg-ref-gr-b267kljw-ref-fdr-658ltr",
+    "available": true
+  },
+  {
+    "name": "LG Ref GC-X257CSEW INSTAVIEW DOOR-IN-DOOR",
+    "price": 700000.0,
+    "url": "https://bismillahelectronics.pk/products/lg-ref-gc-x257csew-instaview-door-in-door",
+    "available": true
+  },
+  {
+    "name": "LG DishWasher DFC435FP",
+    "price": 239900.0,
+    "url": "https://bismillahelectronics.pk/products/lg-dishwasher-dfc435fp",
+    "available": true
+  },
+  {
+    "name": "LG Dish Washer DFC513FV",
+    "price": 200000.0,
+    "url": "https://bismillahelectronics.pk/products/lg-dish-washer-dfc513fv",
+    "available": true
+  },
+  {
+    "name": "LG LED 75\" 75UA8450PSA",
+    "price": 399999.0,
+    "url": "https://bismillahelectronics.pk/products/lg-led-75-75ua8450psa",
+    "available": true
+  },
+  {
+    "name": "LG LED 65\" 65UA8450PSA",
+    "price": 290000.0,
+    "url": "https://bismillahelectronics.pk/products/lg-led-65-65ua8450psa",
+    "available": true
+  },
+  {
+    "name": "LG LED 65\" 65QNED82ASA",
+    "price": 330000.0,
+    "url": "https://bismillahelectronics.pk/products/lg-led-65-65qned82asa",
+    "available": true
+  },
+  {
+    "name": "LG LED 55\" 55UA8450PSA",
+    "price": 199000.0,
+    "url": "https://bismillahelectronics.pk/products/lg-led-55-55ua8450psa",
+    "available": true
+  },
+  {
+    "name": "LG LED 55\" 55QNED86ASA",
+    "price": 279900.0,
+    "url": "https://bismillahelectronics.pk/products/lg-led-55-55qned86asa",
+    "available": true
+  },
+  {
+    "name": "LG LED 55\" 55NANO80ASA",
+    "price": 190000.0,
+    "url": "https://bismillahelectronics.pk/products/lg-led-55-55nano80asa",
+    "available": true
+  },
+  {
+    "name": "LG LED 50\" 50UA8450PSA",
+    "price": 168000.0,
+    "url": "https://bismillahelectronics.pk/products/lg-led-50-50ua8450psa",
+    "available": true
+  },
+  {
+    "name": "LG Led 43\" 43UA8450PSA",
+    "price": 124000.0,
+    "url": "https://bismillahelectronics.pk/products/lg-led-43-43ua8450psa",
+    "available": true
+  },
+  {
+    "name": "LG AC 1.5 Ton S4NWAHKLF31",
+    "price": 210000.0,
+    "url": "https://bismillahelectronics.pk/products/lg-ac-1-5-ton-s4nwahklf31",
+    "available": true
+  },
+  {
+    "name": "LG Auto Wash F4V9BWP2EE FRONT LOAD",
+    "price": 248900.0,
+    "url": "https://bismillahelectronics.pk/products/lg-auto-wash-f4v9bwp2ee-front-load",
+    "available": true
+  },
+  {
+    "name": "LG Auto Wash F4V5EGP2P FRONT LOAD 10.5KG/7KG",
+    "price": 245000.0,
+    "url": "https://bismillahelectronics.pk/products/lg-auto-wash-f4v5egp2p-front-load-10-5kg-7kg",
+    "available": true
+  },
+  {
+    "name": "Tcl Auto Wash Front Load P607FLG",
+    "price": 138900.0,
+    "url": "https://bismillahelectronics.pk/products/tcl-auto-wash-front-load-p607flg",
+    "available": true
+  },
+  {
+    "name": "Tcl Auto Wash Front Load P608FLG",
+    "price": 154900.0,
+    "url": "https://bismillahelectronics.pk/products/tcl-auto-wash-front-load-p608flg",
+    "available": true
+  },
+  {
     "name": "Binbazz Air Fryer BIN-7805",
     "price": 27000.0,
     "url": "https://bismillahelectronics.pk/products/binbazz-air-fryer-bin-7805",
@@ -90,7 +198,7 @@
     "available": true
   },
   {
-    "name": "Haier AC 1.5 Ton Inverter Hsu-19hfc",
+    "name": "Haier AC 1.5 Ton Inverter HSU-19HFC",
     "price": 125000.0,
     "url": "https://bismillahelectronics.pk/products/haier-ac-1-5-ton-inverter-hsu-19hfc",
     "available": true
@@ -7371,12 +7479,6 @@
     "name": "Haier AC Floor Standing 2.0 Ton HPU-24HDZUV (Silver)",
     "price": 298000.0,
     "url": "https://bismillahelectronics.pk/products/haier-ac-floor-standing-2-0-ton-hpu-24hdzuv-s-dc-inverter",
-    "available": true
-  },
-  {
-    "name": "Haier AC Inverter 1.5 Ton HSU-19HFC Triple",
-    "price": 125000.0,
-    "url": "https://bismillahelectronics.pk/products/haier-ac-1-5-ton-hsu-19hfc-triple-inverter",
     "available": true
   },
   {

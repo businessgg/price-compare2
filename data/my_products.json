@@ -1,5 +1,17 @@
 [
   {
+    "name": "LG Vaccum Cleaner VC5420NNTR",
+    "price": 50000.0,
+    "url": "https://bismillahelectronics.pk/products/lg-vaccum-cleaner-vc5420nntr",
+    "available": true
+  },
+  {
+    "name": "LG Ref GR-X267CQEW INSTAVIEW-SBS 617LTR",
+    "price": 850000.0,
+    "url": "https://bismillahelectronics.pk/products/lg-ref-gr-x267cqew-instaview-sbs-617ltr",
+    "available": true
+  },
+  {
     "name": "LG Ref GR-FB587PQAM SBS-509LTR",
     "price": 356000.0,
     "url": "https://bismillahelectronics.pk/products/lg-ref-gr-fb587pqam-sbs-509ltr",
@@ -558,18 +570,6 @@
     "available": true
   },
   {
-    "name": "Phlips Dry Iron GC-160/07",
-    "price": 10900.0,
-    "url": "https://bismillahelectronics.pk/products/phlips-dry-iron-gc-160-07",
-    "available": true
-  },
-  {
-    "name": "Binbazz Electric Sun Heater SG-777",
-    "price": 9500.0,
-    "url": "https://bismillahelectronics.pk/products/binbazz-electric-sun-heater-sg-777",
-    "available": true
-  },
-  {
     "name": "Binbazz Chopper Bin-1005",
     "price": 10500.0,
     "url": "https://bismillahelectronics.pk/products/binbazz-chopper-bin-1005",
@@ -585,18 +585,6 @@
     "name": "Silver Crest Garment Handheld Steamer SC-2950",
     "price": 6900.0,
     "url": "https://bismillahelectronics.pk/products/silver-crest-garment-handheld-steamer-sc-2950",
-    "available": true
-  },
-  {
-    "name": "LG 9kg Front Load Washing Machine F4Y2VYPYJ",
-    "price": 194900.0,
-    "url": "https://bismillahelectronics.pk/products/lg-9kg-front-load-washing-machine-f4y2vypyj",
-    "available": true
-  },
-  {
-    "name": "Green Heater 888 2 IN 1",
-    "price": 14300.0,
-    "url": "https://bismillahelectronics.pk/products/green-heater-888-2-in-1",
     "available": true
   },
   {
@@ -1554,12 +1542,6 @@
     "available": true
   },
   {
-    "name": "Dawlance Ref 9160 WB AVANTE PEARL RED (GD)",
-    "price": 83700.0,
-    "url": "https://bismillahelectronics.pk/products/dawlance-ref-9160-wb-avante-pearl-red-gd",
-    "available": true
-  },
-  {
     "name": "Dawlance Ref 9149 WB E-CHROME HAIRLINE GOLDEN",
     "price": 68700.0,
     "url": "https://bismillahelectronics.pk/products/dawlance-ref-9149-wb-e-chrome-hairline-golden",
@@ -2031,12 +2013,6 @@
     "name": "Haier Washing Machine HTM 100-196E",
     "price": 33500.0,
     "url": "https://bismillahelectronics.pk/products/haier-washing-machine-htm-100-196e",
-    "available": true
-  },
-  {
-    "name": "Haier Washing Machiing HWM 80-1217E",
-    "price": 21000.0,
-    "url": "https://bismillahelectronics.pk/products/haier-washing-machiing-hwm-80-1217e",
     "available": true
   },
   {
@@ -6045,12 +6021,6 @@
     "name": "Dawlance Refrigerator 9169 WB Chrome Pearl Copper",
     "price": 87100.0,
     "url": "https://bismillahelectronics.pk/products/dawlance-refrigerator-9169-wb-chrome-pearl-copper",
-    "available": true
-  },
-  {
-    "name": "Dawlance Refrigerator 9169 WB Avante Pearl Red (GD)",
-    "price": 90700.0,
-    "url": "https://bismillahelectronics.pk/products/dawlance-refrigerator-9169-wb-avante-pearl-red-gd",
     "available": true
   },
   {

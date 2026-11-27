@@ -1,11 +1,39 @@
 {
-  "last_updated": "2026-11-27T01:19:19.538174+00:00",
+  "last_updated": "2026-11-27T10:20:00.549608+00:00",
   "my_store_name": "Bismillah Electronics",
   "competitor_name": "Japan Electronics",
-  "total_my_products": 1463,
+  "total_my_products": 1458,
   "total_competitor_products": 2159,
-  "matched_count": 1008,
+  "matched_count": 1005,
   "results": [
+    {
+      "product_name": "LG Vaccum Cleaner VC5420NNTR",
+      "my_price": 50000.0,
+      "my_available": true,
+      "my_url": "https://bismillahelectronics.pk/products/lg-vaccum-cleaner-vc5420nntr",
+      "competitor_name": null,
+      "competitor_price": null,
+      "competitor_available": null,
+      "competitor_url": null,
+      "match_confidence": 0,
+      "status": "only_us",
+      "price_diff": null,
+      "cheaper": null
+    },
+    {
+      "product_name": "LG Ref GR-X267CQEW INSTAVIEW-SBS 617LTR",
+      "my_price": 850000.0,
+      "my_available": true,
+      "my_url": "https://bismillahelectronics.pk/products/lg-ref-gr-x267cqew-instaview-sbs-617ltr",
+      "competitor_name": null,
+      "competitor_price": null,
+      "competitor_available": null,
+      "competitor_url": null,
+      "match_confidence": 0,
+      "status": "only_us",
+      "price_diff": null,
+      "cheaper": null
+    },
     {
       "product_name": "LG Ref GR-FB587PQAM SBS-509LTR",
       "my_price": 356000.0,
@@ -1309,34 +1337,6 @@
       "cheaper": null
     },
     {
-      "product_name": "Phlips Dry Iron GC-160/07",
-      "my_price": 10900.0,
-      "my_available": true,
-      "my_url": "https://bismillahelectronics.pk/products/phlips-dry-iron-gc-160-07",
-      "competitor_name": "Philips Dry Iron GC-120",
-      "competitor_price": 6000.0,
-      "competitor_available": false,
-      "competitor_url": "https://japanelectronics.com.pk/products/philips-dry-iron-gc-120",
-      "match_confidence": 87.5,
-      "status": "matched",
-      "price_diff": 4900.0,
-      "cheaper": "competitor"
-    },
-    {
-      "product_name": "Binbazz Electric Sun Heater SG-777",
-      "my_price": 9500.0,
-      "my_available": true,
-      "my_url": "https://bismillahelectronics.pk/products/binbazz-electric-sun-heater-sg-777",
-      "competitor_name": null,
-      "competitor_price": null,
-      "competitor_available": null,
-      "competitor_url": null,
-      "match_confidence": 0,
-      "status": "only_us",
-      "price_diff": null,
-      "cheaper": null
-    },
-    {
       "product_name": "Binbazz Chopper Bin-1005",
       "my_price": 10500.0,
       "my_available": true,
@@ -1369,34 +1369,6 @@
       "my_price": 6900.0,
       "my_available": true,
       "my_url": "https://bismillahelectronics.pk/products/silver-crest-garment-handheld-steamer-sc-2950",
-      "competitor_name": null,
-      "competitor_price": null,
-      "competitor_available": null,
-      "competitor_url": null,
-      "match_confidence": 0,
-      "status": "only_us",
-      "price_diff": null,
-      "cheaper": null
-    },
-    {
-      "product_name": "LG 9kg Front Load Washing Machine F4Y2VYPYJ",
-      "my_price": 194900.0,
-      "my_available": true,
-      "my_url": "https://bismillahelectronics.pk/products/lg-9kg-front-load-washing-machine-f4y2vypyj",
-      "competitor_name": null,
-      "competitor_price": null,
-      "competitor_available": null,
-      "competitor_url": null,
-      "match_confidence": 0,
-      "status": "only_us",
-      "price_diff": null,
-      "cheaper": null
-    },
-    {
-      "product_name": "Green Heater 888 2 IN 1",
-      "my_price": 14300.0,
-      "my_available": true,
-      "my_url": "https://bismillahelectronics.pk/products/green-heater-888-2-in-1",
       "competitor_name": null,
       "competitor_price": null,
       "competitor_available": null,
@@ -3633,20 +3605,6 @@
       "cheaper": null
     },
     {
-      "product_name": "Dawlance Ref 9160 WB AVANTE PEARL RED (GD)",
-      "my_price": 83700.0,
-      "my_available": true,
-      "my_url": "https://bismillahelectronics.pk/products/dawlance-ref-9160-wb-avante-pearl-red-gd",
-      "competitor_name": null,
-      "competitor_price": null,
-      "competitor_available": null,
-      "competitor_url": null,
-      "match_confidence": 0,
-      "status": "only_us",
-      "price_diff": null,
-      "cheaper": null
-    },
-    {
       "product_name": "Dawlance Ref 9149 WB E-CHROME HAIRLINE GOLDEN",
       "my_price": 68700.0,
       "my_available": true,
@@ -4751,20 +4709,6 @@
       "status": "matched",
       "price_diff": 6000.0,
       "cheaper": "competitor"
-    },
-    {
-      "product_name": "Haier Washing Machiing HWM 80-1217E",
-      "my_price": 21000.0,
-      "my_available": true,
-      "my_url": "https://bismillahelectronics.pk/products/haier-washing-machiing-hwm-80-1217e",
-      "competitor_name": "Haier Washing Machine HWM 130-1217",
-      "competitor_price": 27500.0,
-      "competitor_available": true,
-      "competitor_url": "https://japanelectronics.com.pk/products/haier-washing-machine-hwm-130-1217",
-      "match_confidence": 89.9,
-      "status": "matched",
-      "price_diff": -6500.0,
-      "cheaper": "us"
     },
     {
       "product_name": "Haier Dryer HWS 80-60",
@@ -14116,20 +14060,6 @@
       "match_confidence": 100.0,
       "status": "matched",
       "price_diff": 9100.0,
-      "cheaper": "competitor"
-    },
-    {
-      "product_name": "Dawlance Refrigerator 9169 WB Avante Pearl Red (GD)",
-      "my_price": 90700.0,
-      "my_available": true,
-      "my_url": "https://bismillahelectronics.pk/products/dawlance-refrigerator-9169-wb-avante-pearl-red-gd",
-      "competitor_name": "Dawlance Refrigerator 9169 WB Avante Pearl Red (GD)",
-      "competitor_price": 86500.0,
-      "competitor_available": false,
-      "competitor_url": "https://japanelectronics.com.pk/products/dawlance-refrigerator-9169-wb-avante-pearl-red-gd",
-      "match_confidence": 100.0,
-      "status": "matched",
-      "price_diff": 4200.0,
       "cheaper": "competitor"
     },
     {
@@ -34335,6 +34265,20 @@
       "cheaper": null
     },
     {
+      "product_name": "Dawlance Refrigerator 9169 WB Avante Pearl Red (GD)",
+      "my_price": null,
+      "my_available": null,
+      "my_url": null,
+      "competitor_name": "Dawlance Refrigerator 9169 WB Avante Pearl Red (GD)",
+      "competitor_price": 86500.0,
+      "competitor_available": false,
+      "competitor_url": "https://japanelectronics.com.pk/products/dawlance-refrigerator-9169-wb-avante-pearl-red-gd",
+      "match_confidence": 0,
+      "status": "only_competitor",
+      "price_diff": null,
+      "cheaper": null
+    },
+    {
       "product_name": "Royal Fans Room Air Cooler RAC-4700 (White Black)",
       "my_price": null,
       "my_available": null,
@@ -39831,6 +39775,20 @@
       "competitor_price": 56900.0,
       "competitor_available": true,
       "competitor_url": "https://japanelectronics.com.pk/products/philips-food-processor-hr-7776",
+      "match_confidence": 0,
+      "status": "only_competitor",
+      "price_diff": null,
+      "cheaper": null
+    },
+    {
+      "product_name": "Philips Dry Iron GC-120",
+      "my_price": null,
+      "my_available": null,
+      "my_url": null,
+      "competitor_name": "Philips Dry Iron GC-120",
+      "competitor_price": 6000.0,
+      "competitor_available": false,
+      "competitor_url": "https://japanelectronics.com.pk/products/philips-dry-iron-gc-120",
       "match_confidence": 0,
       "status": "only_competitor",
       "price_diff": null,

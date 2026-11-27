@@ -1,5 +1,29 @@
 [
   {
+    "name": "Japanese Heater 3.5 KW (Flat Panel)",
+    "price": 32000.0,
+    "url": "https://bismillahelectronics.pk/products/japanese-heater-3-5-kw-flat-panel",
+    "available": true
+  },
+  {
+    "name": "Japanese Heater 2.4 KW (Flat Panel)",
+    "price": 24500.0,
+    "url": "https://bismillahelectronics.pk/products/japanese-heater-2-4-kw-flat-panel",
+    "available": true
+  },
+  {
+    "name": "Dry Iron - Up to 40% OFF",
+    "price": 11200.0,
+    "url": "https://bismillahelectronics.pk/products/dry-iron",
+    "available": false
+  },
+  {
+    "name": "Choice Instant Geyser SMB-8L",
+    "price": 21000.0,
+    "url": "https://bismillahelectronics.pk/products/choice-instant-geyser-smb-8l",
+    "available": true
+  },
+  {
     "name": "LG Vaccum Cleaner VC5420NNTR",
     "price": 50000.0,
     "url": "https://bismillahelectronics.pk/products/lg-vaccum-cleaner-vc5420nntr",
@@ -7791,12 +7815,6 @@
     "name": "Dawlance Washing Machine DW-8550 CB FL",
     "price": 45500.0,
     "url": "https://bismillahelectronics.pk/products/dawlance-8550-w-washing-machine-dw-8550-cb-fl",
-    "available": true
-  },
-  {
-    "name": "Dawlance Single Washing Machine DW 9100 GD",
-    "price": 35400.0,
-    "url": "https://bismillahelectronics.pk/products/dawlance-9100-gd-washing-machine-dw-9100-gd",
     "available": true
   },
   {

@@ -1095,7 +1095,7 @@
     "name": "KENWOOD REF KRF-26757/453-L (GD) SMART INVERTER BKG",
     "price": 128000.0,
     "url": "https://japanelectronics.com.pk/products/kenwood-ref-krf-26757-453-l-gd-smart-inverter-bkg",
-    "available": false
+    "available": true
   },
   {
     "name": "KENWOOD REF KRF-25657/453-L (GD) SMART INVERTER BKG",
@@ -3183,7 +3183,7 @@
     "name": "ECOSTAR SPLIT AC INVERTER 1.0 TON ES-12EM02WS",
     "price": 111900.0,
     "url": "https://japanelectronics.com.pk/products/ecostar-split-ac-inverter-1-0-ton-es-12em02ws",
-    "available": false
+    "available": true
   },
   {
     "name": "LG LED 55\" 55QNED82ASA (4K UHD)",
@@ -3519,7 +3519,7 @@
     "name": "Dawlance REF 9178 Acce Pro Crimson Red",
     "price": 100000.0,
     "url": "https://japanelectronics.com.pk/products/dawlance-ref-9178-acce-pro-crimson-red",
-    "available": false
+    "available": true
   },
   {
     "name": "Dawlance REF 9173 WB Avante + Cloud White",
@@ -3669,7 +3669,7 @@
     "name": "Gree Split AC Inverter 2.0 Ton 24ZITH-2W (T3)",
     "price": 254500.0,
     "url": "https://japanelectronics.com.pk/products/gree-split-ac-inverter-2-0-ton-24zith-2w-t3",
-    "available": true
+    "available": false
   },
   {
     "name": "Gree Split AC Inverter 1.5 Ton 18ZITH-2W (T3)",
@@ -5089,7 +5089,7 @@
   },
   {
     "name": "PEL Split AC Inverter 1.5 Ton 18K Atom",
-    "price": 99900.0,
+    "price": 112900.0,
     "url": "https://japanelectronics.com.pk/products/pel-split-ac-inverter-1-5-ton-18k-atom",
     "available": true
   },
@@ -5679,7 +5679,7 @@
     "name": "TCL AC 2.0 Ton Split Inverter TAC-24T5-SMT-S",
     "price": 213000.0,
     "url": "https://japanelectronics.com.pk/products/tcl-ac-2-0-ton-split-inverter-tac-24t5-smt-s",
-    "available": false
+    "available": true
   },
   {
     "name": "Nasgas Room Air Cooler NAC-9400 (Copper)",
@@ -9951,7 +9951,7 @@
     "name": "Electrolux SBS Ref 581BG (Black)",
     "price": 284999.0,
     "url": "https://japanelectronics.com.pk/products/electrolux-sbs-ref-581bg-black",
-    "available": false
+    "available": true
   },
   {
     "name": "Haier Split AC Inverter 2.0 Ton HSU-24HFAB (T3) Grey",
@@ -11349,7 +11349,7 @@
     "name": "Super Asia Spinner SD-540 Crystal",
     "price": 25000.0,
     "url": "https://japanelectronics.com.pk/products/super-asia-spinner-sd-540-crystal",
-    "available": true
+    "available": false
   },
   {
     "name": "Super Asia Quick Spinner SD-540",
@@ -12189,7 +12189,7 @@
     "name": "LG A.W.M F4R5VYGSL",
     "price": 230000.0,
     "url": "https://japanelectronics.com.pk/products/lg-a-w-m-f4r5vygsl",
-    "available": true
+    "available": false
   },
   {
     "name": "Haier A.W.M HWD 105-B14959S8U1",

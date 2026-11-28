@@ -147,7 +147,7 @@
     "name": "Binbazz Air Fryer BIN-7805",
     "price": 27000.0,
     "url": "https://bismillahelectronics.pk/products/binbazz-air-fryer-bin-7805",
-    "available": false
+    "available": true
   },
   {
     "name": "Binbazz Washing Machine YAS-1270 (10+2 YEARS MOTOR+PARTS)",
@@ -165,12 +165,6 @@
     "name": "Binbazz Hob LF-SST-23",
     "price": 30000.0,
     "url": "https://bismillahelectronics.pk/products/binbazz-hob-lf-sst-23",
-    "available": true
-  },
-  {
-    "name": "Binbazz Washing Machine YAS-1270 (10+2 YEARS MOTOR+PARTS)",
-    "price": 29400.0,
-    "url": "https://bismillahelectronics.pk/products/binbazz-washing-machine-yas-1270-10-2-years-mottor-parts",
     "available": true
   },
   {
